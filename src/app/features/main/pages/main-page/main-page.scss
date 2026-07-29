@@ -1,0 +1,47 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: max(1.5dvw, 20px);
+}
+.main {
+  display: flex;
+
+  flex-direction: column;
+  align-items: center;
+
+  padding: 0px 20px;
+}
+
+.preview-list {
+  margin-top: max(1.5dvw, 20px);
+
+  width: 100%;
+  max-width: 1300px;
+}
+
+.container {
+  margin-top: max(1.5dvw, 20px);
+
+  width: 100%;
+  max-width: 1300px;
+}
+
+.title {
+  margin-top: max(1.5dvw, 20px);
+
+  color: var(--primary-color);
+}
+
+.detail {
+  display: flex;
+
+  margin-top: max(1.5dvw, 20px);
+
+  width: 100%;
+  max-width: 1300px;
+
+  color: #ffffff;
+
+  flex-direction: column;
+  text-indent: max(1.5dvw, 20px);
+}

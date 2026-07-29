@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Playpen Sans';
+  src: url('/assets/fonts/PlaypenSans/PlaypenSans-VariableFont_wght.woff2') format('woff2');
+  font-display: fallback;
+  unicode-range:
+    U+0000-00FF,
+    // базовая латиница
+    U+0100-024F,
+    // расширенная латиница
+    U+0400-04FF,
+    // кириллица
+    U+2000-206F; // базовая пунктуация
+}

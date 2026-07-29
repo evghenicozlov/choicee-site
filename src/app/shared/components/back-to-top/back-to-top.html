@@ -1,0 +1,11 @@
+<button
+  type="button"
+  class="back-to-top"
+  [class.back-to-top--visible]="isVisible()"
+  [attr.aria-hidden]="!isVisible()"
+  [tabindex]="isVisible() ? 0 : -1"
+  aria-label="Back to top"
+  (click)="handleClick()"
+>
+  <svg class="icon" icon="arrow-top" />
+</button>

@@ -1,0 +1,13 @@
+:host {
+}
+
+.footer {
+  // position: sticky;
+  background: var(--background-color);
+
+  color: var(--primary-color);
+  padding: 20px;
+
+  display: flex;
+  justify-content: center;
+}

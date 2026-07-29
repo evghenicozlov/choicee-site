@@ -1,0 +1,48 @@
+@use 'styles/fonts';
+@use 'styles/base/typography';
+
+:root {
+  --primary-color: #d5b25d;
+  --secondary-color: #2d481b;
+
+  --background-color: #001505;
+
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-right: env(safe-area-inset-right, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-left: env(safe-area-inset-left, 0px);
+}
+
+html {
+  background: var(--background-color);
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 0px;
+  padding: 0px;
+}
+
+.body {
+  background: linear-gradient(to right, #080a07 0%, #152f12 50%, #080a07 100%);
+}
+
+.title-resize {
+  font-size: min(max(3.5dvw, 1rem), 3rem);
+}
+
+.subtitle-resize {
+  font-size: min(max(2.6dvw, 1.2rem), 2.2rem);
+}
+
+.text-resize {
+  font-size: min(max(1.95dvw, 0.9rem), 1.65rem);
+}

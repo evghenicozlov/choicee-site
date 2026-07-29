@@ -1,0 +1,6 @@
+@if (title()) {
+  <h5 class="h5 title">{{ title() }}</h5>
+}
+<div class="content" [class.content--mt]="title()">
+  <ng-content />
+</div>
