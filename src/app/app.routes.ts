@@ -11,3 +11,5 @@ export const routes: Routes = [
   { path: 'support', component: SupportPage, title: 'Support' },
   { path: '**', redirectTo: '' },
 ];
+
+export const navigationRoutes = routes.filter((route) => !!route.title);

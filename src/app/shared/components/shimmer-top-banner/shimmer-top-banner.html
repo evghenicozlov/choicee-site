@@ -1,0 +1,31 @@
+<ng-template #icons let-tintColor="tintColor">
+  <div class="icons" [style.--tintColor]="tintColor">
+    <div class="icon circle"></div>
+    <div class="icon clover"></div>
+    <div class="icon dice"></div>
+    <div class="icon gem"></div>
+    <div class="icon horseshoe"></div>
+    @if (title()) {
+      <h1 class="text h3">{{ title() }}</h1>
+    }
+  </div>
+</ng-template>
+
+<div class="background"></div>
+<div class="container">
+  <ng-container *ngTemplateOutlet="icons; context: { tintColor: 'var(--primary-color)' }" />
+  @if (!title()) {
+    <img class="logo" src="assets/images/logo-big.png" alt="logo" />
+  }
+</div>
+<app-shimmer-view class="container">
+  <ng-container *ngTemplateOutlet="icons; context: { tintColor: '#ffffff80' }" />
+  @if (!title()) {
+    <div class="logo-tint"></div>
+  }
+</app-shimmer-view>
+
+@for (star of stars; track $index) {
+  <app-star class="star" [params]="star" />
+}
+{{ stars | json }}

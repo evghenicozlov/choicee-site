@@ -1,10 +1,9 @@
-import { Component, OnInit } from '@angular/core';
-import { Title } from '@angular/platform-browser';
+import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { BackToTop } from '@shared/components/back-to-top/back-to-top';
 import { BottomBanner } from '@shared/components/bottom-banner/bottom-banner';
 import { NavigationBar } from '@shared/components/navigation-bar/navigation-bar';
-import { routes } from './app.routes';
+import { navigationRoutes } from './app.routes';
 
 @Component({
   selector: 'app-root',
@@ -12,12 +11,6 @@ import { routes } from './app.routes';
   templateUrl: './app.html',
   styleUrl: './app.scss',
 })
-export class App implements OnInit {
-  routes = routes;
-
-  constructor(private title: Title) {}
-
-  ngOnInit(): void {
-    this.title.setTitle('Choicee');
-  }
+export class App {
+  navigationRoutes = navigationRoutes;
 }

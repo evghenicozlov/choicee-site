@@ -1,0 +1,62 @@
+:host {
+  --first: transparent;
+  --second: black;
+
+  mask: linear-gradient(
+    135deg,
+    var(--first) calc(50% - 55px),
+    var(--first) calc(50% - 35px),
+    var(--second) calc(50% - 33px),
+    var(--second) calc(50% - 19px),
+    var(--first) calc(50% - 16px),
+    var(--first) calc(50% - 5px),
+    var(--second) calc(50% - 2px),
+    var(--second) calc(50% + 5px),
+    var(--first) calc(50% + 8px),
+    var(--first) calc(50% + 19px),
+    var(--second) calc(50% + 22px),
+    var(--second) calc(50% + 22px),
+    var(--first) calc(50% + 25px),
+    var(--first) calc(50% + 45px)
+  );
+
+  -webkit-mask: linear-gradient(
+    135deg,
+    var(--first) calc(50% - 55px),
+    var(--first) calc(50% - 35px),
+    var(--second) calc(50% - 33px),
+    var(--second) calc(50% - 19px),
+    var(--first) calc(50% - 16px),
+    var(--first) calc(50% - 5px),
+    var(--second) calc(50% - 2px),
+    var(--second) calc(50% + 5px),
+    var(--first) calc(50% + 8px),
+    var(--first) calc(50% + 19px),
+    var(--second) calc(50% + 22px),
+    var(--second) calc(50% + 22px),
+    var(--first) calc(50% + 25px),
+    var(--first) calc(50% + 45px)
+  );
+  mask-size: 200%;
+  -webkit-mask-size: 200%;
+
+  mask-position: 75%;
+  -webkit-mask-position: 75%;
+
+  animation: shimmer 4.5s linear infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    mask-position: 150%;
+    -webkit-mask-position: 150%;
+  }
+  60% {
+    mask-position: 150%;
+    -webkit-mask-position: 150%;
+  }
+  100% {
+    mask-position: -50%;
+    -webkit-mask-position: -50%;
+  }
+}

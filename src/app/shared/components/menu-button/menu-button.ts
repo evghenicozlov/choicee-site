@@ -12,7 +12,6 @@ export class MenuButton {
   onClick = output<void>();
 
   handleClick(): void {
-    console.log('handleClick');
     this.onClick.emit();
   }
 }

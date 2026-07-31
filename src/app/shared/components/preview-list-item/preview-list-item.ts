@@ -83,7 +83,7 @@ export class PreviewListItem implements AfterViewInit, OnDestroy {
 
   calculateRadius() {
     if (this.elementRef) {
-      this.borderRadius.set(this.elementRef.nativeElement.clientWidth * 0.1);
+      this.borderRadius.set(this.elementRef.nativeElement.clientWidth * 0.15);
     }
   }
 }

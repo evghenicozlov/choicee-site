@@ -1,0 +1,134 @@
+:host {
+  position: relative;
+  display: flex;
+
+  min-height: 250px;
+  max-height: 400px;
+  height: 50dvw;
+
+  border-radius: 0px 0px 5vw 5vw;
+  box-shadow: 0 8px 24px #00000080;
+
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.background {
+  position: absolute;
+
+  aspect-ratio: 1774 / 887;
+  min-width: 100%;
+  min-height: 100%;
+
+  background: radial-gradient(#154b1f, #031507);
+}
+
+.container {
+  position: absolute;
+
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.background {
+  background: radial-gradient(#154b1f, #031507);
+}
+
+.text {
+  position: absolute;
+
+  color: var(--primary-color);
+  font-size: 7vw;
+}
+
+.logo {
+  position: absolute;
+
+  width: 40vw;
+  max-width: 1410px;
+}
+
+.logo-tint {
+  position: absolute;
+  background-color: #ffffff80;
+  aspect-ratio: 1410/490;
+  width: 40vw;
+  max-width: 1410px;
+
+  mask-image: url('/assets/images/logo-big.png');
+  mask-size: contain;
+}
+
+.icon {
+  position: absolute;
+  aspect-ratio: 1;
+  mask-size: contain;
+}
+
+.circle {
+  width: 70dvw;
+
+  mask-image: url('/assets/icons/icon-circle.png');
+}
+
+.clover {
+  right: 1%;
+  bottom: 4%;
+  width: min(20dvw, 180px);
+
+  mask-image: url('/assets/icons/icon-clover.png');
+}
+
+.dice {
+  left: 1%;
+  top: 4%;
+  width: min(20dvw, 180px);
+  mask-image: url('/assets/icons/icon-dice.png');
+}
+
+.gem {
+  right: 1%;
+  top: 4%;
+  width: min(20dvw, 180px);
+  mask-image: url('/assets/icons/icon-gem.png');
+}
+
+.horseshoe {
+  left: 1%;
+  bottom: 3%;
+  width: min(20dvw, 180px);
+  mask-image: url('/assets/icons/icon-horseshoe.png');
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icons .circle,
+.icons .clover,
+.icons .dice,
+.icons .gem,
+.icons .horseshoe {
+  background-color: var(--tintColor);
+}
+
+.icons .text {
+  color: var(--tintColor);
+}
+
+.star {
+  position: absolute;
+}
+
+// star:nth-child {
+//   left: random(100) + px;
+//   width: 10px;
+//   height: 10px;
+// }
