@@ -12462,7 +12462,7 @@
         "is_popular": false,
         "categories":
         [
-            "Laundry"
+            "laundry"
         ],
         "created_at": "2024-12-26T17:31:01.226Z",
         "modified_at": "2024-12-26T17:31:01.226Z"
@@ -22860,7 +22860,7 @@
         "is_popular": false,
         "categories":
         [
-            "Parking"
+            "parking"
         ],
         "created_at": "2023-08-01T12:07:37.936Z",
         "modified_at": "2023-08-01T12:07:37.936Z"
