@@ -9,7 +9,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "New York",
-            "city": " Richmond Hill",
+            "city": "Richmond Hill",
             "zip_code": "11418",
             "coordinate":
             {
@@ -40,7 +40,7 @@
             "country": "Bosnia And Herzegovina",
             "country_code": "BA",
             "region": "Federacija Bosne I Hercegovine",
-            "city": " Mostar",
+            "city": "Mostar",
             "zip_code": "88110",
             "coordinate":
             {
@@ -71,7 +71,7 @@
             "country": "Norway",
             "country_code": "NO",
             "region": "Rogaland",
-            "city": " Stavanger",
+            "city": "Stavanger",
             "zip_code": "4095",
             "coordinate":
             {
@@ -102,7 +102,7 @@
             "country": "Portugal",
             "country_code": "PT",
             "region": "Lisboa",
-            "city": " Lisbon",
+            "city": "Lisbon",
             "zip_code": "4950-791",
             "coordinate":
             {
@@ -133,7 +133,7 @@
             "country": "Sweden",
             "country_code": "SE",
             "region": "Stockholms Lan",
-            "city": " Stockholm",
+            "city": "Stockholm",
             "zip_code": "19587",
             "coordinate":
             {
@@ -164,7 +164,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Washington",
-            "city": " Bremerton",
+            "city": "Bremerton",
             "zip_code": "98310",
             "coordinate":
             {
@@ -195,7 +195,7 @@
             "country": "Romania",
             "country_code": "RO",
             "region": "Buzau",
-            "city": " Magura",
+            "city": "Magura",
             "zip_code": "147011",
             "coordinate":
             {
@@ -226,7 +226,7 @@
             "country": "South Africa",
             "country_code": "ZA",
             "region": "Gauteng",
-            "city": " Pretoria",
+            "city": "Pretoria",
             "zip_code": "0183",
             "coordinate":
             {
@@ -257,7 +257,7 @@
             "country": "Austria",
             "country_code": "AT",
             "region": "Steiermark",
-            "city": " Graz",
+            "city": "Graz",
             "zip_code": "8074",
             "coordinate":
             {
@@ -288,7 +288,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "New York",
-            "city": " Hicksville",
+            "city": "Hicksville",
             "zip_code": "11801",
             "coordinate":
             {
@@ -319,7 +319,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "California",
-            "city": " Van Nuys",
+            "city": "Van Nuys",
             "zip_code": "91316",
             "coordinate":
             {
@@ -350,7 +350,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Nevada",
-            "city": " Las Vegas",
+            "city": "Las Vegas",
             "zip_code": "89044",
             "coordinate":
             {
@@ -381,7 +381,7 @@
             "country": "France",
             "country_code": "FR",
             "region": "Ile-De-France",
-            "city": " Issy-Les-Moulineaux",
+            "city": "Issy-Les-Moulineaux",
             "zip_code": "92867",
             "coordinate":
             {
@@ -412,7 +412,7 @@
             "country": "Netherlands",
             "country_code": "NL",
             "region": "Zeeland",
-            "city": " Veere",
+            "city": "Veere",
             "zip_code": "4351",
             "coordinate":
             {
@@ -443,7 +443,7 @@
             "country": "Germany",
             "country_code": "DE",
             "region": "Thuringen",
-            "city": " Hohenofen",
+            "city": "Hohenofen",
             "zip_code": "96523",
             "coordinate":
             {
@@ -474,7 +474,7 @@
             "country": "Canada",
             "country_code": "CA",
             "region": "Nova Scotia",
-            "city": " Halifax",
+            "city": "Halifax",
             "zip_code": "B3K 5M3",
             "coordinate":
             {
@@ -505,7 +505,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Missouri",
-            "city": " Town And Country",
+            "city": "Town And Country",
             "zip_code": "63011",
             "coordinate":
             {
@@ -536,7 +536,7 @@
             "country": "Serbia",
             "country_code": "RS",
             "region": "Raski Okrug",
-            "city": " Novi Pazar",
+            "city": "Novi Pazar",
             "zip_code": "36318",
             "coordinate":
             {
@@ -567,7 +567,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Washington",
-            "city": " Bremerton",
+            "city": "Bremerton",
             "zip_code": "98310",
             "coordinate":
             {
@@ -598,7 +598,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Oregon",
-            "city": " Eugene",
+            "city": "Eugene",
             "zip_code": "97401",
             "coordinate":
             {
@@ -629,7 +629,7 @@
             "country": "France",
             "country_code": "FR",
             "region": "Hauts-De-France",
-            "city": " Lille",
+            "city": "Lille",
             "zip_code": "59998",
             "coordinate":
             {
@@ -660,7 +660,7 @@
             "country": "Italy",
             "country_code": "IT",
             "region": "Piemonte",
-            "city": " Torino",
+            "city": "Torino",
             "zip_code": "10138",
             "coordinate":
             {
@@ -691,7 +691,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Washington",
-            "city": " Vancouver",
+            "city": "Vancouver",
             "zip_code": "98660",
             "coordinate":
             {
@@ -722,7 +722,7 @@
             "country": "Spain",
             "country_code": "ES",
             "region": "Castilla-La Mancha",
-            "city": " Tomelloso",
+            "city": "Tomelloso",
             "zip_code": "13700",
             "coordinate":
             {
@@ -753,7 +753,7 @@
             "country": "Romania",
             "country_code": "RO",
             "region": "Bucuresti",
-            "city": " Bucharest",
+            "city": "Bucharest",
             "zip_code": "060222",
             "coordinate":
             {
@@ -784,7 +784,7 @@
             "country": "Spain",
             "country_code": "ES",
             "region": "Andalucia",
-            "city": " Huelva",
+            "city": "Huelva",
             "zip_code": "21400",
             "coordinate":
             {
@@ -815,7 +815,7 @@
             "country": "Italy",
             "country_code": "IT",
             "region": "Lombardia",
-            "city": " Milan",
+            "city": "Milan",
             "zip_code": "20131",
             "coordinate":
             {
@@ -846,7 +846,7 @@
             "country": "Norway",
             "country_code": "NO",
             "region": "Rogaland",
-            "city": " Stavanger",
+            "city": "Stavanger",
             "zip_code": "4095",
             "coordinate":
             {
@@ -877,7 +877,7 @@
             "country": "Germany",
             "country_code": "DE",
             "region": "Hamburg",
-            "city": " Hamburg",
+            "city": "Hamburg",
             "zip_code": "22085",
             "coordinate":
             {
@@ -908,7 +908,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Michigan",
-            "city": " Detroit",
+            "city": "Detroit",
             "zip_code": "48201",
             "coordinate":
             {
@@ -939,7 +939,7 @@
             "country": "Spain",
             "country_code": "ES",
             "region": "Madrid, Comunidad De",
-            "city": " Madrid",
+            "city": "Madrid",
             "zip_code": "28013",
             "coordinate":
             {
@@ -970,7 +970,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "California",
-            "city": " Indio",
+            "city": "Indio",
             "zip_code": "92201",
             "coordinate":
             {
@@ -1001,7 +1001,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "New York",
-            "city": " New York City",
+            "city": "New York City",
             "zip_code": "10116",
             "coordinate":
             {
@@ -1032,7 +1032,7 @@
             "country": "Taiwan, Province Of",
             "country_code": "TW",
             "region": "Taipei",
-            "city": " Taipei",
+            "city": "Taipei",
             "zip_code": "10641",
             "coordinate":
             {
@@ -1063,7 +1063,7 @@
             "country": "Australia",
             "country_code": "AU",
             "region": "Tasmania",
-            "city": " Launceston",
+            "city": "Launceston",
             "zip_code": "7250",
             "coordinate":
             {
@@ -1094,7 +1094,7 @@
             "country": "Czech Republic",
             "country_code": "CZ",
             "region": "Pardubicky Kraj",
-            "city": " Pardubice",
+            "city": "Pardubice",
             "zip_code": "530 09",
             "coordinate":
             {
@@ -1125,7 +1125,7 @@
             "country": "Indonesia",
             "country_code": "ID",
             "region": "Jakarta Raya",
-            "city": " Jakarta",
+            "city": "Jakarta",
             "zip_code": "13550",
             "coordinate":
             {
@@ -1156,7 +1156,7 @@
             "country": "United Kingdom",
             "country_code": "GB",
             "region": "England",
-            "city": " Manchester",
+            "city": "Manchester",
             "zip_code": "M1",
             "coordinate":
             {
@@ -1187,7 +1187,7 @@
             "country": "Japan",
             "country_code": "JP",
             "region": "Kanagawa",
-            "city": " Yokohama",
+            "city": "Yokohama",
             "zip_code": "231-0021",
             "coordinate":
             {
@@ -1218,7 +1218,7 @@
             "country": "Switzerland",
             "country_code": "CH",
             "region": "Zurich",
-            "city": " Zurich",
+            "city": "Zurich",
             "zip_code": "8099",
             "coordinate":
             {
@@ -1249,7 +1249,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Oklahoma",
-            "city": " Tulsa",
+            "city": "Tulsa",
             "zip_code": "74136",
             "coordinate":
             {
@@ -1280,7 +1280,7 @@
             "country": "Netherlands",
             "country_code": "NL",
             "region": "Noord-Holland",
-            "city": " Amsterdam",
+            "city": "Amsterdam",
             "zip_code": "1000",
             "coordinate":
             {
@@ -1311,7 +1311,7 @@
             "country": "Poland",
             "country_code": "PL",
             "region": "Lubelskie",
-            "city": " Lublin",
+            "city": "Lublin",
             "zip_code": "20-082",
             "coordinate":
             {
@@ -1342,7 +1342,7 @@
             "country": "Austria",
             "country_code": "AT",
             "region": "Oberosterreich",
-            "city": " Linz",
+            "city": "Linz",
             "zip_code": "4040",
             "coordinate":
             {
@@ -1373,7 +1373,7 @@
             "country": "Belgium",
             "country_code": "BE",
             "region": "Oost-Vlaanderen",
-            "city": " Sint-Niklaas",
+            "city": "Sint-Niklaas",
             "zip_code": "9112",
             "coordinate":
             {
@@ -1404,7 +1404,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Texas",
-            "city": " Houston",
+            "city": "Houston",
             "zip_code": "77001",
             "coordinate":
             {
@@ -1435,7 +1435,7 @@
             "country": "Netherlands",
             "country_code": "NL",
             "region": "Overijssel",
-            "city": " Zwolle",
+            "city": "Zwolle",
             "zip_code": "8045",
             "coordinate":
             {
@@ -1466,7 +1466,7 @@
             "country": "Austria",
             "country_code": "AT",
             "region": "Wien",
-            "city": " Vienna",
+            "city": "Vienna",
             "zip_code": "1010",
             "coordinate":
             {
@@ -1497,7 +1497,7 @@
             "country": "Netherlands",
             "country_code": "NL",
             "region": "Gelderland",
-            "city": " Apeldoorn",
+            "city": "Apeldoorn",
             "zip_code": "7336",
             "coordinate":
             {
@@ -1528,7 +1528,7 @@
             "country": "Japan",
             "country_code": "JP",
             "region": "Osaka",
-            "city": " Osaka",
+            "city": "Osaka",
             "zip_code": "541-0041",
             "coordinate":
             {
@@ -1559,7 +1559,7 @@
             "country": "Canada",
             "country_code": "CA",
             "region": "British Columbia",
-            "city": " Vancouver",
+            "city": "Vancouver",
             "zip_code": "V5K 0A1",
             "coordinate":
             {
@@ -1590,7 +1590,7 @@
             "country": "Sweden",
             "country_code": "SE",
             "region": "Skane Lan",
-            "city": " Loberod",
+            "city": "Loberod",
             "zip_code": "24033",
             "coordinate":
             {
@@ -1621,7 +1621,7 @@
             "country": "Spain",
             "country_code": "ES",
             "region": "Andalucia",
-            "city": " Granada",
+            "city": "Granada",
             "zip_code": "08792",
             "coordinate":
             {
@@ -1652,7 +1652,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Missouri",
-            "city": " Fulton",
+            "city": "Fulton",
             "zip_code": "65251",
             "coordinate":
             {
@@ -1683,7 +1683,7 @@
             "country": "Italy",
             "country_code": "IT",
             "region": "Veneto",
-            "city": " Verona",
+            "city": "Verona",
             "zip_code": "37142",
             "coordinate":
             {
@@ -1714,7 +1714,7 @@
             "country": "Switzerland",
             "country_code": "CH",
             "region": "Vaud",
-            "city": " Founex",
+            "city": "Founex",
             "zip_code": "1297",
             "coordinate":
             {
@@ -1745,7 +1745,7 @@
             "country": "Germany",
             "country_code": "DE",
             "region": "Hessen",
-            "city": " Frankfurt Am Main",
+            "city": "Frankfurt Am Main",
             "zip_code": "65931",
             "coordinate":
             {
@@ -1776,7 +1776,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Oklahoma",
-            "city": " Tulsa",
+            "city": "Tulsa",
             "zip_code": "74136",
             "coordinate":
             {
@@ -1807,7 +1807,7 @@
             "country": "Netherlands",
             "country_code": "NL",
             "region": "Noord-Holland",
-            "city": " Diemen",
+            "city": "Diemen",
             "zip_code": "1114",
             "coordinate":
             {
@@ -1838,7 +1838,7 @@
             "country": "United Kingdom",
             "country_code": "GB",
             "region": "England",
-            "city": " Nidd",
+            "city": "Nidd",
             "zip_code": "HG3",
             "coordinate":
             {
@@ -1869,7 +1869,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Virginia",
-            "city": " Hopewell",
+            "city": "Hopewell",
             "zip_code": "23860",
             "coordinate":
             {
@@ -1900,7 +1900,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "New York",
-            "city": " Rochester",
+            "city": "Rochester",
             "zip_code": "14602",
             "coordinate":
             {
@@ -1931,7 +1931,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "New York",
-            "city": " New York City",
+            "city": "New York City",
             "zip_code": "10116",
             "coordinate":
             {
@@ -1962,7 +1962,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "New York",
-            "city": " Vestal",
+            "city": "Vestal",
             "zip_code": "13850",
             "coordinate":
             {
@@ -1993,7 +1993,7 @@
             "country": "Spain",
             "country_code": "ES",
             "region": "Madrid, Comunidad De",
-            "city": " Madrid",
+            "city": "Madrid",
             "zip_code": "28013",
             "coordinate":
             {
@@ -2024,7 +2024,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "California",
-            "city": " Los Angeles",
+            "city": "Los Angeles",
             "zip_code": "90001",
             "coordinate":
             {
@@ -2055,7 +2055,7 @@
             "country": "Sweden",
             "country_code": "SE",
             "region": "Vastra Gotalands Lan",
-            "city": " Tibro",
+            "city": "Tibro",
             "zip_code": "54394",
             "coordinate":
             {
@@ -2086,7 +2086,7 @@
             "country": "Germany",
             "country_code": "DE",
             "region": "Baden-Wurttemberg",
-            "city": " Schwabisch Gmund",
+            "city": "Schwabisch Gmund",
             "zip_code": "73525",
             "coordinate":
             {
@@ -2117,7 +2117,7 @@
             "country": "Norway",
             "country_code": "NO",
             "region": "Vestfold",
-            "city": " Tonsberg",
+            "city": "Tonsberg",
             "zip_code": "3127",
             "coordinate":
             {
@@ -2148,7 +2148,7 @@
             "country": "Thailand",
             "country_code": "TH",
             "region": "Krung Thep Maha Nakhon",
-            "city": " Bangkok",
+            "city": "Bangkok",
             "zip_code": "10200",
             "coordinate":
             {
@@ -2179,7 +2179,7 @@
             "country": "France",
             "country_code": "FR",
             "region": "Ile-De-France",
-            "city": " Paris",
+            "city": "Paris",
             "zip_code": "75000",
             "coordinate":
             {
@@ -2210,7 +2210,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "California",
-            "city": " San Ysidro",
+            "city": "San Ysidro",
             "zip_code": "92173",
             "coordinate":
             {
@@ -2241,7 +2241,7 @@
             "country": "France",
             "country_code": "FR",
             "region": "Ile-De-France",
-            "city": " Paris",
+            "city": "Paris",
             "zip_code": "92659",
             "coordinate":
             {
@@ -2272,7 +2272,7 @@
             "country": "Belgium",
             "country_code": "BE",
             "region": "Liege",
-            "city": " Liege",
+            "city": "Liege",
             "zip_code": "4032",
             "coordinate":
             {
@@ -2303,7 +2303,7 @@
             "country": "France",
             "country_code": "FR",
             "region": "Ile-De-France",
-            "city": " Paris",
+            "city": "Paris",
             "zip_code": "75000",
             "coordinate":
             {
@@ -2334,7 +2334,7 @@
             "country": "France",
             "country_code": "FR",
             "region": "Ile-De-France",
-            "city": " Paris",
+            "city": "Paris",
             "zip_code": "75000",
             "coordinate":
             {
@@ -2365,7 +2365,7 @@
             "country": "Netherlands",
             "country_code": "NL",
             "region": "Utrecht",
-            "city": " Amersfoort",
+            "city": "Amersfoort",
             "zip_code": "3820",
             "coordinate":
             {
@@ -2396,7 +2396,7 @@
             "country": "Canada",
             "country_code": "CA",
             "region": "British Columbia",
-            "city": " Okanagan",
+            "city": "Okanagan",
             "zip_code": "V1H 1W9",
             "coordinate":
             {
@@ -2427,7 +2427,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "California",
-            "city": " Los Angeles",
+            "city": "Los Angeles",
             "zip_code": "90001",
             "coordinate":
             {
@@ -2458,7 +2458,7 @@
             "country": "Switzerland",
             "country_code": "CH",
             "region": "Vaud",
-            "city": " Lausanne",
+            "city": "Lausanne",
             "zip_code": "1002",
             "coordinate":
             {
@@ -2489,7 +2489,7 @@
             "country": "Switzerland",
             "country_code": "CH",
             "region": "Graubunden",
-            "city": " Davos",
+            "city": "Davos",
             "zip_code": "7270",
             "coordinate":
             {
@@ -2520,7 +2520,7 @@
             "country": "Japan",
             "country_code": "JP",
             "region": "Hiroshima",
-            "city": " Hiroshima",
+            "city": "Hiroshima",
             "zip_code": "732-0057",
             "coordinate":
             {
@@ -2551,7 +2551,7 @@
             "country": "Belgium",
             "country_code": "BE",
             "region": "Liege",
-            "city": " Liege",
+            "city": "Liege",
             "zip_code": "4032",
             "coordinate":
             {
@@ -2582,7 +2582,7 @@
             "country": "Italy",
             "country_code": "IT",
             "region": "Lombardia",
-            "city": " Brescia",
+            "city": "Brescia",
             "zip_code": "25069",
             "coordinate":
             {
@@ -2613,7 +2613,7 @@
             "country": "Spain",
             "country_code": "ES",
             "region": "Valenciana, Comunidad",
-            "city": " Elche",
+            "city": "Elche",
             "zip_code": "03296",
             "coordinate":
             {
@@ -2644,7 +2644,7 @@
             "country": "Norway",
             "country_code": "NO",
             "region": "Troms",
-            "city": " Tromso",
+            "city": "Tromso",
             "zip_code": "9299",
             "coordinate":
             {
@@ -2675,7 +2675,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Massachusetts",
-            "city": " New Bedford",
+            "city": "New Bedford",
             "zip_code": "02740",
             "coordinate":
             {
@@ -2706,7 +2706,7 @@
             "country": "France",
             "country_code": "FR",
             "region": "Ile-De-France",
-            "city": " Paris",
+            "city": "Paris",
             "zip_code": "75000",
             "coordinate":
             {
@@ -2737,7 +2737,7 @@
             "country": "United Kingdom",
             "country_code": "GB",
             "region": "England",
-            "city": " York",
+            "city": "York",
             "zip_code": "YO1",
             "coordinate":
             {
@@ -2768,7 +2768,7 @@
             "country": "Switzerland",
             "country_code": "CH",
             "region": "Zurich",
-            "city": " Zurich",
+            "city": "Zurich",
             "zip_code": "8045",
             "coordinate":
             {
@@ -2799,7 +2799,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Missouri",
-            "city": " Town And Country",
+            "city": "Town And Country",
             "zip_code": "63011",
             "coordinate":
             {
@@ -2830,7 +2830,7 @@
             "country": "Spain",
             "country_code": "ES",
             "region": "Catalunya",
-            "city": " Barcelona",
+            "city": "Barcelona",
             "zip_code": "08901",
             "coordinate":
             {
@@ -2861,7 +2861,7 @@
             "country": "Czech Republic",
             "country_code": "CZ",
             "region": "Pardubicky Kraj",
-            "city": " Pardubice",
+            "city": "Pardubice",
             "zip_code": "530 09",
             "coordinate":
             {
@@ -2892,7 +2892,7 @@
             "country": "Spain",
             "country_code": "ES",
             "region": "Valenciana, Comunidad",
-            "city": " Valencia",
+            "city": "Valencia",
             "zip_code": "46116",
             "coordinate":
             {
@@ -2923,7 +2923,7 @@
             "country": "Belgium",
             "country_code": "BE",
             "region": "Antwerpen",
-            "city": " Antwerpen",
+            "city": "Antwerpen",
             "zip_code": "2660",
             "coordinate":
             {
@@ -2954,7 +2954,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Oklahoma",
-            "city": " Tulsa",
+            "city": "Tulsa",
             "zip_code": "74136",
             "coordinate":
             {
@@ -2985,7 +2985,7 @@
             "country": "Switzerland",
             "country_code": "CH",
             "region": "Zurich",
-            "city": " Gossau",
+            "city": "Gossau",
             "zip_code": "8625",
             "coordinate":
             {
@@ -3016,7 +3016,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Michigan",
-            "city": " Holland",
+            "city": "Holland",
             "zip_code": "49422",
             "coordinate":
             {
@@ -3047,7 +3047,7 @@
             "country": "Italy",
             "country_code": "IT",
             "region": "Lombardia",
-            "city": " Milan",
+            "city": "Milan",
             "zip_code": "20131",
             "coordinate":
             {
@@ -3078,7 +3078,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Illinois",
-            "city": " Chicago",
+            "city": "Chicago",
             "zip_code": "60290",
             "coordinate":
             {
@@ -3109,7 +3109,7 @@
             "country": "Italy",
             "country_code": "IT",
             "region": "Toscana",
-            "city": " Florence",
+            "city": "Florence",
             "zip_code": "50145",
             "coordinate":
             {
@@ -3140,7 +3140,7 @@
             "country": "Japan",
             "country_code": "JP",
             "region": "Tokyo",
-            "city": " Tokyo",
+            "city": "Tokyo",
             "zip_code": "214-0021",
             "coordinate":
             {
@@ -3171,7 +3171,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "South Carolina",
-            "city": " Hilton Head Island",
+            "city": "Hilton Head Island",
             "zip_code": "29928",
             "coordinate":
             {
@@ -3202,7 +3202,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "California",
-            "city": " Los Angeles",
+            "city": "Los Angeles",
             "zip_code": "90001",
             "coordinate":
             {
@@ -3233,7 +3233,7 @@
             "country": "Italy",
             "country_code": "IT",
             "region": "Veneto",
-            "city": " Casale Di Scodosia",
+            "city": "Casale Di Scodosia",
             "zip_code": "35040",
             "coordinate":
             {
@@ -3264,7 +3264,7 @@
             "country": "Thailand",
             "country_code": "TH",
             "region": "Krung Thep Maha Nakhon",
-            "city": " Bangkok",
+            "city": "Bangkok",
             "zip_code": "10200",
             "coordinate":
             {
@@ -3295,7 +3295,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "California",
-            "city": " Yuba City",
+            "city": "Yuba City",
             "zip_code": "95991",
             "coordinate":
             {
@@ -3326,7 +3326,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "New York",
-            "city": " New York City",
+            "city": "New York City",
             "zip_code": "10116",
             "coordinate":
             {
@@ -3357,7 +3357,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "California",
-            "city": " Los Angeles",
+            "city": "Los Angeles",
             "zip_code": "90001",
             "coordinate":
             {
@@ -3388,7 +3388,7 @@
             "country": "France",
             "country_code": "FR",
             "region": "Provence-Alpes-Cote-D'Azur",
-            "city": " Nice",
+            "city": "Nice",
             "zip_code": "06833",
             "coordinate":
             {
@@ -3419,7 +3419,7 @@
             "country": "Austria",
             "country_code": "AT",
             "region": "Oberosterreich",
-            "city": " Seewalchen",
+            "city": "Seewalchen",
             "zip_code": "4880",
             "coordinate":
             {
@@ -3450,7 +3450,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "California",
-            "city": " Escalon",
+            "city": "Escalon",
             "zip_code": "95320",
             "coordinate":
             {
@@ -3481,7 +3481,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "New Hampshire",
-            "city": " Manchester",
+            "city": "Manchester",
             "zip_code": "03101",
             "coordinate":
             {
@@ -3512,7 +3512,7 @@
             "country": "Indonesia",
             "country_code": "ID",
             "region": "Jakarta Raya",
-            "city": " Jakarta",
+            "city": "Jakarta",
             "zip_code": "13550",
             "coordinate":
             {
@@ -3543,7 +3543,7 @@
             "country": "Ireland",
             "country_code": "IE",
             "region": "Dublin",
-            "city": " Dublin",
+            "city": "Dublin",
             "zip_code": "D8",
             "coordinate":
             {
@@ -3574,7 +3574,7 @@
             "country": "Mexico",
             "country_code": "MX",
             "region": "Nuevo Leon",
-            "city": " Juarez",
+            "city": "Juarez",
             "zip_code": "67256",
             "coordinate":
             {
@@ -3605,7 +3605,7 @@
             "country": "Sweden",
             "country_code": "SE",
             "region": "Vastra Gotalands Lan",
-            "city": " Goeteborg",
+            "city": "Goeteborg",
             "zip_code": "41879",
             "coordinate":
             {
@@ -3636,7 +3636,7 @@
             "country": "Spain",
             "country_code": "ES",
             "region": "Catalunya",
-            "city": " Santa Oliva",
+            "city": "Santa Oliva",
             "zip_code": "43715",
             "coordinate":
             {
@@ -3667,7 +3667,7 @@
             "country": "Spain",
             "country_code": "ES",
             "region": "Canarias",
-            "city": " Arrecife",
+            "city": "Arrecife",
             "zip_code": "35509",
             "coordinate":
             {
@@ -3698,7 +3698,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Vermont",
-            "city": " Burlington",
+            "city": "Burlington",
             "zip_code": "05401",
             "coordinate":
             {
@@ -3729,7 +3729,7 @@
             "country": "Philippines",
             "country_code": "PH",
             "region": "National Capital Region",
-            "city": " Makati",
+            "city": "Makati",
             "zip_code": "1214",
             "coordinate":
             {
@@ -3760,7 +3760,7 @@
             "country": "Hungary",
             "country_code": "HU",
             "region": "Budapest",
-            "city": " Budapest",
+            "city": "Budapest",
             "zip_code": "1092",
             "coordinate":
             {
@@ -3791,7 +3791,7 @@
             "country": "Canada",
             "country_code": "CA",
             "region": "Ontario",
-            "city": " Kitchener",
+            "city": "Kitchener",
             "zip_code": "N2A 0A1",
             "coordinate":
             {
@@ -3822,7 +3822,7 @@
             "country": "Slovakia",
             "country_code": "SK",
             "region": "Trnavsky Kraj",
-            "city": " Skalica",
+            "city": "Skalica",
             "zip_code": "976 81",
             "coordinate":
             {
@@ -3853,7 +3853,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Massachusetts",
-            "city": " Cambridge",
+            "city": "Cambridge",
             "zip_code": "02138",
             "coordinate":
             {
@@ -3884,7 +3884,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Massachusetts",
-            "city": " Worcester",
+            "city": "Worcester",
             "zip_code": "01601",
             "coordinate":
             {
@@ -3915,7 +3915,7 @@
             "country": "Switzerland",
             "country_code": "CH",
             "region": "Zurich",
-            "city": " Schlieren",
+            "city": "Schlieren",
             "zip_code": "8012",
             "coordinate":
             {
@@ -3946,7 +3946,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "New York",
-            "city": " New York City",
+            "city": "New York City",
             "zip_code": "10116",
             "coordinate":
             {
@@ -3977,7 +3977,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Georgia",
-            "city": " Marietta",
+            "city": "Marietta",
             "zip_code": "30006",
             "coordinate":
             {
@@ -4008,7 +4008,7 @@
             "country": "Greece",
             "country_code": "GR",
             "region": "Attiki",
-            "city": " Marousi",
+            "city": "Marousi",
             "zip_code": "151 24",
             "coordinate":
             {
@@ -4039,7 +4039,7 @@
             "country": "Austria",
             "country_code": "AT",
             "region": "Oberosterreich",
-            "city": " Bad Kreuzen",
+            "city": "Bad Kreuzen",
             "zip_code": "4362",
             "coordinate":
             {
@@ -4070,7 +4070,7 @@
             "country": "Sweden",
             "country_code": "SE",
             "region": "Vastmanlands Lan",
-            "city": " Vasteras",
+            "city": "Vasteras",
             "zip_code": "72136",
             "coordinate":
             {
@@ -4101,7 +4101,7 @@
             "country": "France",
             "country_code": "FR",
             "region": "Provence-Alpes-Cote-D'Azur",
-            "city": " Manosque",
+            "city": "Manosque",
             "zip_code": "04119",
             "coordinate":
             {
@@ -4132,7 +4132,7 @@
             "country": "France",
             "country_code": "FR",
             "region": "Nouvelle-Aquitaine",
-            "city": " Chateauneuf-Sur-Charente",
+            "city": "Chateauneuf-Sur-Charente",
             "zip_code": "16120",
             "coordinate":
             {
@@ -4163,7 +4163,7 @@
             "country": "-",
             "country_code": "-",
             "region": "-",
-            "city": " -",
+            "city": "-",
             "zip_code": "-",
             "coordinate":
             {
@@ -4225,7 +4225,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "California",
-            "city": " Indio",
+            "city": "Indio",
             "zip_code": "92201",
             "coordinate":
             {
@@ -4256,7 +4256,7 @@
             "country": "Germany",
             "country_code": "DE",
             "region": "Rheinland-Pfalz",
-            "city": " Freinsheim",
+            "city": "Freinsheim",
             "zip_code": "67251",
             "coordinate":
             {
@@ -4287,7 +4287,7 @@
             "country": "Belgium",
             "country_code": "BE",
             "region": "Brussels Hoofdstedelijk Gewest",
-            "city": " Brussels",
+            "city": "Brussels",
             "zip_code": "1210",
             "coordinate":
             {
@@ -4318,7 +4318,7 @@
             "country": "Spain",
             "country_code": "ES",
             "region": "Catalunya",
-            "city": " Roses",
+            "city": "Roses",
             "zip_code": "17480",
             "coordinate":
             {
@@ -4349,7 +4349,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Georgia",
-            "city": " Atlanta",
+            "city": "Atlanta",
             "zip_code": "30308",
             "coordinate":
             {
@@ -4380,7 +4380,7 @@
             "country": "France",
             "country_code": "FR",
             "region": "Provence-Alpes-Cote-D'Azur",
-            "city": " Marseille",
+            "city": "Marseille",
             "zip_code": "13942",
             "coordinate":
             {
@@ -4411,7 +4411,7 @@
             "country": "Slovenia",
             "country_code": "SI",
             "region": "Ljubljana",
-            "city": " Ljubljana",
+            "city": "Ljubljana",
             "zip_code": "1600",
             "coordinate":
             {
@@ -4442,7 +4442,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Ohio",
-            "city": " Westerville",
+            "city": "Westerville",
             "zip_code": "43081",
             "coordinate":
             {
@@ -4473,7 +4473,7 @@
             "country": "Norway",
             "country_code": "NO",
             "region": "Rogaland",
-            "city": " Stavanger",
+            "city": "Stavanger",
             "zip_code": "4095",
             "coordinate":
             {
@@ -4504,7 +4504,7 @@
             "country": "Canada",
             "country_code": "CA",
             "region": "Alberta",
-            "city": " Calgary",
+            "city": "Calgary",
             "zip_code": "T2E 6J8",
             "coordinate":
             {
@@ -4535,7 +4535,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "New York",
-            "city": " Saranac Lake",
+            "city": "Saranac Lake",
             "zip_code": "12983",
             "coordinate":
             {
@@ -4566,7 +4566,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "New York",
-            "city": " Hicksville",
+            "city": "Hicksville",
             "zip_code": "11801",
             "coordinate":
             {
@@ -4597,7 +4597,7 @@
             "country": "Sweden",
             "country_code": "SE",
             "region": "Gavleborgs Lan",
-            "city": " Gavle",
+            "city": "Gavle",
             "zip_code": "80133",
             "coordinate":
             {
@@ -4628,7 +4628,7 @@
             "country": "Netherlands",
             "country_code": "NL",
             "region": "Gelderland",
-            "city": " Apeldoorn",
+            "city": "Apeldoorn",
             "zip_code": "7336",
             "coordinate":
             {
@@ -4659,7 +4659,7 @@
             "country": "Italy",
             "country_code": "IT",
             "region": "Veneto",
-            "city": " Montecchio Maggiore",
+            "city": "Montecchio Maggiore",
             "zip_code": "36075",
             "coordinate":
             {
@@ -4690,7 +4690,7 @@
             "country": "Germany",
             "country_code": "DE",
             "region": "Rheinland-Pfalz",
-            "city": " Kerpen",
+            "city": "Kerpen",
             "zip_code": "54578",
             "coordinate":
             {
@@ -4721,7 +4721,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "South Carolina",
-            "city": " Columbia",
+            "city": "Columbia",
             "zip_code": "29201",
             "coordinate":
             {
@@ -4752,7 +4752,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "California",
-            "city": " Costa Mesa",
+            "city": "Costa Mesa",
             "zip_code": "92626",
             "coordinate":
             {
@@ -4783,7 +4783,7 @@
             "country": "United Kingdom",
             "country_code": "GB",
             "region": "England",
-            "city": " London",
+            "city": "London",
             "zip_code": "WC2N",
             "coordinate":
             {
@@ -4814,7 +4814,7 @@
             "country": "Czech Republic",
             "country_code": "CZ",
             "region": "Moravskoslezsky Kraj",
-            "city": " Ostrava",
+            "city": "Ostrava",
             "zip_code": "710 00",
             "coordinate":
             {
@@ -4845,7 +4845,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Florida",
-            "city": " West Palm Beach",
+            "city": "West Palm Beach",
             "zip_code": "33401",
             "coordinate":
             {
@@ -4876,7 +4876,7 @@
             "country": "Canada",
             "country_code": "CA",
             "region": "Alberta",
-            "city": " Calgary",
+            "city": "Calgary",
             "zip_code": "T2E 6J8",
             "coordinate":
             {
@@ -4907,7 +4907,7 @@
             "country": "Czech Republic",
             "country_code": "CZ",
             "region": "Stredocesky Kraj",
-            "city": " Pribram",
+            "city": "Pribram",
             "zip_code": "261 01",
             "coordinate":
             {
@@ -4938,7 +4938,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Arizona",
-            "city": " Phoenix",
+            "city": "Phoenix",
             "zip_code": "85001",
             "coordinate":
             {
@@ -4969,7 +4969,7 @@
             "country": "Germany",
             "country_code": "DE",
             "region": "Baden-Wurttemberg",
-            "city": " Spagenweiler",
+            "city": "Spagenweiler",
             "zip_code": "73431",
             "coordinate":
             {
@@ -5000,7 +5000,7 @@
             "country": "Austria",
             "country_code": "AT",
             "region": "Niederosterreich",
-            "city": " Horn",
+            "city": "Horn",
             "zip_code": "3751",
             "coordinate":
             {
@@ -5031,7 +5031,7 @@
             "country": "Austria",
             "country_code": "AT",
             "region": "Niederosterreich",
-            "city": " Maria Enzersdorf",
+            "city": "Maria Enzersdorf",
             "zip_code": "2344",
             "coordinate":
             {
@@ -5062,7 +5062,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "New York",
-            "city": " New York City",
+            "city": "New York City",
             "zip_code": "10116",
             "coordinate":
             {
@@ -5093,7 +5093,7 @@
             "country": "Monaco",
             "country_code": "MC",
             "region": "Monaco-Ville",
-            "city": " Monaco",
+            "city": "Monaco",
             "zip_code": "98000",
             "coordinate":
             {
@@ -5124,7 +5124,7 @@
             "country": "Czech Republic",
             "country_code": "CZ",
             "region": "Stredocesky Kraj",
-            "city": " Ondrejov",
+            "city": "Ondrejov",
             "zip_code": "251 65",
             "coordinate":
             {
@@ -5155,7 +5155,7 @@
             "country": "Belgium",
             "country_code": "BE",
             "region": "Oost-Vlaanderen",
-            "city": " Gent",
+            "city": "Gent",
             "zip_code": "9052",
             "coordinate":
             {
@@ -5186,7 +5186,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Massachusetts",
-            "city": " Brockton",
+            "city": "Brockton",
             "zip_code": "02301",
             "coordinate":
             {
@@ -5217,7 +5217,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Virginia",
-            "city": " Richmond",
+            "city": "Richmond",
             "zip_code": "22109",
             "coordinate":
             {
@@ -5248,7 +5248,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Wyoming",
-            "city": " Casper",
+            "city": "Casper",
             "zip_code": "82601",
             "coordinate":
             {
@@ -5279,7 +5279,7 @@
             "country": "Germany",
             "country_code": "DE",
             "region": "Niedersachsen",
-            "city": " Hameln",
+            "city": "Hameln",
             "zip_code": "31785",
             "coordinate":
             {
@@ -5310,7 +5310,7 @@
             "country": "Indonesia",
             "country_code": "ID",
             "region": "Jawa Barat",
-            "city": " Bandung",
+            "city": "Bandung",
             "zip_code": "40175",
             "coordinate":
             {
@@ -5341,7 +5341,7 @@
             "country": "Italy",
             "country_code": "IT",
             "region": "Lombardia",
-            "city": " Milan",
+            "city": "Milan",
             "zip_code": "20131",
             "coordinate":
             {
@@ -5372,7 +5372,7 @@
             "country": "Switzerland",
             "country_code": "CH",
             "region": "Aargau",
-            "city": " Rheinfelden",
+            "city": "Rheinfelden",
             "zip_code": "4310",
             "coordinate":
             {
@@ -5403,7 +5403,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Iowa",
-            "city": " Primghar",
+            "city": "Primghar",
             "zip_code": "51245",
             "coordinate":
             {
@@ -5434,7 +5434,7 @@
             "country": "Netherlands",
             "country_code": "NL",
             "region": "Zuid-Holland",
-            "city": " Noordwijk-Binnen",
+            "city": "Noordwijk-Binnen",
             "zip_code": "2201",
             "coordinate":
             {
@@ -5465,7 +5465,7 @@
             "country": "Switzerland",
             "country_code": "CH",
             "region": "Valais",
-            "city": " Sion",
+            "city": "Sion",
             "zip_code": "1950",
             "coordinate":
             {
@@ -5496,7 +5496,7 @@
             "country": "Germany",
             "country_code": "DE",
             "region": "Berlin",
-            "city": " Berlin",
+            "city": "Berlin",
             "zip_code": "10629",
             "coordinate":
             {
@@ -5527,7 +5527,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "New York",
-            "city": " New Rochelle",
+            "city": "New Rochelle",
             "zip_code": "10801",
             "coordinate":
             {
@@ -5558,7 +5558,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "New Jersey",
-            "city": " Bedminster",
+            "city": "Bedminster",
             "zip_code": "07921",
             "coordinate":
             {
@@ -5589,7 +5589,7 @@
             "country": "Belgium",
             "country_code": "BE",
             "region": "Oost-Vlaanderen",
-            "city": " Gent",
+            "city": "Gent",
             "zip_code": "9052",
             "coordinate":
             {
@@ -5620,7 +5620,7 @@
             "country": "Italy",
             "country_code": "IT",
             "region": "Sicilia",
-            "city": " Trapani",
+            "city": "Trapani",
             "zip_code": "91100",
             "coordinate":
             {
@@ -5651,7 +5651,7 @@
             "country": "Canada",
             "country_code": "CA",
             "region": "New Brunswick",
-            "city": " Newcastle",
+            "city": "Newcastle",
             "zip_code": "E1V 2R1",
             "coordinate":
             {
@@ -5682,7 +5682,7 @@
             "country": "Japan",
             "country_code": "JP",
             "region": "Tokyo",
-            "city": " Tokyo",
+            "city": "Tokyo",
             "zip_code": "140-0002",
             "coordinate":
             {
@@ -5713,7 +5713,7 @@
             "country": "United Kingdom",
             "country_code": "GB",
             "region": "England",
-            "city": " Birmingham",
+            "city": "Birmingham",
             "zip_code": "B3",
             "coordinate":
             {
@@ -5744,7 +5744,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "New York",
-            "city": " New York City",
+            "city": "New York City",
             "zip_code": "10116",
             "coordinate":
             {
@@ -5775,7 +5775,7 @@
             "country": "Spain",
             "country_code": "ES",
             "region": "Castilla-La Mancha",
-            "city": " Albacete",
+            "city": "Albacete",
             "zip_code": "02080",
             "coordinate":
             {
@@ -5806,7 +5806,7 @@
             "country": "Switzerland",
             "country_code": "CH",
             "region": "Zurich",
-            "city": " Zurich",
+            "city": "Zurich",
             "zip_code": "8045",
             "coordinate":
             {
@@ -5837,7 +5837,7 @@
             "country": "Italy",
             "country_code": "IT",
             "region": "Emilia-Romagna",
-            "city": " Forli",
+            "city": "Forli",
             "zip_code": "47100",
             "coordinate":
             {
@@ -5868,7 +5868,7 @@
             "country": "Switzerland",
             "country_code": "CH",
             "region": "Vaud",
-            "city": " Lausanne",
+            "city": "Lausanne",
             "zip_code": "1002",
             "coordinate":
             {
@@ -5899,7 +5899,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Georgia",
-            "city": " Atlanta",
+            "city": "Atlanta",
             "zip_code": "30301",
             "coordinate":
             {
@@ -5930,7 +5930,7 @@
             "country": "Thailand",
             "country_code": "TH",
             "region": "Krung Thep Maha Nakhon",
-            "city": " Bangkok",
+            "city": "Bangkok",
             "zip_code": "10200",
             "coordinate":
             {
@@ -5961,7 +5961,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "New York",
-            "city": " Schenectady",
+            "city": "Schenectady",
             "zip_code": "12308",
             "coordinate":
             {
@@ -5992,7 +5992,7 @@
             "country": "Italy",
             "country_code": "IT",
             "region": "Lazio",
-            "city": " Rome",
+            "city": "Rome",
             "zip_code": "00166",
             "coordinate":
             {
@@ -6023,7 +6023,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Georgia",
-            "city": " Atlanta",
+            "city": "Atlanta",
             "zip_code": "30301",
             "coordinate":
             {
@@ -6054,7 +6054,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Texas",
-            "city": " Richardson",
+            "city": "Richardson",
             "zip_code": "75082",
             "coordinate":
             {
@@ -6085,7 +6085,7 @@
             "country": "Czech Republic",
             "country_code": "CZ",
             "region": "Stredocesky Kraj",
-            "city": " Dobris",
+            "city": "Dobris",
             "zip_code": "263 01",
             "coordinate":
             {
@@ -6116,7 +6116,7 @@
             "country": "South Africa",
             "country_code": "ZA",
             "region": "Western Cape",
-            "city": " Cape Town",
+            "city": "Cape Town",
             "zip_code": "8160",
             "coordinate":
             {
@@ -6147,7 +6147,7 @@
             "country": "France",
             "country_code": "FR",
             "region": "Ile-De-France",
-            "city": " Aubervilliers",
+            "city": "Aubervilliers",
             "zip_code": "93537",
             "coordinate":
             {
@@ -6178,7 +6178,7 @@
             "country": "Italy",
             "country_code": "IT",
             "region": "Veneto",
-            "city": " Padova",
+            "city": "Padova",
             "zip_code": "35143",
             "coordinate":
             {
@@ -6209,7 +6209,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Nevada",
-            "city": " Las Vegas",
+            "city": "Las Vegas",
             "zip_code": "89044",
             "coordinate":
             {
@@ -6240,7 +6240,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Wisconsin",
-            "city": " Durand",
+            "city": "Durand",
             "zip_code": "54736",
             "coordinate":
             {
@@ -6271,7 +6271,7 @@
             "country": "France",
             "country_code": "FR",
             "region": "Ile-De-France",
-            "city": " Bondy",
+            "city": "Bondy",
             "zip_code": "93149",
             "coordinate":
             {
@@ -6302,7 +6302,7 @@
             "country": "Germany",
             "country_code": "DE",
             "region": "Sachsen",
-            "city": " Chemnitz",
+            "city": "Chemnitz",
             "zip_code": "09120",
             "coordinate":
             {
@@ -6333,7 +6333,7 @@
             "country": "Denmark",
             "country_code": "DK",
             "region": "Hovedstaden",
-            "city": " Copenhagen",
+            "city": "Copenhagen",
             "zip_code": "2450",
             "coordinate":
             {
@@ -6364,7 +6364,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "New York",
-            "city": " Richmond Hill",
+            "city": "Richmond Hill",
             "zip_code": "11418",
             "coordinate":
             {
@@ -6395,7 +6395,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Massachusetts",
-            "city": " Woburn",
+            "city": "Woburn",
             "zip_code": "01801",
             "coordinate":
             {
@@ -6426,7 +6426,7 @@
             "country": "Japan",
             "country_code": "JP",
             "region": "Tokyo",
-            "city": " Tokyo",
+            "city": "Tokyo",
             "zip_code": "214-0021",
             "coordinate":
             {
@@ -6457,7 +6457,7 @@
             "country": "Spain",
             "country_code": "ES",
             "region": "Andalucia",
-            "city": " Lepe",
+            "city": "Lepe",
             "zip_code": "21440",
             "coordinate":
             {
@@ -6488,7 +6488,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "New York",
-            "city": " Hicksville",
+            "city": "Hicksville",
             "zip_code": "11801",
             "coordinate":
             {
@@ -6519,7 +6519,7 @@
             "country": "Indonesia",
             "country_code": "ID",
             "region": "Jakarta Raya",
-            "city": " Jakarta",
+            "city": "Jakarta",
             "zip_code": "12850",
             "coordinate":
             {
@@ -6550,7 +6550,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Massachusetts",
-            "city": " Boston",
+            "city": "Boston",
             "zip_code": "02108",
             "coordinate":
             {
@@ -6581,7 +6581,7 @@
             "country": "Canada",
             "country_code": "CA",
             "region": "Ontario",
-            "city": " Brampton",
+            "city": "Brampton",
             "zip_code": "L6T 4B8",
             "coordinate":
             {
@@ -6612,7 +6612,7 @@
             "country": "Argentina",
             "country_code": "AR",
             "region": "Ciudad Autonoma De Buenos Aires",
-            "city": " Buenos Aires",
+            "city": "Buenos Aires",
             "zip_code": "1871",
             "coordinate":
             {
@@ -6643,7 +6643,7 @@
             "country": "Denmark",
             "country_code": "DK",
             "region": "Hovedstaden",
-            "city": " Copenhagen",
+            "city": "Copenhagen",
             "zip_code": "2450",
             "coordinate":
             {
@@ -6674,7 +6674,7 @@
             "country": "Italy",
             "country_code": "IT",
             "region": "Lazio",
-            "city": " Rome",
+            "city": "Rome",
             "zip_code": "00166",
             "coordinate":
             {
@@ -6705,7 +6705,7 @@
             "country": "Germany",
             "country_code": "DE",
             "region": "Baden-Wurttemberg",
-            "city": " Bad Mergentheim",
+            "city": "Bad Mergentheim",
             "zip_code": "97980",
             "coordinate":
             {
@@ -6736,7 +6736,7 @@
             "country": "France",
             "country_code": "FR",
             "region": "Provence-Alpes-Cote-D'Azur",
-            "city": " Goult",
+            "city": "Goult",
             "zip_code": "84220",
             "coordinate":
             {
@@ -6767,7 +6767,7 @@
             "country": "Germany",
             "country_code": "DE",
             "region": "Hessen",
-            "city": " Eschborn",
+            "city": "Eschborn",
             "zip_code": "65760",
             "coordinate":
             {
@@ -6798,7 +6798,7 @@
             "country": "Norway",
             "country_code": "NO",
             "region": "Rogaland",
-            "city": " Stavanger",
+            "city": "Stavanger",
             "zip_code": "4095",
             "coordinate":
             {
@@ -6829,7 +6829,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "California",
-            "city": " San Ysidro",
+            "city": "San Ysidro",
             "zip_code": "92173",
             "coordinate":
             {
@@ -6860,7 +6860,7 @@
             "country": "Germany",
             "country_code": "DE",
             "region": "Bayern",
-            "city": " Nuremberg",
+            "city": "Nuremberg",
             "zip_code": "90455",
             "coordinate":
             {
@@ -6891,7 +6891,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Washington",
-            "city": " Bremerton",
+            "city": "Bremerton",
             "zip_code": "98310",
             "coordinate":
             {
@@ -6922,7 +6922,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Missouri",
-            "city": " Town And Country",
+            "city": "Town And Country",
             "zip_code": "63011",
             "coordinate":
             {
@@ -6953,7 +6953,7 @@
             "country": "Italy",
             "country_code": "IT",
             "region": "Lombardia",
-            "city": " Bergamo",
+            "city": "Bergamo",
             "zip_code": "24123",
             "coordinate":
             {
@@ -6984,7 +6984,7 @@
             "country": "Czech Republic",
             "country_code": "CZ",
             "region": "Stredocesky Kraj",
-            "city": " Ondrejov",
+            "city": "Ondrejov",
             "zip_code": "251 65",
             "coordinate":
             {
@@ -7015,7 +7015,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Wisconsin",
-            "city": " Milwaukee",
+            "city": "Milwaukee",
             "zip_code": "53201",
             "coordinate":
             {
@@ -7046,7 +7046,7 @@
             "country": "United Kingdom",
             "country_code": "GB",
             "region": "England",
-            "city": " London",
+            "city": "London",
             "zip_code": "WC2N",
             "coordinate":
             {
@@ -7077,7 +7077,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Connecticut",
-            "city": " Hartford",
+            "city": "Hartford",
             "zip_code": "06101",
             "coordinate":
             {
@@ -7108,7 +7108,7 @@
             "country": "France",
             "country_code": "FR",
             "region": "Provence-Alpes-Cote-D'Azur",
-            "city": " Chateauneuf-Les-Martigues",
+            "city": "Chateauneuf-Les-Martigues",
             "zip_code": "13220",
             "coordinate":
             {
@@ -7139,7 +7139,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Missouri",
-            "city": " Town And Country",
+            "city": "Town And Country",
             "zip_code": "63011",
             "coordinate":
             {
@@ -7170,7 +7170,7 @@
             "country": "Spain",
             "country_code": "ES",
             "region": "Galicia",
-            "city": " Vigo",
+            "city": "Vigo",
             "zip_code": "36208",
             "coordinate":
             {
@@ -7201,7 +7201,7 @@
             "country": "Germany",
             "country_code": "DE",
             "region": "Nordrhein-Westfalen",
-            "city": " Dusseldorf",
+            "city": "Dusseldorf",
             "zip_code": "40213",
             "coordinate":
             {
@@ -7232,7 +7232,7 @@
             "country": "Norway",
             "country_code": "NO",
             "region": "Vest-Agder",
-            "city": " Kristiansand",
+            "city": "Kristiansand",
             "zip_code": "4611",
             "coordinate":
             {
@@ -7263,7 +7263,7 @@
             "country": "Italy",
             "country_code": "IT",
             "region": "Emilia-Romagna",
-            "city": " Modena",
+            "city": "Modena",
             "zip_code": "41100",
             "coordinate":
             {
@@ -7294,7 +7294,7 @@
             "country": "Switzerland",
             "country_code": "CH",
             "region": "Bern",
-            "city": " Bern",
+            "city": "Bern",
             "zip_code": "3000",
             "coordinate":
             {
@@ -7325,7 +7325,7 @@
             "country": "France",
             "country_code": "FR",
             "region": "Nouvelle-Aquitaine",
-            "city": " Pau",
+            "city": "Pau",
             "zip_code": "64090",
             "coordinate":
             {
@@ -7356,7 +7356,7 @@
             "country": "United States",
             "country_code": "US",
             "region": "Iowa",
-            "city": " Primghar",
+            "city": "Primghar",
             "zip_code": "51245",
             "coordinate":
             {
@@ -7387,7 +7387,7 @@
             "country": "Switzerland",
             "country_code": "CH",
             "region": "Zurich",
-            "city": " Zurich",
+            "city": "Zurich",
             "zip_code": "8045",
             "coordinate":
             {
