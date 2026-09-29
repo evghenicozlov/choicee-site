@@ -218,7 +218,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-09-19T12:52:37.169Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -502,7 +504,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2026-09-19T12:42:37.169Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -583,7 +587,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "animals"
+    ],
     "created_at": "2026-09-19T12:39:37.169Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -1324,7 +1331,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2026-09-19T12:13:37.169Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -1351,7 +1360,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-09-19T12:12:37.169Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -1942,7 +1953,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2026-09-19T11:51:37.169Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -1996,7 +2009,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-09-19T11:49:37.169Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -2335,7 +2350,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-09-19T11:37:37.169Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -2483,7 +2500,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "architecture"
+    ],
     "created_at": "2026-09-19T11:32:37.170Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -2541,7 +2561,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2026-09-19T11:30:37.170Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -2678,7 +2700,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-09-19T11:25:37.170Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -2852,7 +2876,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2026-09-19T11:19:37.170Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -3108,7 +3134,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape"
+    ],
     "created_at": "2026-09-19T11:10:37.170Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -3771,7 +3799,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-09-19T10:47:37.170Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -3798,7 +3828,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-09-19T10:46:37.170Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -3855,7 +3887,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-09-19T10:43:37.170Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -3882,7 +3916,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2026-09-19T10:42:37.170Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -4201,7 +4237,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "sport"
+    ],
     "created_at": "2026-09-19T10:31:37.170Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -4259,7 +4297,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "architecture"
+    ],
     "created_at": "2026-09-19T10:29:37.170Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -4344,7 +4385,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2026-09-19T10:26:37.170Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -4721,7 +4764,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2026-09-19T10:13:37.170Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -5117,7 +5162,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-09-19T09:59:37.170Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -6557,7 +6604,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2026-09-19T09:08:37.170Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -6723,7 +6772,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "roads",
+      "traffic"
+    ],
     "created_at": "2026-09-19T09:02:37.170Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -6750,7 +6802,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "architecture"
+    ],
     "created_at": "2026-09-19T09:01:37.170Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -6945,7 +7000,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2026-08-30T17:20:49.863Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -7321,7 +7378,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-08-17T00:44:50.833Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -7526,7 +7585,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-08-10T11:52:44.319Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -7612,7 +7673,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "architecture"
+    ],
     "created_at": "2026-08-06T22:04:06.098Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -7894,7 +7958,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-07-28T09:21:17.827Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -8093,7 +8159,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-07-20T22:41:04.367Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -8205,7 +8273,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2026-07-17T11:59:36.921Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -8401,7 +8471,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "architecture"
+    ],
     "created_at": "2026-07-10T06:14:10.113Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -8457,7 +8530,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-07-07T22:35:04.810Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -8653,7 +8728,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2026-07-01T03:44:18.163Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -8680,7 +8757,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "architecture",
+      "parking"
+    ],
     "created_at": "2026-06-30T15:03:43.881Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -9432,7 +9513,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-06-03T22:17:29.624Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -9513,7 +9596,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2026-06-01T05:36:15.665Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -9714,7 +9799,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2026-05-25T00:03:52.320Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -9799,7 +9886,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-05-22T05:40:09.937Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -9826,7 +9915,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "architecture"
+    ],
     "created_at": "2026-05-21T13:34:46.184Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -9934,7 +10026,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "landscape"
+    ],
     "created_at": "2026-05-16T23:15:07.397Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -9961,7 +10056,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2026-05-16T03:40:49.334Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -10631,7 +10728,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-04-21T23:40:32.037Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -11125,7 +11224,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2026-04-05T00:08:45.377Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -11179,7 +11280,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2026-04-03T06:14:53.583Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -11290,7 +11393,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2026-03-30T09:54:46.429Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -12532,7 +12637,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "shops"
+    ],
     "created_at": "2026-02-15T08:48:51.968Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -13295,7 +13402,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-01-19T19:58:26.553Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -13322,7 +13431,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-01-17T23:58:16.493Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -13349,7 +13460,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-01-17T18:16:59.538Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -13521,7 +13634,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "landscape",
+      "waterfront"
+    ],
     "created_at": "2026-01-11T05:09:58.742Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -13548,7 +13665,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2026-01-10T19:00:48.451Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -13693,7 +13812,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2026-01-05T17:09:09.087Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -14107,7 +14228,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2025-12-22T17:37:21.640Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -14421,7 +14544,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2025-12-11T21:56:03.212Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -14979,7 +15104,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2025-11-21T00:43:56.712Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -15006,7 +15133,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2025-11-20T14:55:22.676Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -15544,7 +15673,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2025-11-01T02:25:06.972Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -15743,7 +15874,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2025-10-25T01:00:24.243Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -15797,7 +15930,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2025-10-23T19:47:34.525Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -16052,7 +16187,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture",
+      "nature"
+    ],
     "created_at": "2025-10-14T16:55:53.734Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -16218,7 +16356,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2025-10-08T09:01:40.985Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -16419,7 +16559,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture",
+      "nature"
+    ],
     "created_at": "2025-10-01T16:25:55.715Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -16506,7 +16649,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2025-09-28T09:29:18.880Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -17839,7 +17984,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2025-08-12T10:36:45.279Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -18113,7 +18260,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2025-08-02T13:16:21.333Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -18167,7 +18316,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture",
+      "nature"
+    ],
     "created_at": "2025-07-31T02:30:58.909Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -18335,7 +18487,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2025-07-25T16:33:45.224Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -18839,7 +18993,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2025-07-07T16:26:38.726Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -18866,7 +19022,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2025-07-06T17:03:10.814Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -19157,7 +19315,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2025-06-26T00:12:03.598Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -19322,7 +19482,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2025-06-20T11:56:34.542Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -19545,7 +19707,11 @@
     },
     "is_enabled": true,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "sea views",
+      "waterfront",
+      "pedestrian areas"
+    ],
     "created_at": "2025-06-12T09:01:22.667Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -20018,7 +20184,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2025-05-26T15:34:18.485Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -20218,7 +20386,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "architecture"
+    ],
     "created_at": "2025-05-19T02:56:59.627Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -20335,7 +20506,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2025-05-15T02:37:19.400Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -20569,7 +20742,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2025-05-07T06:12:21.017Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -20596,7 +20771,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2025-05-06T18:39:58.463Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -20623,7 +20800,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2025-05-05T17:42:29.875Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -21076,7 +21255,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "landscape"
+    ],
     "created_at": "2025-04-19T00:24:13.899Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -21134,7 +21316,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2025-04-17T09:44:10.806Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -21362,7 +21546,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2025-04-07T21:10:48.738Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -21649,7 +21835,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2025-03-29T13:08:33.018Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -21795,7 +21983,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "landscape"
+    ],
     "created_at": "2025-03-24T17:59:31.056Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -22294,7 +22485,11 @@
     },
     "is_enabled": true,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "city views",
+      "night views",
+      "shops"
+    ],
     "created_at": "2025-03-06T04:57:20.279Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -22402,7 +22597,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2025-03-02T12:41:04.533Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -22569,7 +22766,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2025-02-23T22:59:18.731Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -22709,7 +22908,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "architecture"
+    ],
     "created_at": "2025-02-19T14:02:15.085Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -23193,7 +23395,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2025-02-02T02:01:07.654Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -23220,7 +23424,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "architecture"
+    ],
     "created_at": "2025-02-01T12:35:02.717Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -23247,7 +23454,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "architecture"
+    ],
     "created_at": "2025-01-31T11:09:39.851Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -23301,7 +23511,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2025-01-29T17:22:27.583Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -23328,7 +23540,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2025-01-28T11:42:41.443Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -23355,7 +23569,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape",
+      "roads"
+    ],
     "created_at": "2025-01-27T14:02:24.017Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -23382,7 +23599,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape",
+      "roads"
+    ],
     "created_at": "2025-01-26T13:32:40.252Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -23581,7 +23801,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2025-01-19T17:30:25.250Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -23984,7 +24206,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2025-01-05T10:42:51.515Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -24529,7 +24753,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2024-12-16T23:48:57.059Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -24731,7 +24957,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2024-12-10T04:35:30.292Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -25095,7 +25323,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2024-11-27T12:30:01.598Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -25800,7 +26030,11 @@
     },
     "is_enabled": true,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "marinas",
+      "boats",
+      "waterfront"
+    ],
     "created_at": "2024-11-02T04:43:26.600Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -26517,7 +26751,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2024-10-08T12:03:37.165Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -26598,7 +26834,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2024-10-05T15:38:47.323Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -27134,7 +27372,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2024-09-15T23:42:47.899Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -27843,7 +28083,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2024-08-22T14:13:35.857Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -27870,7 +28112,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2024-08-21T03:54:49.984Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -28155,7 +28399,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2024-08-10T11:33:13.748Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -28182,7 +28428,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2024-08-08T23:00:53.241Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -28209,7 +28457,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2024-08-08T11:24:36.335Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -28324,7 +28574,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2024-08-04T04:09:12.614Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -28998,7 +29250,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2024-07-12T17:49:40.647Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -29025,7 +29279,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2024-07-11T07:55:52.068Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -29224,7 +29480,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2024-07-04T04:23:57.184Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -29251,7 +29509,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2024-07-03T11:07:19.668Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -30386,7 +30646,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "sea views",
+      "sunrise & sunset"
+    ],
     "created_at": "2024-05-24T15:15:38.817Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -30816,7 +31080,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "mountains",
+      "landscape"
+    ],
     "created_at": "2024-05-09T16:32:20.253Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -30900,7 +31168,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "forests"
+    ],
     "created_at": "2024-05-05T23:00:04.762Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -31039,7 +31310,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking",
+      "roads"
+    ],
     "created_at": "2024-04-30T21:50:40.059Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -31216,7 +31490,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "mountains",
+      "landscape"
+    ],
     "created_at": "2024-04-25T15:05:05.079Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -32547,7 +32825,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "landscape",
+      "mountains"
+    ],
     "created_at": "2024-03-10T03:03:03.000Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -32804,7 +33086,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "lakes",
+      "landscape"
+    ],
     "created_at": "2024-03-01T13:16:37.722Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -32858,7 +33144,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2024-02-28T21:38:43.117Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -32977,7 +33265,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture",
+      "nature"
+    ],
     "created_at": "2024-02-24T20:06:07.343Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -33699,7 +33990,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2024-01-30T05:37:33.677Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -33839,7 +34132,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2024-01-25T20:17:21.662Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -34486,7 +34781,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2024-01-02T12:05:56.128Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -35909,7 +36206,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2023-11-13T07:55:21.459Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -35936,7 +36235,13 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "sea views",
+      "bays",
+      "mountains",
+      "landscape"
+    ],
     "created_at": "2023-11-12T12:05:02.234Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -35993,7 +36298,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2023-11-10T18:57:48.681Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -36986,7 +37293,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture",
+      "nature"
+    ],
     "created_at": "2023-10-06T03:50:23.871Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -37617,7 +37927,9 @@
     },
     "is_enabled": true,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2023-09-13T21:15:59.622Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -38016,7 +38328,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2023-08-31T06:26:50.009Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -39406,7 +39720,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2023-07-14T05:59:45.937Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -40919,7 +41235,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2023-05-22T09:01:05.276Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -41232,7 +41550,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2023-05-11T05:21:09.857Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -41687,7 +42007,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2023-04-25T04:26:58.233Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -42254,7 +42576,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2023-04-05T18:30:52.476Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -42620,7 +42944,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "sunrise & sunset"
+    ],
     "created_at": "2023-03-22T23:22:29.750Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -42900,7 +43226,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2023-03-13T11:09:12.968Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -42927,7 +43255,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2023-03-12T05:59:19.712Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -45210,7 +45540,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "trains",
+      "train stations",
+      "public transport"
+    ],
     "created_at": "2022-12-23T15:30:20.874Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -46026,7 +46360,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2022-11-25T08:57:26.495Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -46321,7 +46657,10 @@
     },
     "is_enabled": true,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape",
+      "city views"
+    ],
     "created_at": "2022-11-15T00:15:35.066Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -46811,7 +47150,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "architecture"
+    ],
     "created_at": "2022-10-29T11:56:07.157Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -46894,7 +47236,10 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture",
+      "towers"
+    ],
     "created_at": "2022-10-26T07:53:38.795Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -47208,7 +47553,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2022-10-15T10:44:03.854Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -47640,7 +47987,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2022-09-30T01:49:29.500Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -48100,7 +48449,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2022-09-14T08:12:36.158Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -48448,7 +48799,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "created_at": "2022-09-02T18:50:29.285Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -48770,7 +49123,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2022-08-22T00:21:33.810Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
@@ -49054,7 +49409,9 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2022-08-12T05:15:01.715Z",
     "modified_at": "2026-09-28T07:59:51.647443+00:00"
   },
