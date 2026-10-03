@@ -1,10 +1,9 @@
-import { JsonPipe } from '@angular/common';
 import { Component, input } from '@angular/core';
 import { StarParams } from './star-params';
 
 @Component({
   selector: 'app-star',
-  imports: [JsonPipe],
+  imports: [],
   templateUrl: './star.html',
   styleUrl: './star.scss',
   host: {

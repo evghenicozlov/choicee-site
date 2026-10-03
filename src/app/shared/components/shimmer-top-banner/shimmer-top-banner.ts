@@ -1,4 +1,4 @@
-import { JsonPipe, NgTemplateOutlet } from '@angular/common';
+import { NgTemplateOutlet } from '@angular/common';
 import { Component, input } from '@angular/core';
 import { ShimmerView } from '../shimmer-view/shimmer-view';
 import { Star } from '../star/star';
@@ -6,7 +6,7 @@ import { StarParams } from '../star/star-params';
 
 @Component({
   selector: 'app-shimmer-top-banner',
-  imports: [NgTemplateOutlet, ShimmerView, Star, JsonPipe],
+  imports: [NgTemplateOutlet, ShimmerView, Star],
   templateUrl: './shimmer-top-banner.html',
   styleUrl: './shimmer-top-banner.scss',
 })
