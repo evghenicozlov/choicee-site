@@ -1,5 +1,5 @@
 [
-    {
+  {
     "id": "4eefdd08-d373-40f3-a223-fc6c4c09c2a9",
     "title": "Vegetated Roadside",
     "stream_url": "http://210.185.143.241:8080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
@@ -31,7 +31,7 @@
   },
   {
     "id": "a01e2533-6ba4-4505-bc11-51dff93e5f3d",
-    "title": "Indistinct Camera View",
+    "title": "Office and Storage Room",
     "stream_url": "http://153.198.1.158:60001/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012786.jpg",
@@ -54,7 +54,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T15:28:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "3c456fdd-f7b2-4454-a699-24b93896b885",
@@ -112,7 +112,7 @@
   },
   {
     "id": "f297ebb1-c102-4a96-986c-8eb0dfba7309",
-    "title": "Indistinct Camera View",
+    "title": "Solar Panels and Wooded Hills",
     "stream_url": "http://153.131.194.166:9080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012783.jpg",
@@ -133,13 +133,16 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape",
+      "nature"
+    ],
     "created_at": "2026-10-03T15:31:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "43bd08e8-6024-4823-a21a-0ae19fede62c",
-    "title": "Indistinct Camera View",
+    "title": "Pavement Close-Up",
     "stream_url": "http://114.184.246.240:50000/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012782.jpg",
@@ -162,7 +165,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T15:32:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "22a882f8-010b-4054-a1e8-ea84859fc4ff",
@@ -301,7 +304,7 @@
   },
   {
     "id": "5957a93c-9966-40a1-a4c5-dc5ad945be3f",
-    "title": "Indistinct Camera View",
+    "title": "Workshop Interior",
     "stream_url": "http://182.169.49.34:50003/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012773.jpg",
@@ -324,11 +327,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T15:38:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "3893abaf-9279-4d0f-b799-789252d52596",
-    "title": "Indistinct Camera View",
+    "title": "Garden and Hillside",
     "stream_url": "http://118.19.70.95/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012772.jpg",
@@ -349,9 +352,12 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "landscape"
+    ],
     "created_at": "2026-10-03T15:39:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "caba4ce9-12d1-4c4c-ba57-03924864a286",
@@ -468,7 +474,7 @@
   },
   {
     "id": "fd258ee1-582c-444c-8728-edaa9fc151ad",
-    "title": "Indistinct Camera View",
+    "title": "Garden Path",
     "stream_url": "http://222.224.137.72:10083/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012764.jpg",
@@ -489,13 +495,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T15:44:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "4344d743-be9b-47d5-8490-c69bf546975b",
-    "title": "Indistinct Camera View",
+    "title": "Parked Cars",
     "stream_url": "http://14.132.169.58:8010/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012763.jpg",
@@ -516,13 +524,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-03T15:45:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "53f590a4-23f6-4739-9e59-a703588cd4a1",
-    "title": "Indistinct Camera View",
+    "title": "Storage Aisle",
     "stream_url": "http://106.186.238.201:50011/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012762.jpg",
@@ -545,11 +555,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T15:46:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "2c4355ad-d480-4cee-becd-d20647777788",
-    "title": "Indistinct Camera View",
+    "title": "Solar Farm and Hills",
     "stream_url": "http://153.234.171.181:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012761.jpg",
@@ -570,9 +580,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape"
+    ],
     "created_at": "2026-10-03T15:47:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "05fa1e06-5668-49df-807d-667afa6c421b",
@@ -686,7 +698,7 @@
   },
   {
     "id": "85cd3cce-6a44-49cd-afaa-63977fa53d11",
-    "title": "Indistinct Camera View",
+    "title": "Parked Buses",
     "stream_url": "http://153.230.116.253:82/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012756.jpg",
@@ -707,9 +719,12 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking",
+      "public transport"
+    ],
     "created_at": "2026-10-03T15:52:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "b528bfc9-2654-4a97-9e3e-89427e0cbac9",
@@ -743,7 +758,7 @@
   },
   {
     "id": "2535652c-7136-486b-9dec-4bee4af3509f",
-    "title": "Indistinct Camera View",
+    "title": "Industrial Equipment",
     "stream_url": "http://106.51.185.124:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012754.jpg",
@@ -766,7 +781,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T15:54:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "8c145a81-4fbe-497e-90a2-e23605ff8e24",
@@ -853,7 +868,7 @@
   },
   {
     "id": "a50ab9c9-dd11-4306-8b2c-db9da9079bb5",
-    "title": "Indistinct Camera View",
+    "title": "Solar Panels beside Trees",
     "stream_url": "http://180.50.165.181:9080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012750.jpg",
@@ -874,13 +889,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T15:58:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "681c1904-a63b-4df3-b864-85d58a7bbab1",
-    "title": "Indistinct Camera View",
+    "title": "Solar Panels and Equipment",
     "stream_url": "http://153.148.67.7/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012749.jpg",
@@ -903,11 +920,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T15:59:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "7ebdad57-f5b3-43f3-9cc2-c5fc0bb8102c",
-    "title": "Indistinct Camera View",
+    "title": "Woodland View",
     "stream_url": "http://220.254.151.38:51005/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012746.jpg",
@@ -928,13 +945,16 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "forests"
+    ],
     "created_at": "2026-10-03T16:00:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "edbc89a5-4bc7-4716-9b07-f2d98e69273b",
-    "title": "Indistinct Camera View",
+    "title": "Restaurant Interior",
     "stream_url": "http://200.116.110.47:82/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012744.jpg",
@@ -955,9 +975,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "bars & restaurants"
+    ],
     "created_at": "2026-10-03T16:01:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "802c391b-af8a-46d8-ba49-7bde3c487869",
@@ -1096,7 +1118,7 @@
   },
   {
     "id": "2630b119-a128-4e94-9383-664101ed6d57",
-    "title": "Indistinct Camera View",
+    "title": "Dense Vegetation",
     "stream_url": "http://153.183.73.78/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012732.jpg",
@@ -1117,9 +1139,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T16:07:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "ff60fd9c-cffe-471c-9a40-b9dc0ee57717",
@@ -1179,7 +1203,7 @@
   },
   {
     "id": "7639d6d0-e0f4-4dbd-aa5d-282dd9be17ed",
-    "title": "Indistinct Camera View",
+    "title": "Covered Livestock Walkway",
     "stream_url": "http://180.14.160.233:8080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012728.jpg",
@@ -1200,9 +1224,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "animals"
+    ],
     "created_at": "2026-10-03T16:10:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "c5c0eff8-255b-40c3-a8fa-4ed7a002eb44",
@@ -1233,7 +1259,7 @@
   },
   {
     "id": "aa556ebd-e868-4c53-bcfc-403d0fb5fe24",
-    "title": "Indistinct Camera View",
+    "title": "Office Workstations",
     "stream_url": "http://125.131.77.158/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012726.jpg",
@@ -1256,11 +1282,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T16:12:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "5856fec2-d067-41bc-a6f2-ef7fdec25bd9",
-    "title": "Indistinct Camera View",
+    "title": "Closed Shutter",
     "stream_url": "http://180.29.252.226/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012725.jpg",
@@ -1283,11 +1309,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T16:13:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "27fa9e94-5240-41a0-9f46-999d9295b96a",
-    "title": "Indistinct Camera View",
+    "title": "Cattle Barn",
     "stream_url": "http://210.136.130.214:50003/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012724.jpg",
@@ -1308,9 +1334,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "animals"
+    ],
     "created_at": "2026-10-03T16:14:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "2edf4945-52e8-4f16-a9b1-0f840d75664c",
@@ -1343,7 +1371,7 @@
   },
   {
     "id": "37e2fe36-e5d7-4874-9234-5675b1ab87fb",
-    "title": "Indistinct Camera View",
+    "title": "Bar Interior",
     "stream_url": "http://200.116.110.47:83/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012720.jpg",
@@ -1364,9 +1392,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "bars & restaurants"
+    ],
     "created_at": "2026-10-03T16:16:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "13025fb5-e149-4c15-ba30-3aa2654474eb",
@@ -1424,7 +1454,7 @@
   },
   {
     "id": "c298e1e4-403c-45d5-ae0b-4a2496f622a0",
-    "title": "Indistinct Camera View",
+    "title": "Fields and Distant Hills",
     "stream_url": "http://153.238.145.141:9696/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012714.jpg",
@@ -1445,9 +1475,12 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape",
+      "nature"
+    ],
     "created_at": "2026-10-03T16:19:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "e82e78b6-3a70-4128-90b5-a680e02ca0ab",
@@ -1480,7 +1513,7 @@
   },
   {
     "id": "23c6720f-b0c4-4027-9f6c-795070797fad",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Factory Aisle",
     "stream_url": "http://103.206.240.226:8003/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012712.jpg",
@@ -1503,7 +1536,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T16:21:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "6d373a9c-8127-4300-b6d3-e3e46fa93234",
@@ -1561,7 +1594,7 @@
   },
   {
     "id": "7c10ff7e-e666-40fc-a698-c1c70bbaec40",
-    "title": "Indistinct Camera View",
+    "title": "Dense Vegetation",
     "stream_url": "http://153.183.73.78:8079/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012709.jpg",
@@ -1582,9 +1615,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T16:24:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "dbf5b8a7-8d78-4fb9-9edf-d281120b65c9",
@@ -1671,7 +1706,7 @@
   },
   {
     "id": "c7f83f85-4e80-4f31-a032-5690f140ab55",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Garden Trees",
     "stream_url": "http://113.20.231.92:8080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012704.jpg",
@@ -1692,9 +1727,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T16:28:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "8596a2ef-3b04-4c7e-ac33-fcf9f7d2ff2d",
@@ -1754,7 +1791,7 @@
   },
   {
     "id": "84a296fa-e294-47f8-ba91-3c410638de55",
-    "title": "Indistinct Camera View",
+    "title": "Garden Pavilion",
     "stream_url": "http://153.162.219.219/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012700.jpg",
@@ -1775,13 +1812,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T16:31:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "114b4e29-ab70-4059-a10c-d83d52b198d2",
-    "title": "Indistinct Camera View",
+    "title": "Solar Panels beside Woodland",
     "stream_url": "http://153.223.112.130:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012699.jpg",
@@ -1802,13 +1841,16 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "landscape"
+    ],
     "created_at": "2026-10-03T16:32:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "8556a4f0-5154-421e-8e23-ffdb9d4ca0f8",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Parking beside Buildings",
     "stream_url": "http://31.125.95.247:50000/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012698.jpg",
@@ -1829,13 +1871,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-03T16:33:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "ffcb81cf-8c40-4703-97f1-05b4ccdff613",
-    "title": "Indistinct Camera View",
+    "title": "Solar Panels and Vegetation",
     "stream_url": "http://153.235.134.55/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012697.jpg",
@@ -1856,9 +1900,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T16:34:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "9501fa82-5817-4a36-8093-ba2a8a521960",
@@ -1918,7 +1964,7 @@
   },
   {
     "id": "4f1bcc08-6efe-4163-8f2d-67a1a9ad2c41",
-    "title": "Indistinct Camera View",
+    "title": "Garden Swing",
     "stream_url": "http://218.45.189.55:8035/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012692.jpg",
@@ -1939,13 +1985,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T16:37:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "ead6bb33-a792-4400-ac73-d31dbdb11455",
-    "title": "Indistinct Camera View",
+    "title": "Office Desk",
     "stream_url": "http://114.162.118.50/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012691.jpg",
@@ -1968,11 +2016,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T16:38:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "bd64ee66-e03d-4eb3-bd6a-83ca834aabc2",
-    "title": "Indistinct Camera View",
+    "title": "Storage Room",
     "stream_url": "http://123.221.117.101:60001/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012690.jpg",
@@ -1995,11 +2043,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T16:39:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "370bc44e-a9cb-4c8a-9a1b-482e06e3e8aa",
-    "title": "Indistinct Camera View",
+    "title": "Equipment Room",
     "stream_url": "http://222.150.196.75/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012689.jpg",
@@ -2022,11 +2070,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T16:40:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "1446e9a1-672c-4c63-b558-c49e50728d0a",
-    "title": "Indistinct Camera View",
+    "title": "Overgrown Garden",
     "stream_url": "http://42.126.57.70:50002/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012688.jpg",
@@ -2047,13 +2095,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T16:41:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "95802439-a917-4300-a6e1-0ac07856ecaa",
-    "title": "Indistinct Camera View",
+    "title": "Rooftops and Distant Hills",
     "stream_url": "http://124.255.240.247:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012684.jpg",
@@ -2074,13 +2124,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape"
+    ],
     "created_at": "2026-10-03T16:42:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "c214f785-5007-4a0e-a21a-3c91660bb903",
-    "title": "Unavailable Camera",
+    "title": "Residential Street",
     "stream_url": "http://115.30.178.233:8082/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012679.jpg",
@@ -2096,14 +2148,16 @@
       "timezone": "+09:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 640,
+      "height": 480
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "streets"
+    ],
     "created_at": "2026-10-03T16:43:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "ba58fd5e-4880-4a48-a755-fc63853ab8e5",
@@ -2136,7 +2190,7 @@
   },
   {
     "id": "d0d806ea-915f-44f3-9161-74486fc59bbd",
-    "title": "Indistinct Camera View",
+    "title": "Office Work Area",
     "stream_url": "http://180.44.32.239:8001/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012677.jpg",
@@ -2159,11 +2213,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T16:45:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "6e2ec665-0e0d-462c-8854-3f9c12e9b022",
-    "title": "Indistinct Camera View",
+    "title": "Equipment and Cables",
     "stream_url": "http://157.66.72.10:1990/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012676.jpg",
@@ -2186,7 +2240,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T16:46:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "e931cc9b-093e-4cf3-899f-093af71f55d3",
@@ -2217,7 +2271,7 @@
   },
   {
     "id": "ae0c70d0-a885-4f80-a788-edba2f9bd53f",
-    "title": "Indistinct Camera View",
+    "title": "Covered Storage Area",
     "stream_url": "http://124.45.100.4/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012674.jpg",
@@ -2240,7 +2294,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T16:48:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "e0667915-1ed2-4ba3-9047-f5da6f960bf7",
@@ -2298,7 +2352,7 @@
   },
   {
     "id": "07113688-6b57-4392-88c1-27a84074e4f1",
-    "title": "Indistinct Camera View",
+    "title": "Equipment Display",
     "stream_url": "http://110.54.43.248/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012670.jpg",
@@ -2321,7 +2375,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T16:51:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "ef543f56-7be2-4740-98cc-48463205d0f1",
@@ -2352,7 +2406,7 @@
   },
   {
     "id": "50f49907-f23e-4d63-a56a-d34725c98e8c",
-    "title": "Indistinct Camera View",
+    "title": "Solar Farm on Hillside",
     "stream_url": "http://157.107.247.49/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012668.jpg",
@@ -2373,9 +2427,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape"
+    ],
     "created_at": "2026-10-03T16:53:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "4e8da0e9-eedf-40a9-85b6-aa270a544f69",
@@ -2406,7 +2462,7 @@
   },
   {
     "id": "3b9e957b-bb7e-47ad-8416-2ada6a3fda20",
-    "title": "Indistinct Camera View",
+    "title": "Solar Panel Rows",
     "stream_url": "http://157.107.247.49:82/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012666.jpg",
@@ -2429,7 +2485,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T16:55:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "83bd84ea-e0b3-43b3-ad8b-72d23176c8c0",
@@ -2489,7 +2545,7 @@
   },
   {
     "id": "e6d407b3-9d94-4c00-9692-1fd970c577c8",
-    "title": "Indistinct Camera View",
+    "title": "Livestock Barn",
     "stream_url": "http://220.109.20.107:8080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012659.jpg",
@@ -2510,13 +2566,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "animals"
+    ],
     "created_at": "2026-10-03T16:58:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "edf0d2b5-9e9b-4a1f-99fd-7926e70ec565",
-    "title": "Indistinct Camera View",
+    "title": "Indoor Seating Area",
     "stream_url": "http://58.98.115.60:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012656.jpg",
@@ -2539,7 +2597,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T16:59:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "f510727c-54e5-4d0a-8813-8e932796ce64",
@@ -2626,7 +2684,7 @@
   },
   {
     "id": "ca917940-7d98-4897-945a-973038416131",
-    "title": "Indistinct Camera View",
+    "title": "Entrance Floor",
     "stream_url": "http://163.44.54.3:82/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012649.jpg",
@@ -2649,7 +2707,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T17:03:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "30f30220-c447-44a0-9687-9d2317381dbd",
@@ -2736,7 +2794,7 @@
   },
   {
     "id": "c8c3d3c5-2d0f-4c57-bd68-72a979a80e49",
-    "title": "Indistinct Camera View",
+    "title": "Paved Service Yard",
     "stream_url": "http://153.130.76.233/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012643.jpg",
@@ -2759,7 +2817,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T17:07:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "9ce7fd9c-7f1f-4a52-ad96-98eedb83a298",
@@ -2819,7 +2877,7 @@
   },
   {
     "id": "d19cc2ec-f545-438d-8345-7bae3aeb4711",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Cattle Barn",
     "stream_url": "http://210.4.181.116/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012640.jpg",
@@ -2840,13 +2898,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "animals"
+    ],
     "created_at": "2026-10-03T17:10:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "5b05e80b-b698-414b-865d-f47039b9b8ce",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Service Corridor",
     "stream_url": "http://36.53.195.204/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012635.jpg",
@@ -2869,11 +2929,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T17:11:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "5c3ed7d1-28f9-4e8a-a4ca-c7af00d14757",
-    "title": "Indistinct Camera View",
+    "title": "Solar Farm and Forest",
     "stream_url": "http://157.107.247.49:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012634.jpg",
@@ -2894,9 +2954,12 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "landscape"
+    ],
     "created_at": "2026-10-03T17:12:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "3dddb7c8-23d0-447f-9ace-e74f65f85b4b",
@@ -2927,7 +2990,7 @@
   },
   {
     "id": "d6f0aff3-6638-41f0-be2b-9d71e2ac4698",
-    "title": "Indistinct Camera View",
+    "title": "Solar Panels and Equipment",
     "stream_url": "http://60.45.33.33:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012631.jpg",
@@ -2950,7 +3013,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T17:14:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "103af308-e059-4bd0-bbdd-2426e8434ad9",
@@ -3201,7 +3264,7 @@
   },
   {
     "id": "61bd76c5-4b03-4164-988d-d5ce30a9245e",
-    "title": "Indistinct Camera View",
+    "title": "Parked Car beside Street",
     "stream_url": "http://111.89.92.72:8007/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012609.jpg",
@@ -3222,13 +3285,16 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking",
+      "streets"
+    ],
     "created_at": "2026-10-03T17:24:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "6bf7f7c2-5552-47d7-b87b-f56aefea870c",
-    "title": "Indistinct Camera View",
+    "title": "Indoor Staircase",
     "stream_url": "http://36.2.159.106:9080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012608.jpg",
@@ -3251,7 +3317,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T17:25:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "e825655f-5fc4-4a27-b093-975a531b2ae4",
@@ -3282,7 +3348,7 @@
   },
   {
     "id": "f1f7332d-9b7f-4044-9f64-c28f9e14d712",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Fenced Water Channel",
     "stream_url": "http://210.134.200.41:8880/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012606.jpg",
@@ -3305,7 +3371,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T17:27:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "89ee0cc5-7065-4a0c-b3bc-047820dd6765",
@@ -3336,7 +3402,7 @@
   },
   {
     "id": "b4137b39-e046-4e76-aea8-007fdd392be0",
-    "title": "Indistinct Camera View",
+    "title": "Wet Roadway",
     "stream_url": "http://113.20.230.162:8080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012597.jpg",
@@ -3357,13 +3423,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "roads"
+    ],
     "created_at": "2026-10-03T17:29:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "8910314c-f237-4aba-b6f4-e5477a452eae",
-    "title": "Indistinct Camera View",
+    "title": "Paved Ground",
     "stream_url": "http://108.196.2.199/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012596.jpg",
@@ -3386,7 +3454,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T17:30:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "77a45c26-c188-471f-b639-eb7bcc5e24a2",
@@ -3417,7 +3485,7 @@
   },
   {
     "id": "377fb508-6ff5-4caa-af38-79e7ae74aa89",
-    "title": "Indistinct Camera View",
+    "title": "Window and Balcony",
     "stream_url": "http://153.217.68.70:82/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012593.jpg",
@@ -3440,7 +3508,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T17:32:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "1f54bac9-78cc-4af7-b5d1-dd88ab9c79ac",
@@ -3543,14 +3611,14 @@
       "timezone": "-08:00"
     },
     "resolution": {
-      "width": 160,
-      "height": 120
+      "width": 640,
+      "height": 480
     },
     "is_enabled": false,
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T17:36:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "b0fdc50a-45f2-4a71-859d-7d784a1defff",
@@ -3584,7 +3652,7 @@
   },
   {
     "id": "c56e038a-e92d-44d9-acbf-fbf5dd7525df",
-    "title": "Unavailable Camera",
+    "title": "Building Entrance",
     "stream_url": "http://49.135.36.172:10081/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012585.jpg",
@@ -3600,14 +3668,14 @@
       "timezone": "+09:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 640,
+      "height": 480
     },
     "is_enabled": false,
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T17:38:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "eeef0f54-746f-486c-91df-717268d3252c",
@@ -3638,7 +3706,7 @@
   },
   {
     "id": "281c2f25-a186-434c-994a-c2f306eaf2d0",
-    "title": "Indistinct Camera View",
+    "title": "Indoor Equipment",
     "stream_url": "http://27.127.26.51:60001/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012583.jpg",
@@ -3661,11 +3729,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T17:40:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "70e4c1be-4b54-4598-922e-7daf8d9eb844",
-    "title": "Indistinct Camera View",
+    "title": "Gravel Yard",
     "stream_url": "http://218.228.10.154:60010/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012582.jpg",
@@ -3688,7 +3756,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T17:41:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "879bdaf7-ccec-4166-acb8-1de35a3cb0d7",
@@ -3721,7 +3789,7 @@
   },
   {
     "id": "6b88168b-532f-4745-903d-5f50abdad35b",
-    "title": "Indistinct Camera View",
+    "title": "Office Interior",
     "stream_url": "http://153.180.208.48:50013/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012580.jpg",
@@ -3744,7 +3812,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T17:43:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "79098a09-41b8-4d01-97b6-34e78b52e20b",
@@ -3829,7 +3897,7 @@
   },
   {
     "id": "0e1e1631-47e6-4e30-ab4f-47f1bec9008e",
-    "title": "Indistinct Camera View",
+    "title": "Workshop Interior",
     "stream_url": "http://106.51.185.124:83/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012573.jpg",
@@ -3852,11 +3920,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T17:47:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "325f0dc1-c135-4f6b-91ec-64ad21a891dc",
-    "title": "Indistinct Camera View",
+    "title": "Garage Interior",
     "stream_url": "http://114.170.233.44/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012570.jpg",
@@ -3879,7 +3947,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T17:48:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "8e4cafd9-bb68-48ae-a095-9a0c2c6db0ce",
@@ -4049,7 +4117,7 @@
   },
   {
     "id": "76b72811-38cc-481d-8206-91ce26183017",
-    "title": "Indistinct Camera View",
+    "title": "Factory Machinery",
     "stream_url": "http://210.252.203.98/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012554.jpg",
@@ -4072,11 +4140,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T17:55:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "09724768-3d97-44a5-a051-d411b6ddddb6",
-    "title": "Indistinct Camera View",
+    "title": "Service Yard",
     "stream_url": "http://62.2.85.226:8021/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012553.jpg",
@@ -4099,11 +4167,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T17:56:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "78e54a83-3c2a-4526-a028-e131ffb506b2",
-    "title": "Indistinct Camera View",
+    "title": "Utility Room",
     "stream_url": "http://153.167.42.4/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012552.jpg",
@@ -4126,11 +4194,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T17:57:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "1bd84c35-cd26-4007-ae5b-122b3b0d8697",
-    "title": "Indistinct Camera View",
+    "title": "Storage Aisle",
     "stream_url": "http://220.157.222.110:8011/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012551.jpg",
@@ -4153,11 +4221,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T17:58:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "04e2d9ee-568a-4892-8e0a-63ebfdba2f56",
-    "title": "Indistinct Camera View",
+    "title": "Exercise Room",
     "stream_url": "http://183.77.159.247:5222/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012550.jpg",
@@ -4178,9 +4246,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "sport"
+    ],
     "created_at": "2026-10-03T17:59:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "9ade5c5e-05b5-4c35-8b2a-c828a343a2d8",
@@ -4211,7 +4281,7 @@
   },
   {
     "id": "9d3ef95a-2c56-426f-a3fd-6926d1dd2ee6",
-    "title": "Indistinct Camera View",
+    "title": "Cattle Barn",
     "stream_url": "http://153.170.47.24/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012548.jpg",
@@ -4232,9 +4302,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "animals"
+    ],
     "created_at": "2026-10-03T18:01:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "1e3b0bd6-691d-4a26-b745-9d9daf790b6e",
@@ -4381,7 +4453,7 @@
   },
   {
     "id": "c601a8fe-af37-401f-99fd-eddeaf7c3794",
-    "title": "Indistinct Camera View",
+    "title": "Solar Panel Rows",
     "stream_url": "http://124.159.197.11/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012538.jpg",
@@ -4404,7 +4476,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T18:07:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "1a728089-cc2e-4183-9ddd-e6b84a12969b",
@@ -4437,7 +4509,7 @@
   },
   {
     "id": "f3201975-09d8-4997-8294-8008915b5830",
-    "title": "Indistinct Camera View",
+    "title": "Distant Hills through Haze",
     "stream_url": "http://153.234.123.219/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012536.jpg",
@@ -4458,9 +4530,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape"
+    ],
     "created_at": "2026-10-03T18:09:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "3dbfc1c4-c9f3-4511-8c60-980c008f6ae9",
@@ -4518,7 +4592,7 @@
   },
   {
     "id": "022507bc-e61d-4671-aac5-e7c027109dbe",
-    "title": "Indistinct Camera View",
+    "title": "Paved Parking Area",
     "stream_url": "http://61.115.79.79:60021/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012532.jpg",
@@ -4539,9 +4613,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-03T18:12:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "98f189df-76de-44a3-a923-b25ca5858ecc",
@@ -4572,7 +4648,7 @@
   },
   {
     "id": "ce8040e2-23b1-4ba4-9c60-2be5d1074c0d",
-    "title": "Indistinct Camera View",
+    "title": "Rooftop and Water View",
     "stream_url": "http://203.112.36.251/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012529.jpg",
@@ -4593,9 +4669,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "waterfront"
+    ],
     "created_at": "2026-10-03T18:14:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "31eddc77-da0c-4a1a-a918-5c9094118e9c",
@@ -4653,7 +4731,7 @@
   },
   {
     "id": "91a084ad-83c2-44b7-aa18-a4c60e5a040c",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Field beyond Wall",
     "stream_url": "http://194.69.196.102:8069/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012523.jpg",
@@ -4674,13 +4752,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape"
+    ],
     "created_at": "2026-10-03T18:17:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "02e2822d-da10-468b-af8f-e9a61fde609d",
-    "title": "Indistinct Camera View",
+    "title": "Factory Interior",
     "stream_url": "http://113.42.43.90:7500/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012522.jpg",
@@ -4703,7 +4783,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T18:18:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "cf67be17-4a4c-468c-9a48-589d7fcca265",
@@ -4761,7 +4841,7 @@
   },
   {
     "id": "ed5c173b-b9ae-455b-ac8a-49c9401c49ef",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Building Framework",
     "stream_url": "http://180.35.138.48/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012519.jpg",
@@ -4784,7 +4864,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T18:21:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "42fdbcd4-6249-4ca7-8d14-b068e2a9b12b",
@@ -4815,7 +4895,7 @@
   },
   {
     "id": "4061a60f-1d8c-4a58-bf93-c7ae687491fc",
-    "title": "Indistinct Camera View",
+    "title": "Room with Shrine",
     "stream_url": "http://202.238.91.229:82/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012517.jpg",
@@ -4838,7 +4918,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T18:23:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "9c42a22e-ee29-40d6-acad-c83bc71044e1",
@@ -4871,7 +4951,7 @@
   },
   {
     "id": "a1d81f7b-74f4-4529-acd9-11f5dd326fc1",
-    "title": "Indistinct Camera View",
+    "title": "Indoor Storage Area",
     "stream_url": "http://58.152.228.120:50001/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012515.jpg",
@@ -4894,11 +4974,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T18:25:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "20b9153c-bb0b-4513-9fcc-01cdf147467d",
-    "title": "Indistinct Camera View",
+    "title": "Office Workstations",
     "stream_url": "http://106.51.185.124:84/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012510.jpg",
@@ -4921,11 +5001,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T18:26:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "64c45c7c-e658-4fc0-96d7-097240240266",
-    "title": "Indistinct Camera View",
+    "title": "Trees beside Building",
     "stream_url": "http://153.197.198.8:8888/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012508.jpg",
@@ -4946,9 +5026,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T18:27:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "88ecf29f-5b1c-446e-b394-e634ea80f5b6",
@@ -5124,7 +5206,7 @@
   },
   {
     "id": "56a4f1fc-2c77-4064-82f1-1505124ecf33",
-    "title": "Indistinct Camera View",
+    "title": "Parked Cars and Distant Landscape",
     "stream_url": "http://148.68.227.91/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012500.jpg",
@@ -5145,13 +5227,16 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking",
+      "landscape"
+    ],
     "created_at": "2026-10-03T18:34:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "f788cd9e-a310-459c-8f00-60d6b9ef2f5e",
-    "title": "Indistinct Camera View",
+    "title": "Worktable and Equipment",
     "stream_url": "http://153.131.97.21:8880/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012499.jpg",
@@ -5174,7 +5259,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T18:35:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "1cf363df-eeae-4aab-a11e-da0f5ac095ce",
@@ -5205,7 +5290,7 @@
   },
   {
     "id": "07420ebd-edb1-4109-b204-1ab4045170a9",
-    "title": "Indistinct Camera View",
+    "title": "Livestock Barn",
     "stream_url": "http://210.131.132.156/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012497.jpg",
@@ -5226,13 +5311,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "animals"
+    ],
     "created_at": "2026-10-03T18:37:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "631738eb-aa43-49bc-b652-075dc2a86c73",
-    "title": "Indistinct Camera View",
+    "title": "Garden beside Building",
     "stream_url": "http://122.249.211.239:8083/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012496.jpg",
@@ -5253,13 +5340,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T18:38:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "d0a74c48-40e2-47a8-937b-324dfbe098d7",
-    "title": "Indistinct Camera View",
+    "title": "Industrial Conveyor",
     "stream_url": "http://113.42.43.90:6600/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012494.jpg",
@@ -5282,7 +5371,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T18:39:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "cacf51eb-9b42-46c4-8d71-a62a4335303e",
@@ -5345,7 +5434,7 @@
   },
   {
     "id": "a6afe801-f0ad-44bb-932d-4bf2bbb34e1a",
-    "title": "Indistinct Camera View",
+    "title": "Closed Shutter",
     "stream_url": "http://1.33.62.183:50004/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012491.jpg",
@@ -5368,11 +5457,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T18:42:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "586b4c4f-884d-482a-acf6-bccf7ef20fd0",
-    "title": "Indistinct Camera View",
+    "title": "Industrial Equipment",
     "stream_url": "http://126.124.170.78/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012490.jpg",
@@ -5395,11 +5484,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T18:43:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "d091592e-2446-4058-9764-390a85e07b7d",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Open Field",
     "stream_url": "http://113.20.219.126:8080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012489.jpg",
@@ -5420,9 +5509,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape"
+    ],
     "created_at": "2026-10-03T18:44:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "e3e1b24c-c0e9-4ee6-a2a8-22a9032c92e0",
@@ -5453,7 +5544,7 @@
   },
   {
     "id": "2661f175-4501-4fd1-b1bb-c72aba4ea7cc",
-    "title": "Indistinct Camera View",
+    "title": "Closed Door",
     "stream_url": "http://114.145.123.184:50002/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012484.jpg",
@@ -5476,11 +5567,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T18:46:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "7ced3521-5ffa-4d24-b9e7-5b24009919bc",
-    "title": "Indistinct Camera View",
+    "title": "Field in Haze",
     "stream_url": "http://43.233.186.128:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012482.jpg",
@@ -5501,9 +5592,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape"
+    ],
     "created_at": "2026-10-03T18:47:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "79b48242-df9f-4b78-b6bb-fe43413ea09a",
@@ -5528,9 +5621,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "shops"
+    ],
     "created_at": "2026-10-03T18:48:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "02245faa-9726-4aaf-b6af-320fc6b9278c",
@@ -5620,7 +5715,7 @@
   },
   {
     "id": "d4b7e88a-efb6-43e9-add8-c80ff0ce1b04",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Garden Courtyard",
     "stream_url": "http://153.222.41.82/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012473.jpg",
@@ -5643,7 +5738,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T18:52:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "3b049164-e9b7-43be-a1c4-e6ecf3cd6137",
@@ -5695,9 +5790,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-03T18:54:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "264444ce-211c-400c-9053-a619b1d0d71c",
@@ -5840,7 +5937,7 @@
   },
   {
     "id": "830603d2-b3e3-424f-aa31-edcb0216467b",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Garden Plants",
     "stream_url": "http://202.215.124.111/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012459.jpg",
@@ -5861,9 +5958,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T19:00:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "5575a788-0a15-4370-89e3-06f21f444a6c",
@@ -5896,7 +5995,7 @@
   },
   {
     "id": "9593a71a-c9f7-40a8-83d5-9d598fa75d39",
-    "title": "Indistinct Camera View",
+    "title": "Parked Van",
     "stream_url": "http://106.51.140.124:83/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012456.jpg",
@@ -5917,9 +6016,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-03T19:02:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "7f23f4b6-0f0b-4f5e-88f5-cbdbaa8d0ac0",
@@ -5954,7 +6055,7 @@
   },
   {
     "id": "dff3cfea-c778-49f3-869c-a9163dd8724a",
-    "title": "Indistinct Camera View",
+    "title": "Garden Vegetation",
     "stream_url": "http://113.20.220.63:8080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012454.jpg",
@@ -5975,9 +6076,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T19:04:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "74b9abc9-d239-4fba-9d1f-ad14da49fd91",
@@ -6008,7 +6111,7 @@
   },
   {
     "id": "e2501ddd-82f2-4a91-90b1-9aa072224d4b",
-    "title": "Indistinct Camera View",
+    "title": "Indoor Counter and Chairs",
     "stream_url": "http://202.179.70.235:92/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012451.jpg",
@@ -6031,11 +6134,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T19:06:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "1d55af31-b9b9-4964-b950-664a9c05ff38",
-    "title": "Indistinct Camera View",
+    "title": "Residential Street",
     "stream_url": "http://180.14.137.19/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012450.jpg",
@@ -6056,9 +6159,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "streets"
+    ],
     "created_at": "2026-10-03T19:07:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "6660a4c3-ed6d-48d7-a78d-9a5a1c42110a",
@@ -6172,7 +6277,7 @@
   },
   {
     "id": "c40d303d-8916-45a5-987d-8f82e740c033",
-    "title": "Indistinct Camera View",
+    "title": "Garden and Wooded Hills",
     "stream_url": "http://49.243.9.163:10081/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012445.jpg",
@@ -6193,9 +6298,12 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "landscape"
+    ],
     "created_at": "2026-10-03T19:12:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "da5a3793-e4fc-4331-9936-8c7575e32638",
@@ -6283,7 +6391,7 @@
   },
   {
     "id": "0777c379-4490-4ed7-8b3d-3f9bc2dad628",
-    "title": "Indistinct Camera View",
+    "title": "Rural Road",
     "stream_url": "http://180.51.149.70:60001/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012437.jpg",
@@ -6304,9 +6412,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "roads"
+    ],
     "created_at": "2026-10-03T19:16:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "0a755d2a-47ee-464d-a8df-f8620d0f855f",
@@ -6337,7 +6447,7 @@
   },
   {
     "id": "d44eaf34-c760-455a-b4ab-a26a6f2fce3c",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Solar Panels and Hills",
     "stream_url": "http://153.234.171.181/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012435.jpg",
@@ -6358,9 +6468,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape"
+    ],
     "created_at": "2026-10-03T19:18:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "7677f71a-ac7d-4cb1-a9b5-7d0805e208df",
@@ -6391,7 +6503,7 @@
   },
   {
     "id": "d954144e-fa16-4b87-b237-93c2ea0d4d8f",
-    "title": "Indistinct Camera View",
+    "title": "Window and Parked Vehicle",
     "stream_url": "http://153.217.68.70/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012433.jpg",
@@ -6412,9 +6524,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-03T19:20:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "6113e8bf-66cd-4711-82cb-38153a48e30b",
@@ -6445,7 +6559,7 @@
   },
   {
     "id": "1c67cb50-465b-4d0b-8720-ab525d9f0ce6",
-    "title": "Indistinct Camera View",
+    "title": "Fields and Rural Road",
     "stream_url": "http://210.139.91.27/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012430.jpg",
@@ -6466,9 +6580,12 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape",
+      "roads"
+    ],
     "created_at": "2026-10-03T19:22:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "904f2e83-34fe-401a-bc94-72e628293451",
@@ -6499,7 +6616,7 @@
   },
   {
     "id": "cecd6315-841d-42ab-afa3-b11054f5ba8e",
-    "title": "Indistinct Camera View",
+    "title": "Trees beside Driveway",
     "stream_url": "http://42.126.57.70:50007/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012428.jpg",
@@ -6520,13 +6637,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T19:24:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "79f8a273-7e0d-4a15-a959-19401231a3a5",
-    "title": "Indistinct Camera View",
+    "title": "Cattle Pen",
     "stream_url": "http://124.102.44.170/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012427.jpg",
@@ -6547,13 +6666,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "animals"
+    ],
     "created_at": "2026-10-03T19:25:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "acbf130e-22a8-4cd0-ae50-0f9c53be7438",
-    "title": "Indistinct Camera View",
+    "title": "Factory Storage",
     "stream_url": "http://106.51.140.124:84/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012426.jpg",
@@ -6576,11 +6697,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T19:26:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "5a66a63f-8ea8-4fbd-b099-403c090d6fa3",
-    "title": "Indistinct Camera View",
+    "title": "Solar Panels beside Woodland",
     "stream_url": "http://157.107.247.49:83/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012424.jpg",
@@ -6601,13 +6722,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T19:27:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "d8181fe8-8ad6-493a-ad5e-e9c1e844940b",
-    "title": "Indistinct Camera View",
+    "title": "Office Interior",
     "stream_url": "http://202.179.70.235:84/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012423.jpg",
@@ -6630,7 +6753,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T19:28:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "de15e874-cec0-4878-970b-1169c4bec0d8",
@@ -6715,7 +6838,7 @@
   },
   {
     "id": "e7e42d05-a59b-4dfc-950e-c0d54e4f21fb",
-    "title": "Indistinct Camera View",
+    "title": "Cafe Seating",
     "stream_url": "http://202.241.170.180:50002/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012418.jpg",
@@ -6736,13 +6859,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "bars & restaurants"
+    ],
     "created_at": "2026-10-03T19:32:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "000cab95-9b9a-4142-9f2e-25944d4e39f7",
-    "title": "Indistinct Camera View",
+    "title": "Solar Panel Rows",
     "stream_url": "http://116.193.100.249/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012417.jpg",
@@ -6765,11 +6890,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T19:33:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "a07c8564-a365-4641-b80a-694ea9d7174b",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Residential Driveway",
     "stream_url": "http://153.209.132.193/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012416.jpg",
@@ -6792,7 +6917,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T19:34:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "1428df5e-164d-4b22-8dd0-68cd9dc764be",
@@ -6823,7 +6948,7 @@
   },
   {
     "id": "3878aead-0048-4f17-b222-51022d615422",
-    "title": "Unavailable Camera",
+    "title": "Patio with Table",
     "stream_url": "http://86.195.188.209:50003/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012414.jpg",
@@ -6839,14 +6964,14 @@
       "timezone": "+01:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 640,
+      "height": 480
     },
     "is_enabled": false,
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T19:36:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "20079a94-8aeb-470f-ab9e-f36aab991616",
@@ -6879,7 +7004,7 @@
   },
   {
     "id": "722d3978-1e66-402e-9a18-4620a15a3f4f",
-    "title": "Indistinct Camera View",
+    "title": "River beside Hillside",
     "stream_url": "http://220.157.129.134:50080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012412.jpg",
@@ -6900,9 +7025,12 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "rivers",
+      "nature"
+    ],
     "created_at": "2026-10-03T19:38:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "c19cec93-f274-4e9d-bb76-e511b263ae76",
@@ -6960,7 +7088,7 @@
   },
   {
     "id": "18acdf4d-700e-44a3-826e-f7433885fcaa",
-    "title": "Indistinct Camera View",
+    "title": "Terrace and Wooded Hills",
     "stream_url": "http://126.160.119.210:9080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012408.jpg",
@@ -6981,13 +7109,16 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape",
+      "nature"
+    ],
     "created_at": "2026-10-03T19:41:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "b92ab94e-bbdf-4483-b135-b37cd3a3bfa3",
-    "title": "Indistinct Camera View",
+    "title": "Wooden Room",
     "stream_url": "http://36.53.195.204:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012406.jpg",
@@ -7010,7 +7141,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T19:42:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "e5425346-f826-4b91-8d19-8d6f738f2375",
@@ -7041,7 +7172,7 @@
   },
   {
     "id": "ef1e31d8-60a3-49b6-8fc1-ca640637f4f2",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Road beside Trees",
     "stream_url": "http://58.98.156.45/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012404.jpg",
@@ -7062,13 +7193,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "roads"
+    ],
     "created_at": "2026-10-03T19:44:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "aba769fe-3155-4322-b278-006662800800",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Street Intersection",
     "stream_url": "http://223.217.47.238:50003/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012403.jpg",
@@ -7089,9 +7222,12 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "streets",
+      "roads"
+    ],
     "created_at": "2026-10-03T19:45:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "04f393a0-b82b-4db0-aeb4-0e6af3b343f0",
@@ -7176,7 +7312,7 @@
   },
   {
     "id": "4db47417-cc5a-4e07-bb75-290f8c657e39",
-    "title": "Unavailable Camera",
+    "title": "Paved Entrance",
     "stream_url": "http://49.135.36.172:10083/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012398.jpg",
@@ -7192,18 +7328,18 @@
       "timezone": "+09:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 640,
+      "height": 480
     },
     "is_enabled": false,
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T19:49:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "e7427144-afe5-4f06-b7ad-a78b4bed3a87",
-    "title": "Indistinct Camera View",
+    "title": "Wooden Terrace",
     "stream_url": "http://221.185.57.98:83/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012397.jpg",
@@ -7226,7 +7362,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T19:50:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "ad43fb14-1348-4380-aa44-3c4b4ba2cdcb",
@@ -7261,7 +7397,7 @@
   },
   {
     "id": "a44cdaea-4f2e-4192-8b49-dc9bfadc7938",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Urban Buildings",
     "stream_url": "http://210.132.146.249:8080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012393.jpg",
@@ -7282,9 +7418,12 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "city views",
+      "architecture"
+    ],
     "created_at": "2026-10-03T19:52:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "e75abc94-f7af-49ce-9dbb-6a8f66c325c0",
@@ -7315,7 +7454,7 @@
   },
   {
     "id": "71c871e4-48a9-4cd0-92d3-e8f0092cbcc9",
-    "title": "Indistinct Camera View",
+    "title": "Paved Path",
     "stream_url": "http://220.156.242.201/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012391.jpg",
@@ -7338,11 +7477,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T19:54:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "32ec6521-2cb9-407c-b086-638137781c81",
-    "title": "Indistinct Camera View",
+    "title": "Office Workstations",
     "stream_url": "http://153.213.202.59/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012389.jpg",
@@ -7365,7 +7504,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T19:55:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "d1375edc-2c91-47cb-8089-d3c4b21cbbd9",
@@ -7396,7 +7535,7 @@
   },
   {
     "id": "9040e413-67f2-4abe-8ca6-7c21ef57134a",
-    "title": "Indistinct Camera View",
+    "title": "House and Garden",
     "stream_url": "http://103.137.234.23:8077/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012383.jpg",
@@ -7417,9 +7556,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T19:57:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "95789003-4fff-45a7-9e00-eaba21f6ba8c",
@@ -7522,18 +7663,18 @@
       "timezone": "-05:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 640,
+      "height": 480
     },
     "is_enabled": false,
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T20:01:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "557942c8-f3e5-4c1d-bcd0-af6d67b55e62",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Cattle Barn",
     "stream_url": "http://220.109.20.107:8081/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012376.jpg",
@@ -7554,9 +7695,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "animals"
+    ],
     "created_at": "2026-10-03T20:02:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "c6a0362c-c497-43ce-9845-8052a71715eb",
@@ -7614,7 +7757,7 @@
   },
   {
     "id": "338cec97-55aa-469c-8286-fe3ae8bfb14a",
-    "title": "Indistinct Camera View",
+    "title": "Solar Farm",
     "stream_url": "http://124.103.138.138:9080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012373.jpg",
@@ -7635,9 +7778,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape"
+    ],
     "created_at": "2026-10-03T20:05:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "63247bdb-203a-41a8-a95b-2866ef09a975",
@@ -7726,7 +7871,7 @@
   },
   {
     "id": "82212cd8-c0e2-4d2a-87e6-2dd269265ab0",
-    "title": "Indistinct Camera View",
+    "title": "Workshop Machinery",
     "stream_url": "http://123.221.117.101:60010/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012368.jpg",
@@ -7749,7 +7894,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T20:09:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "0363845e-4913-4b68-b704-fe1ef2b3a2ef",
@@ -7780,7 +7925,7 @@
   },
   {
     "id": "4579bcc5-dca5-46ef-b15c-8651e792ec5d",
-    "title": "Indistinct Camera View",
+    "title": "Gravel Road",
     "stream_url": "http://121.117.216.99/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012362.jpg",
@@ -7801,9 +7946,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "roads"
+    ],
     "created_at": "2026-10-03T20:11:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "03496aa3-ec66-454b-8289-88048ea268d1",
@@ -7836,7 +7983,7 @@
   },
   {
     "id": "64511cd3-1e04-463f-9cd7-bc451e9c7ade",
-    "title": "Indistinct Camera View",
+    "title": "Garden Path",
     "stream_url": "http://210.185.143.241:85/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012360.jpg",
@@ -7857,13 +8004,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T20:13:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "45dcd01f-c414-4072-bf0f-2db40e2d7245",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Boats on Lake",
     "stream_url": "http://95.143.50.44/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012358.jpg",
@@ -7884,9 +8033,13 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "boats",
+      "lakes",
+      "nature"
+    ],
     "created_at": "2026-10-03T20:14:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "fd6a83fe-af73-4537-88ea-d177836f537a",
@@ -7919,7 +8072,7 @@
   },
   {
     "id": "636c21f7-bea8-4519-b74d-a022defadb6d",
-    "title": "Indistinct Camera View",
+    "title": "Parked Car",
     "stream_url": "http://118.82.60.27:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012355.jpg",
@@ -7940,9 +8093,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-03T20:16:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "acb80334-95de-423a-bbd1-9b3fd4cf8e22",
@@ -7973,7 +8128,7 @@
   },
   {
     "id": "e4552395-1ab0-44ff-bdac-e4c6f068b514",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Office Partitions",
     "stream_url": "http://180.44.32.239:8000/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012353.jpg",
@@ -7996,7 +8151,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T20:18:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "f508ef77-d1af-457e-aa76-d7b39a8eac60",
@@ -8027,7 +8182,7 @@
   },
   {
     "id": "5854e9ed-cf17-4759-ad2e-1e709e7fe54a",
-    "title": "Indistinct Camera View",
+    "title": "Door Close-Up",
     "stream_url": "http://153.217.68.70:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012350.jpg",
@@ -8050,7 +8205,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T20:20:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "aab8a372-eb90-4579-bb18-000452af9b18",
@@ -8193,7 +8348,7 @@
   },
   {
     "id": "1e2a9888-47ae-421c-9828-681773236262",
-    "title": "Indistinct Camera View",
+    "title": "Garden Lawn",
     "stream_url": "http://124.143.68.205:8080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012337.jpg",
@@ -8214,9 +8369,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T20:26:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "b05ba391-3c16-4304-b652-3d896b62a6bf",
@@ -8247,7 +8404,7 @@
   },
   {
     "id": "1b208f95-1c7d-47ba-bcec-288aef729c85",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Shop Interior",
     "stream_url": "http://219.67.187.47:8011/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012333.jpg",
@@ -8268,9 +8425,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "shops"
+    ],
     "created_at": "2026-10-03T20:28:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "edd96a6f-1861-459d-8c20-a28c5fb83565",
@@ -8303,7 +8462,7 @@
   },
   {
     "id": "e3051a6d-d574-42e1-a137-12520524f2a4",
-    "title": "Indistinct Camera View",
+    "title": "Rural Road and Fields",
     "stream_url": "http://122.249.211.239:8080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012329.jpg",
@@ -8324,9 +8483,12 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "roads",
+      "landscape"
+    ],
     "created_at": "2026-10-03T20:30:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "5e4ecd89-5db3-4a20-8f7d-7e67f1fc1393",
@@ -8357,7 +8519,7 @@
   },
   {
     "id": "bbe95156-a107-4878-87e4-14816b1da629",
-    "title": "Unavailable Camera",
+    "title": "Bar Seating",
     "stream_url": "http://200.116.110.47:84/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012327.jpg",
@@ -8373,18 +8535,20 @@
       "timezone": "-05:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 640,
+      "height": 480
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "bars & restaurants"
+    ],
     "created_at": "2026-10-03T20:32:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "edc42002-51a7-4554-bd47-0605eebed310",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Ceiling Vent",
     "stream_url": "http://133.175.178.61:9160/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012324.jpg",
@@ -8407,11 +8571,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T20:33:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "cd302a82-86ae-45bf-b860-bb169f43f1e7",
-    "title": "Indistinct Camera View",
+    "title": "Road beside Trees",
     "stream_url": "http://153.230.14.189:888/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012323.jpg",
@@ -8432,13 +8596,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "roads"
+    ],
     "created_at": "2026-10-03T20:34:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "d870c304-f84c-40a1-8a02-6b351bb3ef6b",
-    "title": "Indistinct Camera View",
+    "title": "Workshop Interior",
     "stream_url": "http://106.51.185.124:82/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012322.jpg",
@@ -8461,7 +8627,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T20:35:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "1865f123-717c-4ebb-98f9-69ee711fce73",
@@ -8608,7 +8774,7 @@
   },
   {
     "id": "1d6ae9c9-a823-4058-8741-7c1810c243b8",
-    "title": "Indistinct Camera View",
+    "title": "Lake and Boat Docks",
     "stream_url": "http://133.218.13.153/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012314.jpg",
@@ -8629,9 +8795,13 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "lakes",
+      "boats",
+      "marinas"
+    ],
     "created_at": "2026-10-03T20:41:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "dc447001-0742-4acf-8dd4-f965011bd28f",
@@ -8746,7 +8916,7 @@
   },
   {
     "id": "2057374e-41be-497a-8efd-e98ad3ee6e0a",
-    "title": "Indistinct Camera View",
+    "title": "Yard Ground",
     "stream_url": "http://202.91.219.134:8080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012309.jpg",
@@ -8769,11 +8939,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T20:46:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "b2699cd3-bdb6-45b6-b2e9-6a50b44639e3",
-    "title": "Indistinct Camera View",
+    "title": "Garden Path",
     "stream_url": "http://101.128.233.98:50003/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012306.jpg",
@@ -8794,9 +8964,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T20:47:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "db2b8c17-f3c5-44dd-b294-2861c18e5347",
@@ -8854,7 +9026,7 @@
   },
   {
     "id": "a1f6d32d-a943-4122-8ea4-6b930a13e667",
-    "title": "Indistinct Camera View",
+    "title": "Factory Machinery",
     "stream_url": "http://106.51.185.124:85/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012301.jpg",
@@ -8877,7 +9049,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T20:50:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "cc386c71-1ca4-44e5-aa69-8ce94b994063",
@@ -8929,9 +9101,12 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "markets",
+      "roads"
+    ],
     "created_at": "2026-10-03T20:52:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "6e63b10a-5a3e-4b8d-9d84-5760201b8be6",
@@ -9050,7 +9225,7 @@
   },
   {
     "id": "2f57a521-b0b6-4d02-93e1-a46b80926f6f",
-    "title": "Indistinct Camera View",
+    "title": "Kitchen Interior",
     "stream_url": "http://116.49.81.94:6001/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012292.jpg",
@@ -9073,7 +9248,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T20:57:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "13b63ccc-5a23-4dbf-9eb2-58252f8f1924",
@@ -9108,7 +9283,7 @@
   },
   {
     "id": "1232e5cc-2ea9-49c0-bd2a-cf5b9bc070a3",
-    "title": "Indistinct Camera View",
+    "title": "Garage Entrance",
     "stream_url": "http://153.171.55.153:10000/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012289.jpg",
@@ -9131,7 +9306,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T20:59:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "11490df8-4f20-4545-949c-9b3ce5bf2ca7",
@@ -9189,7 +9364,7 @@
   },
   {
     "id": "2109f5e7-9d8c-4e8f-8277-45a57fad3a01",
-    "title": "Indistinct Camera View",
+    "title": "Woodland Clearing",
     "stream_url": "http://110.2.112.138:90/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012286.jpg",
@@ -9210,13 +9385,16 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "forests"
+    ],
     "created_at": "2026-10-03T21:02:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "7a750f38-4728-4279-981f-85915f78dc4a",
-    "title": "Indistinct Camera View",
+    "title": "Indoor Doorway",
     "stream_url": "http://153.156.202.44:50202/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012285.jpg",
@@ -9239,7 +9417,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T21:03:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "bc5a0b5b-a46f-4d12-ac09-d453387f1b51",
@@ -9293,13 +9471,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "roads"
+    ],
     "created_at": "2026-10-03T21:05:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "129578a4-2cb4-4bd4-b45f-5c8a5b099c65",
-    "title": "Indistinct Camera View",
+    "title": "Workshop Interior",
     "stream_url": "http://113.42.43.90:7100/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012281.jpg",
@@ -9322,7 +9502,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T21:06:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "fd641683-f83e-404a-9f51-747ad9e2b415",
@@ -9683,9 +9863,12 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "landscape"
+    ],
     "created_at": "2026-10-03T21:19:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "5dac1ca3-cc9b-4641-b059-7dc6aedef2d3",
@@ -9770,9 +9953,12 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature",
+      "landscape"
+    ],
     "created_at": "2026-10-03T21:22:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "38b0f7d4-5738-4181-8afe-1dc84184b998",
@@ -9824,9 +10010,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T21:24:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "e101b602-5bd4-439d-926e-977af88343ee",
@@ -9851,9 +10039,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T21:25:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "3f195703-4853-4beb-b3f6-2f38109c9d90",
@@ -9965,13 +10155,15 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T21:29:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "05738068-03fc-44b1-b473-3908294e329e",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Garden Gate",
     "stream_url": "http://86.221.68.25:81/videostream.cgi?user=admin&pwd=",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012231.jpg",
@@ -9992,9 +10184,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T21:30:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "eaf6f4c5-6cc3-4a6d-93bf-1ab30546afb6",
@@ -10046,9 +10240,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "streets"
+    ],
     "created_at": "2026-10-03T21:32:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "cddcc44f-991c-438c-9a62-484da511dd81",
@@ -10100,9 +10296,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-03T21:34:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "3fe8854f-e4ea-408b-afb1-9c427e7d677c",
@@ -10133,7 +10331,7 @@
   },
   {
     "id": "cc446f3e-564a-4d88-9765-db1293248514",
-    "title": "Indistinct Camera View",
+    "title": "Floor and Furniture",
     "stream_url": "http://208.123.200.35/videostream.cgi?user=admin&pwd=",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012221.jpg",
@@ -10156,7 +10354,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T21:36:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "59ac391c-9c99-4e5b-b652-5998944e9d86",
@@ -10470,7 +10668,7 @@
   },
   {
     "id": "701eaab0-7d57-479d-9aa1-abea068f796f",
-    "title": "Unavailable Camera",
+    "title": "Garden Foliage",
     "stream_url": "http://187.103.87.82:3007/cgi-bin/snapshot.cgi?COUNTER",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012194.jpg",
@@ -10486,14 +10684,16 @@
       "timezone": "-02:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 640,
+      "height": 480
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T21:48:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "0d2d498a-a49f-4ab1-a5a4-9b609cd29901",
@@ -10526,7 +10726,7 @@
   },
   {
     "id": "829fc1e5-7033-4aa9-8704-73a2dfb8f204",
-    "title": "Unavailable Camera",
+    "title": "Parked Cars",
     "stream_url": "http://178.85.32.126:1026/cgi-bin/snapshot.cgi?COUNTER",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012192.jpg",
@@ -10542,14 +10742,16 @@
       "timezone": "+01:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 800,
+      "height": 448
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-03T21:50:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "b9f1426a-c1aa-4636-b348-e6b89589f979",
@@ -10882,9 +11084,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-03T22:02:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "7dbc4944-97f2-41a7-8598-df9b24fcba47",
@@ -11127,9 +11331,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-03T22:11:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "4880b258-13fa-48be-bb71-5d69605542fa",
@@ -11270,7 +11476,7 @@
   },
   {
     "id": "673299bd-e5c2-4435-bbe9-2766245ed3b2",
-    "title": "Indistinct Camera View",
+    "title": "Garage and Workshop",
     "stream_url": "http://222.97.113.26/cgi-bin/snapshot.cgi?COUNTER",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012149.jpg",
@@ -11293,11 +11499,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T22:17:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "089072ad-9f31-40f0-88fd-40e19cba7610",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Fields and Dirt Track",
     "stream_url": "http://112.196.76.221:30010/cgi-bin/snapshot.cgi?COUNTER",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012148.jpg",
@@ -11318,9 +11524,12 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape",
+      "nature"
+    ],
     "created_at": "2026-10-03T22:18:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "101975a7-4837-4822-b17d-92ba20954f4f",
@@ -11345,9 +11554,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "roads"
+    ],
     "created_at": "2026-10-03T22:19:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "8786cc7e-4fc5-4d6f-8ab7-b8a91e6e4e28",
@@ -11461,7 +11672,7 @@
   },
   {
     "id": "61a35cfb-f102-46cd-ab59-9061328ceb74",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Service Yard",
     "stream_url": "http://175.205.17.215:58000/cgi-bin/snapshot.cgi?COUNTER",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012142.jpg",
@@ -11484,7 +11695,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T22:24:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "4e9b6413-03bd-4ef5-abf5-3275ce9266a4",
@@ -11631,7 +11842,7 @@
   },
   {
     "id": "bf8d306f-4923-42e0-b4e1-a32e14c46d8a",
-    "title": "Indistinct Camera View",
+    "title": "Indoor Seating Area",
     "stream_url": "http://86.223.252.150:8085/cgi-bin/snapshot.cgi?COUNTER",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012136.jpg",
@@ -11654,7 +11865,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T22:30:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "5c65a010-e95b-4e49-a8b1-031bbfecfac0",
@@ -11935,7 +12146,7 @@
   },
   {
     "id": "5ce474aa-1d31-41b0-bfc7-826583393e2d",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Industrial Equipment",
     "stream_url": "http://183.102.251.180:18017/cgi-bin/snapshot.cgi?COUNTER",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012120.jpg",
@@ -11958,7 +12169,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T22:41:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "a0fceaae-c046-41a4-aeb8-60e4e80bab43",
@@ -12095,9 +12306,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T22:46:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "a2be39a2-bb19-45b3-b592-a7300e65c5be",
@@ -12429,9 +12642,12 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "streets",
+      "parking"
+    ],
     "created_at": "2026-10-03T22:58:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "2132e077-17ec-4f82-b5be-b733b5edd1de",
@@ -12541,9 +12757,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T23:02:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "7fa16a37-aeb5-4781-953a-773a120aa8bd",
@@ -12656,9 +12874,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-03T23:06:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "ae68dbbb-2ce8-454d-89ed-4eea95cb5e03",
@@ -12919,7 +13139,7 @@
   },
   {
     "id": "8830e31c-bc14-48eb-9f29-28e6b477e92b",
-    "title": "Unavailable Camera",
+    "title": "Street Intersection at Night",
     "stream_url": "http://187.103.87.46:3000/cgi-bin/snapshot.cgi?COUNTER",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012079.jpg",
@@ -12935,14 +13155,17 @@
       "timezone": "-02:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 704,
+      "height": 576
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "streets",
+      "night views"
+    ],
     "created_at": "2026-10-03T23:16:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "4ffbea43-630a-499e-bf36-1d0ee8e90f86",
@@ -13029,7 +13252,7 @@
   },
   {
     "id": "43b66777-e879-4853-b0c0-bffab472c8bf",
-    "title": "Unavailable Camera",
+    "title": "Outdoor Service Area",
     "stream_url": "http://187.103.87.223:3000/cgi-bin/snapshot.cgi?COUNTER",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012073.jpg",
@@ -13045,14 +13268,14 @@
       "timezone": "-02:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 704,
+      "height": 576
     },
     "is_enabled": false,
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-03T23:20:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "fb37496b-f804-4fa6-be89-6c42d24b61b7",
@@ -13107,9 +13330,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-03T23:22:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "41b7fefe-8e94-4ccf-a1fa-54c18b1f0ac3",
@@ -13134,9 +13359,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-03T23:23:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "fa00fd81-9161-481a-9f54-cb4484db8ec5",
@@ -13161,9 +13388,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-03T23:24:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "c0f91f2b-3d9c-47d6-b7e2-18a81d1a1fa9",
@@ -13436,9 +13665,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-03T23:34:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "6384bd9d-70db-44d9-a8e4-8ae9e3a5051d",
@@ -13520,9 +13751,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "roads"
+    ],
     "created_at": "2026-10-03T23:37:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "034b497e-c5f4-41a4-8984-99b40576ff9a",
@@ -13711,9 +13944,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-03T23:44:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "44c63767-43b7-47d2-a0d8-67fff7cb4745",
@@ -13881,7 +14116,7 @@
   },
   {
     "id": "1689d8f3-80df-4c33-b63b-0da566bd0f60",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Courtyard and Parked Vehicle",
     "stream_url": "http://211.231.21.35:58000/cgi-bin/snapshot.cgi?COUNTER",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012027.jpg",
@@ -13902,9 +14137,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-03T23:51:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "5dbe51cf-7f74-450d-b8e4-09b079eb6ccd",
@@ -13935,7 +14172,7 @@
   },
   {
     "id": "66822185-3ba4-41a3-a867-42193edb88aa",
-    "title": "Unavailable Camera",
+    "title": "Parked Cars on Lawn",
     "stream_url": "http://188.75.170.101:3003/cgi-bin/snapshot.cgi?COUNTER",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012024.jpg",
@@ -13951,14 +14188,16 @@
       "timezone": "+01:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 704,
+      "height": 576
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-03T23:53:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "7cbd4815-9457-446e-b21b-820c8032df89",
@@ -14045,9 +14284,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-03T23:56:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "f3eb649a-a384-4d43-befc-6e8b010b591c",
@@ -14409,9 +14650,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-04T00:09:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "1579813f-9783-4960-b763-3d12e5baf015",
@@ -14695,9 +14938,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-04T00:19:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "2a324481-de5d-4e37-89e7-4582dc64f842",
@@ -14722,9 +14967,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-04T00:20:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "35891f40-7f87-46be-9044-41d7f19815c1",
@@ -15119,7 +15366,7 @@
   },
   {
     "id": "79cfc8e8-a2dd-414e-b3d8-16c41788199b",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Vegetable Garden and Greenhouse",
     "stream_url": "http://112.167.106.48:9053/cgi-bin/snapshot.cgi?COUNTER",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1011967.jpg",
@@ -15140,9 +15387,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-04T00:35:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "d9bfebcc-f946-42d2-b2a9-a07ca5efd698",
@@ -15287,7 +15536,7 @@
   },
   {
     "id": "8ba4b5c7-c332-44f9-b5bf-cd6c45835a47",
-    "title": "Unavailable Camera",
+    "title": "Shop Aisle",
     "stream_url": "http://75.13.92.74:8090/cgi-bin/snapshot.cgi?COUNTER",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1011960.jpg",
@@ -15303,14 +15552,16 @@
       "timezone": "-06:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 704,
+      "height": 576
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "shops"
+    ],
     "created_at": "2026-10-04T00:41:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "f3eca112-2332-41da-8b66-0b41c7c8daf4",
@@ -15335,9 +15586,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-04T00:42:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "d279c083-779a-4a4d-ab80-c7d19d0a90ab",
@@ -15372,7 +15625,7 @@
   },
   {
     "id": "246d55ed-7379-4a63-9f74-f8d1359dcee4",
-    "title": "Unavailable Camera",
+    "title": "Garden Lawn",
     "stream_url": "http://141.98.236.202:8888/cgi-bin/snapshot.cgi?COUNTER",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1011954.jpg",
@@ -15388,14 +15641,16 @@
       "timezone": "+01:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 704,
+      "height": 576
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-04T00:44:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "733d62e0-a0b8-4ce1-9419-bc988a549717",
@@ -15429,7 +15684,7 @@
   },
   {
     "id": "71b7f0fb-e506-4421-b441-e835f6cb4d75",
-    "title": "Unavailable Camera",
+    "title": "Covered Passage",
     "stream_url": "http://45.187.186.235:7778/cgi-bin/snapshot.cgi?COUNTER",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1011950.jpg",
@@ -15445,14 +15700,14 @@
       "timezone": "-02:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 704,
+      "height": 576
     },
     "is_enabled": false,
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-04T00:46:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "1c53bd2c-eb12-4262-8180-84c5e9a5e8f3",
@@ -15588,9 +15843,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-04T00:51:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "39db89db-6584-41f5-8686-c85d62c7da67",
@@ -15698,9 +15955,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-04T00:55:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "d714c843-78ac-4004-b59c-d552fd585ed9",
@@ -15761,7 +16020,7 @@
   },
   {
     "id": "6f047ba9-4ac7-48f7-87e4-a0875adca6e5",
-    "title": "Unavailable Camera",
+    "title": "Refrigerated Shop Aisle",
     "stream_url": "http://75.13.92.74:8095/cgi-bin/snapshot.cgi?COUNTER",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1011930.jpg",
@@ -15777,18 +16036,20 @@
       "timezone": "-06:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 704,
+      "height": 576
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "shops"
+    ],
     "created_at": "2026-10-04T00:58:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "91dbcbc5-7ac6-420b-8918-5c61cde5c82a",
-    "title": "Unavailable Camera",
+    "title": "Shop Shelves",
     "stream_url": "http://168.121.201.202:30113/cgi-bin/snapshot.cgi?COUNTER",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1011929.jpg",
@@ -15804,14 +16065,16 @@
       "timezone": "-02:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 704,
+      "height": 576
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "shops"
+    ],
     "created_at": "2026-10-04T00:59:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "2b1f3aa6-f8d2-4b30-ad35-f4a59d337795",
@@ -15836,9 +16099,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "animals"
+    ],
     "created_at": "2026-10-04T01:00:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "5ee4872f-5ba5-45cc-9be3-e128cb17f8af",
@@ -15919,9 +16184,12 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking",
+      "roads"
+    ],
     "created_at": "2026-10-04T01:03:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "d54927ab-6b55-4b59-a42a-ef9358d53d02",
@@ -15946,9 +16214,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-04T01:04:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "9c3bcdcd-3630-4cf4-a565-1c40cff72049",
@@ -15973,9 +16243,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-04T01:05:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "c418b0f4-09ef-4f76-8d41-782127d517b5",
@@ -16027,9 +16299,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-04T01:07:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "07ac650a-cbef-4db7-ab9f-1e9fe35f1447",
@@ -16108,9 +16382,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-04T01:10:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "6e10d188-888d-4f46-951e-a075d11345b8",
@@ -16162,9 +16438,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-04T01:12:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "3bd0e658-136b-495b-8da0-c0c6f66eee3e",
@@ -16218,9 +16496,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-10-04T01:14:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "3bb232b9-a5ac-4252-adcd-d2686989328d",
@@ -16382,9 +16662,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-04T01:20:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "e6115bfb-e3ef-4fc2-a384-e186fca84373",
@@ -16409,9 +16691,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-10-04T01:21:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "c1dde68e-54a3-4ed2-ab72-ad4ece236d89",
@@ -16498,7 +16782,7 @@
   },
   {
     "id": "16099ba7-2885-485b-aa63-6e69b8cc420c",
-    "title": "Obscured or Low-Visibility Camera View",
+    "title": "Mountain Landscape",
     "stream_url": "http://185.98.0.152:9999/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1011884.jpg",
@@ -16519,9 +16803,13 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "mountains",
+      "nature",
+      "landscape"
+    ],
     "created_at": "2026-10-04T01:25:20.997Z",
-    "modified_at": "2026-10-03T15:41:31.865844+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "179ef457-e341-44bc-999a-cb092d11e125",
@@ -17026,7 +17314,7 @@
   },
   {
     "id": "4763e4b2-ef39-4958-a052-8210ba1a70c3",
-    "title": "Obscured camera image",
+    "title": "Livestock Barn",
     "stream_url": "http://82.122.129.146/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1011828.jpg",
@@ -17047,9 +17335,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "animals"
+    ],
     "created_at": "2026-09-19T12:47:37.169Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "3f0ec82b-6d8b-4898-a0a1-6c1718ca6f2d",
@@ -17284,7 +17574,7 @@
   },
   {
     "id": "c3b165f6-d4bb-49a5-8b6b-ece569ef9a53",
-    "title": "Night image too dark",
+    "title": "Indoor Table and Seating",
     "stream_url": "http://194.116.8.10:94/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1011803.jpg",
@@ -17307,7 +17597,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-09-19T12:38:37.169Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "cb33c1d7-549e-4ca2-9c77-17e9fa608a76",
@@ -17398,7 +17688,7 @@
   },
   {
     "id": "e2e759ba-2cd4-4bfb-99a3-112e3e240e2a",
-    "title": "Unverified camera",
+    "title": "Palm Trees and Garden",
     "stream_url": "http://5.154.120.91:8084/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1011793.jpg",
@@ -17414,14 +17704,16 @@
       "timezone": "+01:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 800,
+      "height": 600
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-09-19T12:34:37.169Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "db8f0d4b-6865-4d70-af73-1667b8578d20",
@@ -19689,7 +19981,7 @@
   },
   {
     "id": "bec8c239-90ed-49d3-901a-355788473825",
-    "title": "Night image too dark",
+    "title": "Workshop Storage",
     "stream_url": "http://27.131.183.5:8862/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1011475.jpg",
@@ -19712,7 +20004,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-09-19T11:14:37.170Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "5875e2f6-7e5b-4bfc-8ac0-fad5cefc2035",
@@ -21661,7 +21953,7 @@
   },
   {
     "id": "d58f6982-9364-43fe-8e00-8a59daba5356",
-    "title": "Unverified camera",
+    "title": "Illuminated Flagpoles at Night",
     "stream_url": "http://100.42.92.25/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1011115.jpg",
@@ -21677,14 +21969,16 @@
       "timezone": "-06:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 640,
+      "height": 480
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "night views"
+    ],
     "created_at": "2026-09-19T10:05:37.170Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "b1865b58-d23a-478e-9ea1-46f3eca2632f",
@@ -22564,7 +22858,7 @@
   },
   {
     "id": "581dd0e8-e05e-46b0-8815-b579f4e13979",
-    "title": "No video signal",
+    "title": "Garden at Night",
     "stream_url": "http://24.60.196.129:8080/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1010976.jpg",
@@ -22585,9 +22879,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-09-19T09:33:37.170Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "e2b38468-0d62-47ed-a65e-8356c36099f2",
@@ -23439,7 +23735,7 @@
   },
   {
     "id": "f246fde5-e6b8-4f89-98a1-36d441cf054f",
-    "title": "Obscured camera image",
+    "title": "Illuminated Parking Area at Night",
     "stream_url": "http://100.42.92.26/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1010837.jpg",
@@ -23465,7 +23761,7 @@
       "traffic"
     ],
     "created_at": "2026-09-19T09:02:37.170Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "9dab2d37-b6f2-4603-992f-f9b7a8748c12",
@@ -24074,7 +24370,7 @@
   },
   {
     "id": "8344ce71-b63b-4376-a9d1-2e5c25c3a6ce",
-    "title": "Unverified camera",
+    "title": "Roads and Urban Buildings",
     "stream_url": "http://109.166.169.204:9000/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1010607.jpg",
@@ -24090,14 +24386,17 @@
       "timezone": "+02:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 3840,
+      "height": 2160
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "city views",
+      "roads"
+    ],
     "created_at": "2026-08-15T21:52:07.905Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "acf00e5a-8323-40a0-8dd7-8783557b6366",
@@ -24418,9 +24717,11 @@
     },
     "is_enabled": true,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-08-04T21:10:11.823Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "b2f19978-4af3-438a-a9b5-b04881cef141",
@@ -26404,9 +26705,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-05-28T07:18:15.434Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "a5583373-ddb8-43f7-9c45-1e2e4d82d5dd",
@@ -26687,9 +26990,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2026-05-18T03:13:34.471Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "e53981a3-2f8e-4578-a021-77aa1d5ac70a",
@@ -27190,14 +27495,14 @@
       "timezone": "-07:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 640,
+      "height": 480
     },
     "is_enabled": false,
     "is_popular": false,
     "categories": [],
     "created_at": "2026-04-30T18:14:05.473Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "4d0bb459-234d-4631-968f-1a31378f2da9",
@@ -27252,9 +27557,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "animals"
+    ],
     "created_at": "2026-04-27T23:17:47.982Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "e97b42c8-1323-424b-9901-a4f57cd7ffa4",
@@ -27306,9 +27613,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "bars & restaurants"
+    ],
     "created_at": "2026-04-25T22:28:45.269Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "7f770825-c30c-4ab4-b94d-afff20c1f2da",
@@ -29411,9 +29720,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2026-02-12T09:00:33.293Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "5a8d63d0-6791-40b8-9af6-6397e788af25",
@@ -30301,7 +30612,7 @@
   },
   {
     "id": "4de20f48-5da7-4dfd-bd90-034483ffc52e",
-    "title": "Unverified camera",
+    "title": "Sea Shore and Waves",
     "stream_url": "http://125.206.12.113/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/963863.jpg",
@@ -30317,8 +30628,8 @@
       "timezone": "+09:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 640,
+      "height": 480
     },
     "is_enabled": false,
     "is_popular": false,
@@ -30328,7 +30639,7 @@
       "waterfront"
     ],
     "created_at": "2026-01-11T05:09:58.742Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "be7387ff-ba87-44a1-b2a8-60fb41740f0b",
@@ -31269,7 +31580,7 @@
   },
   {
     "id": "f31eaeb3-8246-4b7f-a12a-a2c2ecc08d5d",
-    "title": "Unverified camera",
+    "title": "Blue Camera Image",
     "stream_url": "http://99.172.0.26:8888/out.jpg?q=30&id=0.1317044913727916&r=0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/946861.jpg",
@@ -31285,14 +31596,14 @@
       "timezone": "-05:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 640,
+      "height": 480
     },
     "is_enabled": false,
     "is_popular": false,
     "categories": [],
     "created_at": "2025-12-09T17:43:20.390Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "3b5752b5-029f-474f-89c6-b02a9c775409",
@@ -31466,7 +31777,7 @@
   },
   {
     "id": "b0432ba1-7c44-443c-945e-fea77d7aca26",
-    "title": "Unverified camera",
+    "title": "Rooftop and Bird Nest",
     "stream_url": "http://217.86.173.126/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/942848.jpg",
@@ -31482,14 +31793,16 @@
       "timezone": "+01:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 640,
+      "height": 480
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "birds"
+    ],
     "created_at": "2025-12-02T13:16:30.621Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "46366c99-a491-4c4d-b4b8-d73b57eef32e",
@@ -32996,7 +33309,7 @@
   },
   {
     "id": "887bcf40-fc98-4c09-b2f8-1b036e4e7d62",
-    "title": "Obscured camera image",
+    "title": "Landscape Panorama through Haze",
     "stream_url": "http://58.94.98.128/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/924950.jpg",
@@ -33017,9 +33330,11 @@
     },
     "is_enabled": true,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape"
+    ],
     "created_at": "2025-10-09T04:35:01.748Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "ea906764-3c15-4fc7-afe6-6ecf8a8b78e8",
@@ -33946,7 +34261,7 @@
   },
   {
     "id": "e76d4a1d-ef1f-465d-9a2d-45490888bc83",
-    "title": "Obscured camera image",
+    "title": "Window and Vegetation",
     "stream_url": "http://209.124.145.124:82/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/919728.jpg",
@@ -33969,7 +34284,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2025-09-06T03:41:39.078Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "369c419d-b1a1-4900-9c14-edefd14a19a5",
@@ -34021,9 +34336,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "night views"
+    ],
     "created_at": "2025-09-04T15:59:14.878Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "6e66231f-7134-4782-8735-ad49d6dc347a",
@@ -35127,7 +35444,7 @@
   },
   {
     "id": "9e76a340-c926-4c43-bff4-a8202a3833b3",
-    "title": "Obscured camera image",
+    "title": "Road beside Trees",
     "stream_url": "http://2.115.69.178:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/901345.jpg",
@@ -35148,9 +35465,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "roads"
+    ],
     "created_at": "2025-07-26T16:55:59.775Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "fc0e42c0-d53e-4250-bec9-22d5646416e0",
@@ -36740,7 +37059,7 @@
   },
   {
     "id": "496b09d6-e740-4810-bb1e-8145eca86e8e",
-    "title": "Obscured camera image",
+    "title": "Mountain View through Haze",
     "stream_url": "http://61.125.159.90:8080/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/889918.jpg",
@@ -36761,9 +37080,12 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "mountains",
+      "landscape"
+    ],
     "created_at": "2025-05-30T17:35:55.333Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "f432ec76-d55f-4b82-adcc-85baf13f023c",
@@ -37785,7 +38107,7 @@
   },
   {
     "id": "c5ff324e-2889-44c8-90da-c1a1c31c3eb7",
-    "title": "Obscured camera image",
+    "title": "Bridge over Water Channel",
     "stream_url": "http://220.108.89.119:50001/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/883874.jpg",
@@ -37806,9 +38128,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "bridges"
+    ],
     "created_at": "2025-04-24T15:02:05.431Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "af3f222c-0e2e-4ccd-8ca9-5b563ea27f1a",
@@ -37841,7 +38165,7 @@
   },
   {
     "id": "ce8a5fab-ae8b-403e-b47d-43c0d82fc0e9",
-    "title": "Obscured camera image",
+    "title": "Dark Wall Close-Up",
     "stream_url": "http://180.43.84.117:50000/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/883645.jpg",
@@ -37864,7 +38188,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2025-04-22T10:34:44.819Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "8e52202f-5424-4925-ba5f-2b6d2e6000e2",
@@ -38623,7 +38947,7 @@
   },
   {
     "id": "f5a0e8ed-05d6-420f-ae5e-40a8a883b879",
-    "title": "No video signal",
+    "title": "Paved Outdoor Service Area",
     "stream_url": "http://60.249.37.8/webcapture.jpg?command=snap&channel=1?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/877574.jpg",
@@ -38639,14 +38963,14 @@
       "timezone": "+08:00"
     },
     "resolution": {
-      "width": 1920,
-      "height": 1080
+      "width": 928,
+      "height": 480
     },
     "is_enabled": false,
     "is_popular": false,
     "categories": [],
     "created_at": "2025-03-25T12:33:13.118Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "3dd3961e-1361-4c3a-a0be-df5f18e5eb9b",
@@ -38904,7 +39228,7 @@
   },
   {
     "id": "076b685b-e9be-472b-ba8c-439b679d2d18",
-    "title": "Obscured camera image",
+    "title": "Distant Fields through Haze",
     "stream_url": "http://210.156.160.160/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/874477.jpg",
@@ -38925,9 +39249,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape"
+    ],
     "created_at": "2025-03-15T02:42:16.277Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "aa766dc3-513b-4529-a397-14da7e133a7c",
@@ -39226,14 +39552,14 @@
       "timezone": "-06:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 640,
+      "height": 360
     },
     "is_enabled": false,
     "is_popular": false,
     "categories": [],
     "created_at": "2025-03-04T00:05:26.175Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "0d93261f-a1b7-41c4-9d9e-da4e50c5f7b1",
@@ -40236,7 +40562,7 @@
   },
   {
     "id": "a62952a0-2c10-4d4b-9d0f-86cd3c6819a6",
-    "title": "Unverified camera",
+    "title": "Road and Rural Landscape",
     "stream_url": "http://125.17.248.94:8080/cgi-bin/viewer/video.jpg?r=0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/858368.jpg",
@@ -40252,8 +40578,8 @@
       "timezone": "+05:30"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 1280,
+      "height": 720
     },
     "is_enabled": false,
     "is_popular": false,
@@ -40262,11 +40588,11 @@
       "roads"
     ],
     "created_at": "2025-01-27T14:02:24.017Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "de24e608-2932-4ede-9e9a-e114873c016a",
-    "title": "Unverified camera",
+    "title": "Road and Rural Landscape",
     "stream_url": "http://125.17.248.94/cgi-bin/viewer/video.jpg?r=0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/858365.jpg",
@@ -40282,8 +40608,8 @@
       "timezone": "+05:30"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 1280,
+      "height": 720
     },
     "is_enabled": false,
     "is_popular": false,
@@ -40292,7 +40618,7 @@
       "roads"
     ],
     "created_at": "2025-01-26T13:32:40.252Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "893edc52-3aea-41a6-8bfb-8f7a83fe08db",
@@ -40615,7 +40941,7 @@
   },
   {
     "id": "f880bd69-126e-4ba5-a87e-fb3b4f9e7389",
-    "title": "Obscured camera image",
+    "title": "Solar Panels and Vegetation",
     "stream_url": "http://36.2.153.24:50000/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/853197.jpg",
@@ -40636,9 +40962,11 @@
     },
     "is_enabled": true,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2025-01-14T05:21:45.702Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "450947fe-dc94-4091-b046-aad85bd20a57",
@@ -41853,7 +42181,7 @@
   },
   {
     "id": "86791112-9ac2-4971-9e09-6407e2fd976d",
-    "title": "Obscured camera image",
+    "title": "Distant Landscape through Haze",
     "stream_url": "http://121.1.177.49/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/835942.jpg",
@@ -41874,9 +42202,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape"
+    ],
     "created_at": "2024-12-02T14:11:06.854Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "de20c4af-629d-4ad4-a0ac-f834b807a7b1",
@@ -42697,7 +43027,7 @@
   },
   {
     "id": "8406a69c-230e-4978-86b6-1c960da50814",
-    "title": "Obscured camera image",
+    "title": "Harbour through Haze",
     "stream_url": "http://61.125.205.99/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/814440.jpg",
@@ -42724,7 +43054,7 @@
       "waterfront"
     ],
     "created_at": "2024-11-02T04:43:26.600Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "9cc850b8-546b-422e-8971-42bde0d42ef9",
@@ -43251,7 +43581,7 @@
   },
   {
     "id": "8f3c9a1a-354b-4290-978f-ff8194615da7",
-    "title": "Indistinct camera view",
+    "title": "Illuminated Building at Night",
     "stream_url": "http://107.241.236.48:8082/oneshotimage1?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/810936.jpg",
@@ -43272,9 +43602,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "night views"
+    ],
     "created_at": "2024-10-14T12:11:40.306Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "455d423a-e3fb-447d-9db8-7b8f5ab8ad4a",
@@ -44089,9 +44421,11 @@
     },
     "is_enabled": true,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "sunrise & sunset"
+    ],
     "created_at": "2024-09-15T11:57:24.970Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "0d5387c3-6cc7-42d0-ae64-f88fe5808882",
@@ -44319,7 +44653,7 @@
   },
   {
     "id": "c350ee0b-c914-443d-9611-9711a2052fda",
-    "title": "Bird feeder in a dark garden",
+    "title": "Obstructed Camera View",
     "stream_url": "http://166.249.202.149/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/801609.jpg",
@@ -44345,7 +44679,7 @@
       "nature"
     ],
     "created_at": "2024-09-06T08:50:21.961Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "92c0931a-c17b-4c92-aef3-f06c45c8154f",
@@ -46978,7 +47312,7 @@
   },
   {
     "id": "aa16dc6f-0c9a-43d6-a588-39dd2017ba93",
-    "title": "Obscured camera image",
+    "title": "Industrial Service Yard",
     "stream_url": "http://176.62.235.233/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/715231.jpg",
@@ -47001,7 +47335,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2024-06-05T13:35:17.008Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "a4f9b0c7-13ad-4ab6-80fc-e127c76abc13",
@@ -47313,7 +47647,7 @@
   },
   {
     "id": "420b44db-39f2-4c7c-a4c4-018b04797d67",
-    "title": "Unverified camera",
+    "title": "Sun over Distant Landscape",
     "stream_url": "http://61.120.99.199/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/708996.jpg",
@@ -47329,8 +47663,8 @@
       "timezone": "+09:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 640,
+      "height": 480
     },
     "is_enabled": false,
     "is_popular": false,
@@ -47340,7 +47674,7 @@
       "sunrise & sunset"
     ],
     "created_at": "2024-05-24T15:15:38.817Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "ea9c3ab0-08e2-4f94-8a8e-2c3a9570b3ae",
@@ -47720,7 +48054,7 @@
   },
   {
     "id": "55bd928f-067d-4248-b8ca-41066427ab26",
-    "title": "Unverified camera",
+    "title": "Office Work Area",
     "stream_url": "http://118.243.56.46:8001/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/692376.jpg",
@@ -47736,18 +48070,18 @@
       "timezone": "+09:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 640,
+      "height": 480
     },
     "is_enabled": false,
     "is_popular": false,
     "categories": [],
     "created_at": "2024-05-10T16:29:27.661Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "de61899d-56f3-430a-afb5-cb812f2010d5",
-    "title": "Unverified camera",
+    "title": "Mountain Ridge",
     "stream_url": "http://61.120.99.198/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/692243.jpg",
@@ -47763,8 +48097,8 @@
       "timezone": "+09:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 480,
+      "height": 270
     },
     "is_enabled": false,
     "is_popular": false,
@@ -47774,7 +48108,7 @@
       "landscape"
     ],
     "created_at": "2024-05-09T16:32:20.253Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "43279881-5a43-4734-ad4c-c4feca1c18e4",
@@ -47835,7 +48169,7 @@
   },
   {
     "id": "2cd47f7a-be1d-40b3-9334-67f1dfb8b1d8",
-    "title": "Obscured camera image",
+    "title": "Leafy Trees",
     "stream_url": "http://125.199.233.198/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/692070.jpg",
@@ -47861,11 +48195,11 @@
       "forests"
     ],
     "created_at": "2024-05-05T23:00:04.762Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "718e3ed2-da55-4b9e-b64b-0ac2d52b1172",
-    "title": "Obscured camera image",
+    "title": "Field and Mountain Ridge through Dirty Glass",
     "stream_url": "http://183.177.169.221/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/692023.jpg",
@@ -47886,9 +48220,12 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape",
+      "mountains"
+    ],
     "created_at": "2024-05-05T10:49:48.281Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "7d1cd6eb-5cfd-4f27-9753-444314450416",
@@ -47977,7 +48314,7 @@
   },
   {
     "id": "787a3720-48da-474f-b94f-4bf3c744a16b",
-    "title": "Unverified camera",
+    "title": "Fields and Mountain Ridge",
     "stream_url": "http://61.120.99.202/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/691824.jpg",
@@ -47993,8 +48330,8 @@
       "timezone": "+09:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 640,
+      "height": 480
     },
     "is_enabled": false,
     "is_popular": false,
@@ -48003,7 +48340,7 @@
       "roads"
     ],
     "created_at": "2024-04-30T21:50:40.059Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "e28070c4-b1c9-407b-afe5-33ade198ef3c",
@@ -48188,7 +48525,7 @@
   },
   {
     "id": "a8cb9c11-66a2-407f-810d-db6a3054e418",
-    "title": "Obscured camera image",
+    "title": "Solar Panels through Haze",
     "stream_url": "http://125.199.218.178:8001/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/691195.jpg",
@@ -48211,7 +48548,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2024-04-24T10:33:08.162Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "bb85361c-a50a-4ee0-afc3-3784d97451da",
@@ -48273,7 +48610,7 @@
   },
   {
     "id": "e345879d-dddc-4c1f-af49-b99a8f799327",
-    "title": "Blank camera image",
+    "title": "Open Sea View",
     "stream_url": "http://125.206.33.49:8080/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/690914.jpg",
@@ -48294,9 +48631,12 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "sea views",
+      "nature"
+    ],
     "created_at": "2024-04-21T14:32:30.014Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "1e646f82-839a-432c-9885-43ba64d68456",
@@ -48414,7 +48754,7 @@
   },
   {
     "id": "6dfa5f32-7cb8-4e6d-93cd-803e28d0a359",
-    "title": "Obscured camera image",
+    "title": "Sea View through Haze",
     "stream_url": "http://218.45.5.72/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/690594.jpg",
@@ -48435,9 +48775,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "sea views"
+    ],
     "created_at": "2024-04-16T00:32:37.023Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "53bc87d6-fcba-4022-bd3c-225420106e89",
@@ -49085,7 +49427,7 @@
   },
   {
     "id": "9d0b59fc-ef9e-4be6-9f53-4f8c3ed219a0",
-    "title": "Obscured camera image",
+    "title": "Paved Service Yard",
     "stream_url": "http://210.166.46.176/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/689443.jpg",
@@ -49108,7 +49450,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2024-03-24T17:05:35.519Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "a7c47cf2-a39b-4f5d-8352-cc21f3e1d916",
@@ -49233,7 +49575,7 @@
   },
   {
     "id": "fb92a58b-339f-4c31-9fad-1db2a529bf68",
-    "title": "Obscured camera image",
+    "title": "Solar Panels through Haze",
     "stream_url": "http://210.237.44.42/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/689152.jpg",
@@ -49256,7 +49598,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2024-03-19T05:50:53.530Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "4fda906a-22f0-4f71-b010-82eb14d6d5e7",
@@ -49753,7 +50095,7 @@
   },
   {
     "id": "ecdd2588-917a-4a77-bebe-84ef4871a63b",
-    "title": "Obscured camera image",
+    "title": "Lake and Mountain View",
     "stream_url": "http://153.142.207.159/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/649017.jpg",
@@ -49780,11 +50122,11 @@
       "landscape"
     ],
     "created_at": "2024-03-01T13:16:37.722Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "f6abfdc7-0486-4445-a5b4-9e9276447c2e",
-    "title": "Unverified camera",
+    "title": "Waterfall among Trees",
     "stream_url": "http://121.117.161.159/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/649015.jpg",
@@ -49800,14 +50142,17 @@
       "timezone": "+09:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 640,
+      "height": 480
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "waterfalls",
+      "nature"
+    ],
     "created_at": "2024-02-29T19:09:22.806Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "dcfa3c29-2897-45e7-b4b6-fcd5ac2b6f9b",
@@ -50646,14 +50991,14 @@
       "timezone": "+02:00"
     },
     "resolution": {
-      "width": 640,
-      "height": 240
+      "width": 2560,
+      "height": 960
     },
     "is_enabled": false,
     "is_popular": false,
     "categories": [],
     "created_at": "2024-01-31T10:41:44.496Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "847ef53a-5da3-4593-8a06-2e4a6597cde2",
@@ -51170,7 +51515,7 @@
   },
   {
     "id": "5ff6c5ac-37f4-4e30-b357-8b81f6fc1c64",
-    "title": "Unverified camera",
+    "title": "Small Airfield and Parked Aircraft",
     "stream_url": "http://90.152.151.154:8001/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/633486.jpg",
@@ -51186,14 +51531,16 @@
       "timezone": "+01:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 1280,
+      "height": 720
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "airports"
+    ],
     "created_at": "2024-01-12T10:09:34.027Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "63284bae-f20a-4c13-aacb-bccdfad370b2",
@@ -51327,14 +51674,14 @@
       "timezone": "-10:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 1280,
+      "height": 720
     },
     "is_enabled": false,
     "is_popular": false,
     "categories": [],
     "created_at": "2024-01-07T07:50:52.454Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "2e667c57-248f-4e99-a3d4-1301d4268efb",
@@ -52294,14 +52641,14 @@
       "timezone": "+01:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 1920,
+      "height": 1080
     },
     "is_enabled": false,
     "is_popular": false,
     "categories": [],
     "created_at": "2023-12-04T11:47:03.515Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "291ac70d-fb2c-408d-aab5-003430d9cd01",
@@ -52902,7 +53249,7 @@
   },
   {
     "id": "bcc69026-364f-4826-a2ef-62a8b191e5b1",
-    "title": "Unverified camera",
+    "title": "Coastal Bay and Hills",
     "stream_url": "http://218.45.5.57/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/515853.jpg",
@@ -52918,8 +53265,8 @@
       "timezone": "+09:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 640,
+      "height": 360
     },
     "is_enabled": false,
     "is_popular": false,
@@ -52931,7 +53278,7 @@
       "landscape"
     ],
     "created_at": "2023-11-12T12:05:02.234Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "fc257d2f-a0e9-4619-bce2-5ef4e2557cb2",
@@ -53106,7 +53453,7 @@
   },
   {
     "id": "df89bf5a-e4c7-450a-9f10-4e6b38816899",
-    "title": "Obscured camera image",
+    "title": "Illuminated Service Yard",
     "stream_url": "http://96.91.239.26:1024/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/509652.jpg",
@@ -53129,7 +53476,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2023-11-05T06:48:52.807Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "ad8cfc5a-91bb-4f13-9367-f3967b7bd326",
@@ -53933,7 +54280,7 @@
   },
   {
     "id": "a4ad436b-d522-4908-a984-b62d1a58b2f8",
-    "title": "Blank camera image",
+    "title": "Blank Camera Image",
     "stream_url": "http://143.106.161.110/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/472617.jpg",
@@ -53956,7 +54303,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2023-10-07T18:07:35.756Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "24ab1595-0056-4830-82bd-e03258b5085a",
@@ -54681,7 +55028,7 @@
   },
   {
     "id": "7c74f411-24a4-4c6d-969d-b7260def21e1",
-    "title": "Obscured camera image",
+    "title": "Tree Canopy",
     "stream_url": "http://128.208.103.23/oneshotimage1?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/450755.jpg",
@@ -54702,9 +55049,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2023-09-11T08:47:20.874Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "a10ca029-d294-40b4-9d33-9bf29747233e",
@@ -55140,7 +55489,7 @@
   },
   {
     "id": "31497d2c-528a-454a-ad0b-b137f2206518",
-    "title": "Unverified camera",
+    "title": "Garden Lawn and Trees",
     "stream_url": "http://80.122.182.6:8001/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/444608.jpg",
@@ -55156,18 +55505,20 @@
       "timezone": "+01:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 800,
+      "height": 600
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2023-08-26T13:42:20.908Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "307ef13e-1df3-47fb-8733-18835eb214d4",
-    "title": "Night image too dark",
+    "title": "Dim Industrial Interior",
     "stream_url": "http://161.72.135.5/cgi-bin/viewer/video.jpg?r=0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/444567.jpg",
@@ -55190,7 +55541,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2023-08-24T23:01:20.366Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "33df43e3-1e6f-4fac-ae32-c044e37998ae",
@@ -55481,7 +55832,7 @@
   },
   {
     "id": "c85c0d56-d1ea-4a12-a9d0-49ae16b73862",
-    "title": "Obscured camera image",
+    "title": "Trees through Haze",
     "stream_url": "http://80.149.125.229:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/435717.jpg",
@@ -55502,9 +55853,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2023-08-14T09:35:31.409Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "c3d1ee6d-e06f-48a8-8b18-43733dce4068",
@@ -55624,7 +55977,7 @@
   },
   {
     "id": "0d6bf892-65d3-4921-b2bf-cbc26fa7f7fd",
-    "title": "Unverified camera",
+    "title": "Dark Equipment Room",
     "stream_url": "http://96.84.21.221:8082/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/432649.jpg",
@@ -55640,14 +55993,14 @@
       "timezone": "-05:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 640,
+      "height": 480
     },
     "is_enabled": false,
     "is_popular": false,
     "categories": [],
     "created_at": "2023-08-08T22:34:19.556Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "c9e4fb56-8f5f-4e7f-9e1a-cae55cb5b75c",
@@ -58647,7 +59000,7 @@
   },
   {
     "id": "fd209929-0eeb-4d01-8911-4351713d1f73",
-    "title": "Obscured camera image",
+    "title": "Illuminated Outdoor Area at Night",
     "stream_url": "http://47.23.136.226:1024/oneshotimage1?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/300484.jpg",
@@ -58668,9 +59021,11 @@
     },
     "is_enabled": true,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "night views"
+    ],
     "created_at": "2023-04-26T08:18:20.541Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "eedcd16d-2afd-4dc6-8f8b-eb4dd7fbf995",
@@ -58934,7 +59289,7 @@
   },
   {
     "id": "56379870-af03-4cd2-a859-0d6df7ab8bfb",
-    "title": "Obscured camera image",
+    "title": "Mountain View through Haze",
     "stream_url": "http://120.51.26.100:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/274715.jpg",
@@ -58955,9 +59310,12 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "mountains",
+      "landscape"
+    ],
     "created_at": "2023-04-16T11:58:23.216Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "17a191ca-3006-48ca-a204-75fd82bf003f",
@@ -59530,7 +59888,7 @@
   },
   {
     "id": "3a9ce5ba-3313-481a-add0-92a5131241c7",
-    "title": "Obscured camera image",
+    "title": "Solar Panels through Dirty Glass",
     "stream_url": "http://153.142.88.79:50001/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/263813.jpg",
@@ -59553,11 +59911,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2023-03-26T19:12:53.964Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "1d850ba7-3627-482f-baab-55e66c9ddae1",
-    "title": "Obscured camera image",
+    "title": "Industrial Yard through Dirty Glass",
     "stream_url": "http://153.142.88.80:50001/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/263794.jpg",
@@ -59580,7 +59938,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2023-03-25T08:23:03.584Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "4c0b267f-b23b-46d2-9ad0-c052424a9fb9",
@@ -59611,7 +59969,7 @@
   },
   {
     "id": "f28ac2e9-ec6f-4606-8576-9c034bd6e40b",
-    "title": "Night image too dark",
+    "title": "Solar Panels and Vegetation",
     "stream_url": "http://203.79.59.84:81/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/263687.jpg",
@@ -59636,7 +59994,7 @@
       "sunrise & sunset"
     ],
     "created_at": "2023-03-22T23:22:29.750Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "c35acc2f-1bde-43fc-85d1-fdc0fc0f450d",
@@ -60964,7 +61322,7 @@
   },
   {
     "id": "f972982d-7607-49e4-9001-08648eedd92c",
-    "title": "Unverified camera",
+    "title": "Water Channel and Control Gate",
     "stream_url": "http://210.146.59.233:50000/oneshotimage1?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/248724.jpg",
@@ -60980,14 +61338,14 @@
       "timezone": "+09:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 640,
+      "height": 480
     },
     "is_enabled": false,
     "is_popular": false,
     "categories": [],
     "created_at": "2023-02-04T16:21:42.236Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "ed100814-8f51-4084-8c9d-d248c3196b09",
@@ -61223,7 +61581,7 @@
   },
   {
     "id": "72f3dd55-4e4e-4d3a-a30b-655d92662769",
-    "title": "Obscured camera image",
+    "title": "Illuminated Street at Night",
     "stream_url": "http://132.239.12.145/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/244631.jpg",
@@ -61244,9 +61602,12 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "streets",
+      "night views"
+    ],
     "created_at": "2023-01-26T21:11:22.334Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "6b26fed4-4bcf-4642-9fb1-26bb433bfc00",
@@ -62007,7 +62368,7 @@
   },
   {
     "id": "be04e1c9-c53f-4076-915b-5255d8e540f0",
-    "title": "Obscured camera image",
+    "title": "Field through Dirty Glass",
     "stream_url": "http://86.92.91.44/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/241480.jpg",
@@ -62028,9 +62389,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape"
+    ],
     "created_at": "2022-12-30T20:21:51.629Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "a3c1919c-6340-49b1-a718-1140680f780e",
@@ -62142,9 +62505,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "parking"
+    ],
     "created_at": "2022-12-26T01:30:46.653Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "84dcd6fb-a649-4f1c-a299-c16dcc616128",
@@ -62469,7 +62834,7 @@
   },
   {
     "id": "c42e4843-de47-460b-9597-ae553b9e319d",
-    "title": "Night image too dark",
+    "title": "Rocky Ground Close-Up",
     "stream_url": "http://203.141.204.87/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/240272.jpg",
@@ -62492,7 +62857,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2022-12-14T19:13:52.382Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "238785c0-c708-46ad-a101-1561675f6ba6",
@@ -63324,7 +63689,7 @@
   },
   {
     "id": "c46c5337-1642-43db-901e-fa2e20717946",
-    "title": "Obscured camera image",
+    "title": "Buildings and Distant Hills through Haze",
     "stream_url": "http://89.39.108.179:8080/oneshotimage1?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/235739.jpg",
@@ -63350,7 +63715,7 @@
       "city views"
     ],
     "created_at": "2022-11-15T00:15:35.066Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "504e2cfd-7bab-49c4-a557-c9815b01d522",
@@ -63847,7 +64212,7 @@
   },
   {
     "id": "cfba2dea-0104-4514-9221-9e0ad42f8cf7",
-    "title": "Obscured camera image",
+    "title": "Distant Landscape through Haze",
     "stream_url": "http://217.76.38.237/oneshotimage1?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/208759.jpg",
@@ -63868,9 +64233,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "landscape"
+    ],
     "created_at": "2022-10-27T22:34:17.578Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "12991cf7-873d-46f3-a3de-9ccb734bde6b",
@@ -63903,7 +64270,7 @@
   },
   {
     "id": "e709241a-cd56-412c-a4e1-400232b41e2b",
-    "title": "Obscured camera image",
+    "title": "Urban Buildings through Haze",
     "stream_url": "http://176.67.229.236/oneshotimage1?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/208707.jpg",
@@ -63929,7 +64296,7 @@
       "towers"
     ],
     "created_at": "2022-10-26T07:53:38.795Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "d89dd0b2-7715-48bd-b25c-49ac1fb2485b",
@@ -64279,7 +64646,7 @@
   },
   {
     "id": "d6d47f94-d4cd-470e-b015-a85031e13584",
-    "title": "Unverified camera",
+    "title": "Sea Bay and Rocky Islands",
     "stream_url": "http://210.190.104.3/oneshotimage1?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/194938.jpg",
@@ -64295,14 +64662,19 @@
       "timezone": "+09:00"
     },
     "resolution": {
-      "width": 0,
-      "height": 0
+      "width": 640,
+      "height": 480
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "sea views",
+      "bays",
+      "islands",
+      "nature"
+    ],
     "created_at": "2022-10-13T17:15:01.954Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "77f0fafe-893f-4ed0-a0b0-34023f76ba23",
@@ -65966,7 +66338,7 @@
   },
   {
     "id": "827c72bc-6bea-489a-8608-99f514319bfe",
-    "title": "No usable camera image",
+    "title": "Solar Panels through Dirty Glass",
     "stream_url": "http://202.142.12.46/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/151102.jpg",
@@ -65989,7 +66361,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2022-08-16T05:51:22.337Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "725233ce-7446-439c-959f-4521691a94d9",
@@ -66286,7 +66658,7 @@
   },
   {
     "id": "d759989a-7cc0-43df-9656-d994ebe13564",
-    "title": "Obscured camera image",
+    "title": "Garden Trees through Dirty Glass",
     "stream_url": "http://213.182.91.27:8082/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/125761.jpg",
@@ -66307,9 +66679,11 @@
     },
     "is_enabled": false,
     "is_popular": false,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "created_at": "2022-08-05T13:30:37.437Z",
-    "modified_at": "2026-09-28T07:59:51.647443+00:00"
+    "modified_at": "2026-10-04T08:01:44.919539+00:00"
   },
   {
     "id": "b49c41d8-9910-428a-bd50-21cb12619739",
