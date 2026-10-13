@@ -2222,15 +2222,15 @@
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012676.jpg",
     "location": {
-      "country": "-",
-      "country_code": "-",
-      "region": "-",
-      "city": "-",
+      "country": "Japan",
+      "country_code": "JP",
+      "region": "Nagasaki Prefecture",
+      "city": "Nagasaki",
       "coordinate": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 32.7506897,
+        "longitude": 129.8833256
       },
-      "timezone": "-"
+      "timezone": "+09:00"
     },
     "resolution": {
       "width": 640,
@@ -10702,15 +10702,15 @@
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012193.jpg",
     "location": {
-      "country": "-",
-      "country_code": "-",
-      "region": "-",
-      "city": "-",
+      "country": "Bangladesh",
+      "country_code": "BD",
+      "region": "Dhaka Division",
+      "city": "Dhaka",
       "coordinate": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 23.7104326,
+        "longitude": 90.4074407
       },
-      "timezone": "-"
+      "timezone": "+06:00"
     },
     "resolution": {
       "width": 704,
@@ -11178,15 +11178,15 @@
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012166.jpg",
     "location": {
-      "country": "-",
-      "country_code": "-",
-      "region": "-",
-      "city": "-",
+      "country": "India",
+      "country_code": "IN",
+      "region": "Uttar Pradesh",
+      "city": "Agra",
       "coordinate": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 27.1833257,
+        "longitude": 78.0166687
       },
-      "timezone": "-"
+      "timezone": "+05:30"
     },
     "resolution": {
       "width": 704,
@@ -15514,15 +15514,15 @@
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1011961.jpg",
     "location": {
-      "country": "-",
-      "country_code": "-",
-      "region": "-",
-      "city": "-",
+      "country": "India",
+      "country_code": "IN",
+      "region": "Madhya Pradesh",
+      "city": "Gwalior",
       "coordinate": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 26.2298253,
+        "longitude": 78.1733725
       },
-      "timezone": "-"
+      "timezone": "+05:30"
     },
     "resolution": {
       "width": 704,
