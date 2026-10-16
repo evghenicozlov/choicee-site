@@ -17240,7 +17240,7 @@
       "width": 800,
       "height": 600
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "streets",
@@ -17442,7 +17442,7 @@
       "width": 3840,
       "height": 2160
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "nature"
@@ -19447,7 +19447,7 @@
       "width": 800,
       "height": 600
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "swimming pools"
@@ -20378,7 +20378,7 @@
       "width": 640,
       "height": 480
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [],
     "created_at": "2026-09-13T14:58:43.937Z",
@@ -21307,7 +21307,7 @@
       "width": 704,
       "height": 576
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "sport"
@@ -21917,7 +21917,7 @@
       "width": 2592,
       "height": 1944
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "mountains",
@@ -22005,7 +22005,7 @@
       "width": 1280,
       "height": 720
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "shops"
@@ -22207,7 +22207,7 @@
       "width": 800,
       "height": 600
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [],
     "created_at": "2026-09-10T23:58:43.937Z",
@@ -25014,7 +25014,7 @@
       "width": 1280,
       "height": 720
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [],
     "created_at": "2026-09-06T21:58:43.937Z",
@@ -28174,7 +28174,7 @@
       "width": 1600,
       "height": 1200
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "nature",
@@ -29853,7 +29853,7 @@
       "width": 1920,
       "height": 720
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "nature",
@@ -30857,7 +30857,7 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "landscape"
@@ -31933,7 +31933,7 @@
       "width": 2048,
       "height": 1536
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "architecture",
@@ -32474,7 +32474,7 @@
       "width": 1024,
       "height": 768
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "churches",
@@ -33069,7 +33069,7 @@
       "width": 640,
       "height": 480
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "lakes",
@@ -33819,7 +33819,7 @@
       "width": 640,
       "height": 480
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "beaches",
@@ -34734,7 +34734,7 @@
       "width": 704,
       "height": 480
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "streets",
@@ -36319,7 +36319,7 @@
       "width": 704,
       "height": 480
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "animals"
@@ -36713,7 +36713,7 @@
       "width": 640,
       "height": 480
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "forests",
@@ -39109,7 +39109,7 @@
       "width": 1280,
       "height": 960
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "nature",
@@ -40331,7 +40331,7 @@
       "width": 2592,
       "height": 1944
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "mountains",
@@ -40817,7 +40817,7 @@
       "width": 640,
       "height": 480
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "nature",
@@ -42038,7 +42038,7 @@
       "width": 640,
       "height": 360
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "mountains",
@@ -46254,7 +46254,7 @@
       "width": 640,
       "height": 480
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "beaches",
@@ -46284,7 +46284,7 @@
       "width": 800,
       "height": 600
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "beaches",
@@ -47174,7 +47174,7 @@
       "width": 1280,
       "height": 720
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "sea views",
@@ -47573,7 +47573,7 @@
       "width": 1280,
       "height": 720
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "architecture",
@@ -48385,7 +48385,7 @@
       "width": 640,
       "height": 480
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [],
     "created_at": "2026-08-03T23:58:43.937Z",
@@ -48560,7 +48560,7 @@
       "width": 640,
       "height": 360
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "forests",
