@@ -10236,7 +10236,7 @@
     "id": "eaf6f4c5-6cc3-4a6d-93bf-1ab30546afb6",
     "title": "Unavailable Camera",
     "stream_url": "http://95.70.220.86:83/videostream.cgi?user=admin&pwd=",
-    "stream_type": "unknown",
+    "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012230.jpg",
     "location": {
       "country": "Turkey",
@@ -10292,7 +10292,7 @@
     "id": "cddcc44f-991c-438c-9a62-484da511dd81",
     "title": "Unavailable Camera",
     "stream_url": "http://93.243.90.151:8001/videostream.cgi?user=admin&pwd=",
-    "stream_type": "unknown",
+    "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012226.jpg",
     "location": {
       "country": "Germany",
