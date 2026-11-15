@@ -5,10 +5,9 @@
   "compilerOptions": {
     "outDir": "./out-tsc/app",
     "rootDir": "./src",
-    "types": []
-  },
-  "angularCompilerOptions": {
-    "strictTemplates": true
+    "types": [
+      "node"
+    ]
   },
   "include": [
     "src/**/*.ts"

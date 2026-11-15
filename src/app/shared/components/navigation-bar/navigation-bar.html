@@ -1,5 +1,7 @@
 <header class="header" [class.header--overflow]="isOverflow()" [class.header--animate]="animate()">
-  <img class="logo" src="assets/images/logo.png" />
+  <a class="logo" routerLink="/" aria-label="Choicee, home">
+    <img class="logo" src="assets/images/logo.png" alt="Choicee" />
+  </a>
   <div #container class="container">
     @if (routes(); as routes) {
       <ul #navList class="nav-list" [class.hidden]="isOverflow()">

@@ -1,5 +1,5 @@
 import {
-  AfterViewInit,
+  afterNextRender,
   Component,
   computed,
   ElementRef,
@@ -20,7 +20,7 @@ import { MenuButton } from '../menu-button/menu-button';
     '[style.top.px]': 'topOffset()',
   },
 })
-export class NavigationBar implements AfterViewInit, OnDestroy {
+export class NavigationBar implements OnDestroy {
   routes = input<Routes>();
 
   @ViewChild('container')
@@ -41,26 +41,26 @@ export class NavigationBar implements AfterViewInit, OnDestroy {
 
   private resizeObserver?: ResizeObserver;
 
-  ngAfterViewInit() {
-    this.checkOverflow();
-
-    this.resizeObserver = new ResizeObserver(() => {
+  constructor() {
+    afterNextRender(() => {
       this.checkOverflow();
-    });
 
-    if (this.container) {
-      this.resizeObserver?.observe(this.container?.nativeElement);
-    }
+      this.resizeObserver = new ResizeObserver(() => {
+        this.checkOverflow();
+      });
 
-    requestAnimationFrame(() => {
-      this.animate.set(true);
+      if (this.container) {
+        this.resizeObserver.observe(this.container.nativeElement);
+      }
+
+      requestAnimationFrame(() => {
+        this.animate.set(true);
+      });
     });
   }
 
   ngOnDestroy(): void {
-    if (this.resizeObserver) {
-      this.resizeObserver.disconnect();
-    }
+    this.resizeObserver?.disconnect();
   }
 
   protected handleMenuClick() {
@@ -69,8 +69,8 @@ export class NavigationBar implements AfterViewInit, OnDestroy {
 
   private checkOverflow = () => {
     if (this.navList && this.container) {
-      const scrollWidth = this.navList?.nativeElement.scrollWidth;
-      const clientWidth = this.container?.nativeElement.clientWidth;
+      const scrollWidth = this.navList.nativeElement.scrollWidth;
+      const clientWidth = this.container.nativeElement.clientWidth;
       const wasOverflow = this.isOverflow();
 
       if (!wasOverflow && scrollWidth > clientWidth) {

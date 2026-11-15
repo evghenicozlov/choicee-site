@@ -1,11 +1,12 @@
 import { NgOptimizedImage } from '@angular/common';
 import {
-  AfterViewInit,
+  afterNextRender,
   Component,
+  DestroyRef,
   effect,
   ElementRef,
+  inject,
   input,
-  OnDestroy,
   output,
   signal,
 } from '@angular/core';
@@ -17,10 +18,13 @@ import { SvgIcon } from '../svg-icon/svg-icon';
   templateUrl: './preview-list-item.html',
   styleUrl: './preview-list-item.scss',
   host: {
-    '[style.borderRadius.px]': 'this.borderRadius()',
+    '[style.borderRadius.px]': 'borderRadius()',
   },
 })
-export class PreviewListItem implements AfterViewInit, OnDestroy {
+export class PreviewListItem {
+  private readonly elementRef = inject<ElementRef<HTMLElement>>(ElementRef);
+  private readonly destroyRef = inject(DestroyRef);
+
   readonly src = input.required<string>();
 
   readonly leftEnable = input<boolean>(false);
@@ -34,10 +38,9 @@ export class PreviewListItem implements AfterViewInit, OnDestroy {
 
   readonly transitioning = signal(false);
 
-  private resizeObserver?: ResizeObserver;
   readonly borderRadius = signal<number>(0);
 
-  constructor(private elementRef: ElementRef) {
+  constructor() {
     effect(() => {
       const src = this.src();
 
@@ -47,21 +50,16 @@ export class PreviewListItem implements AfterViewInit, OnDestroy {
         this.nextSrc.set(src);
       }
     });
-  }
 
-  ngAfterViewInit(): void {
-    this.calculateRadius();
-    this.resizeObserver = new ResizeObserver(() => {
+    // Только в браузере
+    afterNextRender(() => {
       this.calculateRadius();
+
+      const observer = new ResizeObserver(() => this.calculateRadius());
+      observer.observe(this.elementRef.nativeElement);
+
+      this.destroyRef.onDestroy(() => observer.disconnect());
     });
-
-    this.resizeObserver.observe(this.elementRef.nativeElement);
-  }
-
-  ngOnDestroy(): void {
-    if (this.resizeObserver) {
-      this.resizeObserver.disconnect();
-    }
   }
 
   handleNextImageLoaded() {
@@ -81,9 +79,7 @@ export class PreviewListItem implements AfterViewInit, OnDestroy {
     this.rightClick.emit();
   }
 
-  calculateRadius() {
-    if (this.elementRef) {
-      this.borderRadius.set(this.elementRef.nativeElement.clientWidth * 0.15);
-    }
+  private calculateRadius() {
+    this.borderRadius.set(this.elementRef.nativeElement.clientWidth * 0.15);
   }
 }
