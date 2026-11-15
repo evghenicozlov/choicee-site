@@ -58249,8 +58249,8 @@
       "region": "Florida",
       "city": "Daytona Beach",
       "coordinate": {
-        "latitude": 29.199661,
-        "longitude": -81.043724
+        "latitude": 29.17983,
+        "longitude": -81.058
       },
       "timezone": "-05:00"
     },
@@ -58416,8 +58416,8 @@
       "region": "Florida",
       "city": "Daytona Beach",
       "coordinate": {
-        "latitude": 29.199661,
-        "longitude": -81.043724
+        "latitude": 29.17983,
+        "longitude": -81.058
       },
       "timezone": "-05:00"
     },
@@ -59344,8 +59344,8 @@
       "region": "Florida",
       "city": "Daytona Beach",
       "coordinate": {
-        "latitude": 29.199661,
-        "longitude": -81.043724
+        "latitude": 29.17983,
+        "longitude": -81.058
       },
       "timezone": "-05:00"
     },
@@ -61559,11 +61559,11 @@
     "location": {
       "country": "Italy",
       "country_code": "IT",
-      "region": "Lazio",
-      "city": "Roma",
+      "region": "Sicily",
+      "city": "Noto",
       "coordinate": {
-        "latitude": 41.89474,
-        "longitude": 12.4839
+        "latitude": 36.891455,
+        "longitude": 15.070497
       },
       "timezone": "+02:00"
     },
