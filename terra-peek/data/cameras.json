@@ -487,7 +487,7 @@
     "id": "cc575433-e8fb-4a71-a617-b8d2bd22c1bd",
     "title": "Shirone Marina View",
     "stream_url": "http://218.223.38.14:80/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
-    "stream_type": "unknown",
+    "stream_type": "mjpeg",
     "preview_url": "http://insecam.org/static/thumb/690726.jpg",
     "location": {
       "country": "Japan",
@@ -1088,7 +1088,7 @@
     "id": "4cdcc51e-7d93-4bcc-9989-a6e6eb06001e",
     "title": "Saitama Traffic Camera",
     "stream_url": "http://124.155.113.18:80/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
-    "stream_type": "unknown",
+    "stream_type": "mjpeg",
     "preview_url": "http://124.155.113.18/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1",
     "location": {
       "country": "Japan",
@@ -1200,7 +1200,7 @@
     "id": "a2e1678f-e970-4e3d-a404-d55cbf00a8c5",
     "title": "Boca Raton Camera",
     "stream_url": "http://68.66.157.38:80/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
-    "stream_type": "unknown",
+    "stream_type": "mjpeg",
     "preview_url": "http://68.66.157.38/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1",
     "location": {
       "country": "United States",
@@ -1401,7 +1401,7 @@
     "id": "72073599-87a8-41c7-bb17-e0fec04b6bf2",
     "title": "Krasnovishersk Shop Camera",
     "stream_url": "http://5.140.165.117:80/GetData.cgi?CH=1",
-    "stream_type": "unknown",
+    "stream_type": "mjpeg",
     "preview_url": "http://5.140.165.117/GetImage.cgi?CH=0",
     "location": {
       "country": "Russia",
@@ -2030,7 +2030,7 @@
     "id": "58c4cd60-9eef-4d6d-95f9-e4cc4cf22d41",
     "title": "Derio Beach View",
     "stream_url": "http://82.130.141.93:80/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
-    "stream_type": "unknown",
+    "stream_type": "mjpeg",
     "preview_url": "http://82.130.141.93/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1",
     "location": {
       "country": "Spain",
@@ -3464,7 +3464,7 @@
     "id": "7fb7f8c9-0e99-46da-b366-b1e4af7d5f6e",
     "title": "Higashimatsuyama Traffic Camera",
     "stream_url": "http://110.4.179.61:80/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
-    "stream_type": "unknown",
+    "stream_type": "mjpeg",
     "preview_url": "http://110.4.179.61/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1",
     "location": {
       "country": "Japan",
@@ -62424,7 +62424,7 @@
     "id": "c18b88ca-a17f-4f86-ac6e-01505488da4b",
     "title": "Sapporo Sea View",
     "stream_url": "http://218.224.118.87:80/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
-    "stream_type": "unknown",
+    "stream_type": "mjpeg",
     "preview_url": "http://insecam.org/static/thumb/691450.jpg",
     "location": {
       "country": "Japan",
@@ -74819,7 +74819,7 @@
     "id": "6f5b3ee6-f025-4802-bf4c-601248f77e61",
     "title": "Asahikawa Nature Camera",
     "stream_url": "http://124.155.75.190:80/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
-    "stream_type": "unknown",
+    "stream_type": "mjpeg",
     "preview_url": "http://insecam.org/static/thumb/689174.jpg",
     "location": {
       "country": "Japan",
@@ -83308,7 +83308,7 @@
     "id": "8795415a-3937-45c4-a9e2-2342ed92a4b5",
     "title": "Tokyo Mountain View (Camera 2)",
     "stream_url": "http://61.120.99.201:80/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
-    "stream_type": "unknown",
+    "stream_type": "mjpeg",
     "preview_url": "http://insecam.org/static/thumb/689285.jpg",
     "location": {
       "country": "Japan",
@@ -86856,7 +86856,7 @@
     "id": "7dcc8a35-29d8-4b47-b7a6-66b014ba03be",
     "title": "Tokyo Nature Camera",
     "stream_url": "http://183.177.132.177:80/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
-    "stream_type": "unknown",
+    "stream_type": "mjpeg",
     "preview_url": "http://insecam.org/static/thumb/805260.jpg",
     "location": {
       "country": "Japan",
