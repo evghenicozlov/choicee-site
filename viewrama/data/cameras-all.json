@@ -1048,7 +1048,7 @@
       "width": 640,
       "height": 480
     },
-    "is_enabled": true,
+    "is_enabled": false,
     "is_popular": false,
     "categories": [
       "roads",

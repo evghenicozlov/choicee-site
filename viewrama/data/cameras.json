@@ -120,36 +120,6 @@
     "modified_at": "2026-10-16T10:33:34.149Z"
   },
   {
-    "id": "b528bfc9-2654-4a97-9e3e-89427e0cbac9",
-    "title": "Road View",
-    "stream_url": "http://101.128.184.168:3151/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
-    "stream_type": "snapshot",
-    "preview_url": "http://www.insecam.org/static/thumb/1012755.jpg",
-    "location": {
-      "country": "Japan",
-      "country_code": "JP",
-      "region": "Hiroshima",
-      "city": "Hiroshima",
-      "coordinate": {
-        "latitude": 34.38528,
-        "longitude": 132.45528
-      },
-      "timezone": "+09:00"
-    },
-    "resolution": {
-      "width": 640,
-      "height": 480
-    },
-    "is_enabled": true,
-    "is_popular": false,
-    "categories": [
-      "roads",
-      "traffic"
-    ],
-    "created_at": "2026-10-12T12:58:43.937Z",
-    "modified_at": "2026-10-12T12:58:43.937Z"
-  },
-  {
     "id": "498524c2-8ad5-41b8-95fb-007cdadaca4d",
     "title": "Margaritaville Beach Resort Fort Myers Beach",
     "stream_url": "https://www.youtube-nocookie.com/embed/2qd9j2CbIpg?autoplay=0&amp;state=1",
