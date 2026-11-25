@@ -1,5 +1,35 @@
 [
   {
+    "id": "4eefdd08-d373-40f3-a223-fc6c4c09c2a9",
+    "title": "Vegetated Roadside",
+    "stream_url": "http://210.185.143.241:8080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
+    "stream_type": "snapshot",
+    "preview_url": "http://www.insecam.org/static/thumb/1012788.jpg",
+    "location": {
+      "country": "Japan",
+      "country_code": "JP",
+      "region": "Hokkaido",
+      "city": "Sapporo",
+      "coordinate": {
+        "latitude": 43.067,
+        "longitude": 141.35
+      },
+      "timezone": "+09:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "roads",
+      "nature"
+    ],
+    "created_at": "2026-10-13T14:58:43.937Z",
+    "modified_at": "2026-10-13T14:58:43.937Z"
+  },
+  {
     "id": "70139944-3f3a-47a0-88cc-60ab8114eece",
     "title": "Alpine Village Buildings",
     "stream_url": "http://31.164.39.184:50000/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
@@ -1751,6 +1781,67 @@
     "modified_at": "2026-09-23T00:58:43.937Z"
   },
   {
+    "id": "ff2494ec-127d-4fef-9f0a-3d4aa48be5e8",
+    "title": "Inspection Plaza",
+    "stream_url": "https://www.youtube-nocookie.com/embed/9En2186vo5g?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/9En2186vo5g/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "New York",
+      "city": "Buffalo",
+      "coordinate": {
+        "latitude": 40.702898,
+        "longitude": -74.010241
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic",
+      "bridges"
+    ],
+    "created_at": "2026-09-22T22:28:43.937Z",
+    "modified_at": "2026-10-19T21:25:34.483Z"
+  },
+  {
+    "id": "9cbbaf70-1b60-49c0-988d-cc9ec510f5ea",
+    "title": "Jubilee Yacht Club",
+    "stream_url": "https://www.youtube-nocookie.com/embed/5Vf5cSVHtQA?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/5Vf5cSVHtQA/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Massachusetts",
+      "city": "Beverly",
+      "coordinate": {
+        "latitude": 42.36565,
+        "longitude": -71.10832
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "rivers",
+      "marinas",
+      "boats"
+    ],
+    "created_at": "2026-09-22T19:28:43.937Z",
+    "modified_at": "2026-10-06T14:03:34.149Z"
+  },
+  {
     "id": "7cbd4815-9457-446e-b21b-820c8032df89",
     "title": "Bridge over a River",
     "stream_url": "http://201.182.98.14:8080/cgi-bin/snapshot.cgi?COUNTER",
@@ -2361,6 +2452,36 @@
     ],
     "created_at": "2026-09-17T20:58:43.937Z",
     "modified_at": "2026-09-17T20:58:43.937Z"
+  },
+  {
+    "id": "9d16f40a-f572-4a83-832f-fc4deb532471",
+    "title": "York Harbor Beach",
+    "stream_url": "https://www.youtube-nocookie.com/embed/catvjIWNrZg?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/catvjIWNrZg/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Maine",
+      "city": "York Harbor",
+      "coordinate": {
+        "latitude": 44.538934,
+        "longitude": -67.884619
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "sea views"
+    ],
+    "created_at": "2026-09-17T20:28:43.937Z",
+    "modified_at": "2026-09-17T20:28:43.937Z"
   },
   {
     "id": "c4a35b90-1356-4a0e-8621-319b33e8b49d",
@@ -6291,6 +6412,37 @@
     "modified_at": "2026-09-04T08:58:43.937Z"
   },
   {
+    "id": "74f0c2f5-378a-4c59-9d36-09fdf2e3b850",
+    "title": "River and city bridges",
+    "stream_url": "http://80.66.36.54/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/994920.jpg",
+    "location": {
+      "country": "Austria",
+      "country_code": "AT",
+      "region": "Oberosterreich",
+      "city": "Linz",
+      "coordinate": {
+        "latitude": 48.30639,
+        "longitude": 14.28611
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 960
+    },
+    "is_enabled": true,
+    "is_popular": true,
+    "categories": [
+      "rivers",
+      "bridges",
+      "city views"
+    ],
+    "created_at": "2026-09-04T02:58:43.937Z",
+    "modified_at": "2026-09-04T02:58:43.937Z"
+  },
+  {
     "id": "a823c2e7-aeaf-43d2-b73d-7add063cbfe9",
     "title": "Ski slope and earthmoving machinery",
     "stream_url": "http://78.36.19.87/mjpg/video.mjpg",
@@ -10058,6 +10210,37 @@
     "modified_at": "2026-10-19T21:25:34.483Z"
   },
   {
+    "id": "c175cc84-151b-45e5-a951-2d29761befa5",
+    "title": "Coastal bay and village",
+    "stream_url": "http://91.214.60.211/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/894979.jpg",
+    "location": {
+      "country": "Italy",
+      "country_code": "IT",
+      "region": "Toscana",
+      "city": "Portoferraio",
+      "coordinate": {
+        "latitude": 42.81152,
+        "longitude": 10.31462
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    },
+    "is_enabled": true,
+    "is_popular": true,
+    "categories": [
+      "bays",
+      "beaches",
+      "sea views"
+    ],
+    "created_at": "2026-08-21T08:58:43.937Z",
+    "modified_at": "2026-08-21T08:58:43.937Z"
+  },
+  {
     "id": "7ccfe606-512a-4b8a-a113-0ba93de7e062",
     "title": "Beach umbrellas and sea",
     "stream_url": "http://2.47.141.164:8084/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
@@ -12679,6 +12862,36 @@
     "modified_at": "2026-08-13T01:58:43.937Z"
   },
   {
+    "id": "22eb315e-6b9e-4890-8a35-eb795533a06e",
+    "title": "Kolding Animal Camera",
+    "stream_url": "http://95.154.28.198:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/885574.jpg",
+    "location": {
+      "country": "Denmark",
+      "country_code": "DK",
+      "region": "South Denmark",
+      "city": "Kolding",
+      "coordinate": {
+        "latitude": 55.4904,
+        "longitude": 9.47216
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 3840,
+      "height": 2160
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "animals",
+      "nature"
+    ],
+    "created_at": "2026-08-13T00:28:43.937Z",
+    "modified_at": "2026-09-26T20:39:35.950Z"
+  },
+  {
     "id": "27a58fdc-2f0f-4529-b940-45a7f8ef41d5",
     "title": "Town Square and Surrounding Buildings",
     "stream_url": "http://80.152.178.57:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
@@ -13728,6 +13941,36 @@
     "modified_at": "2026-08-09T11:58:43.937Z"
   },
   {
+    "id": "02ea4588-7dfc-465f-8174-e0e569105da9",
+    "title": "Town Buildings and Tree-Lined Street",
+    "stream_url": "http://46.44.199.162/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/802781.jpg",
+    "location": {
+      "country": "Italy",
+      "country_code": "IT",
+      "region": "Toscana",
+      "city": "Viareggio",
+      "coordinate": {
+        "latitude": 43.87354,
+        "longitude": 10.2558
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 960
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "city views",
+      "streets"
+    ],
+    "created_at": "2026-08-09T07:58:43.937Z",
+    "modified_at": "2026-10-19T21:25:34.483Z"
+  },
+  {
     "id": "c3a44c18-1fc4-4629-b702-0f2995fab9e5",
     "title": "Rural road through wet lens",
     "stream_url": "http://61.25.167.161/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
@@ -13848,6 +14091,35 @@
     ],
     "created_at": "2026-08-08T22:58:43.937Z",
     "modified_at": "2026-10-20T08:08:24.362Z"
+  },
+  {
+    "id": "18040767-62ab-403f-8107-79c1d0e42187",
+    "title": "Fisheye view of a road and roadside equipment",
+    "stream_url": "http://41.217.194.50:82/cgi-bin/viewer/video.jpg?r=0",
+    "stream_type": "snapshot",
+    "preview_url": "http://www.insecam.org/static/thumb/794644.jpg",
+    "location": {
+      "country": "South Africa",
+      "country_code": "ZA",
+      "region": "Gauteng",
+      "city": "Johannesburg",
+      "coordinate": {
+        "latitude": -26.20227,
+        "longitude": 28.04363
+      },
+      "timezone": "+02:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1920
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "roads"
+    ],
+    "created_at": "2026-08-08T15:58:43.937Z",
+    "modified_at": "2026-11-10T16:20:27.964Z"
   },
   {
     "id": "f74c40f1-d751-4148-bb8c-42e053f4512b",
@@ -15176,6 +15448,35 @@
     ],
     "created_at": "2026-08-03T23:58:43.937Z",
     "modified_at": "2026-10-19T21:25:34.483Z"
+  },
+  {
+    "id": "7ce6db92-1aa6-453c-b42c-69c4a7d3788a",
+    "title": "Vienna Scenic View",
+    "stream_url": "http://212.67.236.62:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/881274.jpg",
+    "location": {
+      "country": "Austria",
+      "country_code": "AT",
+      "region": "Vienna",
+      "city": "Vienna",
+      "coordinate": {
+        "latitude": 48.20849,
+        "longitude": 16.37208
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "landscape"
+    ],
+    "created_at": "2026-08-03T23:28:43.937Z",
+    "modified_at": "2026-09-11T10:12:09.210Z"
   },
   {
     "id": "934aabac-7063-48fc-bcf3-2dd8cfefac73",
@@ -17237,6 +17538,64 @@
     "modified_at": "2026-07-28T11:58:43.937Z"
   },
   {
+    "id": "a0989b71-7c5b-4005-b9d8-0e44f1984aef",
+    "title": "Dortmund Hansaplatz",
+    "stream_url": "https://www.youtube-nocookie.com/embed/MkweUZE9LqE?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/MkweUZE9LqE/hqdefault.jpg",
+    "location": {
+      "country": "Germany",
+      "country_code": "DE",
+      "region": "North Rhine-Westphalia",
+      "city": "Dortmund",
+      "coordinate": {
+        "latitude": 51.5,
+        "longitude": 10.5
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 960,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "squares"
+    ],
+    "created_at": "2026-07-28T11:28:43.937Z",
+    "modified_at": "2026-07-28T11:28:43.937Z"
+  },
+  {
+    "id": "6f5b3ee6-f025-4802-bf4c-601248f77e61",
+    "title": "Asahikawa Nature Camera",
+    "stream_url": "http://124.155.75.190:80/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/689174.jpg",
+    "location": {
+      "country": "Japan",
+      "country_code": "JP",
+      "region": "Hokkaido",
+      "city": "Asahikawa",
+      "coordinate": {
+        "latitude": 43.767,
+        "longitude": 142.367
+      },
+      "timezone": "+09:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "nature"
+    ],
+    "created_at": "2026-07-28T06:28:43.937Z",
+    "modified_at": "2026-07-28T06:28:43.937Z"
+  },
+  {
     "id": "9c592ed8-2122-466b-abe3-aafebd844dd0",
     "title": "Fields and countryside",
     "stream_url": "http://188.210.45.124/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
@@ -17354,6 +17713,35 @@
     ],
     "created_at": "2026-07-27T23:58:43.937Z",
     "modified_at": "2026-07-27T23:58:43.937Z"
+  },
+  {
+    "id": "83f6158d-ce9e-481a-8ba7-2c32f5224912",
+    "title": "Distorted coastal panorama",
+    "stream_url": "http://153.156.235.87/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/522542.jpg",
+    "location": {
+      "country": "Japan",
+      "country_code": "JP",
+      "region": "Osaka",
+      "city": "Osaka",
+      "coordinate": {
+        "latitude": 34.69389,
+        "longitude": 135.50222
+      },
+      "timezone": "+09:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 960
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "sea views"
+    ],
+    "created_at": "2026-07-27T22:58:43.937Z",
+    "modified_at": "2026-07-27T22:58:43.937Z"
   },
   {
     "id": "fc257d2f-a0e9-4619-bce2-5ef4e2557cb2",
@@ -17478,6 +17866,37 @@
     "modified_at": "2026-11-10T16:20:27.964Z"
   },
   {
+    "id": "df89bf5a-e4c7-450a-9f10-4e6b38816899",
+    "title": "Sandy beach and navigation beacon",
+    "stream_url": "http://96.91.239.26:1024/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/509652.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "New Jersey",
+      "city": "Mount Laurel",
+      "coordinate": {
+        "latitude": 39.94782,
+        "longitude": -74.91168
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "sea views",
+      "waterfront"
+    ],
+    "created_at": "2026-07-27T10:58:43.937Z",
+    "modified_at": "2026-11-10T16:20:27.964Z"
+  },
+  {
     "id": "ad8cfc5a-91bb-4f13-9367-f3967b7bd326",
     "title": "Sandy beach and sea",
     "stream_url": "http://77.89.48.24:89/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
@@ -17506,6 +17925,36 @@
     ],
     "created_at": "2026-07-27T09:58:43.937Z",
     "modified_at": "2026-07-27T09:58:43.937Z"
+  },
+  {
+    "id": "9600d35e-47d9-47b6-bad8-0a265c6bb4ee",
+    "title": "Forde Ski Resort View",
+    "stream_url": "http://93.89.35.2:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/170464.jpg",
+    "location": {
+      "country": "Norway",
+      "country_code": "NO",
+      "region": "Vestland",
+      "city": "Førde",
+      "coordinate": {
+        "latitude": 61.45217,
+        "longitude": 5.85717
+      },
+      "timezone": "+02:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "ski resorts",
+      "mountains"
+    ],
+    "created_at": "2026-07-27T09:28:43.937Z",
+    "modified_at": "2026-07-27T09:28:43.937Z"
   },
   {
     "id": "af5b4fa0-b9f7-4960-ad0a-9a464b27a3d3",
@@ -17597,6 +18046,37 @@
     ],
     "created_at": "2026-07-27T06:58:43.937Z",
     "modified_at": "2026-10-20T08:08:24.362Z"
+  },
+  {
+    "id": "395a092e-3b74-468b-87a4-163c3ff97237",
+    "title": "Illuminated Pedestrian Street and Shops",
+    "stream_url": "http://85.8.92.1/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/506256.jpg",
+    "location": {
+      "country": "Germany",
+      "country_code": "DE",
+      "region": "Nordrhein-Westfalen",
+      "city": "Mettingen",
+      "coordinate": {
+        "latitude": 52.31667,
+        "longitude": 7.78333
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "pedestrian areas",
+      "streets",
+      "shops"
+    ],
+    "created_at": "2026-07-27T04:58:43.937Z",
+    "modified_at": "2026-10-19T21:25:34.483Z"
   },
   {
     "id": "9d3c6407-25f4-4aad-91dd-058fe2e234fb",
@@ -17718,6 +18198,40 @@
     ],
     "created_at": "2026-07-26T16:58:43.937Z",
     "modified_at": "2026-10-20T08:08:24.362Z"
+  },
+  {
+    "id": "0347c708-8b22-4f5d-93c2-d307f1c6b8cc",
+    "title": "Missoula Lake View",
+    "stream_url": "http://216.14.224.50:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/962770.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Montana",
+      "city": "Missoula",
+      "coordinate": {
+        "latitude": 46.8516,
+        "longitude": -114.0141
+      },
+      "timezone": "-07:00"
+    },
+    "resolution": {
+      "width": 1024,
+      "height": 640
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "lakes",
+      "landscape",
+      "nature",
+      "sights",
+      "marinas",
+      "mountains"
+    ],
+    "created_at": "2026-07-26T15:28:43.937Z",
+    "modified_at": "2026-07-26T15:28:43.937Z"
   },
   {
     "id": "137fe63a-7489-4b51-ade8-69ea2ce97eef",
@@ -17869,6 +18383,36 @@
     "modified_at": "2026-07-26T07:58:43.937Z"
   },
   {
+    "id": "0cc148b1-7349-495b-9322-db149f53b34c",
+    "title": "Empty Ski Resort Car Park",
+    "stream_url": "http://193.214.75.118/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/474853.jpg",
+    "location": {
+      "country": "Norway",
+      "country_code": "NO",
+      "region": "Oslo",
+      "city": "Oslo",
+      "coordinate": {
+        "latitude": 59.91273,
+        "longitude": 10.74609
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 360
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "parking",
+      "ski resorts"
+    ],
+    "created_at": "2026-07-26T06:58:43.937Z",
+    "modified_at": "2026-10-20T08:08:24.362Z"
+  },
+  {
     "id": "d757e1ef-4d4e-482f-830a-7f8dfa5706b9",
     "title": "Manarola, Cinque Terre",
     "stream_url": "https://www.youtube-nocookie.com/embed/QpqsJKI0Wfk?autoplay=0&amp;state=1",
@@ -17897,6 +18441,36 @@
     ],
     "created_at": "2026-07-26T05:28:43.937Z",
     "modified_at": "2026-07-26T05:28:43.937Z"
+  },
+  {
+    "id": "d54a5397-03cc-4686-bfc8-d22368377948",
+    "title": "Railway station",
+    "stream_url": "http://89.186.81.76:85/cgi-bin/viewer/video.jpg?r=0",
+    "stream_type": "snapshot",
+    "preview_url": "http://www.insecam.org/static/thumb/467065.jpg",
+    "location": {
+      "country": "Italy",
+      "country_code": "IT",
+      "region": "Lombardia",
+      "city": "Milan",
+      "coordinate": {
+        "latitude": 45.46427,
+        "longitude": 9.18951
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 800
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "train stations",
+      "trains"
+    ],
+    "created_at": "2026-07-26T02:58:43.937Z",
+    "modified_at": "2026-07-26T02:58:43.937Z"
   },
   {
     "id": "6e0a985e-70db-4299-b006-4bf6fc743cd2",
@@ -17987,6 +18561,36 @@
     ],
     "created_at": "2026-07-26T00:58:43.937Z",
     "modified_at": "2026-07-26T00:58:43.937Z"
+  },
+  {
+    "id": "c168a36a-ecc9-4a53-95bc-56840f056744",
+    "title": "Greenwood Village City Traffic",
+    "stream_url": "http://24.30.252.59:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/856159.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Colorado",
+      "city": "Greenwood Village",
+      "coordinate": {
+        "latitude": 39.613087,
+        "longitude": -104.883925
+      },
+      "timezone": "-07:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "city views",
+      "traffic"
+    ],
+    "created_at": "2026-07-26T00:28:43.937Z",
+    "modified_at": "2026-09-06T23:12:09.210Z"
   },
   {
     "id": "ae8b03aa-b678-442e-81db-6a7144df946e",
@@ -18138,6 +18742,36 @@
     "modified_at": "2026-07-25T14:58:43.937Z"
   },
   {
+    "id": "81b51067-1159-4ac8-a8d3-1c75fc31a3f3",
+    "title": "Milan Skyline",
+    "stream_url": "https://www.youtube-nocookie.com/embed/dsoM6TYIkOI?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/dsoM6TYIkOI/hqdefault.jpg",
+    "location": {
+      "country": "Italy",
+      "country_code": "IT",
+      "region": "Lombardy",
+      "city": "Milan",
+      "coordinate": {
+        "latitude": 42.83333,
+        "longitude": 12.83333
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic",
+      "landscape"
+    ],
+    "created_at": "2026-07-25T11:28:43.937Z",
+    "modified_at": "2026-09-06T22:03:34.149Z"
+  },
+  {
     "id": "3576e471-22df-49db-af36-511b3f003a85",
     "title": "Reservoir and wooded hills",
     "stream_url": "http://203.99.224.26/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
@@ -18228,6 +18862,66 @@
     "modified_at": "2026-07-25T06:58:43.937Z"
   },
   {
+    "id": "caae7b63-398e-46be-b58e-03613351525c",
+    "title": "Fernley Scenic View",
+    "stream_url": "http://206.230.61.55:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/168490.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Nevada",
+      "city": "Fernley",
+      "coordinate": {
+        "latitude": 39.598128,
+        "longitude": -119.231669
+      },
+      "timezone": "-07:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "landscape"
+    ],
+    "created_at": "2026-07-25T06:28:43.937Z",
+    "modified_at": "2026-07-25T06:28:43.937Z"
+  },
+  {
+    "id": "07dee9e6-d5ac-4952-9f06-cb5a2827ffee",
+    "title": "Lake and wooded shoreline",
+    "stream_url": "http://103.37.205.23:8000/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/451528.jpg",
+    "location": {
+      "country": "New Zealand",
+      "country_code": "NZ",
+      "region": "Auckland",
+      "city": "Auckland",
+      "coordinate": {
+        "latitude": -36.86667,
+        "longitude": 174.76667
+      },
+      "timezone": "+13:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "lakes",
+      "forests",
+      "landscape"
+    ],
+    "created_at": "2026-07-25T05:58:43.937Z",
+    "modified_at": "2026-07-25T05:58:43.937Z"
+  },
+  {
     "id": "39a18b9f-3eeb-4143-8dd0-2da988aed76e",
     "title": "Solar panels and equipment",
     "stream_url": "http://219.121.8.22:50001/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
@@ -18282,6 +18976,36 @@
     ],
     "created_at": "2026-07-25T02:58:43.937Z",
     "modified_at": "2026-07-25T02:58:43.937Z"
+  },
+  {
+    "id": "1159154e-3091-4f28-84ba-fa136af9c93e",
+    "title": "Clymer Wildlife Camera",
+    "stream_url": "http://72.43.65.8:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/808438.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "New York",
+      "city": "Clymer",
+      "coordinate": {
+        "latitude": 42.05213,
+        "longitude": -79.669089
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "wildlife",
+      "mountains"
+    ],
+    "created_at": "2026-07-25T00:28:43.937Z",
+    "modified_at": "2026-07-25T00:28:43.937Z"
   },
   {
     "id": "ef5254a5-5e0a-4417-987e-80131fdce329",
@@ -18405,6 +19129,33 @@
     "modified_at": "2026-07-24T19:58:43.937Z"
   },
   {
+    "id": "d97bdb6e-e840-4569-8f47-e59ab0a9c7a8",
+    "title": "Electrical Transformer Installation and Crane",
+    "stream_url": "http://137.110.165.15/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/449246.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "California",
+      "city": "La Jolla",
+      "coordinate": {
+        "latitude": 32.8761,
+        "longitude": -117.2318
+      },
+      "timezone": "-08:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [],
+    "created_at": "2026-07-24T18:58:43.937Z",
+    "modified_at": "2026-10-19T21:25:34.483Z"
+  },
+  {
     "id": "58c6e75f-a915-4a89-99d6-090d98285d60",
     "title": "Town road and trees",
     "stream_url": "http://202.142.10.11/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
@@ -18496,6 +19247,66 @@
     "modified_at": "2026-07-24T12:58:43.937Z"
   },
   {
+    "id": "1e91d743-0631-4c6c-987e-df7e33a223a3",
+    "title": "College Park Camera",
+    "stream_url": "http://131.118.241.3:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/866168.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Maryland",
+      "city": "College Park",
+      "coordinate": {
+        "latitude": 38.98067,
+        "longitude": -76.93692
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 704,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "harbours",
+      "boats"
+    ],
+    "created_at": "2026-07-24T09:28:43.937Z",
+    "modified_at": "2026-07-24T09:28:43.937Z"
+  },
+  {
+    "id": "78b8db89-ce9b-41fd-b446-9c905b4313a3",
+    "title": "Town and surrounding hills",
+    "stream_url": "http://62.68.197.5/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/444536.jpg",
+    "location": {
+      "country": "Austria",
+      "country_code": "AT",
+      "region": "Oberosterreich",
+      "city": "Nebelberg",
+      "coordinate": {
+        "latitude": 48.62854,
+        "longitude": 13.84629
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 515
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "city views",
+      "landscape"
+    ],
+    "created_at": "2026-07-24T08:58:43.937Z",
+    "modified_at": "2026-07-24T08:58:43.937Z"
+  },
+  {
     "id": "cd770326-9fdb-4607-afd6-4af135b1b2c8",
     "title": "Observatory telescopes",
     "stream_url": "http://196.21.94.4/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
@@ -18523,6 +19334,36 @@
     ],
     "created_at": "2026-07-24T07:58:43.937Z",
     "modified_at": "2026-07-24T07:58:43.937Z"
+  },
+  {
+    "id": "cafe69f8-0253-48c7-b4fe-75845df26046",
+    "title": "Hampton Beach Shoreline",
+    "stream_url": "http://71.181.7.91:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/751492.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "New Hampshire",
+      "city": "Hampton Beach",
+      "coordinate": {
+        "latitude": 42.90731,
+        "longitude": -70.812
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 800,
+      "height": 600
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "sea views"
+    ],
+    "created_at": "2026-07-24T06:28:43.937Z",
+    "modified_at": "2026-09-06T01:42:09.210Z"
   },
   {
     "id": "a2d34329-ea69-43ba-ba8d-0c07ba963b6b",
@@ -18586,6 +19427,36 @@
     "modified_at": "2026-07-24T04:58:43.937Z"
   },
   {
+    "id": "5a687ab0-9619-4ceb-b043-4690b12006d3",
+    "title": "Surf and Breaking Waves on a Beach",
+    "stream_url": "http://201.174.12.243:1024/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/439140.jpg",
+    "location": {
+      "country": "Mexico",
+      "country_code": "MX",
+      "region": "Nuevo Leon",
+      "city": "Juarez",
+      "coordinate": {
+        "latitude": 25.65,
+        "longitude": -100.08333
+      },
+      "timezone": "-07:00"
+    },
+    "resolution": {
+      "width": 704,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "sea views"
+    ],
+    "created_at": "2026-07-24T00:58:43.937Z",
+    "modified_at": "2026-10-19T21:25:34.483Z"
+  },
+  {
     "id": "1bc53b76-f2fa-4ffd-b892-6d4b6625e219",
     "title": "Grassy field and trees",
     "stream_url": "http://220.254.144.230:50000/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
@@ -18644,6 +19515,36 @@
     ],
     "created_at": "2026-07-23T20:58:43.937Z",
     "modified_at": "2026-07-23T20:58:43.937Z"
+  },
+  {
+    "id": "c4582e23-84fd-4e7e-8c82-46662bd4e44c",
+    "title": "Green Bay Waterfront",
+    "stream_url": "http://206.40.97.180:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/417298.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Wisconsin",
+      "city": "Green Bay",
+      "coordinate": {
+        "latitude": 44.561248,
+        "longitude": -88.103452
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "bays",
+      "fishing"
+    ],
+    "created_at": "2026-07-23T20:28:43.937Z",
+    "modified_at": "2026-09-05T21:12:09.210Z"
   },
   {
     "id": "e2e684bd-8eab-42e5-aca3-608b5f571906",
@@ -18856,6 +19757,36 @@
     "modified_at": "2026-07-23T02:58:43.937Z"
   },
   {
+    "id": "3cf7874b-3951-4c0d-830b-5fbd455ab676",
+    "title": "Grassy Lakeshore and Pine Trees",
+    "stream_url": "http://99.114.240.169:8080/cam_1.cgi",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/414256.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "California",
+      "city": "Los Angeles",
+      "coordinate": {
+        "latitude": 34.05223,
+        "longitude": -118.24368
+      },
+      "timezone": "-08:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "lakes",
+      "nature"
+    ],
+    "created_at": "2026-07-23T00:58:43.937Z",
+    "modified_at": "2026-10-19T21:25:34.483Z"
+  },
+  {
     "id": "592970c0-eb6d-4865-b696-d43bd9cec687",
     "title": "Mountain valley panorama",
     "stream_url": "http://82.218.207.163:8000/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
@@ -18884,6 +19815,35 @@
     ],
     "created_at": "2026-07-22T23:58:43.937Z",
     "modified_at": "2026-07-22T23:58:43.937Z"
+  },
+  {
+    "id": "1cacd9b4-b40a-4e0e-baa9-2705fcb8ec7e",
+    "title": "Village landscape split view",
+    "stream_url": "http://195.191.253.160/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/412011.jpg",
+    "location": {
+      "country": "Austria",
+      "country_code": "AT",
+      "region": "Wien",
+      "city": "Vienna",
+      "coordinate": {
+        "latitude": 48.20849,
+        "longitude": 16.37208
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "landscape"
+    ],
+    "created_at": "2026-07-22T22:58:43.937Z",
+    "modified_at": "2026-07-22T22:58:43.937Z"
   },
   {
     "id": "c72f6b32-feaf-43ff-8266-407fe3cdae17",
@@ -19010,6 +19970,35 @@
     "modified_at": "2026-07-22T17:58:43.937Z"
   },
   {
+    "id": "be9015ab-c477-476e-bcba-fc0e91b8e2d3",
+    "title": "Jamestown Traffic Camera",
+    "stream_url": "http://64.77.205.67:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/334133.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "North Dakota",
+      "city": "Jamestown",
+      "coordinate": {
+        "latitude": 46.909551,
+        "longitude": -98.704469
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 704,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic"
+    ],
+    "created_at": "2026-07-22T15:28:43.937Z",
+    "modified_at": "2026-07-22T15:28:43.937Z"
+  },
+  {
     "id": "dca9aa26-a9a1-4fbe-9e0e-3f1b44571b53",
     "title": "Countryside and wooded hills",
     "stream_url": "http://210.161.174.122/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
@@ -19039,6 +20028,37 @@
     ],
     "created_at": "2026-07-22T14:58:43.937Z",
     "modified_at": "2026-07-22T14:58:43.937Z"
+  },
+  {
+    "id": "762a9123-3178-4aab-bbed-bd90ebce7b45",
+    "title": "Geneva Boat Camera",
+    "stream_url": "http://46.14.58.189:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/805685.jpg",
+    "location": {
+      "country": "Switzerland",
+      "country_code": "CH",
+      "region": "Geneva",
+      "city": "Geneva",
+      "coordinate": {
+        "latitude": 46.20222,
+        "longitude": 6.14569
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "boats",
+      "bays",
+      "harbours"
+    ],
+    "created_at": "2026-07-22T13:28:43.937Z",
+    "modified_at": "2026-07-22T13:28:43.937Z"
   },
   {
     "id": "9b52b44f-9884-4991-a630-e930f1ac910d",
@@ -19252,6 +20272,66 @@
     "modified_at": "2026-10-20T08:08:24.362Z"
   },
   {
+    "id": "b618369f-4f8f-4d80-a02a-f33c517288d5",
+    "title": "Airfield apron",
+    "stream_url": "http://66.44.215.82:8080/cgi-bin/viewer/video.jpg?r=0",
+    "stream_type": "snapshot",
+    "preview_url": "http://www.insecam.org/static/thumb/390085.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Georgia",
+      "city": "Ellijay",
+      "coordinate": {
+        "latitude": 34.686582,
+        "longitude": -84.484189
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 800
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "airports"
+    ],
+    "created_at": "2026-07-22T02:58:43.937Z",
+    "modified_at": "2026-07-22T02:58:43.937Z"
+  },
+  {
+    "id": "b6999677-668d-481c-bd17-e3429ba5e0bc",
+    "title": "Grassobbio Ski Resort View",
+    "stream_url": "http://89.190.162.243:8080/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/439123.jpg",
+    "location": {
+      "country": "Italy",
+      "country_code": "IT",
+      "region": "Lombardy",
+      "city": "Grassobbio",
+      "coordinate": {
+        "latitude": 45.65688,
+        "longitude": 9.72566
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "ski resorts",
+      "landscape",
+      "mountains"
+    ],
+    "created_at": "2026-07-22T02:28:43.937Z",
+    "modified_at": "2026-09-05T05:33:34.149Z"
+  },
+  {
     "id": "912a3fa6-566e-4343-ade8-70ef2a0bd520",
     "title": "Town Buildings and Green Sports Field",
     "stream_url": "http://46.23.58.83/cgi-bin/viewer/video.jpg?r=0",
@@ -19309,6 +20389,35 @@
     ],
     "created_at": "2026-07-22T00:58:43.937Z",
     "modified_at": "2026-07-22T00:58:43.937Z"
+  },
+  {
+    "id": "d4a4317b-d6cc-4574-b85b-4c448848c077",
+    "title": "Naples Scenic View",
+    "stream_url": "http://188.152.36.126:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/948844.jpg",
+    "location": {
+      "country": "Italy",
+      "country_code": "IT",
+      "region": "Campania",
+      "city": "Naples",
+      "coordinate": {
+        "latitude": 40.83333,
+        "longitude": 14.25
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 480,
+      "height": 360
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "landscape"
+    ],
+    "created_at": "2026-07-21T21:28:43.937Z",
+    "modified_at": "2026-07-21T21:28:43.937Z"
   },
   {
     "id": "fec43007-d1ed-423a-a139-5bbe4c2f0041",
@@ -19431,6 +20540,65 @@
     ],
     "created_at": "2026-07-21T14:58:43.937Z",
     "modified_at": "2026-07-21T14:58:43.937Z"
+  },
+  {
+    "id": "bcb66ece-5884-4e8c-99c5-30e2cd47f230",
+    "title": "Burlington Mountain View",
+    "stream_url": "http://64.223.67.219:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/243260.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Vermont",
+      "city": "Burlington",
+      "coordinate": {
+        "latitude": 44.47588,
+        "longitude": -73.21207
+      },
+      "timezone": "-04:00"
+    },
+    "resolution": {
+      "width": 3072,
+      "height": 1728
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "mountains",
+      "city views"
+    ],
+    "created_at": "2026-07-21T14:28:43.937Z",
+    "modified_at": "2026-07-21T14:28:43.937Z"
+  },
+  {
+    "id": "3f7bf27a-bb1a-448f-9492-fc66a6c636ec",
+    "title": "Chicago Animal Camera",
+    "stream_url": "http://23.25.52.58:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/241070.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Illinois",
+      "city": "Chicago",
+      "coordinate": {
+        "latitude": 41.98637,
+        "longitude": -87.70116
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "animals"
+    ],
+    "created_at": "2026-07-21T11:28:43.937Z",
+    "modified_at": "2026-07-21T11:28:43.937Z"
   },
   {
     "id": "dce4c8b8-f411-4fc2-8566-07b88dba266d",
@@ -19873,6 +21041,35 @@
     "modified_at": "2026-07-20T06:58:43.937Z"
   },
   {
+    "id": "5bdd157e-8db0-42d2-aff6-127d85ff4ee8",
+    "title": "Paris City View",
+    "stream_url": "http://82.64.66.72:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/812820.jpg",
+    "location": {
+      "country": "France",
+      "country_code": "FR",
+      "region": "Île-de-France",
+      "city": "Paris",
+      "coordinate": {
+        "latitude": 48.85341,
+        "longitude": 2.3488
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "city views"
+    ],
+    "created_at": "2026-07-20T04:28:43.937Z",
+    "modified_at": "2026-09-04T00:42:09.210Z"
+  },
+  {
     "id": "27acc5fb-f7a2-435d-aa12-7a3ca05137c9",
     "title": "Village church and hillside",
     "stream_url": "http://193.105.204.121:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
@@ -19932,6 +21129,38 @@
     ],
     "created_at": "2026-07-20T01:58:43.937Z",
     "modified_at": "2026-07-20T01:58:43.937Z"
+  },
+  {
+    "id": "e4fdb2e2-401c-4c1a-a279-303af5f456b8",
+    "title": "Linz Mountain View",
+    "stream_url": "http://90.152.140.171:81/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/803542.jpg",
+    "location": {
+      "country": "Austria",
+      "country_code": "AT",
+      "region": "Upper Austria",
+      "city": "Linz",
+      "coordinate": {
+        "latitude": 48.30639,
+        "longitude": 14.28611
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 0,
+      "height": 0
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "mountains",
+      "nature",
+      "sights",
+      "wildlife"
+    ],
+    "created_at": "2026-07-20T01:28:43.937Z",
+    "modified_at": "2026-07-20T01:28:43.937Z"
   },
   {
     "id": "ba9b3f3f-a106-47e2-ba9c-8014e2686cba",
@@ -20053,6 +21282,35 @@
     "modified_at": "2026-07-19T17:58:43.937Z"
   },
   {
+    "id": "bc5f44f6-2e88-4f3c-8b75-dcd82673dd07",
+    "title": "Riverview City View (Camera 2)",
+    "stream_url": "http://107.144.0.218:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/243302.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Riverview",
+      "coordinate": {
+        "latitude": 27.8796,
+        "longitude": -82.3299
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "city views"
+    ],
+    "created_at": "2026-07-19T15:28:43.937Z",
+    "modified_at": "2026-07-19T15:28:43.937Z"
+  },
+  {
     "id": "3cee0368-a688-4d80-97d2-5b8313d588ab",
     "title": "Airport apron and aircraft",
     "stream_url": "http://155.31.14.41/mjpg/video.mjpg",
@@ -20143,6 +21401,95 @@
     "modified_at": "2026-10-19T21:25:34.483Z"
   },
   {
+    "id": "0dcca066-9dc3-4408-aff1-0734ca878ad4",
+    "title": "Front Lawn and Residential Street",
+    "stream_url": "http://208.125.238.230:8000/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/300421.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "New York",
+      "city": "Waterville",
+      "coordinate": {
+        "latitude": 42.93118,
+        "longitude": -75.37989
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "nature",
+      "streets"
+    ],
+    "created_at": "2026-07-19T07:58:43.937Z",
+    "modified_at": "2026-10-19T21:25:34.483Z"
+  },
+  {
+    "id": "c325bf8c-e8de-4b03-beed-322a470fc8a2",
+    "title": "Oslo Scenic View",
+    "stream_url": "http://213.236.250.78:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/839027.jpg",
+    "location": {
+      "country": "Norway",
+      "country_code": "NO",
+      "region": "Oslo",
+      "city": "Oslo",
+      "coordinate": {
+        "latitude": 59.91273,
+        "longitude": 10.74609
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": true,
+    "categories": [
+      "landscape",
+      "sights",
+      "marinas",
+      "monuments"
+    ],
+    "created_at": "2026-07-19T07:28:43.937Z",
+    "modified_at": "2026-09-03T14:12:09.210Z"
+  },
+  {
+    "id": "a0961e1b-6889-40f4-88a5-871cd151a7f5",
+    "title": "Allendale Camera",
+    "stream_url": "http://71.83.5.157:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/168157.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Michigan",
+      "city": "Allendale",
+      "coordinate": {
+        "latitude": 42.97225,
+        "longitude": -85.95365
+      },
+      "timezone": "-04:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [],
+    "created_at": "2026-07-19T05:28:43.937Z",
+    "modified_at": "2026-07-19T05:28:43.937Z"
+  },
+  {
     "id": "e5468276-25a0-47f4-82db-0c3c93780bc6",
     "title": "Ski lift and hillside",
     "stream_url": "http://82.99.75.135/mjpg/video.mjpg",
@@ -20171,6 +21518,36 @@
     ],
     "created_at": "2026-07-19T03:58:43.937Z",
     "modified_at": "2026-07-19T03:58:43.937Z"
+  },
+  {
+    "id": "d62468db-0da8-40d0-bb6f-1996abf26241",
+    "title": "Lake shoreline",
+    "stream_url": "http://173.10.158.142:8081/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/277964.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Maryland",
+      "city": "Germantown",
+      "coordinate": {
+        "latitude": 39.17316,
+        "longitude": -77.27165
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "lakes",
+      "waterfront"
+    ],
+    "created_at": "2026-07-19T02:58:43.937Z",
+    "modified_at": "2026-07-19T02:58:43.937Z"
   },
   {
     "id": "f55ef9c3-2c76-4119-85fd-0a5b9c6e7d96",
@@ -20354,6 +21731,36 @@
     "modified_at": "2026-07-18T20:58:43.937Z"
   },
   {
+    "id": "67fd7122-66b4-40f6-9eeb-ba87b8543e60",
+    "title": "Town rooftops",
+    "stream_url": "http://77.48.31.68/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/269810.jpg",
+    "location": {
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "region": "Zlinsky Kraj",
+      "city": "Bystrice Pod Hostyne",
+      "coordinate": {
+        "latitude": 49.39924,
+        "longitude": 17.67401
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": true,
+    "categories": [
+      "architecture",
+      "city views"
+    ],
+    "created_at": "2026-07-18T18:58:43.937Z",
+    "modified_at": "2026-07-18T18:58:43.937Z"
+  },
+  {
     "id": "5f7c9a67-065d-4dba-8242-8cc23cb6df2c",
     "title": "Outdoor sports field and flags",
     "stream_url": "http://204.14.14.68/oneshotimage1?0",
@@ -20503,6 +21910,123 @@
     "modified_at": "2026-07-18T08:58:43.937Z"
   },
   {
+    "id": "c7ad4bb2-7be9-4951-a3b8-57a2263ed6b9",
+    "title": "Orlando City Traffic",
+    "stream_url": "http://71.41.75.170:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/238093.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Orlando",
+      "coordinate": {
+        "latitude": 28.53834,
+        "longitude": -81.37924
+      },
+      "timezone": "-04:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic",
+      "city views",
+      "squares"
+    ],
+    "created_at": "2026-07-18T08:28:43.937Z",
+    "modified_at": "2026-07-18T08:28:43.937Z"
+  },
+  {
+    "id": "769e4322-86ff-48a9-82e8-af708a1a90f4",
+    "title": "Salzburg Mountain View",
+    "stream_url": "http://89.26.117.82:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/240411.jpg",
+    "location": {
+      "country": "Austria",
+      "country_code": "AT",
+      "region": "Salzburg",
+      "city": "Salzburg",
+      "coordinate": {
+        "latitude": 47.79941,
+        "longitude": 13.04399
+      },
+      "timezone": "+02:00"
+    },
+    "resolution": {
+      "width": 800,
+      "height": 500
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "mountains",
+      "hotels"
+    ],
+    "created_at": "2026-07-18T03:28:43.937Z",
+    "modified_at": "2026-07-18T03:28:43.937Z"
+  },
+  {
+    "id": "0bd1010f-4a44-4ac8-8e65-544095a71ce6",
+    "title": "Oslo Wildlife Camera",
+    "stream_url": "http://88.84.54.3:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/242268.jpg",
+    "location": {
+      "country": "Norway",
+      "country_code": "NO",
+      "region": "Oslo",
+      "city": "Oslo",
+      "coordinate": {
+        "latitude": 59.91273,
+        "longitude": 10.74609
+      },
+      "timezone": "+02:00"
+    },
+    "resolution": {
+      "width": 704,
+      "height": 576
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "wildlife"
+    ],
+    "created_at": "2026-07-18T00:28:43.937Z",
+    "modified_at": "2026-07-18T00:28:43.937Z"
+  },
+  {
+    "id": "d2bc2b2d-0cf6-4e40-a31b-ec4f9fd0b1de",
+    "title": "Rijswijk Camera",
+    "stream_url": "http://77.162.93.116:80/img/video.mjpeg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/937828.jpg",
+    "location": {
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "region": "South Holland",
+      "city": "Rijswijk",
+      "coordinate": {
+        "latitude": 52.03634,
+        "longitude": 4.32501
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [],
+    "created_at": "2026-07-17T21:28:43.937Z",
+    "modified_at": "2026-07-17T21:28:43.937Z"
+  },
+  {
     "id": "8750bcce-cef4-43ce-a020-119acef315d6",
     "title": "Oslo Lake View (Camera 1)",
     "stream_url": "http://88.84.59.5:80/mjpg/video.mjpg",
@@ -20596,6 +22120,67 @@
     "modified_at": "2026-07-17T16:58:43.937Z"
   },
   {
+    "id": "72ee7642-a90d-4946-bf4c-3540098173b4",
+    "title": "Santiago Mountain View",
+    "stream_url": "http://200.54.42.126:8090/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/628599.jpg",
+    "location": {
+      "country": "Chile",
+      "country_code": "CL",
+      "region": "Santiago Metropolitan",
+      "city": "Santiago",
+      "coordinate": {
+        "latitude": -33.42628,
+        "longitude": -70.56656
+      },
+      "timezone": "-04:00"
+    },
+    "resolution": {
+      "width": 0,
+      "height": 0
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "mountains",
+      "parking"
+    ],
+    "created_at": "2026-07-17T16:28:43.937Z",
+    "modified_at": "2026-09-03T00:33:34.149Z"
+  },
+  {
+    "id": "8ba4abb2-326d-44b8-8fd4-90b8e9af3d4d",
+    "title": "Oslo Lake View (Camera 2)",
+    "stream_url": "http://86.62.189.146:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/915354.jpg",
+    "location": {
+      "country": "Norway",
+      "country_code": "NO",
+      "region": "Oslo",
+      "city": "Oslo",
+      "coordinate": {
+        "latitude": 59.91273,
+        "longitude": 10.74609
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "lakes",
+      "landscape",
+      "nature"
+    ],
+    "created_at": "2026-07-17T14:28:43.937Z",
+    "modified_at": "2026-07-17T14:28:43.937Z"
+  },
+  {
     "id": "48244fc5-11ae-47b5-a32b-0822b8dad1a8",
     "title": "Forested hillside",
     "stream_url": "http://124.247.184.19/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
@@ -20625,6 +22210,67 @@
     ],
     "created_at": "2026-07-17T09:58:43.937Z",
     "modified_at": "2026-07-17T09:58:43.937Z"
+  },
+  {
+    "id": "cc411567-6d5d-4b03-9914-a744f56971cd",
+    "title": "Orlando Traffic Camera",
+    "stream_url": "http://97.68.104.34:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/565429.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Orlando",
+      "coordinate": {
+        "latitude": 28.53834,
+        "longitude": -81.37924
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic",
+      "beaches"
+    ],
+    "created_at": "2026-07-17T08:28:43.937Z",
+    "modified_at": "2026-07-17T08:28:43.937Z"
+  },
+  {
+    "id": "8ec2efb4-ec63-4ee8-9d21-1930ae5ddeb7",
+    "title": "Aelvsbyn Nature Camera",
+    "stream_url": "http://82.99.75.135:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/278111.jpg",
+    "location": {
+      "country": "Sweden",
+      "country_code": "SE",
+      "region": "Norrbotten",
+      "city": "Älvsbyn",
+      "coordinate": {
+        "latitude": 65.67624,
+        "longitude": 21.00162
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 800,
+      "height": 450
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "nature",
+      "mountains",
+      "ski resorts"
+    ],
+    "created_at": "2026-07-17T06:28:43.937Z",
+    "modified_at": "2026-09-02T14:12:09.210Z"
   },
   {
     "id": "39f3f660-01e5-4f42-8b70-80be6ade8faf",
@@ -20687,6 +22333,66 @@
     "modified_at": "2026-07-17T03:58:43.937Z"
   },
   {
+    "id": "bd64b668-5aba-4d5f-a624-8f2ac3d8736d",
+    "title": "Townsville Port Truck Queue",
+    "stream_url": "https://www.youtube-nocookie.com/embed/EabbsMllaIc?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/EabbsMllaIc/hqdefault.jpg",
+    "location": {
+      "country": "Australia",
+      "country_code": "AU",
+      "region": "Queensland",
+      "city": "Townsville",
+      "coordinate": {
+        "latitude": -19.26639,
+        "longitude": 146.80569
+      },
+      "timezone": "+10:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic",
+      "ports"
+    ],
+    "created_at": "2026-07-17T03:28:43.937Z",
+    "modified_at": "2026-07-17T03:28:43.937Z"
+  },
+  {
+    "id": "bda71398-8387-430d-87da-33ea98d06853",
+    "title": "Marina and sailboats",
+    "stream_url": "http://62.214.4.38/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/258686.jpg",
+    "location": {
+      "country": "Germany",
+      "country_code": "DE",
+      "region": "Nordrhein-Westfalen",
+      "city": "Dortmund",
+      "coordinate": {
+        "latitude": 51.51494,
+        "longitude": 7.466
+      },
+      "timezone": "+02:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": true,
+    "categories": [
+      "marinas",
+      "boats"
+    ],
+    "created_at": "2026-07-17T02:58:43.937Z",
+    "modified_at": "2026-07-17T02:58:43.937Z"
+  },
+  {
     "id": "ff19e662-d768-4bfc-ab25-ee0c0967e049",
     "title": "Valley and fields",
     "stream_url": "http://80.75.240.35/mjpg/video.mjpg",
@@ -20744,6 +22450,128 @@
     ],
     "created_at": "2026-07-16T19:58:43.937Z",
     "modified_at": "2026-11-10T16:20:27.964Z"
+  },
+  {
+    "id": "b3f1f230-94a2-4274-b253-08cf78298cb1",
+    "title": "Mountain meadow and conifers",
+    "stream_url": "http://66.109.142.28/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/257273.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Montana",
+      "city": "Missoula",
+      "coordinate": {
+        "latitude": 46.8516,
+        "longitude": -114.0141
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "mountains",
+      "forests",
+      "landscape"
+    ],
+    "created_at": "2026-07-16T17:58:43.937Z",
+    "modified_at": "2026-07-16T17:58:43.937Z"
+  },
+  {
+    "id": "cdbbc5f2-c98a-4f36-bdc5-f54fe9bae766",
+    "title": "Orlando City View (Camera 2)",
+    "stream_url": "http://97.76.81.99:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/240031.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Orlando",
+      "coordinate": {
+        "latitude": 28.53834,
+        "longitude": -81.37924
+      },
+      "timezone": "-04:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "city views"
+    ],
+    "created_at": "2026-07-16T17:28:43.937Z",
+    "modified_at": "2026-07-16T17:28:43.937Z"
+  },
+  {
+    "id": "6f492722-448f-4c95-b2f9-2b843f56bfc1",
+    "title": "Town square and outdoor cafes",
+    "stream_url": "http://213.172.100.30:10000/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/257176.jpg",
+    "location": {
+      "country": "Germany",
+      "country_code": "DE",
+      "region": "Rheinland-Pfalz",
+      "city": "Minden",
+      "coordinate": {
+        "latitude": 49.83333,
+        "longitude": 6.46667
+      },
+      "timezone": "+02:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "squares",
+      "architecture",
+      "bars & restaurants"
+    ],
+    "created_at": "2026-07-16T15:58:43.937Z",
+    "modified_at": "2026-07-16T15:58:43.937Z"
+  },
+  {
+    "id": "f5f17e48-d243-43a1-8d2b-f7b0d9145f5d",
+    "title": "Mountain meadow and conifers",
+    "stream_url": "http://66.109.142.31/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/257090.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Montana",
+      "city": "Missoula",
+      "coordinate": {
+        "latitude": 46.8516,
+        "longitude": -114.0141
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "mountains",
+      "forests",
+      "landscape"
+    ],
+    "created_at": "2026-07-16T14:58:43.937Z",
+    "modified_at": "2026-07-16T14:58:43.937Z"
   },
   {
     "id": "a071ea0d-3e4f-4509-8fa3-de20279a1def",
@@ -20984,6 +22812,35 @@
     "modified_at": "2026-10-19T21:25:34.483Z"
   },
   {
+    "id": "32d06074-beec-4fec-8641-1ca788e269df",
+    "title": "Astronomical observatory",
+    "stream_url": "http://196.21.92.209/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/250641.jpg",
+    "location": {
+      "country": "South Africa",
+      "country_code": "ZA",
+      "region": "Western Cape",
+      "city": "Cape Town",
+      "coordinate": {
+        "latitude": -32.378889,
+        "longitude": 20.810833
+      },
+      "timezone": "+02:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": true,
+    "categories": [
+      "astronomy"
+    ],
+    "created_at": "2026-07-16T03:58:43.937Z",
+    "modified_at": "2026-07-16T03:58:43.937Z"
+  },
+  {
     "id": "66c01a1e-3c63-4ff7-964d-fc0f2f3f4b99",
     "title": "Road intersection",
     "stream_url": "http://118.21.50.204/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
@@ -21012,6 +22869,65 @@
     ],
     "created_at": "2026-07-16T01:58:43.937Z",
     "modified_at": "2026-07-16T01:58:43.937Z"
+  },
+  {
+    "id": "d649c6a2-51ea-49a4-94e7-4956c54c2652",
+    "title": "Linz Scenic View",
+    "stream_url": "http://80.121.219.220:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/951239.jpg",
+    "location": {
+      "country": "Austria",
+      "country_code": "AT",
+      "region": "Upper Austria",
+      "city": "Linz",
+      "coordinate": {
+        "latitude": 48.30639,
+        "longitude": 14.28611
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1024,
+      "height": 768
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "landscape"
+    ],
+    "created_at": "2026-07-16T01:28:43.937Z",
+    "modified_at": "2026-07-16T01:28:43.937Z"
+  },
+  {
+    "id": "ed100814-8f51-4084-8c9d-d248c3196b09",
+    "title": "City buildings in fog",
+    "stream_url": "http://203.141.198.244/oneshotimage1?0",
+    "stream_type": "snapshot",
+    "preview_url": "http://www.insecam.org/static/thumb/248681.jpg",
+    "location": {
+      "country": "Japan",
+      "country_code": "JP",
+      "region": "Tokyo",
+      "city": "Tokyo",
+      "coordinate": {
+        "latitude": 35.689506,
+        "longitude": 139.6917
+      },
+      "timezone": "+09:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "city views",
+      "weather"
+    ],
+    "created_at": "2026-07-15T23:58:43.937Z",
+    "modified_at": "2026-07-15T23:58:43.937Z"
   },
   {
     "id": "cec744d2-d60c-4ab6-9bd6-69f4ca5bfdd9",
@@ -21135,6 +23051,35 @@
     "modified_at": "2026-10-19T21:25:34.483Z"
   },
   {
+    "id": "c08c2aad-1245-4f42-870e-2214cd7a5f7f",
+    "title": "Illuminated City Panorama",
+    "stream_url": "http://91.195.155.180/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/243968.jpg",
+    "location": {
+      "country": "Sweden",
+      "country_code": "SE",
+      "region": "Vastra Gotaland",
+      "city": "Uddevalla",
+      "coordinate": {
+        "latitude": 58.34784,
+        "longitude": 11.9424
+      },
+      "timezone": "+02:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": true,
+    "categories": [
+      "city views"
+    ],
+    "created_at": "2026-07-15T13:58:43.937Z",
+    "modified_at": "2026-10-19T21:25:34.483Z"
+  },
+  {
     "id": "cb0185d0-cbfe-4e4d-95ac-6b8aa9cf7b85",
     "title": "Waterfront city buildings",
     "stream_url": "http://107.144.23.202/mjpg/video.mjpg",
@@ -21196,6 +23141,65 @@
     "modified_at": "2026-09-01T17:12:09.210Z"
   },
   {
+    "id": "5d0758b9-213c-4a1e-a2c2-d0b0bdd785d0",
+    "title": "Swimming jetty close-up",
+    "stream_url": "http://91.113.179.211:8081/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/243456.jpg",
+    "location": {
+      "country": "Austria",
+      "country_code": "AT",
+      "region": "Salzburg",
+      "city": "Salzburg",
+      "coordinate": {
+        "latitude": 47.79941,
+        "longitude": 13.04399
+      },
+      "timezone": "+02:00"
+    },
+    "resolution": {
+      "width": 704,
+      "height": 576
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "lakes",
+      "waterfront"
+    ],
+    "created_at": "2026-07-15T09:58:43.937Z",
+    "modified_at": "2026-07-15T09:58:43.937Z"
+  },
+  {
+    "id": "95fd9952-2539-477a-bd80-2085d035f8a2",
+    "title": "Bird Nest inside a Wooden Nest Box",
+    "stream_url": "http://209.217.222.214:8082/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/243377.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "New York",
+      "city": "Utica",
+      "coordinate": {
+        "latitude": 43.12746,
+        "longitude": -75.21426
+      },
+      "timezone": "-04:00"
+    },
+    "resolution": {
+      "width": 800,
+      "height": 600
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "birds"
+    ],
+    "created_at": "2026-07-15T08:58:43.937Z",
+    "modified_at": "2026-10-19T21:25:34.483Z"
+  },
+  {
     "id": "d0d949f8-8ef4-47e1-b4c8-9659bf86b302",
     "title": "Residential Cityscape and Distant Horizon",
     "stream_url": "http://107.144.0.218/mjpg/video.mjpg",
@@ -21255,6 +23259,33 @@
     "modified_at": "2026-07-15T05:58:43.937Z"
   },
   {
+    "id": "e18f4901-f89b-47aa-8219-94784ec29eb7",
+    "title": "China",
+    "stream_url": "https://www.youtube-nocookie.com/embed/HYMiz3j98M8?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/HYMiz3j98M8/hqdefault.jpg",
+    "location": {
+      "country": "China",
+      "country_code": "CN",
+      "region": "Jiangsu",
+      "city": "Wuxi",
+      "coordinate": {
+        "latitude": 35,
+        "longitude": 105
+      },
+      "timezone": "+08:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [],
+    "created_at": "2026-07-15T05:28:43.937Z",
+    "modified_at": "2026-07-15T05:28:43.937Z"
+  },
+  {
     "id": "db5825eb-4440-4189-af6a-eb354b4e9fa4",
     "title": "Road intersection",
     "stream_url": "http://96.91.10.219/mjpg/video.mjpg",
@@ -21285,6 +23316,37 @@
     "modified_at": "2026-07-15T04:58:43.937Z"
   },
   {
+    "id": "2dc636fe-2dd1-41a2-950c-696132f07e3a",
+    "title": "Autumn Woodland and Distant Mountain Ridges",
+    "stream_url": "http://64.223.67.219/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/243260.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Vermont",
+      "city": "Burlington",
+      "coordinate": {
+        "latitude": 44.47588,
+        "longitude": -73.21207
+      },
+      "timezone": "-04:00"
+    },
+    "resolution": {
+      "width": 3072,
+      "height": 1728
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "forests",
+      "mountains",
+      "landscape"
+    ],
+    "created_at": "2026-07-15T03:58:43.937Z",
+    "modified_at": "2026-10-19T21:25:34.483Z"
+  },
+  {
     "id": "a6f01e4d-62d8-4959-9161-54ea48ea8230",
     "title": "Outdoor sports courts",
     "stream_url": "http://78.156.144.221/mjpg/video.mjpg",
@@ -21312,6 +23374,66 @@
     ],
     "created_at": "2026-07-15T02:58:43.937Z",
     "modified_at": "2026-07-15T02:58:43.937Z"
+  },
+  {
+    "id": "093535d3-f623-44c2-839f-43012537105f",
+    "title": "Ocean Village Resort, Tofino",
+    "stream_url": "https://www.youtube-nocookie.com/embed/5WdsHkKVanA?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/5WdsHkKVanA/hqdefault.jpg",
+    "location": {
+      "country": "Canada",
+      "country_code": "CA",
+      "region": "British Columbia",
+      "city": "Tofino",
+      "coordinate": {
+        "latitude": 49.15314,
+        "longitude": -125.90744
+      },
+      "timezone": "-08:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "landscape",
+      "beaches",
+      "sea views"
+    ],
+    "created_at": "2026-07-15T02:28:43.937Z",
+    "modified_at": "2026-09-01T12:12:09.210Z"
+  },
+  {
+    "id": "ae9f4cc2-9b85-43bd-9b56-c784b24f200e",
+    "title": "Town Rooftops beneath a Clear Sky",
+    "stream_url": "http://170.163.68.222/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/243190.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Connecticut",
+      "city": "Waterbury",
+      "coordinate": {
+        "latitude": 41.55815,
+        "longitude": -73.0515
+      },
+      "timezone": "-04:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "city views"
+    ],
+    "created_at": "2026-07-15T01:58:43.937Z",
+    "modified_at": "2026-10-19T21:25:34.483Z"
   },
   {
     "id": "c037551b-86f5-4c9b-bb8d-53fc80f5515a",
@@ -21464,6 +23586,35 @@
     "modified_at": "2026-07-14T19:58:43.937Z"
   },
   {
+    "id": "fc6a5927-cc35-4f97-a20a-94fd7e947e82",
+    "title": "Canmore Main Street",
+    "stream_url": "https://www.youtube-nocookie.com/embed/_0wPODlF9wU?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/_0wPODlF9wU/hqdefault.jpg",
+    "location": {
+      "country": "Canada",
+      "country_code": "CA",
+      "region": "Alberta",
+      "city": "Canmore",
+      "coordinate": {
+        "latitude": 51.0894803,
+        "longitude": -115.3623165
+      },
+      "timezone": "-07:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic"
+    ],
+    "created_at": "2026-07-14T18:28:43.937Z",
+    "modified_at": "2026-07-14T18:28:43.937Z"
+  },
+  {
     "id": "df48c33b-b6d1-4e19-8974-6f7f9ac25ca4",
     "title": "Mountain road and village",
     "stream_url": "http://88.84.54.2/mjpg/video.mjpg",
@@ -21493,6 +23644,66 @@
     ],
     "created_at": "2026-07-14T17:58:43.937Z",
     "modified_at": "2026-07-14T17:58:43.937Z"
+  },
+  {
+    "id": "b578a8d3-e654-471b-a299-21ab1a534b41",
+    "title": "Highway junction",
+    "stream_url": "http://74.45.161.18/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/241758.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "California",
+      "city": "Modesto",
+      "coordinate": {
+        "latitude": 37.6391,
+        "longitude": -120.99688
+      },
+      "timezone": "-07:00"
+    },
+    "resolution": {
+      "width": 704,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "highways",
+      "roads",
+      "traffic"
+    ],
+    "created_at": "2026-07-14T16:58:43.937Z",
+    "modified_at": "2026-07-14T16:58:43.937Z"
+  },
+  {
+    "id": "a6cf941e-a998-480e-a2ae-a823c2b5907b",
+    "title": "Barnstable Parking Camera",
+    "stream_url": "http://50.199.215.189:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/827973.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Massachusetts",
+      "city": "Barnstable",
+      "coordinate": {
+        "latitude": 41.70011,
+        "longitude": -70.29947
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "parking"
+    ],
+    "created_at": "2026-07-14T16:28:43.937Z",
+    "modified_at": "2026-09-12T04:39:35.950Z"
   },
   {
     "id": "66993523-0add-4b04-bb0e-a4c898d3554b",
@@ -21556,6 +23767,35 @@
     "modified_at": "2026-07-14T14:58:43.937Z"
   },
   {
+    "id": "a93db991-eac4-4d28-8813-ec85f76f9022",
+    "title": "Oslo Sports Camera",
+    "stream_url": "http://193.214.75.118:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/474853.jpg",
+    "location": {
+      "country": "Norway",
+      "country_code": "NO",
+      "region": "Oslo",
+      "city": "Oslo",
+      "coordinate": {
+        "latitude": 59.91273,
+        "longitude": 10.74609
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 360
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "sport"
+    ],
+    "created_at": "2026-07-14T13:28:43.937Z",
+    "modified_at": "2026-07-14T13:28:43.937Z"
+  },
+  {
     "id": "45e54d6e-63e7-4d49-be97-7a88e75e1e53",
     "title": "Lakefront Pier and Waterfront Buildings",
     "stream_url": "http://71.41.85.58/mjpg/video.mjpg",
@@ -21616,6 +23856,35 @@
     "modified_at": "2026-07-14T09:58:43.937Z"
   },
   {
+    "id": "625a5821-0b55-496f-9a70-70fb4257a10a",
+    "title": "Dogs in an Indoor Playroom",
+    "stream_url": "http://23.25.52.58/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/241070.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Illinois",
+      "city": "Chicago",
+      "coordinate": {
+        "latitude": 41.98637,
+        "longitude": -87.70116
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "animals"
+    ],
+    "created_at": "2026-07-14T08:58:43.937Z",
+    "modified_at": "2026-10-19T21:25:34.483Z"
+  },
+  {
     "id": "03fd68ff-90d9-47e5-a6e7-5fe0e2f51dae",
     "title": "Olympic Plaza",
     "stream_url": "https://www.youtube-nocookie.com/embed/OSKgIDnBwwQ?autoplay=0&amp;state=1",
@@ -21644,6 +23913,93 @@
     ],
     "created_at": "2026-07-14T08:28:43.937Z",
     "modified_at": "2026-09-01T02:42:09.210Z"
+  },
+  {
+    "id": "a1ab20e0-3bc4-4617-a7f4-3234bf181a90",
+    "title": "Northern Lights",
+    "stream_url": "https://www.youtube-nocookie.com/embed/a0i1Kg6fROg?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/a0i1Kg6fROg/hqdefault.jpg",
+    "location": {
+      "country": "Canada",
+      "country_code": "CA",
+      "region": "Manitoba",
+      "city": "Churchill",
+      "coordinate": {
+        "latitude": 55.00019,
+        "longitude": -97.00049
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "nature",
+      "astronomy"
+    ],
+    "created_at": "2026-07-14T05:28:43.937Z",
+    "modified_at": "2026-07-14T05:28:43.937Z"
+  },
+  {
+    "id": "7cadb426-e2aa-4864-952b-67805d123c89",
+    "title": "Water-Control Building and Sluice Basin",
+    "stream_url": "http://80.15.60.67:8090/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/240804.jpg",
+    "location": {
+      "country": "France",
+      "country_code": "FR",
+      "region": "Ile-De-France",
+      "city": "Paris",
+      "coordinate": {
+        "latitude": 48.85341,
+        "longitude": 2.3488
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 960
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [],
+    "created_at": "2026-07-14T03:58:43.937Z",
+    "modified_at": "2026-10-20T08:08:24.362Z"
+  },
+  {
+    "id": "9e0c5139-cdbf-4c15-bcb6-2783ae6231cb",
+    "title": "Waterside dock and boat",
+    "stream_url": "http://128.214.194.71/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/240728.jpg",
+    "location": {
+      "country": "Finland",
+      "country_code": "FI",
+      "region": "Southern Finland",
+      "city": "Espoo",
+      "coordinate": {
+        "latitude": 60.2052,
+        "longitude": 24.6522
+      },
+      "timezone": "+03:00"
+    },
+    "resolution": {
+      "width": 768,
+      "height": 576
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "boats",
+      "waterfront"
+    ],
+    "created_at": "2026-07-14T02:58:43.937Z",
+    "modified_at": "2026-07-14T02:58:43.937Z"
   },
   {
     "id": "a7d84528-5907-47cb-9203-99910bffc999",
@@ -21678,6 +24034,40 @@
     "modified_at": "2026-11-10T16:20:27.964Z"
   },
   {
+    "id": "0378d6c5-c8cf-4882-8697-216da38756dd",
+    "title": "Vienna Traffic Camera (Camera 2)",
+    "stream_url": "http://80.123.111.53:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/485483.jpg",
+    "location": {
+      "country": "Austria",
+      "country_code": "AT",
+      "region": "Vienna",
+      "city": "Vienna",
+      "coordinate": {
+        "latitude": 48.20849,
+        "longitude": 16.37208
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic",
+      "lakes",
+      "nature",
+      "sights",
+      "bridges",
+      "fountains"
+    ],
+    "created_at": "2026-07-14T00:28:43.937Z",
+    "modified_at": "2026-09-11T20:39:35.950Z"
+  },
+  {
     "id": "bcc620bb-68a3-4231-9371-3648a1dcfb67",
     "title": "Mountain resort buildings",
     "stream_url": "http://89.26.117.82/mjpg/video.mjpg",
@@ -21707,6 +24097,37 @@
     ],
     "created_at": "2026-07-13T22:58:43.937Z",
     "modified_at": "2026-07-13T22:58:43.937Z"
+  },
+  {
+    "id": "240cb465-da51-4ecf-aa46-9c27fee7353f",
+    "title": "Palm-lined beach promenade",
+    "stream_url": "http://24.73.162.82/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/240377.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Orlando",
+      "coordinate": {
+        "latitude": 28.53834,
+        "longitude": -81.37924
+      },
+      "timezone": "-04:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "sea views",
+      "waterfront"
+    ],
+    "created_at": "2026-07-13T21:58:43.937Z",
+    "modified_at": "2026-07-13T21:58:43.937Z"
   },
   {
     "id": "a15f8a64-4dd7-47da-8b08-fd6dfdb0f017",
@@ -21830,6 +24251,36 @@
     "modified_at": "2026-08-31T18:12:09.210Z"
   },
   {
+    "id": "43a2c1a7-eb1e-4f94-823e-32b38a3a0ba7",
+    "title": "Beach and waves",
+    "stream_url": "http://70.91.83.110:1024/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/239641.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "New York",
+      "city": "New York City",
+      "coordinate": {
+        "latitude": 40.71427,
+        "longitude": -74.00597
+      },
+      "timezone": "-04:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "sea views"
+    ],
+    "created_at": "2026-07-13T12:58:43.937Z",
+    "modified_at": "2026-07-13T12:58:43.937Z"
+  },
+  {
     "id": "d310fa6a-81de-41d4-85dd-467388601523",
     "title": "Large Car Park and Distant Hills",
     "stream_url": "http://137.229.93.113/mjpg/video.mjpg",
@@ -21860,6 +24311,36 @@
     "modified_at": "2026-10-19T21:25:34.483Z"
   },
   {
+    "id": "511640fd-dec3-4956-9dfa-e4dca5dee8bc",
+    "title": "Apartment Anita, Westendorf",
+    "stream_url": "https://www.youtube-nocookie.com/embed/CXA0U-3WSsY?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/CXA0U-3WSsY/hqdefault.jpg",
+    "location": {
+      "country": "Austria",
+      "country_code": "AT",
+      "region": "Tyrol",
+      "city": "Westendorf",
+      "coordinate": {
+        "latitude": 47.43208,
+        "longitude": 12.21406
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "landscape",
+      "ski resorts"
+    ],
+    "created_at": "2026-07-13T11:28:43.937Z",
+    "modified_at": "2026-08-31T16:12:09.210Z"
+  },
+  {
     "id": "c56b5717-7037-4bfb-8f91-ae124da2e2c6",
     "title": "Mountain village and hillside",
     "stream_url": "http://46.14.203.122:81/mjpg/video.mjpg",
@@ -21888,6 +24369,37 @@
     ],
     "created_at": "2026-07-13T10:58:43.937Z",
     "modified_at": "2026-07-13T10:58:43.937Z"
+  },
+  {
+    "id": "2b05526d-d92d-4b2f-a73e-f4e54431fc27",
+    "title": "Urban square and parking",
+    "stream_url": "http://62.77.122.122/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/239241.jpg",
+    "location": {
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "region": "Ustecky Kraj",
+      "city": "Teplice",
+      "coordinate": {
+        "latitude": 50.6404,
+        "longitude": 13.82451
+      },
+      "timezone": "+02:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "squares",
+      "city views",
+      "parking"
+    ],
+    "created_at": "2026-07-13T08:58:43.937Z",
+    "modified_at": "2026-07-13T08:58:43.937Z"
   },
   {
     "id": "c8aeed7e-2c46-4c33-b5a3-b5ed538260da",
@@ -22162,6 +24674,65 @@
     "modified_at": "2026-10-19T21:25:34.483Z"
   },
   {
+    "id": "254d3012-31ce-45f8-aaa9-f815fa72410f",
+    "title": "Mountain slope",
+    "stream_url": "http://208.124.240.178/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/237860.jpg",
+    "location": {
+      "country": "Canada",
+      "country_code": "CA",
+      "region": "Ontario",
+      "city": "Toronto",
+      "coordinate": {
+        "latitude": 43.70011,
+        "longitude": -79.4163
+      },
+      "timezone": "-04:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 360
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "mountains",
+      "landscape"
+    ],
+    "created_at": "2026-07-12T22:58:43.937Z",
+    "modified_at": "2026-07-12T22:58:43.937Z"
+  },
+  {
+    "id": "ec4c9c5b-a0c8-4a2a-9e79-e0c5f8ae1257",
+    "title": "Collingwood Hurontario Street",
+    "stream_url": "https://www.youtube-nocookie.com/embed/EPKWu223XEg?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/EPKWu223XEg/hqdefault.jpg",
+    "location": {
+      "country": "Canada",
+      "country_code": "CA",
+      "region": "Ontario",
+      "city": "Collingwood",
+      "coordinate": {
+        "latitude": 43.6575592,
+        "longitude": -79.7227621
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic"
+    ],
+    "created_at": "2026-07-12T22:28:43.937Z",
+    "modified_at": "2026-07-12T22:28:43.937Z"
+  },
+  {
     "id": "642c8a2d-94e0-43ac-a4dd-9f12135cbd03",
     "title": "Ski lifts and resort buildings",
     "stream_url": "http://91.112.107.178:10000/mjpg/video.mjpg",
@@ -22341,6 +24912,35 @@
     ],
     "created_at": "2026-07-12T15:28:43.937Z",
     "modified_at": "2026-08-31T11:33:34.149Z"
+  },
+  {
+    "id": "afa80746-f2b8-48fa-af86-725e437a0896",
+    "title": "Indoor Dog Play Area and Slides",
+    "stream_url": "http://50.244.219.101/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
+    "stream_type": "snapshot",
+    "preview_url": "http://www.insecam.org/static/thumb/227438.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "California",
+      "city": "San Jose",
+      "coordinate": {
+        "latitude": 37.33939,
+        "longitude": -121.89496
+      },
+      "timezone": "-07:00"
+    },
+    "resolution": {
+      "width": 320,
+      "height": 240
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "animals"
+    ],
+    "created_at": "2026-07-12T12:58:43.937Z",
+    "modified_at": "2026-10-19T21:25:34.483Z"
   },
   {
     "id": "655dadab-6971-4c4c-a8d1-61c523a10acf",
@@ -22552,6 +25152,35 @@
     "modified_at": "2026-07-12T05:58:43.937Z"
   },
   {
+    "id": "3071b200-b278-4080-b16f-834b01e538c6",
+    "title": "Tallinn Airport Cam",
+    "stream_url": "https://www.youtube-nocookie.com/embed/i5wV5FX3u5Y?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/i5wV5FX3u5Y/hqdefault.jpg",
+    "location": {
+      "country": "Estonia",
+      "country_code": "EE",
+      "region": "Harju County",
+      "city": "Tallinn",
+      "coordinate": {
+        "latitude": 52.33333,
+        "longitude": 0.08333
+      },
+      "timezone": "+02:00"
+    },
+    "resolution": {
+      "width": 2560,
+      "height": 1440
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "airports"
+    ],
+    "created_at": "2026-07-12T04:28:43.937Z",
+    "modified_at": "2026-07-12T04:28:43.937Z"
+  },
+  {
     "id": "22a6f4ca-2724-48a2-afc2-8f7907abc904",
     "title": "Coastal car park",
     "stream_url": "http://118.21.97.251/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
@@ -22642,6 +25271,36 @@
     "modified_at": "2026-07-11T23:58:43.937Z"
   },
   {
+    "id": "ae403e0b-377d-4ab8-8756-9ab0c2995dc5",
+    "title": "Bird feeder",
+    "stream_url": "https://www.youtube-nocookie.com/embed/S46DdA8Mc4I?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/S46DdA8Mc4I/hqdefault.jpg",
+    "location": {
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "region": "South Bohemian Region",
+      "city": "Čížová",
+      "coordinate": {
+        "latitude": 40.41831,
+        "longitude": -3.70275
+      },
+      "timezone": "+02:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "birds",
+      "animals"
+    ],
+    "created_at": "2026-07-11T23:28:43.937Z",
+    "modified_at": "2026-08-31T04:03:34.149Z"
+  },
+  {
     "id": "f95b3793-e2df-4397-a882-53cc50c68b1d",
     "title": "Kuopio Market Square",
     "stream_url": "https://www.youtube-nocookie.com/embed/T7RdJdFMz-U?autoplay=0&amp;state=1",
@@ -22672,6 +25331,35 @@
     "modified_at": "2026-07-11T18:28:43.937Z"
   },
   {
+    "id": "614ddbdb-76e2-4bcf-a7c4-7b6a7c9186ee",
+    "title": "Train information display",
+    "stream_url": "http://118.21.101.221:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
+    "stream_type": "snapshot",
+    "preview_url": "http://www.insecam.org/static/thumb/206723.jpg",
+    "location": {
+      "country": "Japan",
+      "country_code": "JP",
+      "region": "Tokyo",
+      "city": "Tokyo",
+      "coordinate": {
+        "latitude": 35.689506,
+        "longitude": 139.6917
+      },
+      "timezone": "+09:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "train stations"
+    ],
+    "created_at": "2026-07-11T17:58:43.937Z",
+    "modified_at": "2026-07-11T17:58:43.937Z"
+  },
+  {
     "id": "772af057-4143-426c-9bc4-a2afdd727f3b",
     "title": "Lanškroun Square, Pardubice",
     "stream_url": "https://www.youtube-nocookie.com/embed/mpwfjhmyEzw?autoplay=0&amp;state=1",
@@ -22700,6 +25388,36 @@
     ],
     "created_at": "2026-07-11T15:28:43.937Z",
     "modified_at": "2026-07-11T15:28:43.937Z"
+  },
+  {
+    "id": "509ead22-fa87-448f-a382-c65c30a87dfc",
+    "title": "Rural grounds and trees",
+    "stream_url": "http://220.254.144.208/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
+    "stream_type": "snapshot",
+    "preview_url": "http://www.insecam.org/static/thumb/204094.jpg",
+    "location": {
+      "country": "Japan",
+      "country_code": "JP",
+      "region": "Nagano",
+      "city": "Nagano",
+      "coordinate": {
+        "latitude": 36.633,
+        "longitude": 138.183
+      },
+      "timezone": "+09:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "nature",
+      "landscape"
+    ],
+    "created_at": "2026-07-11T14:58:43.937Z",
+    "modified_at": "2026-07-11T14:58:43.937Z"
   },
   {
     "id": "d5f950f6-be47-4661-85c0-9d4911c4a2ac",
@@ -22824,6 +25542,37 @@
     "modified_at": "2026-07-11T07:58:43.937Z"
   },
   {
+    "id": "560f7b9d-c1a9-4b9b-a389-48e7a59cb266",
+    "title": "Cannes-Г‰cluse Scenic View",
+    "stream_url": "https://www.youtube-nocookie.com/embed/asO_10T0k2k?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/asO_10T0k2k/hqdefault.jpg",
+    "location": {
+      "country": "France",
+      "country_code": "FR",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "city": "Cannes",
+      "coordinate": {
+        "latitude": 48.36694,
+        "longitude": 2.987966
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "landscape",
+      "beaches",
+      "sea views"
+    ],
+    "created_at": "2026-07-11T05:28:43.937Z",
+    "modified_at": "2026-07-11T05:28:43.937Z"
+  },
+  {
     "id": "92b8ba59-ade7-4b64-a38d-1dcb193685c0",
     "title": "Historic town square",
     "stream_url": "http://78.111.125.5/oneshotimage1?0",
@@ -22853,6 +25602,39 @@
     ],
     "created_at": "2026-07-11T04:58:43.937Z",
     "modified_at": "2026-07-11T04:58:43.937Z"
+  },
+  {
+    "id": "2fa210d5-8983-4c6f-8a7a-a4c1564f8839",
+    "title": "Port of Helsinki - West harbour, South view",
+    "stream_url": "https://www.youtube-nocookie.com/embed/6hPWq2IG08M?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/6hPWq2IG08M/hqdefault.jpg",
+    "location": {
+      "country": "Finland",
+      "country_code": "FI",
+      "region": "Uusimaa",
+      "city": "Helsinki",
+      "coordinate": {
+        "latitude": 40.85939,
+        "longitude": -111.88966
+      },
+      "timezone": "+02:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic",
+      "boats",
+      "harbours",
+      "sea views",
+      "ports"
+    ],
+    "created_at": "2026-07-11T02:28:43.937Z",
+    "modified_at": "2026-08-30T12:12:09.210Z"
   },
   {
     "id": "8ca5a0a8-6522-4e39-8240-60980cb64e84",
@@ -22915,6 +25697,37 @@
     "modified_at": "2026-07-11T00:58:43.937Z"
   },
   {
+    "id": "cb7b4f74-ea50-44de-9ec7-5cb081dc57bc",
+    "title": "Arc 2000 Village, Les Arcs",
+    "stream_url": "https://www.youtube-nocookie.com/embed/B0vZX9GnpxI?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/B0vZX9GnpxI/hqdefault.jpg",
+    "location": {
+      "country": "France",
+      "country_code": "FR",
+      "region": "Auvergne-Rhône-Alpes",
+      "city": "Sainte-Foy-Tarentaise",
+      "coordinate": {
+        "latitude": 45.5665113,
+        "longitude": 6.8355725
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "nature",
+      "ski resorts",
+      "hotels"
+    ],
+    "created_at": "2026-07-11T00:28:43.937Z",
+    "modified_at": "2026-08-30T16:33:34.149Z"
+  },
+  {
     "id": "70822cd9-666e-4276-8b6f-1c1c95b993e1",
     "title": "Golf Course Greens and Tree-Lined Paths",
     "stream_url": "http://194.184.218.106/oneshotimage1?0",
@@ -22943,6 +25756,62 @@
     ],
     "created_at": "2026-07-10T23:58:43.937Z",
     "modified_at": "2026-10-20T08:08:24.362Z"
+  },
+  {
+    "id": "5dfd7d34-280a-47de-9fb3-bc773cf41158",
+    "title": "Truck Trailers beside Trees",
+    "stream_url": "http://192.33.141.123/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/188510.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Arizona",
+      "city": "Tucson",
+      "coordinate": {
+        "latitude": 32.231312,
+        "longitude": -110.94984
+      },
+      "timezone": "-07:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [],
+    "created_at": "2026-07-10T21:58:43.937Z",
+    "modified_at": "2026-10-13T15:35:13.000Z"
+  },
+  {
+    "id": "9f54819d-41f9-4028-a1fb-b61ed4f5fa78",
+    "title": "Oostende Beach",
+    "stream_url": "https://www.youtube-nocookie.com/embed/I09L5RCJkjo?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/I09L5RCJkjo/hqdefault.jpg",
+    "location": {
+      "country": "Belgium",
+      "country_code": "BE",
+      "region": "Flanders",
+      "city": "Ostend",
+      "coordinate": {
+        "latitude": 46.91807,
+        "longitude": -104.00437
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 2560,
+      "height": 1440
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches"
+    ],
+    "created_at": "2026-07-10T21:28:43.937Z",
+    "modified_at": "2026-10-16T18:30:23.741Z"
   },
   {
     "id": "69154c3f-b9eb-4d04-ad95-56a65525d245",
@@ -23127,6 +25996,36 @@
     "modified_at": "2026-07-10T09:58:43.937Z"
   },
   {
+    "id": "c26e8076-324a-4ac2-84ff-c8690cb4f630",
+    "title": "Village through a hazy lens",
+    "stream_url": "http://220.254.170.9/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
+    "stream_type": "snapshot",
+    "preview_url": "http://www.insecam.org/static/thumb/169960.jpg",
+    "location": {
+      "country": "Japan",
+      "country_code": "JP",
+      "region": "Nagano",
+      "city": "Nagano",
+      "coordinate": {
+        "latitude": 36.633,
+        "longitude": 138.183
+      },
+      "timezone": "+09:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "city views",
+      "weather"
+    ],
+    "created_at": "2026-07-10T06:58:43.937Z",
+    "modified_at": "2026-07-10T06:58:43.937Z"
+  },
+  {
     "id": "53b541c5-5701-4ddf-9a14-b88e7b67f283",
     "title": "Rural road and fields",
     "stream_url": "http://220.254.170.15/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
@@ -23157,6 +26056,35 @@
     "modified_at": "2026-07-10T05:58:43.937Z"
   },
   {
+    "id": "37ba5396-e085-4454-b1f0-576b34e31a4f",
+    "title": "Fields and rural buildings",
+    "stream_url": "http://220.254.170.14/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
+    "stream_type": "snapshot",
+    "preview_url": "http://www.insecam.org/static/thumb/169917.jpg",
+    "location": {
+      "country": "Japan",
+      "country_code": "JP",
+      "region": "Nagano",
+      "city": "Nagano",
+      "coordinate": {
+        "latitude": 36.633,
+        "longitude": 138.183
+      },
+      "timezone": "+09:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "landscape"
+    ],
+    "created_at": "2026-07-10T04:58:43.937Z",
+    "modified_at": "2026-07-10T04:58:43.937Z"
+  },
+  {
     "id": "67128c19-2c07-494b-bff6-f99a761a712e",
     "title": "Illuminated City Street and Buildings",
     "stream_url": "http://91.199.196.151/mjpg/video.mjpg",
@@ -23185,6 +26113,67 @@
     ],
     "created_at": "2026-07-10T02:58:43.937Z",
     "modified_at": "2026-10-19T21:25:34.483Z"
+  },
+  {
+    "id": "ebeab94e-3aa1-491d-bf36-30ba108b9435",
+    "title": "Marina panorama",
+    "stream_url": "http://194.71.159.17/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/168568.jpg",
+    "location": {
+      "country": "Sweden",
+      "country_code": "SE",
+      "region": "Stockholms Lan",
+      "city": "Tyreso",
+      "coordinate": {
+        "latitude": 59.233333,
+        "longitude": 18.216667
+      },
+      "timezone": "+02:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "marinas",
+      "boats",
+      "waterfront"
+    ],
+    "created_at": "2026-07-09T23:58:43.937Z",
+    "modified_at": "2026-07-09T23:58:43.937Z"
+  },
+  {
+    "id": "9511da90-c0af-47a2-ad09-95a69cc34ab3",
+    "title": "Kingston Peninsula Princess Ferry",
+    "stream_url": "https://www.youtube-nocookie.com/embed/ykmhNHI6EiM?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/ykmhNHI6EiM/hqdefault.jpg",
+    "location": {
+      "country": "Canada",
+      "country_code": "CA",
+      "region": "New Brunswick",
+      "city": "Millidgeville",
+      "coordinate": {
+        "latitude": 64.01667,
+        "longitude": -149.11667
+      },
+      "timezone": "-04:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "rivers",
+      "boats"
+    ],
+    "created_at": "2026-07-09T19:28:43.937Z",
+    "modified_at": "2026-08-29T20:42:09.210Z"
   },
   {
     "id": "5b5cf943-e961-40d4-9299-997ece3bacd7",
@@ -23277,6 +26266,37 @@
     ],
     "created_at": "2026-07-09T14:28:43.937Z",
     "modified_at": "2026-07-09T14:28:43.937Z"
+  },
+  {
+    "id": "1191beb2-dcc0-44c2-8d93-6b5b40cb318d",
+    "title": "Lakeside town",
+    "stream_url": "http://71.83.5.157/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/168157.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Michigan",
+      "city": "Allendale",
+      "coordinate": {
+        "latitude": 42.97225,
+        "longitude": -85.95365
+      },
+      "timezone": "-04:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "lakes",
+      "waterfront",
+      "architecture"
+    ],
+    "created_at": "2026-07-09T12:58:43.937Z",
+    "modified_at": "2026-07-09T12:58:43.937Z"
   },
   {
     "id": "767dc91f-4573-4bf8-a018-20ba56e1131e",
@@ -23402,6 +26422,37 @@
     "modified_at": "2026-07-09T08:58:43.937Z"
   },
   {
+    "id": "5c79c8aa-935a-4f91-ac81-44f58c5bcf66",
+    "title": "Coastal town and beach",
+    "stream_url": "http://82.198.194.150/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/167828.jpg",
+    "location": {
+      "country": "Germany",
+      "country_code": "DE",
+      "region": "Thuringen",
+      "city": "Bremen",
+      "coordinate": {
+        "latitude": 50.7237,
+        "longitude": 10.00366
+      },
+      "timezone": "+02:00"
+    },
+    "resolution": {
+      "width": 704,
+      "height": 576
+    },
+    "is_enabled": true,
+    "is_popular": true,
+    "categories": [
+      "beaches",
+      "sea views",
+      "city views"
+    ],
+    "created_at": "2026-07-09T07:58:43.937Z",
+    "modified_at": "2026-07-09T07:58:43.937Z"
+  },
+  {
     "id": "8970cae5-bc23-44fa-b338-3314c5f9e897",
     "title": "Levi Ski Resort",
     "stream_url": "https://www.youtube-nocookie.com/embed/LwihxyJ4V20?autoplay=0&amp;state=1",
@@ -23431,6 +26482,35 @@
     ],
     "created_at": "2026-07-09T06:28:43.937Z",
     "modified_at": "2026-08-29T19:03:34.149Z"
+  },
+  {
+    "id": "80ff86e9-fa43-4095-b75f-11802872b634",
+    "title": "Garden with trees and paths",
+    "stream_url": "http://195.230.164.17/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/167225.jpg",
+    "location": {
+      "country": "Austria",
+      "country_code": "AT",
+      "region": "Burgenland",
+      "city": "Eisenstadt",
+      "coordinate": {
+        "latitude": 47.85,
+        "longitude": 16.51667
+      },
+      "timezone": "+02:00"
+    },
+    "resolution": {
+      "width": 2688,
+      "height": 1512
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "nature"
+    ],
+    "created_at": "2026-07-09T02:58:43.937Z",
+    "modified_at": "2026-07-09T02:58:43.937Z"
   },
   {
     "id": "16c4b0c6-dc0a-4f72-97a3-64d06bce3a8d",
@@ -23613,6 +26693,36 @@
     "modified_at": "2026-07-08T12:58:43.937Z"
   },
   {
+    "id": "bcb01928-b74e-4d19-b558-e4cd2bf97653",
+    "title": "River and green valley",
+    "stream_url": "http://220.254.170.11/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
+    "stream_type": "snapshot",
+    "preview_url": "http://www.insecam.org/static/thumb/125796.jpg",
+    "location": {
+      "country": "Japan",
+      "country_code": "JP",
+      "region": "Nagano",
+      "city": "Nagano",
+      "coordinate": {
+        "latitude": 36.633,
+        "longitude": 138.183
+      },
+      "timezone": "+09:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "rivers",
+      "landscape"
+    ],
+    "created_at": "2026-07-08T11:58:43.937Z",
+    "modified_at": "2026-07-08T11:58:43.937Z"
+  },
+  {
     "id": "c9107f39-7cf6-4cab-b834-e319ac0df8a4",
     "title": "Railway and rural road",
     "stream_url": "http://220.254.170.3/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
@@ -23670,6 +26780,66 @@
     ],
     "created_at": "2026-07-08T10:28:43.937Z",
     "modified_at": "2026-07-08T10:28:43.937Z"
+  },
+  {
+    "id": "b49c41d8-9910-428a-bd50-21cb12619739",
+    "title": "Forest road",
+    "stream_url": "http://220.254.170.13/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
+    "stream_type": "snapshot",
+    "preview_url": "http://www.insecam.org/static/thumb/125752.jpg",
+    "location": {
+      "country": "Japan",
+      "country_code": "JP",
+      "region": "Nagano",
+      "city": "Nagano",
+      "coordinate": {
+        "latitude": 36.633,
+        "longitude": 138.183
+      },
+      "timezone": "+09:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "forests",
+      "roads"
+    ],
+    "created_at": "2026-07-08T08:58:43.937Z",
+    "modified_at": "2026-07-08T08:58:43.937Z"
+  },
+  {
+    "id": "5158fff6-0aa7-46a9-8e85-398ddc0362e2",
+    "title": "Spandau Citadel",
+    "stream_url": "https://www.youtube-nocookie.com/embed/w8wJu19P79U?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/w8wJu19P79U/hqdefault.jpg",
+    "location": {
+      "country": "Germany",
+      "country_code": "DE",
+      "region": "State of Berlin",
+      "city": "Berlin",
+      "coordinate": {
+        "latitude": 52.52437,
+        "longitude": 13.41053
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "rivers",
+      "city views"
+    ],
+    "created_at": "2026-07-08T02:28:43.937Z",
+    "modified_at": "2026-08-25T20:46:58.468Z"
   },
   {
     "id": "82ae36dd-8d55-483e-9449-18fd38a32513",
