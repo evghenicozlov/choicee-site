@@ -93333,7 +93333,7 @@
       "width": 0,
       "height": 0
     },
-    "is_enabled": true,
+    "is_enabled": false,
     "is_popular": false,
     "categories": [
       "mountains",
@@ -95621,7 +95621,7 @@
       "width": 0,
       "height": 0
     },
-    "is_enabled": true,
+    "is_enabled": false,
     "is_popular": false,
     "categories": [
       "mountains",
