@@ -1565,7 +1565,7 @@
       "width": 640,
       "height": 360
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "animals"
@@ -2554,7 +2554,7 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "waterfront",
@@ -2839,7 +2839,7 @@
       "width": 512,
       "height": 910
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
@@ -3144,7 +3144,7 @@
       "width": 352,
       "height": 288
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "weather"
@@ -3532,7 +3532,7 @@
       "width": 512,
       "height": 288
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "highways",
@@ -5539,7 +5539,7 @@
       "width": 640,
       "height": 480
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "streets",
@@ -5817,7 +5817,7 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
@@ -6467,7 +6467,7 @@
       "width": 1280,
       "height": 960
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "streets"
