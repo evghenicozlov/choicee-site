@@ -10229,36 +10229,6 @@
     "modified_at": "2026-10-19T21:25:34.483Z"
   },
   {
-    "id": "aa7bb22e-b745-4a7a-9ae8-f4b30fd19956",
-    "title": "Severomorsk Scenic View",
-    "stream_url": "http://78.36.19.87:80/mjpg/video.mjpg",
-    "stream_type": "mjpeg",
-    "preview_url": "http://insecam.org/static/thumb/990721.jpg",
-    "location": {
-      "country": "Russia",
-      "country_code": "RU",
-      "region": "Murmansk Oblast",
-      "city": "Severomorsk",
-      "coordinate": {
-        "latitude": 69.06889,
-        "longitude": 33.41622
-      },
-      "timezone": "+03:00"
-    },
-    "resolution": {
-      "width": 800,
-      "height": 600
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "landscape",
-      "mountains"
-    ],
-    "created_at": "2026-10-12T23:28:43.937Z",
-    "modified_at": "2026-10-27T08:09:35.950Z"
-  },
-  {
     "id": "b565306f-bdf0-4361-bf5c-85504f005e6a",
     "title": "Doorway and window panels",
     "stream_url": "http://125.56.1.142:5004/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
