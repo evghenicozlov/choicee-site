@@ -466,6 +466,36 @@
     "modified_at": "2026-11-26T13:38:56Z"
   },
   {
+    "id": "73035d7a-08a7-5409-ae3d-9d48fd386125",
+    "title": "Street Intersection and Cars",
+    "stream_url": "http://200.155.158.254:9090/?action=stream",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/1013026.jpg",
+    "location": {
+      "country": "Brazil",
+      "country_code": "BR",
+      "region": "Sao Paulo",
+      "city": "Sao Paulo",
+      "coordinate": {
+        "latitude": -23.5475,
+        "longitude": -46.63611
+      },
+      "timezone": "-02:00"
+    },
+    "resolution": {
+      "width": 800,
+      "height": 600
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "streets",
+      "traffic"
+    ],
+    "created_at": "2026-11-26T13:38:56Z",
+    "modified_at": "2026-11-26T13:38:56Z"
+  },
+  {
     "id": "132aabed-fe8b-517a-8bdf-c29aef65e032",
     "title": "Wooden Shed Interior",
     "stream_url": "http://109.151.44.31/?action=stream",
@@ -899,6 +929,36 @@
     "modified_at": "2026-10-12T23:58:43.937Z"
   },
   {
+    "id": "aa7bb22e-b745-4a7a-9ae8-f4b30fd19956",
+    "title": "Severomorsk Scenic View",
+    "stream_url": "http://78.36.19.87:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/990721.jpg",
+    "location": {
+      "country": "Russia",
+      "country_code": "RU",
+      "region": "Murmansk Oblast",
+      "city": "Severomorsk",
+      "coordinate": {
+        "latitude": 69.06889,
+        "longitude": 33.41622
+      },
+      "timezone": "+03:00"
+    },
+    "resolution": {
+      "width": 800,
+      "height": 600
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "landscape",
+      "mountains"
+    ],
+    "created_at": "2026-10-12T23:28:43.937Z",
+    "modified_at": "2026-10-27T08:09:35.950Z"
+  },
+  {
     "id": "97ea580c-2146-4068-9a54-bc7a7b54f45b",
     "title": "Linz Harbour View",
     "stream_url": "http://80.66.36.54:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
@@ -959,6 +1019,64 @@
     "modified_at": "2026-10-16T10:33:34.149Z"
   },
   {
+    "id": "4cdcc51e-7d93-4bcc-9989-a6e6eb06001e",
+    "title": "Saitama Traffic Camera",
+    "stream_url": "http://124.155.113.18:80/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
+    "stream_type": "mjpeg",
+    "preview_url": "http://124.155.113.18/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1",
+    "location": {
+      "country": "Japan",
+      "country_code": "JP",
+      "region": "Saitama",
+      "city": "Saitama",
+      "coordinate": {
+        "latitude": 35.867,
+        "longitude": 139.65
+      },
+      "timezone": "+09:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic"
+    ],
+    "created_at": "2026-10-12T11:28:43.937Z",
+    "modified_at": "2026-10-16T04:42:09.210Z"
+  },
+  {
+    "id": "56f07987-dc52-435d-ac0b-a402df00e95d",
+    "title": "Riverview City View",
+    "stream_url": "http://107.144.23.202:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://107.144.23.202/axis-cgi/jpg/image.cgi",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Riverview",
+      "coordinate": {
+        "latitude": 27.8796,
+        "longitude": -82.3299
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "city views"
+    ],
+    "created_at": "2026-10-12T05:28:43.937Z",
+    "modified_at": "2026-11-27T09:48:36.914091Z"
+  },
+  {
     "id": "498524c2-8ad5-41b8-95fb-007cdadaca4d",
     "title": "Margaritaville Beach Resort Fort Myers Beach",
     "stream_url": "https://www.youtube-nocookie.com/embed/2qd9j2CbIpg?autoplay=0&amp;state=1",
@@ -989,6 +1107,153 @@
     ],
     "created_at": "2026-10-11T19:28:43.937Z",
     "modified_at": "2026-10-12T17:46:58.468Z"
+  },
+  {
+    "id": "82b31f70-453f-44de-8b61-1886a32bec07",
+    "title": "Seascape Town Center, Events Plaza at Mezcal",
+    "stream_url": "https://www.youtube-nocookie.com/embed/2EfuPXRXLLk?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/2EfuPXRXLLk/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Miramar Beach",
+      "coordinate": {
+        "latitude": 27.751672,
+        "longitude": -81.785735
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "bars & restaurants"
+    ],
+    "created_at": "2026-10-11T16:28:43.937Z",
+    "modified_at": "2026-10-11T16:28:43.937Z"
+  },
+  {
+    "id": "2edf4945-52e8-4f16-a9b1-0f840d75664c",
+    "title": "Cloudy Sky over a Bay",
+    "stream_url": "http://124.154.25.191/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
+    "stream_type": "snapshot",
+    "preview_url": "http://www.insecam.org/static/thumb/1012723.jpg",
+    "location": {
+      "country": "Japan",
+      "country_code": "JP",
+      "region": "Niigata",
+      "city": "Niigata",
+      "coordinate": {
+        "latitude": 37.91611,
+        "longitude": 139.03639
+      },
+      "timezone": "+09:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "sea views",
+      "weather"
+    ],
+    "created_at": "2026-10-11T14:58:43.937Z",
+    "modified_at": "2026-10-19T21:25:34.483Z"
+  },
+  {
+    "id": "ca11f41f-3bc9-405e-9aad-00c42725f3da",
+    "title": "Lifeguard HQ Huntington Beach",
+    "stream_url": "https://www.youtube-nocookie.com/embed/RGYlFjV-dtc?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/RGYlFjV-dtc/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "California",
+      "city": "Huntington Beach",
+      "coordinate": {
+        "latitude": 33.6603,
+        "longitude": -117.99923
+      },
+      "timezone": "-08:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches"
+    ],
+    "created_at": "2026-10-11T14:28:43.937Z",
+    "modified_at": "2026-10-15T17:42:09.210Z"
+  },
+  {
+    "id": "58c4cd60-9eef-4d6d-95f9-e4cc4cf22d41",
+    "title": "Derio Beach View",
+    "stream_url": "http://82.130.141.93:80/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
+    "stream_type": "mjpeg",
+    "preview_url": "http://82.130.141.93/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1",
+    "location": {
+      "country": "Spain",
+      "country_code": "ES",
+      "region": "Basque Country",
+      "city": "Derio",
+      "coordinate": {
+        "latitude": 43.30544,
+        "longitude": -2.88116
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "bays"
+    ],
+    "created_at": "2026-10-11T11:28:43.937Z",
+    "modified_at": "2026-10-11T11:28:43.937Z"
+  },
+  {
+    "id": "c25c78fa-da0a-42f5-9eea-918e973c5e69",
+    "title": "Surf Station North Pier",
+    "stream_url": "https://www.youtube-nocookie.com/embed/Q6eZVkUKFxo?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/Q6eZVkUKFxo/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Saint Augustine",
+      "coordinate": {
+        "latitude": 29.89469,
+        "longitude": -81.31452
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "sea views"
+    ],
+    "created_at": "2026-10-11T09:28:43.937Z",
+    "modified_at": "2026-10-15T15:12:09.210Z"
   },
   {
     "id": "28136111-6542-4132-a13d-f5d28cfe43c5",
@@ -1055,6 +1320,35 @@
     "modified_at": "2026-10-15T11:42:09.210Z"
   },
   {
+    "id": "4aa6584c-3d59-427e-bbf0-a43c63f882f2",
+    "title": "Salandra Traffic Camera",
+    "stream_url": "http://79.8.16.194:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "stream_type": "mjpeg",
+    "preview_url": "http://79.8.16.194/record/current.jpg",
+    "location": {
+      "country": "Italy",
+      "country_code": "IT",
+      "region": "Basilicata",
+      "city": "Salandra",
+      "coordinate": {
+        "latitude": 40.52752,
+        "longitude": 16.31918
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1440,
+      "height": 665
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic"
+    ],
+    "created_at": "2026-10-10T14:28:43.937Z",
+    "modified_at": "2026-10-26T03:09:35.950Z"
+  },
+  {
     "id": "37c9bfee-65b9-41a4-b2ad-8040addcb7ab",
     "title": "Nuremberg Nature Camera",
     "stream_url": "http://217.91.0.13:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
@@ -1083,6 +1377,36 @@
     ],
     "created_at": "2026-10-10T12:28:43.937Z",
     "modified_at": "2026-10-10T12:28:43.937Z"
+  },
+  {
+    "id": "f76bbaeb-f1e4-40a2-85e4-6c477e31747f",
+    "title": "Orlando Boat Camera",
+    "stream_url": "http://97.76.161.227:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://97.76.161.227/axis-cgi/jpg/image.cgi",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Orlando",
+      "coordinate": {
+        "latitude": 28.53834,
+        "longitude": -81.37924
+      },
+      "timezone": "-04:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "boats",
+      "harbours"
+    ],
+    "created_at": "2026-10-10T09:28:43.937Z",
+    "modified_at": "2026-10-10T09:28:43.937Z"
   },
   {
     "id": "ab165b4b-eb99-419f-9e68-278600341ca9",
@@ -1143,6 +1467,94 @@
     "modified_at": "2026-10-10T04:28:43.937Z"
   },
   {
+    "id": "3fdff2a8-9a95-4828-9040-c18ede395bea",
+    "title": "Orlando Beach View",
+    "stream_url": "http://97.76.27.170:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://97.76.27.170/axis-cgi/jpg/image.cgi",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Orlando",
+      "coordinate": {
+        "latitude": 28.53834,
+        "longitude": -81.37924
+      },
+      "timezone": "-04:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "sea views"
+    ],
+    "created_at": "2026-10-10T02:28:43.937Z",
+    "modified_at": "2026-10-25T21:39:35.950Z"
+  },
+  {
+    "id": "0a82a495-821e-429f-b814-d5e452a1ff4b",
+    "title": "Bucharest Traffic Camera",
+    "stream_url": "http://86.121.159.16:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/932097.jpg",
+    "location": {
+      "country": "Romania",
+      "country_code": "RO",
+      "region": "Bucharest",
+      "city": "Bucharest",
+      "coordinate": {
+        "latitude": 44.43225,
+        "longitude": 26.10626
+      },
+      "timezone": "+02:00"
+    },
+    "resolution": {
+      "width": 800,
+      "height": 600
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic"
+    ],
+    "created_at": "2026-10-09T18:28:43.937Z",
+    "modified_at": "2026-10-09T18:28:43.937Z"
+  },
+  {
+    "id": "f510727c-54e5-4d0a-8813-8e932796ce64",
+    "title": "Storefront Entrance",
+    "stream_url": "http://82.172.185.133/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
+    "stream_type": "snapshot",
+    "preview_url": "http://www.insecam.org/static/thumb/1012653.jpg",
+    "location": {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "region": "Noord-Holland",
+      "city": "Amsterdam-Zuidoost",
+      "coordinate": {
+        "latitude": 52.3075,
+        "longitude": 4.97222
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "shops"
+    ],
+    "created_at": "2026-10-09T17:58:43.937Z",
+    "modified_at": "2026-10-09T17:58:43.937Z"
+  },
+  {
     "id": "5ab0d9c8-62b0-4f73-9860-495d0c0a1aff",
     "title": "Erasmusbrug, Kop van Zuid, Cruise Terminal Rotterdam",
     "stream_url": "https://www.youtube-nocookie.com/embed/nFozEhYTEMo?autoplay=0&amp;state=1",
@@ -1172,6 +1584,66 @@
     ],
     "created_at": "2026-10-09T10:28:43.937Z",
     "modified_at": "2026-10-14T16:12:09.210Z"
+  },
+  {
+    "id": "c3915f56-a764-4947-a1d8-22769f02ca96",
+    "title": "Pionerskaya metro station and Hollywood shopping center",
+    "stream_url": "https://www.youtube-nocookie.com/embed/dhVzWNos718?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/dhVzWNos718/hqdefault.jpg",
+    "location": {
+      "country": "Russia",
+      "country_code": "RU",
+      "region": "St. Petersburg",
+      "city": "Saint Petersburg",
+      "coordinate": {
+        "latitude": 59.93863,
+        "longitude": 30.31413
+      },
+      "timezone": "+03:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "city views"
+    ],
+    "created_at": "2026-10-09T02:28:43.937Z",
+    "modified_at": "2026-10-30T18:53:01.223Z"
+  },
+  {
+    "id": "92549c27-aeae-4701-9798-a24688deeec4",
+    "title": "Street beside a building",
+    "stream_url": "http://201.183.221.130:6001/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
+    "stream_type": "snapshot",
+    "preview_url": "http://www.insecam.org/static/thumb/1012617.jpg",
+    "location": {
+      "country": "Ecuador",
+      "country_code": "EC",
+      "region": "Pichincha",
+      "city": "Quito",
+      "coordinate": {
+        "latitude": -0.22985,
+        "longitude": -78.52495
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "streets",
+      "roads",
+      "architecture"
+    ],
+    "created_at": "2026-10-08T22:58:43.937Z",
+    "modified_at": "2026-11-10T16:20:27.964Z"
   },
   {
     "id": "4699bc61-cdf7-452e-856e-cca10b654199",
@@ -1266,6 +1738,65 @@
     "modified_at": "2026-10-14T03:12:09.210Z"
   },
   {
+    "id": "9ffdf709-d5fc-4ecf-b1a8-7f1bce0699e1",
+    "title": "Terminal Lauwersoog, NL",
+    "stream_url": "https://www.youtube-nocookie.com/embed/E4pdAYOGBXA?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/E4pdAYOGBXA/hqdefault.jpg",
+    "location": {
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "region": "Groningen",
+      "city": "Lauwersoog",
+      "coordinate": {
+        "latitude": 53.4075,
+        "longitude": 6.19861
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 3840,
+      "height": 2160
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "boats",
+      "harbours"
+    ],
+    "created_at": "2026-10-08T06:28:43.937Z",
+    "modified_at": "2026-10-24T23:39:35.950Z"
+  },
+  {
+    "id": "a11ce738-0d3f-42bc-a2e5-44881ed60c25",
+    "title": "Saint-Barthélemy Plaine de St-Jean",
+    "stream_url": "https://www.youtube-nocookie.com/embed/028GpBNaiJs?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/028GpBNaiJs/hqdefault.jpg",
+    "location": {
+      "country": "Saint Barthelemy",
+      "country_code": "BL",
+      "region": "Saint Barthélemy",
+      "city": "Gustavia",
+      "coordinate": {
+        "latitude": 17.895464,
+        "longitude": -62.848964
+      },
+      "timezone": "-04:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches"
+    ],
+    "created_at": "2026-10-07T22:28:43.937Z",
+    "modified_at": "2026-10-07T22:28:43.937Z"
+  },
+  {
     "id": "f92d2406-8a8e-418f-a51d-8b7a475865d3",
     "title": "Dry Hilltop and Distant Landscape",
     "stream_url": "http://173.239.66.19:8241/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
@@ -1297,6 +1828,97 @@
     "modified_at": "2026-10-07T12:58:43.937Z"
   },
   {
+    "id": "32dd1d07-2975-4b47-8b18-e906d64c510a",
+    "title": "Solglimt Bed & Breakfast, Duluth",
+    "stream_url": "https://www.youtube-nocookie.com/embed/m2wWzo9GmwY?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/m2wWzo9GmwY/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Minnesota",
+      "city": "Duluth",
+      "coordinate": {
+        "latitude": 46.78327,
+        "longitude": -92.10658
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "lakes",
+      "landscape",
+      "beaches"
+    ],
+    "created_at": "2026-10-07T09:28:43.937Z",
+    "modified_at": "2026-10-10T12:16:58.468Z"
+  },
+  {
+    "id": "d412be96-c207-4818-8e1e-6e28298439f1",
+    "title": "Duluth Harbor Basin",
+    "stream_url": "https://www.youtube-nocookie.com/embed/c1kfkIoF0k0?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/c1kfkIoF0k0/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Minnesota",
+      "city": "Duluth",
+      "coordinate": {
+        "latitude": 46.76466,
+        "longitude": -92.09463
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "lakes",
+      "harbours"
+    ],
+    "created_at": "2026-10-07T06:28:43.937Z",
+    "modified_at": "2026-10-07T06:28:43.937Z"
+  },
+  {
+    "id": "67416e77-1272-4fed-b575-bf14983f6e76",
+    "title": "Door County Maritime Museum",
+    "stream_url": "https://www.youtube-nocookie.com/embed/bUomNllBJRU?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/bUomNllBJRU/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Wisconsin",
+      "city": "Sturgeon Bay",
+      "coordinate": {
+        "latitude": 44.392485,
+        "longitude": -89.816896
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "bridges",
+      "boats"
+    ],
+    "created_at": "2026-10-07T04:28:43.937Z",
+    "modified_at": "2026-10-10T10:16:58.468Z"
+  },
+  {
     "id": "5b0c34cb-702e-43b2-9a0b-a7156cd08463",
     "title": "Campus Lawn and Woodland",
     "stream_url": "http://209.94.45.246:3030/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
@@ -1326,6 +1948,125 @@
     ],
     "created_at": "2026-10-07T01:58:43.937Z",
     "modified_at": "2026-10-07T01:58:43.937Z"
+  },
+  {
+    "id": "84783af4-557c-4477-9e83-beeb54a60c8c",
+    "title": "Cape Cod Canal, Ma",
+    "stream_url": "https://www.youtube-nocookie.com/embed/_OeFhA2XqqA?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/_OeFhA2XqqA/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Massachusetts",
+      "city": "Buzzards Bay",
+      "coordinate": {
+        "latitude": 41.76816,
+        "longitude": -70.56614
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "bridges",
+      "sea views"
+    ],
+    "created_at": "2026-10-07T01:28:43.937Z",
+    "modified_at": "2026-10-13T11:42:09.210Z"
+  },
+  {
+    "id": "7ea9bfe9-6f25-4f43-bc23-a891f40614ef",
+    "title": "Afton WY Airport KAFO",
+    "stream_url": "https://www.youtube-nocookie.com/embed/VyzULEX4WHU?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/VyzULEX4WHU/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Wyoming",
+      "city": "Afton",
+      "coordinate": {
+        "latitude": 42.71074,
+        "longitude": -110.93979
+      },
+      "timezone": "-07:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "airports"
+    ],
+    "created_at": "2026-10-06T22:28:43.937Z",
+    "modified_at": "2026-10-13T10:12:09.210Z"
+  },
+  {
+    "id": "3b66a2da-8507-4cfd-b258-b18db8dd033b",
+    "title": "Vilano Pier, St. Augustine",
+    "stream_url": "https://www.youtube-nocookie.com/embed/mYbn_umeenk?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/mYbn_umeenk/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Saint Augustine",
+      "coordinate": {
+        "latitude": 29.89469,
+        "longitude": -81.31452
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "bars & restaurants"
+    ],
+    "created_at": "2026-10-06T20:28:43.937Z",
+    "modified_at": "2026-10-06T20:28:43.937Z"
+  },
+  {
+    "id": "6ee0e384-70b2-4caa-94e3-58d7fd105757",
+    "title": "Ashland Plaza",
+    "stream_url": "https://www.youtube-nocookie.com/embed/OLrV_Hgl5Wo?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/OLrV_Hgl5Wo/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Oregon",
+      "city": "Ashland",
+      "coordinate": {
+        "latitude": 42.326271,
+        "longitude": -122.962583
+      },
+      "timezone": "-08:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic",
+      "city views",
+      "squares"
+    ],
+    "created_at": "2026-10-06T17:28:43.937Z",
+    "modified_at": "2026-10-24T05:09:35.950Z"
   },
   {
     "id": "d1b5f9d3-98d3-44b6-995e-0a5720b74011",
@@ -1388,6 +2129,36 @@
     "modified_at": "2026-10-06T12:28:43.937Z"
   },
   {
+    "id": "9e30ccf2-3deb-419c-9f0d-b3fcb53e6ced",
+    "title": "Leeward Key Miramar Beach",
+    "stream_url": "https://www.youtube-nocookie.com/embed/CVgBM39TOh8?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/CVgBM39TOh8/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Miramar Beach",
+      "coordinate": {
+        "latitude": 25.104395,
+        "longitude": -80.435448
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "sea views"
+    ],
+    "created_at": "2026-10-06T09:28:43.937Z",
+    "modified_at": "2026-10-06T09:28:43.937Z"
+  },
+  {
     "id": "9c42a22e-ee29-40d6-acad-c83bc71044e1",
     "title": "Outdoor Clay Tennis Courts",
     "stream_url": "http://83.86.207.103:50000/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
@@ -1415,6 +2186,35 @@
     ],
     "created_at": "2026-10-06T05:58:43.937Z",
     "modified_at": "2026-10-06T05:58:43.937Z"
+  },
+  {
+    "id": "d0807d16-84f8-4fa9-8872-f08aaf469118",
+    "title": "Arvidsjaur",
+    "stream_url": "https://www.youtube-nocookie.com/embed/Dnw_l8f9rUc?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/Dnw_l8f9rUc/hqdefault.jpg",
+    "location": {
+      "country": "Sweden",
+      "country_code": "SE",
+      "region": "Norrbotten",
+      "city": "Arvidsjaur",
+      "coordinate": {
+        "latitude": 65.59076,
+        "longitude": 19.28169
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic"
+    ],
+    "created_at": "2026-10-06T04:28:43.937Z",
+    "modified_at": "2026-10-13T06:03:34.149Z"
   },
   {
     "id": "ccfc0844-f28b-4725-be7f-ec74a5213844",
@@ -1478,6 +2278,36 @@
     "modified_at": "2026-10-05T21:58:43.937Z"
   },
   {
+    "id": "53749125-d12e-47d9-8d46-03fb994d0ecf",
+    "title": "Sankt Corona Family Ski Park",
+    "stream_url": "https://www.youtube-nocookie.com/embed/eJs-IowPqxM?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/eJs-IowPqxM/hqdefault.jpg",
+    "location": {
+      "country": "Austria",
+      "country_code": "AT",
+      "region": "Lower Austria",
+      "city": "Sankt Corona am Wechsel",
+      "coordinate": {
+        "latitude": 39.11251,
+        "longitude": -100.35875
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "nature",
+      "sport"
+    ],
+    "created_at": "2026-10-05T21:28:43.937Z",
+    "modified_at": "2026-10-05T21:28:43.937Z"
+  },
+  {
     "id": "b3aec011-2742-4620-b976-4a323af8ddc1",
     "title": "Street Corner",
     "stream_url": "http://180.39.235.117:8001/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
@@ -1506,6 +2336,37 @@
     ],
     "created_at": "2026-10-05T20:58:43.937Z",
     "modified_at": "2026-10-05T20:58:43.937Z"
+  },
+  {
+    "id": "03a5a6a4-ef84-4dab-b30c-dbd387ab17bd",
+    "title": "Domein Aan de Plas, Brugge",
+    "stream_url": "https://www.youtube-nocookie.com/embed/YExjEi4p118?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/YExjEi4p118/hqdefault.jpg",
+    "location": {
+      "country": "Belgium",
+      "country_code": "BE",
+      "region": "Flanders",
+      "city": "Brugge",
+      "coordinate": {
+        "latitude": 51.20892,
+        "longitude": 3.22424
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "lakes",
+      "landscape",
+      "sport"
+    ],
+    "created_at": "2026-10-05T15:28:43.937Z",
+    "modified_at": "2026-10-05T15:28:43.937Z"
   },
   {
     "id": "cacf51eb-9b42-46c4-8d71-a62a4335303e",
@@ -1568,6 +2429,63 @@
     "modified_at": "2026-10-20T02:46:59.422Z"
   },
   {
+    "id": "956293e3-8d36-4bb0-a320-a6f68d0d231a",
+    "title": "Clock Tower, Burnsville",
+    "stream_url": "https://www.youtube-nocookie.com/embed/2WzUGFz03v8?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/2WzUGFz03v8/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Minnesota",
+      "city": "Burnsville",
+      "coordinate": {
+        "latitude": 44.76774,
+        "longitude": -93.27772
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "nature",
+      "ski resorts"
+    ],
+    "created_at": "2026-10-05T10:28:43.937Z",
+    "modified_at": "2026-10-05T10:28:43.937Z"
+  },
+  {
+    "id": "456991a9-3afe-47fa-be4d-62a11f9fa363",
+    "title": "Missoula Camera",
+    "stream_url": "http://216.14.224.48:80/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/967124.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Montana",
+      "city": "Missoula",
+      "coordinate": {
+        "latitude": 46.8516,
+        "longitude": -114.0141
+      },
+      "timezone": "-07:00"
+    },
+    "resolution": {
+      "width": 1024,
+      "height": 640
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [],
+    "created_at": "2026-10-05T08:28:43.937Z",
+    "modified_at": "2026-10-16T23:51:48.681Z"
+  },
+  {
     "id": "39d06187-1749-4aed-addf-77022b6938d6",
     "title": "Harbour with Ferry and Hillside Town",
     "stream_url": "http://79.2.219.32:8091/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
@@ -1600,6 +2518,38 @@
     "modified_at": "2026-10-05T03:58:43.937Z"
   },
   {
+    "id": "4ad1f3e9-3171-4345-be53-e4d81f63137a",
+    "title": "Sea Watch Resort",
+    "stream_url": "https://www.youtube-nocookie.com/embed/MAPDh0XDtZs?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/MAPDh0XDtZs/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "South Carolina",
+      "city": "Myrtle Beach",
+      "coordinate": {
+        "latitude": 33.68906,
+        "longitude": -78.88669
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "hotels",
+      "swimming pools",
+      "sea views"
+    ],
+    "created_at": "2026-10-05T00:28:43.937Z",
+    "modified_at": "2026-10-23T08:39:35.950Z"
+  },
+  {
     "id": "28df0b82-8dcb-4bac-8ee3-a166aefd5e1f",
     "title": "Skyline",
     "stream_url": "https://www.youtube-nocookie.com/embed/l_8DrACHpwY?autoplay=0&amp;state=1",
@@ -1628,6 +2578,35 @@
     ],
     "created_at": "2026-10-04T21:28:43.937Z",
     "modified_at": "2026-10-12T15:03:34.149Z"
+  },
+  {
+    "id": "5772eab8-fc27-4b46-ba72-ac038a2ac56d",
+    "title": "Gather Rest Jackson Hole",
+    "stream_url": "https://www.youtube-nocookie.com/embed/JVknJ-Ui8xQ?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/JVknJ-Ui8xQ/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Wyoming",
+      "city": "Jackson",
+      "coordinate": {
+        "latitude": 41.308104,
+        "longitude": -105.631851
+      },
+      "timezone": "-07:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic"
+    ],
+    "created_at": "2026-10-04T19:28:43.937Z",
+    "modified_at": "2026-10-12T08:12:09.210Z"
   },
   {
     "id": "7f23f4b6-0f0b-4f5e-88f5-cbdbaa8d0ac0",
@@ -1659,6 +2638,128 @@
     ],
     "created_at": "2026-10-04T14:58:43.937Z",
     "modified_at": "2026-10-04T14:58:43.937Z"
+  },
+  {
+    "id": "8e6933d1-358b-4c75-a789-38ba80862d9b",
+    "title": "Knokke-Heist Beach",
+    "stream_url": "https://www.youtube-nocookie.com/embed/Sx-oMVmNoPA?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/Sx-oMVmNoPA/hqdefault.jpg",
+    "location": {
+      "country": "Belgium",
+      "country_code": "BE",
+      "region": "Flanders",
+      "city": "Knokke-Heist",
+      "coordinate": {
+        "latitude": 51.3352006,
+        "longitude": 3.2573095
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "sport"
+    ],
+    "created_at": "2026-10-04T13:28:43.937Z",
+    "modified_at": "2026-10-04T13:28:43.937Z"
+  },
+  {
+    "id": "96c6f49f-2969-47a3-bf54-856e6e10998d",
+    "title": "Steamboat Springs",
+    "stream_url": "https://www.youtube-nocookie.com/embed/0GKH_DSg_v0?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/0GKH_DSg_v0/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Colorado",
+      "city": "Steamboat Springs",
+      "coordinate": {
+        "latitude": 37.412431,
+        "longitude": -102.617884
+      },
+      "timezone": "-07:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "landscape",
+      "ski resorts"
+    ],
+    "created_at": "2026-10-04T11:28:43.937Z",
+    "modified_at": "2026-10-04T11:28:43.937Z"
+  },
+  {
+    "id": "014dca8e-27c5-4980-958b-40792108a990",
+    "title": "Moonspinner Beach",
+    "stream_url": "https://www.youtube-nocookie.com/embed/03Q1t-czp1M?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/03Q1t-czp1M/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Panama City Beach",
+      "coordinate": {
+        "latitude": 28.75054,
+        "longitude": -82.5001
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "sea views"
+    ],
+    "created_at": "2026-10-04T08:28:43.937Z",
+    "modified_at": "2026-10-31T00:14:26.163Z"
+  },
+  {
+    "id": "aada3bcf-f433-4999-bb35-ad3ff4b7ef85",
+    "title": "Port of Helsinki - West harbour, North view",
+    "stream_url": "https://www.youtube-nocookie.com/embed/JnJhFYhIjFs?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/JnJhFYhIjFs/hqdefault.jpg",
+    "location": {
+      "country": "Finland",
+      "country_code": "FI",
+      "region": "Uusimaa",
+      "city": "Helsinki",
+      "coordinate": {
+        "latitude": 37.65748,
+        "longitude": -112.83439
+      },
+      "timezone": "+02:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic",
+      "boats",
+      "harbours",
+      "ports"
+    ],
+    "created_at": "2026-10-04T01:28:43.937Z",
+    "modified_at": "2026-10-11T23:42:09.210Z"
   },
   {
     "id": "e0167015-5f78-4fdb-a567-d4995609df31",
@@ -1720,6 +2821,35 @@
     "modified_at": "2026-10-11T20:42:09.210Z"
   },
   {
+    "id": "c967de42-1bc9-4671-8ccf-ff71c5f47130",
+    "title": "Jupiter Veterans Memorial",
+    "stream_url": "https://www.youtube-nocookie.com/embed/-nJwQ5ECvUw?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/-nJwQ5ECvUw/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Jupiter",
+      "coordinate": {
+        "latitude": 26.94342,
+        "longitude": -80.094517
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "monuments"
+    ],
+    "created_at": "2026-10-03T12:28:43.937Z",
+    "modified_at": "2026-10-11T22:33:34.149Z"
+  },
+  {
     "id": "41c892a7-ae84-4d38-80cb-c138c20e7966",
     "title": "Spiaggia di Jesolo",
     "stream_url": "https://www.youtube-nocookie.com/embed/vK6AtkTojz0?autoplay=0&amp;state=1",
@@ -1748,6 +2878,66 @@
     ],
     "created_at": "2026-10-03T01:28:43.937Z",
     "modified_at": "2026-10-16T18:30:23.741Z"
+  },
+  {
+    "id": "38e60b6a-dd28-43ab-b36b-23703a46bf5f",
+    "title": "Kristiansund Panorama",
+    "stream_url": "https://www.youtube-nocookie.com/embed/JJuaHGhd8g8?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/JJuaHGhd8g8/hqdefault.jpg",
+    "location": {
+      "country": "Norway",
+      "country_code": "NO",
+      "region": "Møre og Romsdal",
+      "city": "Kristiansund",
+      "coordinate": {
+        "latitude": -21.35639,
+        "longitude": -51.85972
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "landscape",
+      "city views",
+      "marinas"
+    ],
+    "created_at": "2026-10-02T23:28:43.937Z",
+    "modified_at": "2026-10-22T07:39:35.950Z"
+  },
+  {
+    "id": "f02c494f-68c2-436e-b291-93912b61b7fe",
+    "title": "Bell Tower",
+    "stream_url": "https://www.youtube-nocookie.com/embed/D9nujG0PUTQ?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/D9nujG0PUTQ/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "North Carolina",
+      "city": "Raleigh",
+      "coordinate": {
+        "latitude": 35.421799,
+        "longitude": -76.493383
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "monuments"
+    ],
+    "created_at": "2026-10-02T17:28:43.937Z",
+    "modified_at": "2026-10-02T17:28:43.937Z"
   },
   {
     "id": "ad43fb14-1348-4380-aa44-3c4b4ba2cdcb",
@@ -1781,6 +2971,125 @@
     "modified_at": "2026-10-02T14:58:43.937Z"
   },
   {
+    "id": "953be479-a4a3-4ec2-9fbd-774d78d1128a",
+    "title": "Montana's Rocky Mountain Front",
+    "stream_url": "https://www.youtube-nocookie.com/embed/EVs4CG-eSto?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/EVs4CG-eSto/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Montana",
+      "city": "Heart Butte",
+      "coordinate": {
+        "latitude": 45.15336,
+        "longitude": -64.59236
+      },
+      "timezone": "-07:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "landscape",
+      "nature"
+    ],
+    "created_at": "2026-10-02T10:28:43.937Z",
+    "modified_at": "2026-10-02T10:28:43.937Z"
+  },
+  {
+    "id": "8576950f-e821-47c0-aa48-b541fc535675",
+    "title": "Pilanesberg National Park",
+    "stream_url": "https://www.youtube-nocookie.com/embed/aWglOXp5id0?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/aWglOXp5id0/hqdefault.jpg",
+    "location": {
+      "country": "South Africa",
+      "country_code": "ZA",
+      "region": "North West",
+      "city": "Sun Village",
+      "coordinate": {
+        "latitude": 39.86595,
+        "longitude": -75.17879
+      },
+      "timezone": "+02:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "nature",
+      "animals"
+    ],
+    "created_at": "2026-10-02T07:28:43.937Z",
+    "modified_at": "2026-10-02T07:28:43.937Z"
+  },
+  {
+    "id": "2c24bd70-d98d-4bb1-bbc0-73ac278d257f",
+    "title": "Steamboat Square",
+    "stream_url": "https://www.youtube-nocookie.com/embed/2UJDLWcSADk?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/2UJDLWcSADk/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Colorado",
+      "city": "Steamboat Springs",
+      "coordinate": {
+        "latitude": 40.506315,
+        "longitude": -106.90428
+      },
+      "timezone": "-07:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "landscape",
+      "ski resorts"
+    ],
+    "created_at": "2026-10-02T02:28:43.937Z",
+    "modified_at": "2026-10-10T23:42:09.210Z"
+  },
+  {
+    "id": "49ccfee5-7cae-4b3f-8ce6-76cb1c9742c3",
+    "title": "Nest of Bald Eagles",
+    "stream_url": "https://www.youtube-nocookie.com/embed/E5T2eHM8tcI?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/E5T2eHM8tcI/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "California",
+      "city": "Avalon",
+      "coordinate": {
+        "latitude": 36.203437,
+        "longitude": -119.311334
+      },
+      "timezone": "-07:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "birds"
+    ],
+    "created_at": "2026-10-01T23:28:43.937Z",
+    "modified_at": "2026-10-19T21:25:34.483Z"
+  },
+  {
     "id": "49805926-1922-439b-b032-8a3bf3412116",
     "title": "Big Bear Bald Eagle, San Bernardino County",
     "stream_url": "https://www.youtube-nocookie.com/embed/B4-L2nfGcuE?autoplay=0&amp;state=1",
@@ -1808,6 +3117,214 @@
     ],
     "created_at": "2026-10-01T18:28:43.937Z",
     "modified_at": "2026-10-10T20:12:09.210Z"
+  },
+  {
+    "id": "51741d85-6154-4eb6-8db5-51c35d46cd40",
+    "title": "City Plaza, Reno",
+    "stream_url": "https://www.youtube-nocookie.com/embed/Aea4taIIVPE?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/Aea4taIIVPE/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Nevada",
+      "city": "Reno",
+      "coordinate": {
+        "latitude": 39.52963,
+        "longitude": -119.8138
+      },
+      "timezone": "-08:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "squares"
+    ],
+    "created_at": "2026-10-01T16:28:43.937Z",
+    "modified_at": "2026-10-11T00:33:34.149Z"
+  },
+  {
+    "id": "45dcd01f-c414-4072-bf0f-2db40e2d7245",
+    "title": "Moored Boats and Forested Lakeshore",
+    "stream_url": "http://95.143.50.44/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
+    "stream_type": "snapshot",
+    "preview_url": "http://www.insecam.org/static/thumb/1012358.jpg",
+    "location": {
+      "country": "Switzerland",
+      "country_code": "CH",
+      "region": "Bern",
+      "city": "Bern",
+      "coordinate": {
+        "latitude": 46.94809,
+        "longitude": 7.44744
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "lakes",
+      "boats",
+      "forests"
+    ],
+    "created_at": "2026-10-01T15:58:43.937Z",
+    "modified_at": "2026-10-20T08:08:24.362Z"
+  },
+  {
+    "id": "7bc931e8-43cd-44c6-a1e4-e114553e06ad",
+    "title": "Broad Street, Greendale",
+    "stream_url": "https://www.youtube-nocookie.com/embed/ADsY4BQWZOU?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/ADsY4BQWZOU/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Wisconsin",
+      "city": "Greendale",
+      "coordinate": {
+        "latitude": 42.94057,
+        "longitude": -87.99592
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic"
+    ],
+    "created_at": "2026-10-01T13:28:43.937Z",
+    "modified_at": "2026-10-07T14:46:58.468Z"
+  },
+  {
+    "id": "acf7edfb-2166-4e06-8e25-2abbdd1158a3",
+    "title": "Garden with Trees and Flower Beds",
+    "stream_url": "http://74.75.121.250:50000/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
+    "stream_type": "snapshot",
+    "preview_url": "http://www.insecam.org/static/thumb/1012340.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Maine",
+      "city": "Bar Harbor",
+      "coordinate": {
+        "latitude": 44.38758,
+        "longitude": -68.2039
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "nature"
+    ],
+    "created_at": "2026-10-01T06:58:43.937Z",
+    "modified_at": "2026-10-13T15:35:13.000Z"
+  },
+  {
+    "id": "e3051a6d-d574-42e1-a137-12520524f2a4",
+    "title": "Rural Road and Fields",
+    "stream_url": "http://122.249.211.239:8080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
+    "stream_type": "snapshot",
+    "preview_url": "http://www.insecam.org/static/thumb/1012329.jpg",
+    "location": {
+      "country": "Japan",
+      "country_code": "JP",
+      "region": "Tokyo",
+      "city": "Tokyo",
+      "coordinate": {
+        "latitude": 35.689506,
+        "longitude": 139.6917
+      },
+      "timezone": "+09:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "roads",
+      "landscape"
+    ],
+    "created_at": "2026-09-30T23:58:43.937Z",
+    "modified_at": "2026-09-30T23:58:43.937Z"
+  },
+  {
+    "id": "5e4ecd89-5db3-4a20-8f7d-7e67f1fc1393",
+    "title": "Backyard Lawn and Swimming Pool",
+    "stream_url": "http://74.67.105.8:5555/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
+    "stream_type": "snapshot",
+    "preview_url": "http://www.insecam.org/static/thumb/1012328.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "New York",
+      "city": "Endicott",
+      "coordinate": {
+        "latitude": 42.09841,
+        "longitude": -76.04937
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "nature",
+      "swimming pools"
+    ],
+    "created_at": "2026-09-30T22:58:43.937Z",
+    "modified_at": "2026-10-13T15:35:13.000Z"
+  },
+  {
+    "id": "07e70c68-942a-4ad1-bbc1-bd3140bc5417",
+    "title": "Turtley Rad Cut",
+    "stream_url": "https://www.youtube-nocookie.com/embed/99rql3wym9I?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/99rql3wym9I/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Apalachicola",
+      "coordinate": {
+        "latitude": 38.12013,
+        "longitude": -76.48356
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 3840,
+      "height": 2160
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "sea views"
+    ],
+    "created_at": "2026-09-30T19:28:43.937Z",
+    "modified_at": "2026-09-30T19:28:43.937Z"
   },
   {
     "id": "9780ecbb-6321-4555-b992-8d2d69fef44d",
@@ -1841,6 +3358,65 @@
     "modified_at": "2026-09-30T16:58:43.937Z"
   },
   {
+    "id": "cca5cc54-45e0-4a16-a4bb-418ae4a8bd92",
+    "title": "Hertrich Weather, Easton",
+    "stream_url": "https://www.youtube-nocookie.com/embed/4dK4wJ6imq4?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/4dK4wJ6imq4/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Maryland",
+      "city": "Easton",
+      "coordinate": {
+        "latitude": 40.68843,
+        "longitude": -75.22073
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "rivers",
+      "boats"
+    ],
+    "created_at": "2026-09-30T16:28:43.937Z",
+    "modified_at": "2026-09-30T16:28:43.937Z"
+  },
+  {
+    "id": "9493a03c-4eef-4596-92f3-590dffca3542",
+    "title": "Fairhope Pier, AL",
+    "stream_url": "https://www.youtube-nocookie.com/embed/N5wWOVOTHmQ?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/N5wWOVOTHmQ/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Alabama",
+      "city": "Fairhope",
+      "coordinate": {
+        "latitude": 30.480713,
+        "longitude": -87.861306
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "boats"
+    ],
+    "created_at": "2026-09-30T14:28:43.937Z",
+    "modified_at": "2026-09-30T14:28:43.937Z"
+  },
+  {
     "id": "8d9b6442-fb63-458f-8298-63269bb243d6",
     "title": "City Panorama",
     "stream_url": "http://124.87.34.130:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
@@ -1871,6 +3447,35 @@
     "modified_at": "2026-09-30T09:58:43.937Z"
   },
   {
+    "id": "87a0c2d1-9dec-4eec-93a6-3a2ae457433d",
+    "title": "Santuário Nacional de Nossa Senhora Aparecida",
+    "stream_url": "https://www.youtube-nocookie.com/embed/7Z9B3wFXndc?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/7Z9B3wFXndc/hqdefault.jpg",
+    "location": {
+      "country": "Brazil",
+      "country_code": "BR",
+      "region": "São Paulo",
+      "city": "Aparecida",
+      "coordinate": {
+        "latitude": -10.29846,
+        "longitude": -37.48812
+      },
+      "timezone": "-03:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "churches"
+    ],
+    "created_at": "2026-09-30T08:28:43.937Z",
+    "modified_at": "2026-10-21T00:09:35.950Z"
+  },
+  {
     "id": "6e63b10a-5a3e-4b8d-9d84-5760201b8be6",
     "title": "Balcony and metal railing",
     "stream_url": "http://104.49.73.99:8086/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
@@ -1898,6 +3503,37 @@
     ],
     "created_at": "2026-09-30T00:58:43.937Z",
     "modified_at": "2026-11-10T16:20:27.964Z"
+  },
+  {
+    "id": "a3483a1b-589d-4f6c-b115-083105eba427",
+    "title": "BridgePointe I-74",
+    "stream_url": "https://www.youtube-nocookie.com/embed/8Rp5JRSQOvk?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/8Rp5JRSQOvk/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Illinois",
+      "city": "Moline",
+      "coordinate": {
+        "latitude": 40.00032,
+        "longitude": -89.25037
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic",
+      "rivers",
+      "bridges"
+    ],
+    "created_at": "2026-09-29T22:28:43.937Z",
+    "modified_at": "2026-10-19T21:25:34.483Z"
   },
   {
     "id": "79f39a28-5cf2-4f14-af7b-82ca4434e827",
@@ -2087,6 +3723,35 @@
     "modified_at": "2026-09-28T21:58:43.937Z"
   },
   {
+    "id": "091013ed-87a2-488a-9b4f-d99fe54b114a",
+    "title": "White Rock Pier",
+    "stream_url": "https://www.youtube-nocookie.com/embed/4MK3E9EWDSY?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/4MK3E9EWDSY/hqdefault.jpg",
+    "location": {
+      "country": "Canada",
+      "country_code": "CA",
+      "region": "British Columbia",
+      "city": "White Rock",
+      "coordinate": {
+        "latitude": 53.99983,
+        "longitude": -125.0032
+      },
+      "timezone": "-08:00"
+    },
+    "resolution": {
+      "width": 2560,
+      "height": 1440
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic"
+    ],
+    "created_at": "2026-09-28T20:28:43.937Z",
+    "modified_at": "2026-10-09T14:33:34.149Z"
+  },
+  {
     "id": "3f195703-4853-4beb-b3f6-2f38109c9d90",
     "title": "Neighbourhood Street",
     "stream_url": "http://86.173.70.212:8067/img/video.mjpeg",
@@ -2145,6 +3810,35 @@
     ],
     "created_at": "2026-09-28T13:58:43.937Z",
     "modified_at": "2026-09-28T13:58:43.937Z"
+  },
+  {
+    "id": "3bcf0111-cccd-4f1c-b8ef-00f98c327e39",
+    "title": "Southernmost Point Bar, FL",
+    "stream_url": "https://www.youtube-nocookie.com/embed/HDlmUp4JBLg?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/HDlmUp4JBLg/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Key West",
+      "coordinate": {
+        "latitude": 27.751672,
+        "longitude": -81.785735
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "sea views"
+    ],
+    "created_at": "2026-09-28T07:28:43.937Z",
+    "modified_at": "2026-09-28T07:28:43.937Z"
   },
   {
     "id": "49dc5d64-9f3f-4ba6-a410-35f9d1dfb0f4",
@@ -2207,6 +3901,36 @@
     "modified_at": "2026-09-28T01:58:43.937Z"
   },
   {
+    "id": "73e415ad-2bb9-4e8d-964e-f6676729ec97",
+    "title": "Mountain Road",
+    "stream_url": "http://85.172.105.181:1027/cgi-bin/snapshot.cgi?COUNTER",
+    "stream_type": "snapshot",
+    "preview_url": "http://www.insecam.org/static/thumb/1012200.jpg",
+    "location": {
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "region": "Adygeya, Respublika",
+      "city": "Yablonovskiy",
+      "coordinate": {
+        "latitude": 44.98901,
+        "longitude": 38.94324
+      },
+      "timezone": "+03:00"
+    },
+    "resolution": {
+      "width": 352,
+      "height": 288
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "roads",
+      "mountains"
+    ],
+    "created_at": "2026-09-27T23:58:43.937Z",
+    "modified_at": "2026-09-27T23:58:43.937Z"
+  },
+  {
     "id": "3bd5b087-ec35-41b4-b6a0-8fa71ae89f40",
     "title": "Cahoon Hollow Beach",
     "stream_url": "https://www.youtube-nocookie.com/embed/_3LjfzI7EIM?autoplay=0&amp;state=1",
@@ -2235,6 +3959,98 @@
     ],
     "created_at": "2026-09-27T23:28:43.937Z",
     "modified_at": "2026-09-27T23:28:43.937Z"
+  },
+  {
+    "id": "a9a26bb1-b5b8-4297-8885-84bc2edcca18",
+    "title": "Champlain Marina",
+    "stream_url": "https://www.youtube-nocookie.com/embed/WYgjhPHIw1k?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/WYgjhPHIw1k/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Vermont",
+      "city": "Colchester",
+      "coordinate": {
+        "latitude": 36.6844,
+        "longitude": -121.80217
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "marinas",
+      "boats",
+      "bays"
+    ],
+    "created_at": "2026-09-27T13:28:43.937Z",
+    "modified_at": "2026-10-08T23:03:34.149Z"
+  },
+  {
+    "id": "41835a55-a995-4146-99f9-7a2d494ea6ce",
+    "title": "Waitsfield Covered Bridge",
+    "stream_url": "https://www.youtube-nocookie.com/embed/IB55Ni_wJcQ?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/IB55Ni_wJcQ/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Vermont",
+      "city": "Moretown",
+      "coordinate": {
+        "latitude": 33.95871,
+        "longitude": -84.16797
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic",
+      "bridges"
+    ],
+    "created_at": "2026-09-27T11:28:43.937Z",
+    "modified_at": "2026-10-19T21:25:34.483Z"
+  },
+  {
+    "id": "d09d65b5-ab52-4a34-a875-eebfb4fe0a09",
+    "title": "Brodarica beach",
+    "stream_url": "https://www.youtube-nocookie.com/embed/vlWrUEXVmYw?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/vlWrUEXVmYw/hqdefault.jpg",
+    "location": {
+      "country": "Croatia",
+      "country_code": "HR",
+      "region": "Šibenik-Knin",
+      "city": "Brodarica",
+      "coordinate": {
+        "latitude": 45.16667,
+        "longitude": 15.5
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "sport",
+      "sea views"
+    ],
+    "created_at": "2026-09-27T08:28:43.937Z",
+    "modified_at": "2026-10-05T12:16:58.468Z"
   },
   {
     "id": "689e9f5b-abd8-46b6-904f-cab487050aad",
@@ -2266,6 +4082,37 @@
     "modified_at": "2026-10-20T02:46:59.422Z"
   },
   {
+    "id": "f059d879-0454-4794-82c8-9803ee173c8e",
+    "title": "Uvala Muna, Žirje",
+    "stream_url": "https://www.youtube-nocookie.com/embed/5k9_DTiNfGM?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/5k9_DTiNfGM/hqdefault.jpg",
+    "location": {
+      "country": "Croatia",
+      "country_code": "HR",
+      "region": "Šibenik-Knin",
+      "city": "Žirje",
+      "coordinate": {
+        "latitude": 45.70833,
+        "longitude": 13.91861
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "boats",
+      "harbours",
+      "sea views"
+    ],
+    "created_at": "2026-09-27T00:28:43.937Z",
+    "modified_at": "2026-10-05T07:46:58.468Z"
+  },
+  {
     "id": "cac69583-a499-4fe8-b5a2-54a3392e9ea4",
     "title": "Tree-Lined Neighbourhood Lane",
     "stream_url": "http://178.173.143.166/cgi-bin/snapshot.cgi?COUNTER",
@@ -2293,6 +4140,156 @@
     ],
     "created_at": "2026-09-26T14:58:43.937Z",
     "modified_at": "2026-09-26T14:58:43.937Z"
+  },
+  {
+    "id": "ae07e984-5cd8-4bfe-a47f-0091bfd18f8e",
+    "title": "Whale's Tail Beach",
+    "stream_url": "https://www.youtube-nocookie.com/embed/TyX02EtQcYI?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/TyX02EtQcYI/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Miramar Beach",
+      "coordinate": {
+        "latitude": 30.61737,
+        "longitude": -87.062947
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "sea views"
+    ],
+    "created_at": "2026-09-26T11:28:43.937Z",
+    "modified_at": "2026-10-08T04:42:09.210Z"
+  },
+  {
+    "id": "50b5cfeb-1ce7-4675-9b80-cf3e6005c0d3",
+    "title": "Snow Summit",
+    "stream_url": "https://www.youtube-nocookie.com/embed/Kn4IAs67hNo?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/Kn4IAs67hNo/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "California",
+      "city": "Big Bear Lake",
+      "coordinate": {
+        "latitude": 35.125624,
+        "longitude": -118.021353
+      },
+      "timezone": "-08:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "sport",
+      "ski resorts"
+    ],
+    "created_at": "2026-09-26T06:28:43.937Z",
+    "modified_at": "2026-11-10T16:20:27.964Z"
+  },
+  {
+    "id": "4e9b6413-03bd-4ef5-abf5-3275ce9266a4",
+    "title": "Business Entrance",
+    "stream_url": "http://180.32.59.197:8085/cgi-bin/snapshot.cgi?COUNTER",
+    "stream_type": "snapshot",
+    "preview_url": "http://www.insecam.org/static/thumb/1012141.jpg",
+    "location": {
+      "country": "Japan",
+      "country_code": "JP",
+      "region": "Osaka",
+      "city": "Osaka",
+      "coordinate": {
+        "latitude": 34.69389,
+        "longitude": 135.50222
+      },
+      "timezone": "+09:00"
+    },
+    "resolution": {
+      "width": 704,
+      "height": 576
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "shops"
+    ],
+    "created_at": "2026-09-26T04:58:43.937Z",
+    "modified_at": "2026-09-26T04:58:43.937Z"
+  },
+  {
+    "id": "ad5cddb8-1927-4bb5-81d9-95840d0617da",
+    "title": "Rhein Haus, Leavenworth",
+    "stream_url": "https://www.youtube-nocookie.com/embed/TmtVbezZaqg?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/TmtVbezZaqg/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Washington",
+      "city": "Leavenworth",
+      "coordinate": {
+        "latitude": 39.31111,
+        "longitude": -94.92246
+      },
+      "timezone": "-08:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "landscape",
+      "bars & restaurants"
+    ],
+    "created_at": "2026-09-26T01:28:43.937Z",
+    "modified_at": "2026-10-07T23:12:09.210Z"
+  },
+  {
+    "id": "04fe166d-6f39-4c31-8d8e-df69a44b7274",
+    "title": "Bemidji City",
+    "stream_url": "https://www.youtube-nocookie.com/embed/1keU6WOoDbw?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/1keU6WOoDbw/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Minnesota",
+      "city": "Bemidji",
+      "coordinate": {
+        "latitude": 47.47356,
+        "longitude": -94.88028
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic",
+      "lakes",
+      "city views"
+    ],
+    "created_at": "2026-09-25T22:28:43.937Z",
+    "modified_at": "2026-10-04T19:16:58.468Z"
   },
   {
     "id": "261bd3eb-e090-42f4-b104-b0147388ef8b",
@@ -2325,6 +4322,37 @@
     "modified_at": "2026-09-25T15:58:43.937Z"
   },
   {
+    "id": "6d1af3bc-2379-483b-95ae-fb09155a5d55",
+    "title": "Wyndham Harbour",
+    "stream_url": "https://www.youtube-nocookie.com/embed/Byxe6MlCnBw?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/Byxe6MlCnBw/hqdefault.jpg",
+    "location": {
+      "country": "Australia",
+      "country_code": "AU",
+      "region": "Victoria",
+      "city": "Laverton",
+      "coordinate": {
+        "latitude": -25,
+        "longitude": 135
+      },
+      "timezone": "+10:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "marinas",
+      "boats",
+      "harbours"
+    ],
+    "created_at": "2026-09-25T12:28:43.937Z",
+    "modified_at": "2026-09-25T12:28:43.937Z"
+  },
+  {
     "id": "756c18e3-f8d2-4f22-9e60-92d12937b0d9",
     "title": "Sidewalk beside a Town Street",
     "stream_url": "http://189.129.159.4:8120/cgi-bin/snapshot.cgi?COUNTER",
@@ -2352,6 +4380,67 @@
     ],
     "created_at": "2026-09-25T10:58:43.937Z",
     "modified_at": "2026-09-25T10:58:43.937Z"
+  },
+  {
+    "id": "3a0b4146-69f6-4d01-b545-62c409706a52",
+    "title": "Little Traverse Bay",
+    "stream_url": "https://www.youtube-nocookie.com/embed/VwTFodAY_aE?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/VwTFodAY_aE/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Michigan",
+      "city": "Petoskey",
+      "coordinate": {
+        "latitude": 44.759496,
+        "longitude": -85.596975
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "lakes",
+      "beaches",
+      "hotels"
+    ],
+    "created_at": "2026-09-25T07:28:43.937Z",
+    "modified_at": "2026-10-07T14:12:09.210Z"
+  },
+  {
+    "id": "13898789-d820-4c5c-8e23-e9b8fd91aeea",
+    "title": "Downtown Fitchburg",
+    "stream_url": "https://www.youtube-nocookie.com/embed/liNviF0C_Bc?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/liNviF0C_Bc/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Massachusetts",
+      "city": "Fitchburg",
+      "coordinate": {
+        "latitude": 41.935769,
+        "longitude": -71.158771
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "squares",
+      "churches"
+    ],
+    "created_at": "2026-09-24T20:28:43.937Z",
+    "modified_at": "2026-10-19T21:25:34.483Z"
   },
   {
     "id": "3f36a121-1aad-4ee5-aa86-f8048a7df817",
@@ -2414,6 +4503,35 @@
     ],
     "created_at": "2026-09-24T07:58:43.937Z",
     "modified_at": "2026-09-24T07:58:43.937Z"
+  },
+  {
+    "id": "4ff2c348-bf06-4d7b-beea-77d6dba52682",
+    "title": "Historic Jonesborough, TN",
+    "stream_url": "https://www.youtube-nocookie.com/embed/PmXKd2Z_TVA?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/PmXKd2Z_TVA/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Tennessee",
+      "city": "Jonesborough",
+      "coordinate": {
+        "latitude": 36.302051,
+        "longitude": -86.737146
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic"
+    ],
+    "created_at": "2026-09-24T07:28:43.937Z",
+    "modified_at": "2026-09-24T07:28:43.937Z"
   },
   {
     "id": "840bcc5e-f1a9-4c57-b1fc-f2ba2f138d12",
@@ -2564,6 +4682,36 @@
     "modified_at": "2026-09-23T22:58:43.937Z"
   },
   {
+    "id": "59264c9e-9f76-4d58-ba36-43f877b67cf7",
+    "title": "Surfside Beach",
+    "stream_url": "https://www.youtube-nocookie.com/embed/PdudbIiVIKQ?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/PdudbIiVIKQ/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "South Carolina",
+      "city": "Surfside Beach",
+      "coordinate": {
+        "latitude": 34.169083,
+        "longitude": -79.037976
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "sea views"
+    ],
+    "created_at": "2026-09-23T21:28:43.937Z",
+    "modified_at": "2026-09-23T21:28:43.937Z"
+  },
+  {
     "id": "fb37496b-f804-4fa6-be89-6c42d24b61b7",
     "title": "Narrow Town Street",
     "stream_url": "http://81.56.197.253/cgi-bin/snapshot.cgi?COUNTER",
@@ -2594,6 +4742,37 @@
     "modified_at": "2026-09-23T20:58:43.937Z"
   },
   {
+    "id": "8029b2dd-8077-4260-b620-98999b7f6e20",
+    "title": "Boones Ferry Marina",
+    "stream_url": "https://www.youtube-nocookie.com/embed/Y3cM4bK01JE?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/Y3cM4bK01JE/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Oregon",
+      "city": "Aurora",
+      "coordinate": {
+        "latitude": 44.503034,
+        "longitude": -122.893496
+      },
+      "timezone": "-08:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "rivers",
+      "marinas",
+      "boats"
+    ],
+    "created_at": "2026-09-23T18:28:43.937Z",
+    "modified_at": "2026-10-06T19:42:09.210Z"
+  },
+  {
     "id": "054a23c0-334e-4ba1-8471-36f2087d2034",
     "title": "Brasserie Casino",
     "stream_url": "https://www.youtube-nocookie.com/embed/mU08nJaIlIg?autoplay=0&amp;state=1",
@@ -2621,6 +4800,35 @@
     ],
     "created_at": "2026-09-23T16:28:43.937Z",
     "modified_at": "2026-10-20T02:46:59.422Z"
+  },
+  {
+    "id": "d1e27a8f-bb55-4a04-9649-3783fd0256de",
+    "title": "Paleo Faliro Beach",
+    "stream_url": "https://www.youtube-nocookie.com/embed/zO2hI-lU1fA?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/zO2hI-lU1fA/hqdefault.jpg",
+    "location": {
+      "country": "Greece",
+      "country_code": "GR",
+      "region": "Attica",
+      "city": "Palaió Fáliro",
+      "coordinate": {
+        "latitude": 46.91807,
+        "longitude": -104.00437
+      },
+      "timezone": "+02:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches"
+    ],
+    "created_at": "2026-09-23T13:28:43.937Z",
+    "modified_at": "2026-10-06T17:12:09.210Z"
   },
   {
     "id": "39ed14a2-1ae2-4ab7-90bf-06937d24a357",
@@ -2653,6 +4861,68 @@
     "modified_at": "2026-10-06T16:12:09.210Z"
   },
   {
+    "id": "ad51011f-677f-44e1-a3ad-b2985c62065e",
+    "title": "Cavallino Garden",
+    "stream_url": "https://www.youtube-nocookie.com/embed/XypHJ6vanX0?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/XypHJ6vanX0/hqdefault.jpg",
+    "location": {
+      "country": "Italy",
+      "country_code": "IT",
+      "region": "Trentino-Alto Adige",
+      "city": "Ortisei",
+      "coordinate": {
+        "latitude": 42.83333,
+        "longitude": 12.83333
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "landscape",
+      "hotels",
+      "swimming pools"
+    ],
+    "created_at": "2026-09-23T08:28:43.937Z",
+    "modified_at": "2026-09-23T08:28:43.937Z"
+  },
+  {
+    "id": "2f65474e-fe72-42a2-b5a8-39d2a647e305",
+    "title": "Madeline Island Yacht Club",
+    "stream_url": "https://www.youtube-nocookie.com/embed/CzoaZyGqUsE?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/CzoaZyGqUsE/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Wisconsin",
+      "city": "Washburn",
+      "coordinate": {
+        "latitude": 44.392485,
+        "longitude": -89.816896
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "marinas",
+      "boats",
+      "islands"
+    ],
+    "created_at": "2026-09-23T06:28:43.937Z",
+    "modified_at": "2026-10-17T11:09:35.950Z"
+  },
+  {
     "id": "e0cda21e-1a8f-4a04-9760-526b3f058815",
     "title": "Narrow Town Street",
     "stream_url": "http://187.103.88.170:3000/cgi-bin/snapshot.cgi?COUNTER",
@@ -2681,6 +4951,35 @@
     ],
     "created_at": "2026-09-23T05:58:43.937Z",
     "modified_at": "2026-09-23T05:58:43.937Z"
+  },
+  {
+    "id": "2d81181d-159c-455a-80c7-b91c8d5d90f4",
+    "title": "Public Square, Cleveland",
+    "stream_url": "https://www.youtube-nocookie.com/embed/9L7EhGU_YY4?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/9L7EhGU_YY4/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Ohio",
+      "city": "Cleveland",
+      "coordinate": {
+        "latitude": 41.4995,
+        "longitude": -81.69541
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "squares"
+    ],
+    "created_at": "2026-09-23T03:28:43.937Z",
+    "modified_at": "2026-10-16T18:30:23.741Z"
   },
   {
     "id": "e12ee2b5-66f2-4df4-8f32-804a7bf37313",
@@ -2773,6 +5072,35 @@
     "modified_at": "2026-10-06T14:03:34.149Z"
   },
   {
+    "id": "a048f83b-88a8-4596-b959-52c1e95d91cf",
+    "title": "Coral City",
+    "stream_url": "https://www.youtube-nocookie.com/embed/7i8ARjIeM2k?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/7i8ARjIeM2k/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Miami",
+      "coordinate": {
+        "latitude": 25.77427,
+        "longitude": -80.19366
+      },
+      "timezone": "-04:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "animals"
+    ],
+    "created_at": "2026-09-22T14:28:43.937Z",
+    "modified_at": "2026-10-06T06:12:09.210Z"
+  },
+  {
     "id": "7cbd4815-9457-446e-b21b-820c8032df89",
     "title": "Bridge over a River",
     "stream_url": "http://201.182.98.14:8080/cgi-bin/snapshot.cgi?COUNTER",
@@ -2802,6 +5130,36 @@
     ],
     "created_at": "2026-09-22T11:58:43.937Z",
     "modified_at": "2026-09-22T11:58:43.937Z"
+  },
+  {
+    "id": "de808e2f-bb01-4ea8-b889-d4db01d726d2",
+    "title": "Fiserv Forum",
+    "stream_url": "https://www.youtube-nocookie.com/embed/7fZ2JLtv_c8?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/7fZ2JLtv_c8/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Wisconsin",
+      "city": "Milwaukee",
+      "coordinate": {
+        "latitude": 44.392485,
+        "longitude": -89.816896
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic",
+      "sport"
+    ],
+    "created_at": "2026-09-22T11:28:43.937Z",
+    "modified_at": "2026-09-22T11:28:43.937Z"
   },
   {
     "id": "973bba0d-22dd-4ae2-b586-765c68b1ed8e",
@@ -2864,6 +5222,64 @@
     ],
     "created_at": "2026-09-22T08:58:43.937Z",
     "modified_at": "2026-09-22T08:58:43.937Z"
+  },
+  {
+    "id": "5dfd2d88-dcf5-492d-b166-4c55679f334d",
+    "title": "Denver City",
+    "stream_url": "https://www.youtube-nocookie.com/embed/E_VpviMTH9k?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/E_VpviMTH9k/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Colorado",
+      "city": "Denver",
+      "coordinate": {
+        "latitude": 32.96455,
+        "longitude": -102.8291
+      },
+      "timezone": "-07:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "city views"
+    ],
+    "created_at": "2026-09-22T06:28:43.937Z",
+    "modified_at": "2026-10-16T18:30:23.741Z"
+  },
+  {
+    "id": "f288a50a-a1c0-4455-bbd7-901143ed51f6",
+    "title": "North Conway",
+    "stream_url": "https://www.youtube-nocookie.com/embed/H8bFFw-0ZQE?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/H8bFFw-0ZQE/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "New Hampshire",
+      "city": "North Conway",
+      "coordinate": {
+        "latitude": 42.872876,
+        "longitude": -70.818322
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 2560,
+      "height": 1440
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic"
+    ],
+    "created_at": "2026-09-22T04:28:43.937Z",
+    "modified_at": "2026-10-06T00:42:09.210Z"
   },
   {
     "id": "12d61132-bcb9-4f8f-b6ff-c90d2130f42a",
@@ -2991,6 +5407,37 @@
     "modified_at": "2026-09-21T17:58:43.937Z"
   },
   {
+    "id": "2ff4a88e-7611-4b5c-b339-4d4a33303055",
+    "title": "Oostduinkerke Beach",
+    "stream_url": "https://www.youtube-nocookie.com/embed/wqWoNyCAvss?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/wqWoNyCAvss/hqdefault.jpg",
+    "location": {
+      "country": "Belgium",
+      "country_code": "BE",
+      "region": "Flanders",
+      "city": "Oostduinkerke",
+      "coordinate": {
+        "latitude": 46.91807,
+        "longitude": -104.00437
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "fishing",
+      "sea views"
+    ],
+    "created_at": "2026-09-21T15:28:43.937Z",
+    "modified_at": "2026-10-05T18:12:09.210Z"
+  },
+  {
     "id": "4bf11ee5-c562-48fa-bdbf-4787070e3773",
     "title": "Seibu-Shinjuku Station",
     "stream_url": "https://www.youtube-nocookie.com/embed/lA6TaaMGgDo?autoplay=0&amp;state=1",
@@ -3019,6 +5466,35 @@
     ],
     "created_at": "2026-09-21T12:28:43.937Z",
     "modified_at": "2026-10-20T02:46:59.422Z"
+  },
+  {
+    "id": "1f722c6e-ada1-47b4-b354-10cd7f346b08",
+    "title": "Polar Bear",
+    "stream_url": "https://www.youtube-nocookie.com/embed/BSUnBPvX9K4?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/BSUnBPvX9K4/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Missouri",
+      "city": "Kansas City",
+      "coordinate": {
+        "latitude": 39.0068,
+        "longitude": -94.5275
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "animals"
+    ],
+    "created_at": "2026-09-21T04:28:43.937Z",
+    "modified_at": "2026-10-05T12:42:09.210Z"
   },
   {
     "id": "333994b7-f9be-4e70-935d-a2d9810f6a77",
@@ -3082,6 +5558,36 @@
     "modified_at": "2026-09-20T23:58:43.937Z"
   },
   {
+    "id": "b3643b19-2bf1-46ef-8411-a03d099c8204",
+    "title": "International Wolf Center Wolf Den",
+    "stream_url": "https://www.youtube-nocookie.com/embed/5e4lsEe4Vew?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/5e4lsEe4Vew/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Minnesota",
+      "city": "Ely",
+      "coordinate": {
+        "latitude": 45.09413,
+        "longitude": -93.35634
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "animals",
+      "wildlife"
+    ],
+    "created_at": "2026-09-20T21:28:43.937Z",
+    "modified_at": "2026-09-20T21:28:43.937Z"
+  },
+  {
     "id": "a6fe0824-86c4-4dc4-aed7-a1c4c5093e2f",
     "title": "Neighbourhood Road and Sidewalk",
     "stream_url": "http://178.149.53.33/cgi-bin/snapshot.cgi?COUNTER",
@@ -3143,6 +5649,65 @@
     "modified_at": "2026-09-20T17:58:43.937Z"
   },
   {
+    "id": "cbb29593-5131-4f15-baac-a71bc84ad0a8",
+    "title": "Camp Idlewood",
+    "stream_url": "https://www.youtube-nocookie.com/embed/RjVZXgl_PdE?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/RjVZXgl_PdE/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Minnesota",
+      "city": "International Falls",
+      "coordinate": {
+        "latitude": 46.25024,
+        "longitude": -94.25055
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "lakes",
+      "hotels"
+    ],
+    "created_at": "2026-09-20T15:28:43.937Z",
+    "modified_at": "2026-10-20T02:46:59.422Z"
+  },
+  {
+    "id": "0e4240be-d327-4fd0-a689-fd4d67118b01",
+    "title": "Castillo de San Marcos",
+    "stream_url": "https://www.youtube-nocookie.com/embed/FyGb2TZB344?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/FyGb2TZB344/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Saint Augustine",
+      "coordinate": {
+        "latitude": 30.534581,
+        "longitude": -81.621499
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "monuments"
+    ],
+    "created_at": "2026-09-20T13:28:43.937Z",
+    "modified_at": "2026-10-20T02:46:59.422Z"
+  },
+  {
     "id": "d279c083-779a-4a4d-ab80-c7d19d0a90ab",
     "title": "Tree-Lined Pedestrian Square",
     "stream_url": "http://77.46.162.186:806/cgi-bin/snapshot.cgi?COUNTER",
@@ -3172,6 +5737,37 @@
     ],
     "created_at": "2026-09-20T10:58:43.937Z",
     "modified_at": "2026-09-20T10:58:43.937Z"
+  },
+  {
+    "id": "9c6aebd9-e51a-47c4-95a1-500e8118feeb",
+    "title": "Breckenridge Mountain",
+    "stream_url": "https://www.youtube-nocookie.com/embed/mHTTPNYltZo?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/mHTTPNYltZo/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Colorado",
+      "city": "Breckenridge",
+      "coordinate": {
+        "latitude": 35.45107,
+        "longitude": -118.58425
+      },
+      "timezone": "-07:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "landscape",
+      "nature",
+      "mountains"
+    ],
+    "created_at": "2026-09-20T10:28:43.937Z",
+    "modified_at": "2026-09-20T10:28:43.937Z"
   },
   {
     "id": "733d62e0-a0b8-4ce1-9419-bc988a549717",
@@ -3204,6 +5800,68 @@
     "modified_at": "2026-09-20T08:58:43.937Z"
   },
   {
+    "id": "42d349b6-050f-4760-928b-35ff78f3dec9",
+    "title": "Sheboygan Marina, WI",
+    "stream_url": "https://www.youtube-nocookie.com/embed/lu-YXDumeps?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/lu-YXDumeps/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Wisconsin",
+      "city": "Sheboygan",
+      "coordinate": {
+        "latitude": 44.392485,
+        "longitude": -89.816896
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "marinas",
+      "boats",
+      "bays"
+    ],
+    "created_at": "2026-09-20T08:28:43.937Z",
+    "modified_at": "2026-09-20T08:28:43.937Z"
+  },
+  {
+    "id": "a0cdcc0e-4172-4cd3-bd4b-4053be4a36d4",
+    "title": "Round Lake Channel",
+    "stream_url": "https://www.youtube-nocookie.com/embed/HeZbPbqO-6M?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/HeZbPbqO-6M/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Michigan",
+      "city": "Charlevoix",
+      "coordinate": {
+        "latitude": 49.3466,
+        "longitude": -2.36206
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 2560,
+      "height": 1440
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "lakes",
+      "sights",
+      "sea views"
+    ],
+    "created_at": "2026-09-20T05:28:43.937Z",
+    "modified_at": "2026-10-27T15:57:50.482Z"
+  },
+  {
     "id": "ad5fcdcf-e288-4e70-8f8c-955bb53e68c9",
     "title": "Neighbourhood Road and Sidewalk",
     "stream_url": "http://192.9.166.5:9091/cgi-bin/snapshot.cgi?COUNTER",
@@ -3232,6 +5890,65 @@
     ],
     "created_at": "2026-09-20T03:58:43.937Z",
     "modified_at": "2026-09-20T03:58:43.937Z"
+  },
+  {
+    "id": "066edecf-2389-470c-8dae-4551c29ad4ba",
+    "title": "Merrimac Mill Office, Newburyport",
+    "stream_url": "https://www.youtube-nocookie.com/embed/hYnWDuvXXvc?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/hYnWDuvXXvc/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Massachusetts",
+      "city": "Newburyport",
+      "coordinate": {
+        "latitude": 42.81259,
+        "longitude": -70.87728
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 2560,
+      "height": 1440
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "rivers",
+      "boats"
+    ],
+    "created_at": "2026-09-20T00:28:43.937Z",
+    "modified_at": "2026-09-20T00:28:43.937Z"
+  },
+  {
+    "id": "295a6719-d06b-447e-9817-3581d0b0a1db",
+    "title": "Fort Morgan",
+    "stream_url": "https://www.youtube-nocookie.com/embed/OhpHaGm0Gxw?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/OhpHaGm0Gxw/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Colorado",
+      "city": "Fort Morgan",
+      "coordinate": {
+        "latitude": 40.645342,
+        "longitude": -102.628536
+      },
+      "timezone": "-07:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic"
+    ],
+    "created_at": "2026-09-19T21:28:43.937Z",
+    "modified_at": "2026-10-04T21:12:09.210Z"
   },
   {
     "id": "f8159756-ae81-43d6-adac-7d1c0bb45f89",
@@ -3264,6 +5981,66 @@
     "modified_at": "2026-09-19T20:58:43.937Z"
   },
   {
+    "id": "78acd148-6695-4aab-9865-5cdf546ae9ea",
+    "title": "Samford Hall Auburn University",
+    "stream_url": "https://www.youtube-nocookie.com/embed/IsCs_GYfMPk?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/IsCs_GYfMPk/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Alabama",
+      "city": "Auburn",
+      "coordinate": {
+        "latitude": 32.60208,
+        "longitude": -85.48495
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic"
+    ],
+    "created_at": "2026-09-19T11:28:43.937Z",
+    "modified_at": "2026-10-20T08:08:24.362Z"
+  },
+  {
+    "id": "16099ba7-2885-485b-aa63-6e69b8cc420c",
+    "title": "Mountain Landscape",
+    "stream_url": "http://185.98.0.152:9999/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/1011884.jpg",
+    "location": {
+      "country": "Bosnia And Herzegovina",
+      "country_code": "BA",
+      "region": "Federacija Bosne I Hercegovine",
+      "city": "Mostar",
+      "coordinate": {
+        "latitude": 43.34333,
+        "longitude": 17.80806
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "mountains",
+      "nature",
+      "landscape"
+    ],
+    "created_at": "2026-09-18T16:58:43.937Z",
+    "modified_at": "2026-09-18T16:58:43.937Z"
+  },
+  {
     "id": "b3afbcb0-7669-4601-8a7c-f24a3eb8509a",
     "title": "Downtown Laramie",
     "stream_url": "https://www.youtube-nocookie.com/embed/gicEyI_T8Hk?autoplay=0&amp;state=1",
@@ -3293,6 +6070,68 @@
     ],
     "created_at": "2026-09-18T14:28:43.937Z",
     "modified_at": "2026-09-18T14:28:43.937Z"
+  },
+  {
+    "id": "7a51c67f-7e0c-409e-9662-3a34cbfbe100",
+    "title": "Ormond Beach",
+    "stream_url": "https://www.youtube-nocookie.com/embed/P6oEr7toC3E?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/P6oEr7toC3E/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Ormond Beach",
+      "coordinate": {
+        "latitude": 29.669549,
+        "longitude": -81.894009
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "sea views"
+    ],
+    "created_at": "2026-09-18T12:28:43.937Z",
+    "modified_at": "2026-10-04T10:03:34.149Z"
+  },
+  {
+    "id": "eef3d4dc-384e-4bc2-b302-cbb7edf09d0d",
+    "title": "Mirror Lake",
+    "stream_url": "https://www.youtube-nocookie.com/embed/jB4Iwn2GJS4?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/jB4Iwn2GJS4/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "New York",
+      "city": "Lake Placid",
+      "coordinate": {
+        "latitude": 40.761789,
+        "longitude": -73.957441
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "rivers",
+      "fishing",
+      "nature",
+      "sights"
+    ],
+    "created_at": "2026-09-18T09:28:43.937Z",
+    "modified_at": "2026-10-15T00:39:35.950Z"
   },
   {
     "id": "a794998a-f1d0-44b2-ac1f-e874fa34426d",
@@ -3354,6 +6193,94 @@
     ],
     "created_at": "2026-09-18T03:58:43.937Z",
     "modified_at": "2026-10-19T21:25:34.483Z"
+  },
+  {
+    "id": "18951806-25ff-4576-a377-57bb499d113b",
+    "title": "Sloppy Joe's bar",
+    "stream_url": "https://www.youtube-nocookie.com/embed/QW94fUvALuU?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/QW94fUvALuU/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Key West",
+      "coordinate": {
+        "latitude": 24.548278,
+        "longitude": -81.797159
+      },
+      "timezone": "-04:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic"
+    ],
+    "created_at": "2026-09-18T01:28:43.937Z",
+    "modified_at": "2026-09-18T01:28:43.937Z"
+  },
+  {
+    "id": "93fdd265-31c6-4d82-a794-0fa449eea3aa",
+    "title": "Fuel station forecourt",
+    "stream_url": "http://24.187.194.154/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/1011843.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "New York",
+      "city": "Hicksville",
+      "coordinate": {
+        "latitude": 40.76413,
+        "longitude": -73.51897
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 704,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "roads"
+    ],
+    "created_at": "2026-09-18T00:58:43.937Z",
+    "modified_at": "2026-09-18T00:58:43.937Z"
+  },
+  {
+    "id": "86a3ca60-8b08-407f-bfe2-2906f28b1c72",
+    "title": "Havre de Grace",
+    "stream_url": "https://www.youtube-nocookie.com/embed/uOC4CPHiOFM?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/uOC4CPHiOFM/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Maryland",
+      "city": "Havre de Grace",
+      "coordinate": {
+        "latitude": 39.54928,
+        "longitude": -76.09162
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "rivers",
+      "bays"
+    ],
+    "created_at": "2026-09-17T23:28:43.937Z",
+    "modified_at": "2026-10-16T18:30:23.741Z"
   },
   {
     "id": "3f0ec82b-6d8b-4898-a0a1-6c1718ca6f2d",
@@ -3504,6 +6431,97 @@
     "modified_at": "2026-09-17T17:58:43.937Z"
   },
   {
+    "id": "8be60e94-7b31-4a39-94ba-7b90852f2e6c",
+    "title": "AMI Connors Point",
+    "stream_url": "https://www.youtube-nocookie.com/embed/_L0u39B732I?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/_L0u39B732I/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Wisconsin",
+      "city": "Superior",
+      "coordinate": {
+        "latitude": 44.392485,
+        "longitude": -89.816896
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "rivers",
+      "bridges"
+    ],
+    "created_at": "2026-09-17T17:28:43.937Z",
+    "modified_at": "2026-09-17T17:28:43.937Z"
+  },
+  {
+    "id": "6d548c45-7c80-4a99-8d10-4d573dcb9b12",
+    "title": "Mill River, Northampton",
+    "stream_url": "https://www.youtube-nocookie.com/embed/cK6y-SdxHew?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/cK6y-SdxHew/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Massachusetts",
+      "city": "Northampton",
+      "coordinate": {
+        "latitude": 52.0680937,
+        "longitude": -1.9081828
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 3840,
+      "height": 2160
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "nature",
+      "rivers",
+      "sights"
+    ],
+    "created_at": "2026-09-17T15:28:43.937Z",
+    "modified_at": "2026-10-20T02:46:59.422Z"
+  },
+  {
+    "id": "a7957955-9299-486c-8c9c-00ce63ff35e4",
+    "title": "Osprey birds",
+    "stream_url": "https://www.youtube-nocookie.com/embed/ZzW9-t5bYJE?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/ZzW9-t5bYJE/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "New York",
+      "city": "Oyster Bay",
+      "coordinate": {
+        "latitude": 40.761175,
+        "longitude": -73.957887
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 3840,
+      "height": 2160
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "animals",
+      "boats"
+    ],
+    "created_at": "2026-09-17T12:28:43.937Z",
+    "modified_at": "2026-09-17T12:28:43.937Z"
+  },
+  {
     "id": "ff2a9495-68ed-4575-b385-bcc831b53954",
     "title": "Rural roadside",
     "stream_url": "http://185.142.220.181/mjpg/video.mjpg",
@@ -3534,6 +6552,36 @@
     "modified_at": "2026-09-17T10:58:43.937Z"
   },
   {
+    "id": "1460072b-7c29-4ae0-bf8f-ee011f1fb8b6",
+    "title": "Public Square, Watertown NY",
+    "stream_url": "https://www.youtube-nocookie.com/embed/Zz9hMrxl20I?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/Zz9hMrxl20I/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "New York",
+      "city": "Watertown",
+      "coordinate": {
+        "latitude": 43.974608,
+        "longitude": -75.908681
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic",
+      "squares"
+    ],
+    "created_at": "2026-09-17T10:28:43.937Z",
+    "modified_at": "2026-09-17T10:28:43.937Z"
+  },
+  {
     "id": "8c1ed910-d4fa-4f13-bcb6-a51ea3de1976",
     "title": "Street view",
     "stream_url": "http://82.76.88.114:81/mjpg/video.mjpg",
@@ -3562,6 +6610,36 @@
     ],
     "created_at": "2026-09-17T09:58:43.937Z",
     "modified_at": "2026-09-17T09:58:43.937Z"
+  },
+  {
+    "id": "07b84ec1-c9c0-48e2-9a6c-99fb0a07b842",
+    "title": "Northport Pier Ferry Dock",
+    "stream_url": "https://www.youtube-nocookie.com/embed/Zot8ShPuuKg?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/Zot8ShPuuKg/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Wisconsin",
+      "city": "Washington",
+      "coordinate": {
+        "latitude": 44.392485,
+        "longitude": -89.816896
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 3840,
+      "height": 2160
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "lakes",
+      "boats"
+    ],
+    "created_at": "2026-09-17T07:28:43.937Z",
+    "modified_at": "2026-09-17T07:28:43.937Z"
   },
   {
     "id": "09b2a1c1-12a0-423e-973c-5be3d4efc2b4",
@@ -3625,6 +6703,36 @@
     "modified_at": "2026-09-17T05:58:43.937Z"
   },
   {
+    "id": "5c816ed7-bba4-4c23-918d-4bfd37eda66c",
+    "title": "Black River Landing",
+    "stream_url": "https://www.youtube-nocookie.com/embed/ZZevIUr2cTk?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/ZZevIUr2cTk/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Ohio",
+      "city": "Lorain",
+      "coordinate": {
+        "latitude": 41.047004,
+        "longitude": -81.81457
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 3840,
+      "height": 2160
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "rivers",
+      "marinas"
+    ],
+    "created_at": "2026-09-17T04:28:43.937Z",
+    "modified_at": "2026-09-30T10:16:58.468Z"
+  },
+  {
     "id": "44225d54-eade-4318-9742-81b2e2318d2c",
     "title": "Dogs in an Outdoor Courtyard",
     "stream_url": "http://45.141.240.152:8083/mjpg/video.mjpg",
@@ -3652,6 +6760,37 @@
     ],
     "created_at": "2026-09-17T03:58:43.937Z",
     "modified_at": "2026-10-13T15:35:13.000Z"
+  },
+  {
+    "id": "742f4eb2-e7fd-43f2-a8ef-9ba8439a9eeb",
+    "title": "Beach Club Resort",
+    "stream_url": "https://www.youtube-nocookie.com/embed/l2em7gqBj00?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/l2em7gqBj00/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Alabama",
+      "city": "Gulf Shores",
+      "coordinate": {
+        "latitude": 31.971263,
+        "longitude": -87.861397
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "hotels",
+      "sea views"
+    ],
+    "created_at": "2026-09-16T23:28:43.937Z",
+    "modified_at": "2026-09-16T23:28:43.937Z"
   },
   {
     "id": "316f506f-b65f-4539-87f3-908c018bec16",
@@ -3804,6 +6943,66 @@
     "modified_at": "2026-09-16T14:58:43.937Z"
   },
   {
+    "id": "7aefe65e-5cf3-42af-80e2-a3b2c21c7f29",
+    "title": "Falcon Feed",
+    "stream_url": "https://www.youtube-nocookie.com/embed/i07IVN7ZKek?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/i07IVN7ZKek/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "New Hampshire",
+      "city": "Manchester",
+      "coordinate": {
+        "latitude": 41.003007,
+        "longitude": -81.523849
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "animals",
+      "birds"
+    ],
+    "created_at": "2026-09-16T13:28:43.937Z",
+    "modified_at": "2026-10-16T23:51:48.681Z"
+  },
+  {
+    "id": "1be0bf82-9d01-4eaa-a7f2-d29e870eeb0d",
+    "title": "Grand Targhee Plaza",
+    "stream_url": "https://www.youtube-nocookie.com/embed/eHL_FJOoVTE?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/eHL_FJOoVTE/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Idaho",
+      "city": "Driggs",
+      "coordinate": {
+        "latitude": 41.316296,
+        "longitude": -105.627795
+      },
+      "timezone": "-07:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "ski resorts",
+      "shops"
+    ],
+    "created_at": "2026-09-16T10:28:43.937Z",
+    "modified_at": "2026-10-31T00:14:26.163Z"
+  },
+  {
     "id": "804f4d8f-13f2-480f-bb6c-7f24485771d4",
     "title": "Brick building and paved street",
     "stream_url": "http://81.205.79.60:8081/mjpg/video.mjpg",
@@ -3832,6 +7031,36 @@
     ],
     "created_at": "2026-09-16T09:58:43.937Z",
     "modified_at": "2026-11-10T16:20:27.964Z"
+  },
+  {
+    "id": "5b21b436-93f7-41af-ab14-1c52389ee230",
+    "title": "FlowRider",
+    "stream_url": "https://www.youtube-nocookie.com/embed/SQieqAJXScs?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/SQieqAJXScs/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "South Carolina",
+      "city": "North Myrtle Beach",
+      "coordinate": {
+        "latitude": 34.00043,
+        "longitude": -81.00009
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 640,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "sport",
+      "hotels"
+    ],
+    "created_at": "2026-09-16T08:28:43.937Z",
+    "modified_at": "2026-10-03T03:12:09.210Z"
   },
   {
     "id": "565737a7-bd60-40e6-a419-54aab459ff68",
@@ -3895,6 +7124,36 @@
     "modified_at": "2026-09-16T03:58:43.937Z"
   },
   {
+    "id": "aac9e5c8-fe4e-4849-aa73-ee3bcbc86c4b",
+    "title": "Snow Summit Slopeside",
+    "stream_url": "https://www.youtube-nocookie.com/embed/SOo3NBmvJQI?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/SOo3NBmvJQI/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "California",
+      "city": "Big Bear Lake",
+      "coordinate": {
+        "latitude": 35.125624,
+        "longitude": -118.021353
+      },
+      "timezone": "-08:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "landscape",
+      "ski resorts"
+    ],
+    "created_at": "2026-09-16T03:28:43.937Z",
+    "modified_at": "2026-09-16T03:28:43.937Z"
+  },
+  {
     "id": "4084d360-d50c-4066-8e0a-110b78eb093f",
     "title": "Fuel station forecourt",
     "stream_url": "http://83.76.247.226:8083/mjpg/video.mjpg",
@@ -3922,6 +7181,35 @@
     ],
     "created_at": "2026-09-16T02:58:43.937Z",
     "modified_at": "2026-09-16T02:58:43.937Z"
+  },
+  {
+    "id": "5927e04d-cfc4-4441-90e7-5cb05b172a37",
+    "title": "Otter",
+    "stream_url": "https://www.youtube-nocookie.com/embed/zIvtJ05k-bI?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/zIvtJ05k-bI/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Maryland",
+      "city": "Solomons",
+      "coordinate": {
+        "latitude": 38.33124,
+        "longitude": -76.4644
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "animals"
+    ],
+    "created_at": "2026-09-16T00:28:43.937Z",
+    "modified_at": "2026-10-02T22:42:09.210Z"
   },
   {
     "id": "59d5d351-da14-4433-90ba-a08f7e5b2d42",
@@ -3985,6 +7273,127 @@
     "modified_at": "2026-10-02T19:12:09.210Z"
   },
   {
+    "id": "8575dad4-6aa1-48a3-beb3-a4f649c82fbd",
+    "title": "Moonbeam Parking Lot",
+    "stream_url": "https://www.youtube-nocookie.com/embed/ta-4QZbfMXc?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/ta-4QZbfMXc/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Utah",
+      "city": "Park City",
+      "coordinate": {
+        "latitude": 39.25024,
+        "longitude": -111.75103
+      },
+      "timezone": "-07:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "ski resorts",
+      "mountains",
+      "parking"
+    ],
+    "created_at": "2026-09-15T14:28:43.937Z",
+    "modified_at": "2026-09-15T14:28:43.937Z"
+  },
+  {
+    "id": "277df43b-6d24-471b-9bc7-665626ed3cd7",
+    "title": "Clearwater Beach",
+    "stream_url": "https://www.youtube-nocookie.com/embed/rxBBRLWF0mM?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/rxBBRLWF0mM/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Clearwater",
+      "coordinate": {
+        "latitude": 27.960589,
+        "longitude": -82.763489
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "bars & restaurants"
+    ],
+    "created_at": "2026-09-15T11:28:43.937Z",
+    "modified_at": "2026-10-30T18:53:01.223Z"
+  },
+  {
+    "id": "cbe92f5d-d387-430a-a8b1-aa7b85fb5f91",
+    "title": "Breaking Waves along a Sandy Beach",
+    "stream_url": "http://66.23.208.60:1024/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://www.insecam.org/static/thumb/1011614.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "California",
+      "city": "San Ysidro",
+      "coordinate": {
+        "latitude": 32.56013,
+        "longitude": -116.97436
+      },
+      "timezone": "-08:00"
+    },
+    "resolution": {
+      "width": 704,
+      "height": 480
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "sea views"
+    ],
+    "created_at": "2026-09-15T10:58:43.937Z",
+    "modified_at": "2026-10-19T21:25:34.483Z"
+  },
+  {
+    "id": "c553c431-d86b-463a-9652-63ca6c5fbe9e",
+    "title": "Downtown Mobile",
+    "stream_url": "https://www.youtube-nocookie.com/embed/rjASdnpfONo?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/rjASdnpfONo/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Alabama",
+      "city": "Mobile",
+      "coordinate": {
+        "latitude": 30.676332,
+        "longitude": -88.067109
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic",
+      "city views"
+    ],
+    "created_at": "2026-09-15T06:28:43.937Z",
+    "modified_at": "2026-10-20T08:08:24.362Z"
+  },
+  {
     "id": "43fdc979-9867-425d-8c14-f99a456642ca",
     "title": "Temple Hall and Altar",
     "stream_url": "http://98.153.124.74:2086/mjpg/video.mjpg",
@@ -4015,6 +7424,67 @@
     "modified_at": "2026-10-19T21:25:34.483Z"
   },
   {
+    "id": "0feb87c7-6bc9-432c-ba8a-981f2db10c94",
+    "title": "University of North Dakota Grand Forks",
+    "stream_url": "https://www.youtube-nocookie.com/embed/mpcvRHLGBRw?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/mpcvRHLGBRw/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "North Dakota",
+      "city": "Grand Forks",
+      "coordinate": {
+        "latitude": 47.92054,
+        "longitude": -97.07036
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 2560,
+      "height": 1440
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic",
+      "sights"
+    ],
+    "created_at": "2026-09-15T03:28:43.937Z",
+    "modified_at": "2026-10-30T18:53:01.223Z"
+  },
+  {
+    "id": "ab358be0-876f-440d-8421-72673945fa0d",
+    "title": "Aparecida",
+    "stream_url": "https://www.youtube-nocookie.com/embed/m2tH8rAcz7A?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/m2tH8rAcz7A/hqdefault.jpg",
+    "location": {
+      "country": "Brazil",
+      "country_code": "BR",
+      "region": "São Paulo",
+      "city": "Aparecida",
+      "coordinate": {
+        "latitude": 34.86151,
+        "longitude": -82.43151
+      },
+      "timezone": "-03:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic",
+      "churches",
+      "city views"
+    ],
+    "created_at": "2026-09-15T01:28:43.937Z",
+    "modified_at": "2026-10-13T08:39:35.950Z"
+  },
+  {
     "id": "20242fa0-cea8-4286-b4f9-0f25ec538ea8",
     "title": "Terrace overlooking a swimming pool",
     "stream_url": "http://185.11.21.101/mjpg/video.mjpg",
@@ -4042,6 +7512,36 @@
     ],
     "created_at": "2026-09-14T22:58:43.937Z",
     "modified_at": "2026-09-14T22:58:43.937Z"
+  },
+  {
+    "id": "1268b188-e9d5-4284-9a08-07a07a393eb6",
+    "title": "Marginal Way Ogunquit",
+    "stream_url": "https://www.youtube-nocookie.com/embed/RLIRtD89O7g?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/RLIRtD89O7g/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Maine",
+      "city": "Ogunquit",
+      "coordinate": {
+        "latitude": 44.538934,
+        "longitude": -67.884619
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "sea views"
+    ],
+    "created_at": "2026-09-14T22:28:43.937Z",
+    "modified_at": "2026-10-02T15:33:34.149Z"
   },
   {
     "id": "5825477e-6764-4d00-9f57-601bfd1f7801",
@@ -4107,6 +7607,36 @@
     "modified_at": "2026-09-14T20:58:43.937Z"
   },
   {
+    "id": "21e37cf3-e84c-40c6-bc08-467cfd2bac5f",
+    "title": "Birds feeder, Orlando",
+    "stream_url": "https://www.youtube-nocookie.com/embed/Po9pcdGnMyk?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/Po9pcdGnMyk/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Orlando",
+      "coordinate": {
+        "latitude": 28.53834,
+        "longitude": -81.37924
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 3840,
+      "height": 2160
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "animals",
+      "birds"
+    ],
+    "created_at": "2026-09-14T20:28:43.937Z",
+    "modified_at": "2026-09-14T20:28:43.937Z"
+  },
+  {
     "id": "7d25036c-84db-4c2e-9b2b-f92c26c6c1c1",
     "title": "Concrete Wall and Narrow Paved Passage",
     "stream_url": "http://81.130.130.211:8196/mjpg/video.mjpg",
@@ -4132,6 +7662,66 @@
     "categories": [],
     "created_at": "2026-09-14T17:58:43.937Z",
     "modified_at": "2026-10-20T08:08:24.362Z"
+  },
+  {
+    "id": "3c1f0faf-d034-4dc0-aa3c-86d806a5a14c",
+    "title": "Dayton House Resort",
+    "stream_url": "https://www.youtube-nocookie.com/embed/Sf8GYK93u5o?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/Sf8GYK93u5o/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "South Carolina",
+      "city": "Myrtle Beach",
+      "coordinate": {
+        "latitude": 33.68906,
+        "longitude": -78.88669
+      },
+      "timezone": "-05:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "hotels",
+      "sea views"
+    ],
+    "created_at": "2026-09-14T17:28:43.937Z",
+    "modified_at": "2026-10-02T12:33:34.149Z"
+  },
+  {
+    "id": "a37b8bd4-311d-43cd-998c-f6179e975adb",
+    "title": "Aquarena Springs Drive",
+    "stream_url": "https://www.youtube-nocookie.com/embed/S_o0_F9BiuY?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/S_o0_F9BiuY/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Texas",
+      "city": "San Marcos",
+      "coordinate": {
+        "latitude": 30.118987,
+        "longitude": -95.401798
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic"
+    ],
+    "created_at": "2026-09-14T14:28:43.937Z",
+    "modified_at": "2026-10-02T05:42:09.210Z"
   },
   {
     "id": "c71cf97b-e47e-4773-825f-7aac28434f59",
@@ -4162,6 +7752,36 @@
     ],
     "created_at": "2026-09-14T09:58:43.937Z",
     "modified_at": "2026-09-14T09:58:43.937Z"
+  },
+  {
+    "id": "5b22e02c-b670-478a-b07a-55cd73fe400c",
+    "title": "Downtown Park Rapids, North View",
+    "stream_url": "https://www.youtube-nocookie.com/embed/ZBnIbyCsEzo?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/ZBnIbyCsEzo/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Minnesota",
+      "city": "Park Rapids",
+      "coordinate": {
+        "latitude": 37.65748,
+        "longitude": -112.83439
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic",
+      "shops"
+    ],
+    "created_at": "2026-09-14T09:28:43.937Z",
+    "modified_at": "2026-09-14T09:28:43.937Z"
   },
   {
     "id": "5b5c40c6-2374-4ce9-8fde-51c8630165ce",
@@ -4195,6 +7815,36 @@
     "modified_at": "2026-09-14T07:58:43.937Z"
   },
   {
+    "id": "7d89a76f-eef0-495a-bfad-d58caba3ef9f",
+    "title": "Sterling Reef PCB, FL",
+    "stream_url": "https://www.youtube-nocookie.com/embed/Y82E6_IVEdY?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/Y82E6_IVEdY/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Panama City Beach",
+      "coordinate": {
+        "latitude": 28.75054,
+        "longitude": -82.5001
+      },
+      "timezone": "-06:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "beaches",
+      "sea views"
+    ],
+    "created_at": "2026-09-14T07:28:43.937Z",
+    "modified_at": "2026-10-13T00:09:35.950Z"
+  },
+  {
     "id": "05d6ec6a-4eb9-43e6-ab7b-010068202bd7",
     "title": "Solar panels",
     "stream_url": "http://180.62.218.1:30000/mjpg/video.mjpg",
@@ -4220,6 +7870,35 @@
     "categories": [],
     "created_at": "2026-09-14T04:58:43.937Z",
     "modified_at": "2026-09-14T04:58:43.937Z"
+  },
+  {
+    "id": "f5ab3fb3-d5d5-48d4-88ac-04dc3ee47fa7",
+    "title": "Duval Street",
+    "stream_url": "https://www.youtube-nocookie.com/embed/RH2rSEXialk?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/RH2rSEXialk/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "city": "Key West",
+      "coordinate": {
+        "latitude": 24.560655,
+        "longitude": -81.806405
+      },
+      "timezone": "-04:00"
+    },
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic"
+    ],
+    "created_at": "2026-09-14T04:28:43.937Z",
+    "modified_at": "2026-09-14T04:28:43.937Z"
   },
   {
     "id": "081d2cac-f1b3-4103-8f8a-df2f8e53d8ab",
@@ -4341,6 +8020,35 @@
     ],
     "created_at": "2026-09-14T01:28:43.937Z",
     "modified_at": "2026-10-02T05:03:34.149Z"
+  },
+  {
+    "id": "d3037830-7bc5-4e20-8f14-1d00cfc92609",
+    "title": "Breckenridge Main Street",
+    "stream_url": "https://www.youtube-nocookie.com/embed/SH63YaIWyK0?autoplay=0&amp;state=1",
+    "stream_type": "youtube",
+    "preview_url": "https://i.ytimg.com/vi/SH63YaIWyK0/hqdefault.jpg",
+    "location": {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Colorado",
+      "city": "Breckenridge",
+      "coordinate": {
+        "latitude": 51.01358,
+        "longitude": -113.54253
+      },
+      "timezone": "-07:00"
+    },
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "is_enabled": true,
+    "is_popular": false,
+    "categories": [
+      "traffic"
+    ],
+    "created_at": "2026-09-13T23:28:43.937Z",
+    "modified_at": "2026-10-01T22:12:09.210Z"
   },
   {
     "id": "2b4f1020-0c29-4c44-936e-377fd81f09b9",
