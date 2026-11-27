@@ -15335,8 +15335,8 @@
       "region": "Pomerania",
       "city": "Gdańsk",
       "coordinate": {
-        "latitude": 54.35205,
-        "longitude": 18.64637
+        "latitude": 54.353,
+        "longitude": 18.661306
       },
       "timezone": "+01:00"
     },
@@ -15352,7 +15352,7 @@
       "bridges"
     ],
     "created_at": "2026-10-08T13:28:43.937Z",
-    "modified_at": "2026-11-27T10:50:56.526040Z"
+    "modified_at": "2026-11-27T11:57:39.576233Z"
   },
   {
     "id": "b4137b39-e046-4e76-aea8-007fdd392be0",
@@ -29187,17 +29187,17 @@
   {
     "id": "0a4b3e78-11cb-4d90-b561-970f69717ca6",
     "title": "Ravda South Beach",
-    "stream_url": "https://ipcamlive.com/player/player.php?alias=558a6d5327f5d&autoplay=1",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8204-uznyj-plaz-uastreaming/thumbnail/380x254/8204_1692117496_vcsmzhsksskrwmeysctntbhpmtygqdezogtmwbip.webp",
+    "stream_url": "https://s43.ipcamlive.com/streams/2bjfcit9vznjmcf4n/stream.m3u8",
+    "stream_type": "hls",
+    "preview_url": "https://s43.ipcamlive.com/streams/2bjfcit9vznjmcf4n/snapshot.jpg",
     "location": {
       "country": "Bulgaria",
       "country_code": "BG",
       "region": "Burgas",
       "city": "Ravda",
       "coordinate": {
-        "latitude": 42.26667,
-        "longitude": 27.76667
+        "latitude": 42.6373,
+        "longitude": 27.6765
       },
       "timezone": "+02:00"
     },
@@ -29205,7 +29205,7 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "boats",
@@ -29213,7 +29213,7 @@
       "beaches"
     ],
     "created_at": "2026-09-24T02:28:43.937Z",
-    "modified_at": "2026-10-06T23:42:09.210Z"
+    "modified_at": "2026-11-27T11:57:39.576233Z"
   },
   {
     "id": "8830e31c-bc14-48eb-9f29-28e6b477e92b",
@@ -29278,9 +29278,9 @@
   {
     "id": "49ed27cf-16a2-44a4-8049-a4a06243d4a6",
     "title": "International Folklore Festival Primorsko",
-    "stream_url": "https://ipcamlive.com/player/player.php?alias=558a6e1d76543&autoplay=0&mute=0",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8206-scena-uastreaming/thumbnail/380x254/8206_1692118231_wgosdbmgvnffoebfnswiqkamvhwhdqcqdflwdpft.webp",
+    "stream_url": "https://s110.ipcamlive.com/streams/6e1t70qmsgppym8eq/stream.m3u8",
+    "stream_type": "hls",
+    "preview_url": "https://s110.ipcamlive.com/streams/6e1t70qmsgppym8eq/snapshot.jpg",
     "location": {
       "country": "Bulgaria",
       "country_code": "BG",
@@ -29296,13 +29296,13 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "nature"
     ],
     "created_at": "2026-09-24T00:28:43.937Z",
-    "modified_at": "2026-10-16T18:30:23.741Z"
+    "modified_at": "2026-11-27T11:28:00.408586Z"
   },
   {
     "id": "32206808-8ecf-48af-b237-6cbfb81cbbb0",
@@ -31812,8 +31812,8 @@
       "region": "Lesser Poland",
       "city": "Kraków",
       "coordinate": {
-        "latitude": 50.06143,
-        "longitude": 19.93658
+        "latitude": 50.044639,
+        "longitude": 19.948778
       },
       "timezone": "+01:00"
     },
@@ -31828,7 +31828,7 @@
       "squares"
     ],
     "created_at": "2026-09-21T09:28:43.937Z",
-    "modified_at": "2026-10-16T18:30:23.741Z"
+    "modified_at": "2026-11-27T11:57:39.576233Z"
   },
   {
     "id": "35891f40-7f87-46be-9044-41d7f19815c1",
@@ -31900,8 +31900,8 @@
       "region": "Lesser Poland",
       "city": "Bukowina Tatrzańska",
       "coordinate": {
-        "latitude": 31.97266,
-        "longitude": -85.18077
+        "latitude": 49.326111,
+        "longitude": 20.093889
       },
       "timezone": "+01:00"
     },
@@ -31916,7 +31916,7 @@
       "swimming pools"
     ],
     "created_at": "2026-09-21T07:28:43.937Z",
-    "modified_at": "2026-11-27T10:50:56.526040Z"
+    "modified_at": "2026-11-27T11:57:39.576233Z"
   },
   {
     "id": "bb33c6fe-5eb3-407d-98a2-b63eff5e87b2",
@@ -50240,25 +50240,25 @@
   {
     "id": "1349d9d0-0259-4dcc-9f7a-7c4ddb6e0487",
     "title": "Lindisfarne Castle",
-    "stream_url": "https://g0.ipcamlive.com/player/player.php?alias=lindisfarne1&autoplay=1&mute=1&disablevideofit=1",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/7609-lindisfarne-castle-uastreaming/thumbnail/380x254/7609_1692116784_ptkqxavcmetablswqppqmukbadrrzlfojgkdzodj.webp",
+    "stream_url": "https://s148.ipcamlive.com/streams/94prpvfx0f1x9il3l/stream.m3u8",
+    "stream_type": "hls",
+    "preview_url": "https://s148.ipcamlive.com/streams/94prpvfx0f1x9il3l/snapshot.jpg",
     "location": {
       "country": "United Kingdom",
       "country_code": "GB",
       "region": "England",
       "city": "Holy Island",
       "coordinate": {
-        "latitude": 55.66904,
-        "longitude": -1.78485
+        "latitude": 55.673,
+        "longitude": -1.801028
       },
-      "timezone": "-00:00"
+      "timezone": "+00:00"
     },
     "resolution": {
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "nature",
@@ -50266,7 +50266,7 @@
       "monuments"
     ],
     "created_at": "2026-09-02T10:28:43.937Z",
-    "modified_at": "2026-09-02T10:28:43.937Z"
+    "modified_at": "2026-11-27T12:00:42.318358Z"
   },
   {
     "id": "f14c54dd-9dad-4363-819e-9f7b64bca7e6",
@@ -51096,9 +51096,9 @@
   {
     "id": "82e6ff91-7803-4e6a-9daa-5978f140538f",
     "title": "Marine RD, Morecambe",
-    "stream_url": "https://g0.ipcamlive.com/player/player.php?alias=marineroad",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/marine-rd-morecambe-webcamtaxi/thumbnail/380x254/england-lancashire-Marine-Morecambe.webp",
+    "stream_url": "https://s44.ipcamlive.com/streams/2cdtnbzqwao9zpw1c/stream.m3u8",
+    "stream_type": "hls",
+    "preview_url": "https://s44.ipcamlive.com/streams/2cdtnbzqwao9zpw1c/snapshot.jpg",
     "location": {
       "country": "United Kingdom",
       "country_code": "GB",
@@ -51108,20 +51108,20 @@
         "latitude": 54.06835,
         "longitude": -2.86108
       },
-      "timezone": "-00:00"
+      "timezone": "+00:00"
     },
     "resolution": {
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "traffic",
       "sea views"
     ],
     "created_at": "2026-09-01T13:28:43.937Z",
-    "modified_at": "2026-09-01T13:28:43.937Z"
+    "modified_at": "2026-11-27T12:00:42.318358Z"
   },
   {
     "id": "8ac253e4-56ac-4700-a598-74741eac7994",
@@ -61682,8 +61682,8 @@
       "region": "Lower Silesia",
       "city": "Wrocław",
       "coordinate": {
-        "latitude": 38.80289,
-        "longitude": -77.04553
+        "latitude": 51.11,
+        "longitude": 17.030278
       },
       "timezone": "+01:00"
     },
@@ -61698,7 +61698,7 @@
       "sights"
     ],
     "created_at": "2026-08-21T15:28:43.937Z",
-    "modified_at": "2026-11-27T10:50:56.526040Z"
+    "modified_at": "2026-11-27T11:57:39.576233Z"
   },
   {
     "id": "296805e8-7764-4924-a46b-b254c93316b7",
@@ -61766,8 +61766,8 @@
       "region": "West Pomerania",
       "city": "Międzyzdroje",
       "coordinate": {
-        "latitude": 46.91807,
-        "longitude": -104.00437
+        "latitude": 53.932222,
+        "longitude": 14.445278
       },
       "timezone": "+01:00"
     },
@@ -61782,7 +61782,7 @@
       "city views"
     ],
     "created_at": "2026-08-21T13:28:43.937Z",
-    "modified_at": "2026-11-27T10:50:56.526040Z"
+    "modified_at": "2026-11-27T11:57:39.576233Z"
   },
   {
     "id": "a7490e11-a230-45a4-9666-d1c090810740",
@@ -62720,8 +62720,8 @@
       "region": "Lesser Poland",
       "city": "Kraków",
       "coordinate": {
-        "latitude": 38.80289,
-        "longitude": -77.04553
+        "latitude": 50.0611,
+        "longitude": 19.9363
       },
       "timezone": "+01:00"
     },
@@ -62737,7 +62737,7 @@
       "city views"
     ],
     "created_at": "2026-08-20T13:28:43.937Z",
-    "modified_at": "2026-11-27T10:50:56.526040Z"
+    "modified_at": "2026-11-27T11:57:39.576233Z"
   },
   {
     "id": "4ac77e35-9908-44f3-81b9-85175012b726",
@@ -63438,8 +63438,8 @@
       "region": "Lesser Poland",
       "city": "Zakopane",
       "coordinate": {
-        "latitude": 49.29899,
-        "longitude": 19.94885
+        "latitude": 49.3031,
+        "longitude": 19.9196
       },
       "timezone": "+01:00"
     },
@@ -63455,7 +63455,7 @@
       "ski resorts"
     ],
     "created_at": "2026-08-19T19:28:43.937Z",
-    "modified_at": "2026-08-19T19:28:43.937Z"
+    "modified_at": "2026-11-27T11:57:39.576233Z"
   },
   {
     "id": "4be1fd58-4091-48d9-8a67-64cc56cd2bd5",
@@ -69333,10 +69333,10 @@
       "region": "Capital Region",
       "city": "Reykjavík",
       "coordinate": {
-        "latitude": 64.13548,
-        "longitude": -21.89541
+        "latitude": 64.15,
+        "longitude": -21.938667
       },
-      "timezone": "-00:00"
+      "timezone": "+00:00"
     },
     "resolution": {
       "width": 0,
@@ -69349,7 +69349,7 @@
       "harbours"
     ],
     "created_at": "2026-08-13T18:28:43.937Z",
-    "modified_at": "2026-09-16T07:42:09.210Z"
+    "modified_at": "2026-11-27T12:00:42.318358Z"
   },
   {
     "id": "f9a6bb12-b1f5-49d7-807a-935dca858763",
@@ -78407,9 +78407,9 @@
   {
     "id": "b8923539-330c-4731-839d-d97db337f8e3",
     "title": "Cologne City View",
-    "stream_url": "https://g0.ipcamlive.com/player/player.php?alias=towercamcologne&autoplay=1&disableframecapture=1",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/10128-cologne-cathedral-uastreaming/thumbnail/380x254/10128_1692119275_biitmtmjzkcotoopyuzbosvntykszriuydsbdtmk.webp",
+    "stream_url": "https://s24.ipcamlive.com/streams/18qvfm6ddkfyoqkon/stream.m3u8",
+    "stream_type": "hls",
+    "preview_url": "https://s24.ipcamlive.com/streams/18qvfm6ddkfyoqkon/snapshot.jpg",
     "location": {
       "country": "Germany",
       "country_code": "DE",
@@ -78425,7 +78425,7 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "city views",
@@ -78433,7 +78433,7 @@
       "churches"
     ],
     "created_at": "2026-08-04T09:28:43.937Z",
-    "modified_at": "2026-08-04T09:28:43.937Z"
+    "modified_at": "2026-11-27T11:28:00.408586Z"
   },
   {
     "id": "2236e519-5893-4e76-96f4-869648d6d725",
@@ -78731,17 +78731,17 @@
   {
     "id": "06db48f5-7d5c-43a0-97dc-ff4d13055472",
     "title": "Primorsko Beach",
-    "stream_url": "https://ipcamlive.com/player/player.php?alias=557f35298b146&autoplay=1",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8208-pobereze-uastreaming/thumbnail/380x254/8208_1692117382_zptwqmehqmifeqailhxmqkxckiubqbdjmqwvgpld.webp",
+    "stream_url": "https://s21.ipcamlive.com/streams/15e7v4dsf2wvqzcfu/stream.m3u8",
+    "stream_type": "hls",
+    "preview_url": "https://s21.ipcamlive.com/streams/15e7v4dsf2wvqzcfu/snapshot.jpg",
     "location": {
       "country": "Bulgaria",
       "country_code": "BG",
       "region": "Burgas",
       "city": "Primorsko",
       "coordinate": {
-        "latitude": 46.91807,
-        "longitude": -104.00437
+        "latitude": 42.26667,
+        "longitude": 27.76667
       },
       "timezone": "+02:00"
     },
@@ -78749,7 +78749,7 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "beaches",
@@ -78757,7 +78757,7 @@
       "bays"
     ],
     "created_at": "2026-08-04T01:28:43.937Z",
-    "modified_at": "2026-08-04T01:28:43.937Z"
+    "modified_at": "2026-11-27T11:57:39.576233Z"
   },
   {
     "id": "718e3ed2-da55-4b9e-b64b-0ac2d52b1172",
@@ -81899,9 +81899,9 @@
   {
     "id": "536a39c7-114b-4a71-b3b0-fbe7afc85ac9",
     "title": "Main Square",
-    "stream_url": "https://ipcamlive.com/player/player.php?alias=558a6de19e203&autoplay=0&mute=0",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8209-glavnaa-plosad-uastreaming/thumbnail/380x254/8209_1692117427_kaepspuikkfuduefnmzrooilsccnqenuuqctjxat.webp",
+    "stream_url": "https://s21.ipcamlive.com/streams/15buihvs5x3citqha/stream.m3u8",
+    "stream_type": "hls",
+    "preview_url": "https://s21.ipcamlive.com/streams/15buihvs5x3citqha/snapshot.jpg",
     "location": {
       "country": "Bulgaria",
       "country_code": "BG",
@@ -81917,13 +81917,13 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "nature"
     ],
     "created_at": "2026-07-31T20:28:43.937Z",
-    "modified_at": "2026-10-31T00:14:26.163Z"
+    "modified_at": "2026-11-27T11:28:00.408586Z"
   },
   {
     "id": "67f11880-817f-404d-b42f-bc9816223d41",
@@ -82944,17 +82944,17 @@
   {
     "id": "d6d0b4d0-39e4-4288-ab1c-c010da15bc83",
     "title": "Port of Argostoli",
-    "stream_url": "https://ipcamlive.com/player/player.php?alias=5900521560d5e&autoplay=1&mute=0",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8899-limani-uastreaming/thumbnail/380x254/8899_1692115349_gvmpxyqhepfwcmcpbczljahawgdbvizkbedkftsx.webp",
+    "stream_url": "https://s124.ipcamlive.com/streams/7cvrmjicc6wy9yvgq/stream.m3u8",
+    "stream_type": "hls",
+    "preview_url": "https://s124.ipcamlive.com/streams/7cvrmjicc6wy9yvgq/snapshot.jpg",
     "location": {
       "country": "Greece",
       "country_code": "GR",
       "region": "Ionian Islands",
       "city": "Argostólion",
       "coordinate": {
-        "latitude": 38.16425,
-        "longitude": 20.45767
+        "latitude": 38.1775,
+        "longitude": 20.489444
       },
       "timezone": "+02:00"
     },
@@ -82962,7 +82962,7 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "boats",
@@ -82971,7 +82971,7 @@
       "ports"
     ],
     "created_at": "2026-07-30T18:28:43.937Z",
-    "modified_at": "2026-07-30T18:28:43.937Z"
+    "modified_at": "2026-11-27T11:57:39.576233Z"
   },
   {
     "id": "0cdb2af4-d352-43f9-83c7-a9591c1d3448",
@@ -84190,10 +84190,10 @@
   },
   {
     "id": "047fcfc9-be63-49d8-a055-b191abbd5419",
-    "title": "Kiten South Beach",
-    "stream_url": "https://g0.ipcamlive.com/player/player.php?alias=59404534cf240",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8235-uzen-plaz-kiten-uastreaming/thumbnail/380x254/8235_1692117527_qljmkprosfootnksyofcvxydtrefmijunqlytlnw.webp",
+    "title": "Kiten South Beach and the Black Sea",
+    "stream_url": "https://s24.ipcamlive.com/streams/18nw3ywu6mdfcfnox/stream.m3u8",
+    "stream_type": "hls",
+    "preview_url": "https://s24.ipcamlive.com/streams/18nw3ywu6mdfcfnox/snapshot.jpg",
     "location": {
       "country": "Bulgaria",
       "country_code": "BG",
@@ -84209,14 +84209,14 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "beaches",
       "sea views"
     ],
     "created_at": "2026-07-29T11:28:43.937Z",
-    "modified_at": "2026-11-27T09:48:36.914091Z"
+    "modified_at": "2026-11-27T11:28:00.408586Z"
   },
   {
     "id": "31f16918-9cc5-4920-8dbc-d88a30218aaa",
@@ -84423,9 +84423,9 @@
   {
     "id": "44795c22-b3ab-4e7f-8549-210c972c89aa",
     "title": "Dubrovnik Marina View",
-    "stream_url": "https://g0.ipcamlive.com/player/player.php?alias=oldtown001",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/dubrovnik-oldtown-webcamtaxi/thumbnail/380x254/croatia-dubrovnik-neretva-old-town-dubrovnik.webp",
+    "stream_url": "https://s150.ipcamlive.com/streams/96mt7rfuszjq5qdbj/stream.m3u8",
+    "stream_type": "hls",
+    "preview_url": "https://s150.ipcamlive.com/streams/96mt7rfuszjq5qdbj/snapshot.jpg",
     "location": {
       "country": "Croatia",
       "country_code": "HR",
@@ -84441,7 +84441,7 @@
       "width": 1280,
       "height": 960
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "marinas",
@@ -84449,7 +84449,7 @@
       "sea views"
     ],
     "created_at": "2026-07-29T05:28:43.937Z",
-    "modified_at": "2026-07-29T05:28:43.937Z"
+    "modified_at": "2026-11-27T11:28:00.408586Z"
   },
   {
     "id": "004d9ebe-1c6d-4559-ae8e-4dd06f51bdca",
@@ -84511,17 +84511,17 @@
   {
     "id": "9645742f-329a-4329-8a3e-35fb10438ddb",
     "title": "Oia Village, Santorini",
-    "stream_url": "https://g0.ipcamlive.com/player/player.php?alias=5575bc8fe7da6",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/oia-village-santorini-webcamtaxi/thumbnail/380x254/greece-south-aegean-oya-village-santorini.webp",
+    "stream_url": "https://s150.ipcamlive.com/streams/96awhbiu6e0vnk3s9/stream.m3u8",
+    "stream_type": "hls",
+    "preview_url": "https://s150.ipcamlive.com/streams/96awhbiu6e0vnk3s9/snapshot.jpg",
     "location": {
       "country": "Greece",
       "country_code": "GR",
       "region": "South Aegean",
       "city": "Oía",
       "coordinate": {
-        "latitude": 36.39963,
-        "longitude": 25.42081
+        "latitude": 36.4626,
+        "longitude": 25.37637
       },
       "timezone": "+02:00"
     },
@@ -84529,7 +84529,7 @@
       "width": 1280,
       "height": 720
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "sea views",
@@ -84537,7 +84537,7 @@
       "islands"
     ],
     "created_at": "2026-07-29T03:28:43.937Z",
-    "modified_at": "2026-07-29T03:28:43.937Z"
+    "modified_at": "2026-11-27T11:57:39.576233Z"
   },
   {
     "id": "114cb3b2-b196-4e81-abe2-5a79fbc4d382",
@@ -87134,17 +87134,17 @@
   {
     "id": "6dfb259b-3fe2-4b46-8fc5-a5aa423326c0",
     "title": "Carmel Beach",
-    "stream_url": "https://g2.ipcamlive.com/player/player.php?alias=5ffd9eb29b665",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/7030-carmel-station-uastreaming/thumbnail/380x254/7030_1692115837_bfvxsiqlvsbeusrwhfroxwvgptvqigtvayouawjf.webp",
+    "stream_url": "https://s122.ipcamlive.com/streams/7asysbwmljtakvfah/stream.m3u8",
+    "stream_type": "hls",
+    "preview_url": "https://s122.ipcamlive.com/streams/7asysbwmljtakvfah/snapshot.jpg",
     "location": {
       "country": "Israel",
       "country_code": "IL",
       "region": "Haifa",
       "city": "Haifa",
       "coordinate": {
-        "latitude": 32.81841,
-        "longitude": 34.9885
+        "latitude": 32.806111,
+        "longitude": 34.955556
       },
       "timezone": "+02:00"
     },
@@ -87152,13 +87152,13 @@
       "width": 2560,
       "height": 1440
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "sea views"
     ],
     "created_at": "2026-07-26T10:28:43.937Z",
-    "modified_at": "2026-09-18T01:39:35.950Z"
+    "modified_at": "2026-11-27T11:57:39.576233Z"
   },
   {
     "id": "5248c515-43e2-4ad8-9126-22c320cba3d6",
@@ -88601,17 +88601,17 @@
   {
     "id": "c57da311-b180-4b88-a513-1612e74f3890",
     "title": "Surf Center - Windsurfing, Eilat",
-    "stream_url": "https://g0.ipcamlive.com/player/player.php?alias=surfcenterkite",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/7031-zaliv-akaba-surf-center-windsurfing-uastreaming/thumbnail/380x254/7031_1692115894_geimsbngultvvrwjggiqrcubqnghdxabdqnesmln.webp",
+    "stream_url": "https://s27.ipcamlive.com/streams/1bd9iwrbgpdolihzb/stream.m3u8",
+    "stream_type": "hls",
+    "preview_url": "https://s27.ipcamlive.com/streams/1bd9iwrbgpdolihzb/snapshot.jpg",
     "location": {
       "country": "Israel",
       "country_code": "IL",
       "region": "Southern District",
       "city": "Eilat",
       "coordinate": {
-        "latitude": 29.55805,
-        "longitude": 34.94821
+        "latitude": 29.513889,
+        "longitude": 34.926389
       },
       "timezone": "+02:00"
     },
@@ -88619,13 +88619,13 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "beaches"
     ],
     "created_at": "2026-07-24T22:28:43.937Z",
-    "modified_at": "2026-07-24T22:28:43.937Z"
+    "modified_at": "2026-11-27T11:57:39.576233Z"
   },
   {
     "id": "22fc00c6-3186-4a67-9aa1-21289f2d2c1c",
@@ -97589,17 +97589,17 @@
   {
     "id": "e8f44618-05ea-4133-bb85-189343fd6e92",
     "title": "Kiten South Beach",
-    "stream_url": "https://ipcamlive.com/player/player.php?alias=59404c38c8c0c",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8572-ueb-kamera-ot-pristanise-kiten-uastreaming/thumbnail/380x254/8572_1692117750_uafdgjjniroxxwohjtrktbakyqyiyvwgggosxiet.webp",
+    "stream_url": "https://s21.ipcamlive.com/streams/152lw7ifylrba8bid/stream.m3u8",
+    "stream_type": "hls",
+    "preview_url": "https://s21.ipcamlive.com/streams/152lw7ifylrba8bid/snapshot.jpg",
     "location": {
       "country": "Bulgaria",
       "country_code": "BG",
       "region": "Burgas",
       "city": "Kiten",
       "coordinate": {
-        "latitude": 25.7745,
-        "longitude": -80.1329
+        "latitude": 42.23445,
+        "longitude": 27.77874
       },
       "timezone": "+02:00"
     },
@@ -97607,7 +97607,7 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "boats",
@@ -97615,7 +97615,7 @@
       "beaches"
     ],
     "created_at": "2026-07-15T15:28:43.937Z",
-    "modified_at": "2026-09-01T18:12:09.210Z"
+    "modified_at": "2026-11-27T11:28:00.408586Z"
   },
   {
     "id": "6b26fed4-4bcf-4642-9fb1-26bb433bfc00",
@@ -97793,9 +97793,9 @@
   {
     "id": "d247e9d8-5106-432b-afc9-94817a28ac36",
     "title": "North Beach",
-    "stream_url": "https://ipcamlive.com/player/player.php?alias=55959497b5852&autoplay=0&mute=0",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8205-severnyj-plaz-uastreaming/thumbnail/380x254/8205_1692117618_wnwdjsidildxaqvpcgybhockorfmbcxfulgpjpql.webp",
+    "stream_url": "https://s153.ipcamlive.com/streams/99caifjy6btjtpwqm/stream.m3u8",
+    "stream_type": "hls",
+    "preview_url": "https://s153.ipcamlive.com/streams/99caifjy6btjtpwqm/snapshot.jpg",
     "location": {
       "country": "Bulgaria",
       "country_code": "BG",
@@ -97818,7 +97818,7 @@
       "sea views"
     ],
     "created_at": "2026-07-15T10:28:43.937Z",
-    "modified_at": "2026-07-15T10:28:43.937Z"
+    "modified_at": "2026-11-27T11:28:00.408586Z"
   },
   {
     "id": "5d0758b9-213c-4a1e-a2c2-d0b0bdd785d0",
@@ -97907,36 +97907,6 @@
     ],
     "created_at": "2026-07-15T07:58:43.937Z",
     "modified_at": "2026-11-10T16:20:27.964Z"
-  },
-  {
-    "id": "33e0e196-7591-4f31-85ab-b41fbbcf3d3f",
-    "title": "Kiten South Beach and the Black Sea",
-    "stream_url": "https://ipcamlive.com/player/player.php?alias=59404534cf240",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8571-uzen-plaz-s-panorama-km-cerno-more-uastreaming/thumbnail/380x254/8571_1692117363_scnvbfjsjfnlsoqzovnnbfrgwuebtspiyyvpiglb.webp",
-    "location": {
-      "country": "Bulgaria",
-      "country_code": "BG",
-      "region": "Burgas",
-      "city": "Kiten",
-      "coordinate": {
-        "latitude": 43,
-        "longitude": 35
-      },
-      "timezone": "+02:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "beaches",
-      "sea views"
-    ],
-    "created_at": "2026-07-15T07:28:43.937Z",
-    "modified_at": "2026-10-30T18:53:01.223Z"
   },
   {
     "id": "d0d949f8-8ef4-47e1-b4c8-9659bf86b302",
@@ -98202,36 +98172,6 @@
     ],
     "created_at": "2026-07-15T00:58:43.937Z",
     "modified_at": "2026-07-15T00:58:43.937Z"
-  },
-  {
-    "id": "7e386b2f-8359-4a99-a67c-89527d5864c1",
-    "title": "Kiten port",
-    "stream_url": "https://g0.ipcamlive.com/player/player.php?alias=59404c38c8c0c",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8234-pristanise-kiten-uastreaming/thumbnail/380x254/8234_1692117234_shozlvoihguumvbofauaecmmyiwbduuxhrbykkyc.webp",
-    "location": {
-      "country": "Bulgaria",
-      "country_code": "BG",
-      "region": "Burgas",
-      "city": "Kiten",
-      "coordinate": {
-        "latitude": 14.5833,
-        "longitude": 120.9667
-      },
-      "timezone": "+02:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "boats",
-      "sea views"
-    ],
-    "created_at": "2026-07-15T00:28:43.937Z",
-    "modified_at": "2026-07-15T00:28:43.937Z"
   },
   {
     "id": "1b6e4d64-7984-49ad-b8e7-c94263f9ae90",
@@ -100133,9 +100073,9 @@
   {
     "id": "3775626a-fab5-47b7-96f6-57ebe285d8b0",
     "title": "Gruž",
-    "stream_url": "https://g0.ipcamlive.com/player/player.php?alias=portofgruz001",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/dubrovnik-portgruz-webcamtaxi/thumbnail/380x254/croatia-dubrovnik-neretva-port-gruz.webp",
+    "stream_url": "https://s21.ipcamlive.com/streams/15yncddgv1ujnprwo/stream.m3u8",
+    "stream_type": "hls",
+    "preview_url": "https://s21.ipcamlive.com/streams/15yncddgv1ujnprwo/snapshot.jpg",
     "location": {
       "country": "Croatia",
       "country_code": "HR",
@@ -100151,7 +100091,7 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "marinas",
@@ -100159,7 +100099,7 @@
       "harbours"
     ],
     "created_at": "2026-07-13T01:28:43.937Z",
-    "modified_at": "2026-07-13T01:28:43.937Z"
+    "modified_at": "2026-11-27T11:28:00.408586Z"
   },
   {
     "id": "65e0c048-4163-46c8-ac7d-49e37645f3f0",
@@ -102349,9 +102289,9 @@
   {
     "id": "1e518ad7-933a-4a08-bea5-b8cc4070cbca",
     "title": "Primorsko Port",
-    "stream_url": "https://ipcamlive.com/player/player.php?alias=55826e2500681&autoplay=0&mute=0",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8207-port-uastreaming/thumbnail/380x254/8207_1692117692_aohqxafdwroibclcixavgtbfhscgoitujgqkjmbh.webp",
+    "stream_url": "https://s25.ipcamlive.com/streams/19gpirmrz4tyuoso5/stream.m3u8",
+    "stream_type": "hls",
+    "preview_url": "https://s25.ipcamlive.com/streams/19gpirmrz4tyuoso5/snapshot.jpg",
     "location": {
       "country": "Bulgaria",
       "country_code": "BG",
@@ -102367,14 +102307,14 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "boats",
       "sea views"
     ],
     "created_at": "2026-07-10T19:28:43.937Z",
-    "modified_at": "2026-07-10T19:28:43.937Z"
+    "modified_at": "2026-11-27T11:28:00.408586Z"
   },
   {
     "id": "9872bd14-50b1-4487-babc-3ca7f748b870",
@@ -102583,9 +102523,9 @@
   {
     "id": "fa6ba46d-e18c-43d2-97dc-872539d61650",
     "title": "City view Primorsko",
-    "stream_url": "https://ipcamlive.com/player/player.php?alias=559592aba4eb0&autoplay=1&mute=1",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8210-kamera-uastreaming/thumbnail/380x254/8210_1692117702_nuwvhsusavprxpawgcdhdjtpodndpkwwksnpiwqi.webp",
+    "stream_url": "https://s154.ipcamlive.com/streams/9ah69segnb7simh1u/stream.m3u8",
+    "stream_type": "hls",
+    "preview_url": "https://s154.ipcamlive.com/streams/9ah69segnb7simh1u/snapshot.jpg",
     "location": {
       "country": "Bulgaria",
       "country_code": "BG",
@@ -102601,14 +102541,14 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "city views",
       "parking"
     ],
     "created_at": "2026-07-10T13:28:43.937Z",
-    "modified_at": "2026-08-30T05:42:09.210Z"
+    "modified_at": "2026-11-27T11:28:00.408586Z"
   },
   {
     "id": "69447388-8442-4097-a6a0-04079b33e2a2",
@@ -102993,9 +102933,9 @@
   {
     "id": "033f5edd-854a-4a4b-87ed-d2f7e1d1a492",
     "title": "Atliman Beach, Kiten",
-    "stream_url": "https://g0.ipcamlive.com/player/player.php?alias=594049acc6784",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8233-plaz-atliman-uastreaming/thumbnail/380x254/8233_1692117658_flqyjmwozfczmbfacbbttoxqsgxlbhijiezoxvhn.webp",
+    "stream_url": "https://s43.ipcamlive.com/streams/2bjnhfgzz2ipum1hv/stream.m3u8",
+    "stream_type": "hls",
+    "preview_url": "https://s43.ipcamlive.com/streams/2bjnhfgzz2ipum1hv/snapshot.jpg",
     "location": {
       "country": "Bulgaria",
       "country_code": "BG",
@@ -103011,14 +102951,14 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "beaches",
       "sea views"
     ],
     "created_at": "2026-07-10T03:28:43.937Z",
-    "modified_at": "2026-11-27T09:48:36.914091Z"
+    "modified_at": "2026-11-27T11:28:00.408586Z"
   },
   {
     "id": "67128c19-2c07-494b-bff6-f99a761a712e",

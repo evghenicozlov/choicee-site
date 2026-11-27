@@ -196,38 +196,8 @@
     "modified_at": "2026-11-26T13:38:56Z"
   },
   {
-    "id": "60dfc511-1149-547e-9041-5ba3bdcd0359",
-    "title": "Town Rooftops and Trees",
-    "stream_url": "http://82.66.151.229/image?speed=0",
-    "stream_type": "mjpeg",
-    "preview_url": "http://www.insecam.org/static/thumb/1013318.jpg",
-    "location": {
-      "country": "France",
-      "country_code": "FR",
-      "region": "Bretagne",
-      "city": "Dinard",
-      "coordinate": {
-        "latitude": 48.63143,
-        "longitude": -2.06144
-      },
-      "timezone": "+01:00"
-    },
-    "resolution": {
-      "width": 736,
-      "height": 544
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "city views",
-      "architecture"
-    ],
-    "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
-  },
-  {
     "id": "971d8e24-28a9-5107-9f79-4abd13ab0b97",
-    "title": "Indoor Room in Low Light",
+    "title": "Parked Cars",
     "stream_url": "http://114.142.212.224:1025/image?speed=0",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013317.jpg",
@@ -250,11 +220,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "55c830a5-cd4e-5434-9bfa-97a01d76bbd4",
-    "title": "Sunlit Trees and Garden",
+    "title": "Trees and Garden",
     "stream_url": "http://76.179.112.67/image?speed=0",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013316.jpg",
@@ -279,11 +249,11 @@
       "nature"
     ],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "133a7959-12ad-5fd1-8bb6-c972ed0791da",
-    "title": "Dark Camera View",
+    "title": "Indistinct Camera View",
     "stream_url": "http://203.152.220.2:50080/image?speed=0",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013314.jpg",
@@ -306,7 +276,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "2cdeeebf-049d-5bb0-ba6d-b91d26aa9cc4",
@@ -366,7 +336,7 @@
   },
   {
     "id": "771b64a6-5e18-583c-b64d-b70da7884425",
-    "title": "Low-Light Camera View — Toyohashi (1013311)",
+    "title": "Camera View — Toyohashi",
     "stream_url": "http://153.193.129.229:8081/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013311.jpg",
@@ -389,11 +359,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "c49c89f3-239a-5a4c-b4ee-590e2467d30c",
-    "title": "Low-Light Camera View — Minamata (1013310)",
+    "title": "Camera View — Minamata",
     "stream_url": "http://219.100.189.116:8081/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013310.jpg",
@@ -416,7 +386,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "82ffa5e0-941a-568d-9dcb-8bd5c41688b5",
@@ -447,7 +417,7 @@
   },
   {
     "id": "867f20fa-ecbd-56a3-a5c6-14aafb411fde",
-    "title": "Low-Light Camera View — Tokyo (1013308)",
+    "title": "Camera View — Tokyo",
     "stream_url": "http://153.207.236.46:8081/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013308.jpg",
@@ -470,11 +440,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "b9857b30-fdf2-5263-b8ba-66132849a655",
-    "title": "Low-Light Camera View — Tokyo (1013306)",
+    "title": "Camera View — Tokyo",
     "stream_url": "http://202.212.254.129:50011/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013306.jpg",
@@ -497,7 +467,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "ef7edca3-9c0d-51d8-b866-bae05e1bc5a8",
@@ -584,7 +554,7 @@
   },
   {
     "id": "2d7d8fa1-603e-5ffc-8d2c-82249669fc5c",
-    "title": "Distant Lights at Night",
+    "title": "Outdoor Camera View",
     "stream_url": "http://61.213.247.157:10001/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013302.jpg",
@@ -607,7 +577,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "b764eae9-d859-5b62-996a-44c7a60122b1",
@@ -667,7 +637,7 @@
   },
   {
     "id": "0aa86e9d-0d7e-5817-ad80-f626cd1be54f",
-    "title": "Distant Lights at Night",
+    "title": "Outdoor Camera View",
     "stream_url": "http://60.34.169.157:8080/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013296.jpg",
@@ -690,11 +660,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "5856c529-65ac-5d51-bffa-e59b381bb4b9",
-    "title": "Open Ground in Low Light",
+    "title": "Open Ground",
     "stream_url": "http://153.221.102.93:8081/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013295.jpg",
@@ -717,11 +687,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "02f35814-c667-5da4-b626-54a3d611e0ab",
-    "title": "Low-Light Camera View — Amagasaki (1013294)",
+    "title": "Camera View — Amagasaki",
     "stream_url": "http://122.20.250.233:8154/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013294.jpg",
@@ -744,11 +714,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "fbcd5c95-5a74-59a3-8638-cd55367cb1f0",
-    "title": "Outdoor Ground in Low Light",
+    "title": "Outdoor Ground",
     "stream_url": "http://110.44.89.254:8080/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013293.jpg",
@@ -771,11 +741,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "d64d73b1-010a-57f9-a9e0-b1f75a4d81f0",
-    "title": "Low-Light Camera View — Tokyo (1013291)",
+    "title": "Camera View — Tokyo",
     "stream_url": "http://118.9.188.57:8081/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013291.jpg",
@@ -798,11 +768,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "a2d0bb9c-4ed7-5951-a870-ffa7a46adfaf",
-    "title": "Low-Light Camera View — Tottori (1013290)",
+    "title": "Camera View — Tottori",
     "stream_url": "http://125.170.186.237:8012/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013290.jpg",
@@ -825,11 +795,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "01b4cdc1-5c48-5c03-9abc-681d4393a71f",
-    "title": "Low-Light Camera View — Saitama (1013289)",
+    "title": "Camera View — Saitama",
     "stream_url": "http://180.235.16.208:8081/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013289.jpg",
@@ -852,11 +822,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "b4234f21-6eb7-5426-8810-6cccd63df085",
-    "title": "Roadside Parking Area at Night",
+    "title": "Roadside Parking Area",
     "stream_url": "http://222.10.127.106:8081/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013288.jpg",
@@ -882,7 +852,7 @@
       "roads"
     ],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "5586eae2-1d81-5ccf-968f-85f48c695880",
@@ -943,7 +913,7 @@
   },
   {
     "id": "fb3cac5d-537c-5830-b321-d34cf3a4b411",
-    "title": "Fence and Distant Lights at Night",
+    "title": "Fence",
     "stream_url": "http://125.199.217.57:8002/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013284.jpg",
@@ -966,11 +936,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "11a9d1a4-310e-5cee-af71-b241c97fa0b1",
-    "title": "Noisy Low-Light Camera View",
+    "title": "Indistinct Camera View",
     "stream_url": "http://125.200.179.155:1027/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013281.jpg",
@@ -993,11 +963,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "55f51740-4573-5289-bc8d-ad424f66dfef",
-    "title": "Low-Light Camera View — Numata (1013280)",
+    "title": "Camera View — Numata",
     "stream_url": "http://61.120.208.46:4080/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013280.jpg",
@@ -1020,7 +990,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "c83a1c12-195d-5352-a8d0-b4165c0ea870",
@@ -1078,7 +1048,7 @@
   },
   {
     "id": "5db3c30a-ee89-5a33-8d0c-45dec5af527e",
-    "title": "Low-Light Camera View — Yoichi (1013274)",
+    "title": "Camera View — Yoichi",
     "stream_url": "http://153.208.26.236:8080/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013274.jpg",
@@ -1101,11 +1071,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "f9dcfa91-fa54-5382-85bc-beb92b5161fb",
-    "title": "Noisy Low-Light Camera View",
+    "title": "Indistinct Camera View",
     "stream_url": "http://58.93.120.98:8080/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013273.jpg",
@@ -1128,11 +1098,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "5a9013a6-0e33-5eb5-ad86-40d46f300958",
-    "title": "Outdoor Fence in Low Light",
+    "title": "Outdoor Fence",
     "stream_url": "http://125.199.218.178:8002/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013272.jpg",
@@ -1155,11 +1125,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "eabd2a45-8a7d-529c-8ae2-96c69749823a",
-    "title": "Low-Light Camera View — Tokyo (1013270)",
+    "title": "Camera View — Tokyo",
     "stream_url": "http://153.164.99.89:8081/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013270.jpg",
@@ -1182,11 +1152,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "501a0fb2-ada8-592d-9858-42a4e2f49ace",
-    "title": "Low-Light Camera View — Tokyo (1013269)",
+    "title": "Camera View — Tokyo",
     "stream_url": "http://118.9.188.57:8080/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013269.jpg",
@@ -1209,7 +1179,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "7d9f97fa-f390-5fc9-a170-acb2f95060fd",
@@ -1270,7 +1240,7 @@
   },
   {
     "id": "9825ab47-71c0-57ac-bc37-272350306e85",
-    "title": "Low-Light Camera View — Tokyo (1013265)",
+    "title": "Camera View — Tokyo",
     "stream_url": "http://183.76.92.22:8081/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013265.jpg",
@@ -1293,11 +1263,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "dbbc7f49-3831-5984-a80e-6a25011786ce",
-    "title": "Low-Light Camera View — Yokohama (1013264)",
+    "title": "Camera View — Yokohama",
     "stream_url": "http://153.220.194.135:8080/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013264.jpg",
@@ -1320,11 +1290,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "a6079be8-b0de-5fab-95a3-e7adff14e0d5",
-    "title": "Low-Light Camera View — Yamaguchi (1013262)",
+    "title": "Camera View — Yamaguchi",
     "stream_url": "http://122.250.193.200:8081/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013262.jpg",
@@ -1347,11 +1317,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "0f524c0a-23c9-5104-b247-dc5f940e52d5",
-    "title": "Low-Light Camera View — Osaka (1013261)",
+    "title": "Camera View — Osaka",
     "stream_url": "http://128.22.6.90:8081/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013261.jpg",
@@ -1374,7 +1344,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "8cf8f490-4609-5c8d-aa98-9a4cb75207b2",
@@ -1433,37 +1403,8 @@
     "modified_at": "2026-11-26T13:38:56Z"
   },
   {
-    "id": "5350e487-4ac7-5e20-8b05-47cf1e35a261",
-    "title": "Road beside a Guardrail at Night",
-    "stream_url": "http://58.88.45.176:8001/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
-    "stream_type": "mjpeg",
-    "preview_url": "http://www.insecam.org/static/thumb/1013258.jpg",
-    "location": {
-      "country": "Japan",
-      "country_code": "JP",
-      "region": "Hokkaido",
-      "city": "Muroran",
-      "coordinate": {
-        "latitude": 42.317,
-        "longitude": 140.967
-      },
-      "timezone": "+09:00"
-    },
-    "resolution": {
-      "width": 480,
-      "height": 270
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "roads"
-    ],
-    "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
-  },
-  {
     "id": "9951abed-1049-5520-82df-0a69c2e951e3",
-    "title": "Low-Light Camera View — Osaka (1013257)",
+    "title": "Camera View — Osaka",
     "stream_url": "http://121.87.155.31/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013257.jpg",
@@ -1486,11 +1427,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "b60e7b25-5e2b-5755-8e87-6fb7ed446a27",
-    "title": "Illuminated Parking Lot",
+    "title": "Parking Lot",
     "stream_url": "http://122.21.60.248:8002/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013256.jpg",
@@ -1515,11 +1456,11 @@
       "parking"
     ],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "03616f0b-960d-5b4c-9507-d0f78b67d667",
-    "title": "Low-Light Camera View — Asahi (1013255)",
+    "title": "Camera View — Asahi",
     "stream_url": "http://202.213.149.97/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013255.jpg",
@@ -1542,11 +1483,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "04611b8b-f977-52a3-aa4b-be06917c1e38",
-    "title": "Road and Guardrails at Night",
+    "title": "Road and Guardrails",
     "stream_url": "http://221.113.46.146:1027/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013252.jpg",
@@ -1571,11 +1512,11 @@
       "roads"
     ],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "a9148563-8da3-505d-9cce-d3940fa539cb",
-    "title": "Low-Light Camera View — Osaka (1013250)",
+    "title": "Camera View — Osaka",
     "stream_url": "http://113.197.172.121:8002/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013250.jpg",
@@ -1598,11 +1539,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "09cc8324-2d64-50bb-805f-b5267e75d6fd",
-    "title": "Low-Light Camera View — Yokohama (1013249)",
+    "title": "Camera View — Yokohama",
     "stream_url": "http://180.22.118.77:8080/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013249.jpg",
@@ -1625,7 +1566,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "d74e8280-7a3e-5990-a907-ad07b9fd87ef",
@@ -1658,7 +1599,7 @@
   },
   {
     "id": "40d84bcc-2cbe-5ee6-b93b-2d79c2c97c96",
-    "title": "Low-Light Camera View — Tokyo (1013246)",
+    "title": "Office Desks and Workstations",
     "stream_url": "http://218.47.104.31:8102/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013246.jpg",
@@ -1681,11 +1622,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "80e2b184-3f29-5e6c-a4f3-630da824e6b3",
-    "title": "Low-Light Camera View — Fukuoka (1013245)",
+    "title": "Camera View — Fukuoka",
     "stream_url": "http://114.170.107.160:8081/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013245.jpg",
@@ -1708,11 +1649,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "99deddbd-7e90-59ba-ad81-590976ad42b6",
-    "title": "Low-Light Camera View — Oita (1013243)",
+    "title": "Camera View — Oita",
     "stream_url": "http://202.124.60.154:8080/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013243.jpg",
@@ -1735,11 +1676,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "db07598f-912c-5c20-ab2a-9c4dd0db0a11",
-    "title": "Low-Light Camera View — Kyoto (1013242)",
+    "title": "Camera View — Kyoto",
     "stream_url": "http://114.160.219.149:8006/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013242.jpg",
@@ -1762,11 +1703,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "505506a1-356e-5117-a100-1e0bab4bbebc",
-    "title": "Low-Light Camera View — Tokyo (1013241)",
+    "title": "Camera View — Tokyo",
     "stream_url": "http://118.9.180.62:8081/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013241.jpg",
@@ -1789,11 +1730,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "03432f9c-5143-503c-935e-b5e8899e8d01",
-    "title": "Indoor Passage in Low Light",
+    "title": "Indoor Passage",
     "stream_url": "http://153.129.144.151:8444/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013240.jpg",
@@ -1816,11 +1757,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "1c754f06-2dbe-5ff4-a3f6-2a2fd13118e6",
-    "title": "Low-Light Camera View — Tokyo (1013239)",
+    "title": "Camera View — Tokyo",
     "stream_url": "http://122.103.109.254:8081/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013239.jpg",
@@ -1843,11 +1784,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "b8166e78-e6d5-5d23-8149-a0d771c5c19a",
-    "title": "Low-Light Camera View — Asahi (1013238)",
+    "title": "Camera View — Asahi",
     "stream_url": "http://221.113.46.146:1025/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013238.jpg",
@@ -1870,11 +1811,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "400b1571-e32b-53e0-9fe0-705ab84234b7",
-    "title": "Distant Outdoor Lights at Night",
+    "title": "Solar Panel Rows",
     "stream_url": "http://183.180.128.141:8002/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013237.jpg",
@@ -1897,11 +1838,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "714298c5-3f6c-5ba5-bbc3-a36f1f974551",
-    "title": "Low-Light Camera View — Mito (1013236)",
+    "title": "Camera View — Mito",
     "stream_url": "http://119.245.126.16:8080/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013236.jpg",
@@ -1924,7 +1865,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "1228e178-e0fb-501f-a3d1-0a53ef2f2229",
@@ -1955,7 +1896,7 @@
   },
   {
     "id": "ab2b2316-21cf-5026-ad8b-a2a50c2bbff1",
-    "title": "Distant Outdoor Lights at Night",
+    "title": "Solar Panel Rows",
     "stream_url": "http://153.171.8.220:8104/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013233.jpg",
@@ -1978,11 +1919,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "b26c0c30-f97d-5cd9-813f-09b3add0234b",
-    "title": "Low-Light Camera View — Kusatsu (1013232)",
+    "title": "Office Work Area and Meeting Table",
     "stream_url": "http://219.117.202.77:1027/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013232.jpg",
@@ -2005,7 +1946,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "eff61e8b-93d9-54b8-a9c1-4cb900ceb1e5",
@@ -2063,7 +2004,7 @@
   },
   {
     "id": "5df6592c-eb4e-56ea-b057-17e7ddb76181",
-    "title": "Low-Light Camera View — Tokyo (1013228)",
+    "title": "Camera View — Tokyo",
     "stream_url": "http://118.9.180.62:8080/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013228.jpg",
@@ -2086,38 +2027,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
-  },
-  {
-    "id": "81ce91e1-5c4d-5b5f-817b-7832b420f739",
-    "title": "Narrow Outdoor Passage at Night",
-    "stream_url": "http://121.83.216.185:51005/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
-    "stream_type": "mjpeg",
-    "preview_url": "http://www.insecam.org/static/thumb/1013227.jpg",
-    "location": {
-      "country": "Japan",
-      "country_code": "JP",
-      "region": "Osaka",
-      "city": "Osaka",
-      "coordinate": {
-        "latitude": 34.69389,
-        "longitude": 135.50222
-      },
-      "timezone": "+09:00"
-    },
-    "resolution": {
-      "width": 640,
-      "height": 480
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [],
-    "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "ff5b0bf7-8e92-5ba7-9444-12ff344e133b",
-    "title": "Low-Light Camera View — Yokohama (1013226)",
+    "title": "Camera View — Yokohama",
     "stream_url": "http://180.22.125.92:8080/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013226.jpg",
@@ -2140,11 +2054,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "dd31ae62-e0fe-5198-8252-b8cad060fb61",
-    "title": "Low-Light Camera View — Nagoya (1013224)",
+    "title": "Camera View — Nagoya",
     "stream_url": "http://180.51.232.32:8081/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013224.jpg",
@@ -2167,11 +2081,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "265c08d9-0cac-5083-944b-6140f9d70607",
-    "title": "Low-Light Camera View — Oita (1013223)",
+    "title": "Camera View — Oita",
     "stream_url": "http://202.124.60.154:8081/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013223.jpg",
@@ -2194,11 +2108,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "9bc4c26c-bec2-5a96-a553-a89033f0dd19",
-    "title": "Low-Light Camera View — Saitama (1013222)",
+    "title": "Camera View — Saitama",
     "stream_url": "http://180.56.68.238:8080/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013222.jpg",
@@ -2221,11 +2135,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "f5d6ad90-acd1-50f5-b4c7-c9f81627cf39",
-    "title": "Rows of Solar Panels at Night",
+    "title": "Rows of Solar Panels",
     "stream_url": "http://101.50.33.217:8110/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013221.jpg",
@@ -2248,11 +2162,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "4f835e23-8a65-5105-a72e-521f6d73e66a",
-    "title": "Low-Light Camera View — Tokyo (1013217)",
+    "title": "Camera View — Tokyo",
     "stream_url": "http://153.207.236.46:8080/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013217.jpg",
@@ -2275,36 +2189,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
-  },
-  {
-    "id": "671ee250-be6e-5eec-aa3b-bdd4fd35cfc1",
-    "title": "Pedestrian Crossing at Night",
-    "stream_url": "http://117.102.195.118:8132/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
-    "stream_type": "mjpeg",
-    "preview_url": "http://www.insecam.org/static/thumb/1013216.jpg",
-    "location": {
-      "country": "Japan",
-      "country_code": "JP",
-      "region": "Tokyo",
-      "city": "Tokyo",
-      "coordinate": {
-        "latitude": 35.689506,
-        "longitude": 139.6917
-      },
-      "timezone": "+09:00"
-    },
-    "resolution": {
-      "width": 480,
-      "height": 270
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "streets"
-    ],
-    "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "7bec9cc2-048d-526e-897a-dfbc17f0c1fe",
@@ -2420,7 +2305,7 @@
   },
   {
     "id": "8a9a3ada-b752-5256-b270-a6e82d6df6bc",
-    "title": "Rows of Solar Panels at Night",
+    "title": "Rows of Solar Panels",
     "stream_url": "http://61.115.114.22:8003/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013207.jpg",
@@ -2443,37 +2328,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
-  },
-  {
-    "id": "e009c55d-8d79-5021-926d-85054b637f1d",
-    "title": "Sky and Rooftops Weather Camera",
-    "stream_url": "http://87.203.105.60:8888/out.jpg?q=30&id=0.1317044913727916&r=0",
-    "stream_type": "snapshot",
-    "preview_url": "http://www.insecam.org/static/thumb/1013205.jpg",
-    "location": {
-      "country": "Greece",
-      "country_code": "GR",
-      "region": "Dytiki Ellada",
-      "city": "Nafpaktos",
-      "coordinate": {
-        "latitude": 38.39167,
-        "longitude": 21.8275
-      },
-      "timezone": "+02:00"
-    },
-    "resolution": {
-      "width": 1600,
-      "height": 896
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "weather",
-      "city views"
-    ],
-    "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "31226e8e-38ca-59a6-9b14-0b2aaef19e99",
@@ -2786,36 +2641,6 @@
     "modified_at": "2026-11-26T13:38:56Z"
   },
   {
-    "id": "ea90749a-cb1c-5925-90f6-5f442618e282",
-    "title": "Highway Toll Plaza",
-    "stream_url": "http://200.122.223.34:8031/snap.jpg?JpegSize=M&JpegCam=1&r=0",
-    "stream_type": "snapshot",
-    "preview_url": "http://www.insecam.org/static/thumb/1013181.jpg",
-    "location": {
-      "country": "Colombia",
-      "country_code": "CO",
-      "region": "Antioquia",
-      "city": "Medellin",
-      "coordinate": {
-        "latitude": 6.25184,
-        "longitude": -75.56359
-      },
-      "timezone": "-05:00"
-    },
-    "resolution": {
-      "width": 512,
-      "height": 288
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "highways",
-      "traffic"
-    ],
-    "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
-  },
-  {
     "id": "57ba5a51-6212-52a9-a795-2231fd059179",
     "title": "Grassy Strip along a Perimeter Fence",
     "stream_url": "http://109.99.209.194:8123/snap.jpg?JpegSize=M&JpegCam=1&r=0",
@@ -2866,36 +2691,6 @@
     "is_enabled": false,
     "is_popular": false,
     "categories": [],
-    "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
-  },
-  {
-    "id": "852e1b18-b807-52cb-8977-340cd6ab7371",
-    "title": "Roadside Lawn and Passing Traffic",
-    "stream_url": "http://160.218.212.177:8081/snap.jpg?JpegSize=M&JpegCam=1&r=0",
-    "stream_type": "snapshot",
-    "preview_url": "http://www.insecam.org/static/thumb/1013177.jpg",
-    "location": {
-      "country": "Czech Republic",
-      "country_code": "CZ",
-      "region": "Stredocesky Kraj",
-      "city": "Kladno",
-      "coordinate": {
-        "latitude": 50.14734,
-        "longitude": 14.10285
-      },
-      "timezone": "+01:00"
-    },
-    "resolution": {
-      "width": 512,
-      "height": 288
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "roads",
-      "traffic"
-    ],
     "created_at": "2026-11-26T13:38:56Z",
     "modified_at": "2026-11-26T13:38:56Z"
   },
@@ -3094,7 +2889,7 @@
   },
   {
     "id": "1861d6c5-b265-54cb-891f-8f6388240dc9",
-    "title": "Sunlit Grass beside a Fence",
+    "title": "Grass beside a Fence",
     "stream_url": "http://212.110.9.45:8105/snap.jpg?JpegSize=M&JpegCam=1&r=0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1013165.jpg",
@@ -3117,7 +2912,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "61decafa-af3b-5cfd-b407-9e362ffc403e",
@@ -3343,7 +3138,7 @@
   },
   {
     "id": "8e6abd89-0363-5d43-99a0-b418103d7612",
-    "title": "Sunlit Grass beside a Fence",
+    "title": "Grass beside a Fence",
     "stream_url": "http://212.110.9.45:8109/snap.jpg?JpegSize=M&JpegCam=1&r=0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1013151.jpg",
@@ -3366,7 +3161,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "c37bcc0e-1364-579e-a084-d9a92d1b482d",
@@ -3424,7 +3219,7 @@
   },
   {
     "id": "ddb132a5-3e33-586b-ad5e-b120d54eda41",
-    "title": "Sunlit Grass beside a Fence",
+    "title": "Grass beside a Fence",
     "stream_url": "http://212.110.9.45:8115/snap.jpg?JpegSize=M&JpegCam=1&r=0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1013145.jpg",
@@ -3447,7 +3242,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "848ea601-231c-5e49-b331-a822175f9918",
@@ -3556,35 +3351,6 @@
     "is_enabled": false,
     "is_popular": false,
     "categories": [],
-    "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
-  },
-  {
-    "id": "cc09a937-6413-52f9-adc9-b426dededab2",
-    "title": "Bird Nest above a Village Street",
-    "stream_url": "http://84.185.229.105/snap.jpg?JpegSize=M&JpegCam=1&r=0",
-    "stream_type": "snapshot",
-    "preview_url": "http://www.insecam.org/static/thumb/1013134.jpg",
-    "location": {
-      "country": "Germany",
-      "country_code": "DE",
-      "region": "Baden-Wurttemberg",
-      "city": "Freiburg",
-      "coordinate": {
-        "latitude": 47.9959,
-        "longitude": 7.85222
-      },
-      "timezone": "+01:00"
-    },
-    "resolution": {
-      "width": 512,
-      "height": 288
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "birds"
-    ],
     "created_at": "2026-11-26T13:38:56Z",
     "modified_at": "2026-11-26T13:38:56Z"
   },
@@ -3839,7 +3605,7 @@
   },
   {
     "id": "6202e646-258d-5f7d-bba1-4f0779f8672f",
-    "title": "Sunlit Grass beside a Fence",
+    "title": "Grass beside a Fence",
     "stream_url": "http://212.110.9.45:8126/snap.jpg?JpegSize=M&JpegCam=1&r=0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1013118.jpg",
@@ -3862,7 +3628,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "7fb11401-e0cd-5950-961c-2847a7deb232",
@@ -3922,7 +3688,7 @@
   },
   {
     "id": "0c96117e-d8cd-54f2-86a5-25914539bf97",
-    "title": "Sunlit Grass beside a Fence",
+    "title": "Grass beside a Fence",
     "stream_url": "http://212.110.9.45:8110/snap.jpg?JpegSize=M&JpegCam=1&r=0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1013114.jpg",
@@ -3945,11 +3711,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "de599c66-0d6a-50f0-9b6b-560580e5d53c",
-    "title": "Camera View Unavailable — Chiang Mai (1013113)",
+    "title": "Camera View Unavailable — Chiang Mai",
     "stream_url": "http://182.52.68.39:6001/snap.jpg?JpegSize=M&JpegCam=1&r=0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1013113.jpg",
@@ -3972,7 +3738,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "b3161de3-c233-5207-837d-e3983bb9f666",
@@ -4086,7 +3852,7 @@
   },
   {
     "id": "17890d4b-b988-5954-ac26-62b03beed7c7",
-    "title": "Sunlit Grass beside a Fence",
+    "title": "Grass beside a Fence",
     "stream_url": "http://212.110.9.45:8131/snap.jpg?JpegSize=M&JpegCam=1&r=0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1013105.jpg",
@@ -4109,7 +3875,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "592701b0-d67d-5f4f-938f-2c01811a2476",
@@ -4216,35 +3982,6 @@
     "is_enabled": false,
     "is_popular": false,
     "categories": [],
-    "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
-  },
-  {
-    "id": "d61f2066-ee8d-5c02-81c5-c945f0283fa9",
-    "title": "Sidewalk and Street Corner",
-    "stream_url": "http://73.190.18.184:10001/snap.jpg?JpegSize=M&JpegCam=1&r=0",
-    "stream_type": "snapshot",
-    "preview_url": "http://www.insecam.org/static/thumb/1013097.jpg",
-    "location": {
-      "country": "United States",
-      "country_code": "US",
-      "region": "Michigan",
-      "city": "Holt",
-      "coordinate": {
-        "latitude": 42.64059,
-        "longitude": -84.51525
-      },
-      "timezone": "-05:00"
-    },
-    "resolution": {
-      "width": 512,
-      "height": 288
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "streets"
-    ],
     "created_at": "2026-11-26T13:38:56Z",
     "modified_at": "2026-11-26T13:38:56Z"
   },
@@ -4358,7 +4095,7 @@
   },
   {
     "id": "4c4b16d3-5311-56b4-97de-6bef54663b79",
-    "title": "Camera View Unavailable — Rotterdam (1013089)",
+    "title": "Camera View Unavailable — Rotterdam",
     "stream_url": "http://77.249.253.12/cam_1.cgi",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1013089.jpg",
@@ -4381,7 +4118,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "71dbc6a9-a309-5c2d-9956-739d5f291a2f",
@@ -4439,7 +4176,7 @@
   },
   {
     "id": "7e1a7e3e-c3eb-5bf6-a6b5-2d9907fce819",
-    "title": "Low-Light Camera View — Seoul (1013086)",
+    "title": "Camera View — Seoul",
     "stream_url": "http://14.56.176.57:3500/shot.jpg?rnd=654321",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1013086.jpg",
@@ -4462,11 +4199,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "bf1f66a7-04ec-5a83-a19f-b2a4f465b858",
-    "title": "Low-Light Camera View — Seoul (1013085)",
+    "title": "Camera View — Seoul",
     "stream_url": "http://14.56.176.57:2002/shot.jpg?rnd=654321",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1013085.jpg",
@@ -4489,7 +4226,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "5f7e7bbe-72de-5576-8c22-22931451ab13",
@@ -4579,7 +4316,7 @@
   },
   {
     "id": "0b4e3b7e-4cff-5904-8300-aaaef4198211",
-    "title": "Dark Room with a Lit Window",
+    "title": "Room and Window",
     "stream_url": "http://82.66.246.29:8084/shot.jpg?rnd=654321",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1013078.jpg",
@@ -4602,7 +4339,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "69fc68af-2ae6-5364-ac27-cf3cab387273",
@@ -4688,33 +4425,6 @@
     "modified_at": "2026-11-26T13:38:56Z"
   },
   {
-    "id": "507dedc7-79a9-57f1-b188-baa2a4bf5149",
-    "title": "Hazy Indoor Camera View",
-    "stream_url": "http://1.229.118.130:8000/webcapture.jpg?command=snap&channel=1?0",
-    "stream_type": "snapshot",
-    "preview_url": "http://www.insecam.org/static/thumb/1013070.jpg",
-    "location": {
-      "country": "Korea, Republic Of",
-      "country_code": "KR",
-      "region": "Seoul-Teukbyeolsi",
-      "city": "Seoul",
-      "coordinate": {
-        "latitude": 37.56826,
-        "longitude": 126.97783
-      },
-      "timezone": "+09:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [],
-    "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
-  },
-  {
     "id": "7552cc3a-7e30-579e-b493-6933e6ba06fe",
     "title": "Glass Display Counter",
     "stream_url": "http://83.48.41.110:34500/webcapture.jpg?command=snap&channel=1?0",
@@ -4772,7 +4482,7 @@
   },
   {
     "id": "a8f0dc3e-9d4b-542a-b366-a68a443ef8c1",
-    "title": "Low-Light Camera View — Taipei (1013067)",
+    "title": "Office Cubicles and Computer Workstations",
     "stream_url": "http://61.220.64.39:8585/webcapture.jpg?command=snap&channel=1?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1013067.jpg",
@@ -4795,7 +4505,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "7e439aab-db11-50f3-9913-801d5d8fe7d5",
@@ -4855,7 +4565,7 @@
   },
   {
     "id": "dee830f6-3b28-59f7-8a39-aade0fc804cd",
-    "title": "Paved Outdoor Yard at Night",
+    "title": "Outdoor Parking Lot",
     "stream_url": "http://124.219.176.90:8014/webcapture.jpg?command=snap&channel=1?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1013062.jpg",
@@ -4878,7 +4588,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "37fdbe96-7e21-5995-9417-7962d2abe5e5",
@@ -4909,7 +4619,7 @@
   },
   {
     "id": "b0dc1a11-a78e-54c8-a22b-b4e5bca07978",
-    "title": "Driveway and Illuminated Sign at Night",
+    "title": "Driveway and Sign",
     "stream_url": "http://115.179.18.13:8080/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013058.jpg",
@@ -4932,11 +4642,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "703c5495-74c4-5747-acd8-d6cad47924bf",
-    "title": "Low-Light Camera View — Chandler (1013057)",
+    "title": "Camera View — Chandler",
     "stream_url": "http://72.208.196.103:9888/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013057.jpg",
@@ -4959,7 +4669,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "5e499b4a-b43c-504e-a56a-39085ee378e5",
@@ -5073,7 +4783,7 @@
   },
   {
     "id": "26f05db7-0f05-5964-ba89-fe677c397fbb",
-    "title": "Low-Light Camera View — Tokyo (1013052)",
+    "title": "Camera View — Tokyo",
     "stream_url": "http://222.226.229.251:8080/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013052.jpg",
@@ -5096,7 +4806,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "cee1fbc4-7e40-53dd-ae0b-efbb96ba4959",
@@ -5208,7 +4918,7 @@
   },
   {
     "id": "27d1efe7-5acd-5989-a222-f724bf34af2d",
-    "title": "Sunlit Rooftops through a Hazy Lens",
+    "title": "Rooftops through a Hazy Lens",
     "stream_url": "http://91.183.109.82:8181/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013044.jpg",
@@ -5233,7 +4943,7 @@
       "city views"
     ],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "21c0f159-c83f-584b-b195-70f1787e4e67",
@@ -5347,7 +5057,7 @@
   },
   {
     "id": "cd40be1d-36d5-5246-89a9-59288333ec94",
-    "title": "Low-Light Camera View — Zurich (1013037)",
+    "title": "Camera View — Zurich",
     "stream_url": "http://188.62.48.80:8080/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013037.jpg",
@@ -5370,11 +5080,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "eef7b302-fd9d-50d6-9ffe-7c3c6db64447",
-    "title": "Parking Lot at Night",
+    "title": "Parking Lot",
     "stream_url": "http://121.101.68.62:8081/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013034.jpg",
@@ -5399,7 +5109,7 @@
       "parking"
     ],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "29ef4701-0d2e-5abe-902f-e073be001731",
@@ -5430,7 +5140,7 @@
   },
   {
     "id": "eddd9a29-ae7f-5155-bdd1-dc7dad5b005f",
-    "title": "Low-Light Camera View — Seoul (1013032)",
+    "title": "Camera View — Seoul",
     "stream_url": "http://223.171.33.127:8004/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013032.jpg",
@@ -5453,7 +5163,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "3123f80f-9d67-561c-a7b8-dcc10a943f8a",
@@ -5484,7 +5194,7 @@
   },
   {
     "id": "9ee4844d-0328-5b63-8879-ecd3212032ce",
-    "title": "Low-Light Camera View — Greenwood Village (1013030)",
+    "title": "Camera View — Greenwood Village",
     "stream_url": "http://97.118.38.116:8086/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013030.jpg",
@@ -5507,7 +5217,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "73035d7a-08a7-5409-ae3d-9d48fd386125",
@@ -5649,7 +5359,7 @@
   },
   {
     "id": "970a5ffb-5b9a-55da-b240-e8c8ae8cfc52",
-    "title": "Low-Light Camera View — Irvine (1013017)",
+    "title": "Camera View — Irvine",
     "stream_url": "http://99.59.122.133:55555/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013017.jpg",
@@ -5672,11 +5382,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "fde8ed53-313f-58ac-8706-fb5aa38b59c6",
-    "title": "Sunlit Rooftops through a Hazy Lens",
+    "title": "Rooftops through a Hazy Lens",
     "stream_url": "http://178.116.252.90:8080/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013016.jpg",
@@ -5701,11 +5411,11 @@
       "city views"
     ],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "8bd0edec-afd9-576a-a0ba-6b16e209ed19",
-    "title": "Low-Light Camera View — Manteo (1013015)",
+    "title": "Camera View — Manteo",
     "stream_url": "http://47.132.247.128:8880/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013015.jpg",
@@ -5728,7 +5438,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "e684b4c6-51db-5484-86fd-306d9ff38169",
@@ -5759,7 +5469,7 @@
   },
   {
     "id": "9193d71a-3ee1-5bb6-b153-4c1ef73e9fcd",
-    "title": "Low-Light Camera View — Taipei (1013013)",
+    "title": "Camera View — Taipei",
     "stream_url": "http://123.195.223.156:8081/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013013.jpg",
@@ -5782,7 +5492,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "40dd1668-70f5-5639-8c24-c3b878d46539",
@@ -5813,7 +5523,7 @@
   },
   {
     "id": "08c7cc78-07ee-5443-8bde-c4a7cd6135cb",
-    "title": "Illuminated Entrance Gate at Night",
+    "title": "Truck and Parking Area",
     "stream_url": "http://63.46.166.135:8091/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013011.jpg",
@@ -5836,7 +5546,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "46902a57-a499-5185-95bb-545cebc1ecfa",
@@ -6002,7 +5712,7 @@
   },
   {
     "id": "20418bc3-8104-5049-b28e-f168d70ce4fa",
-    "title": "Storage Area in Low Light",
+    "title": "Storage Area",
     "stream_url": "http://151.81.17.44:8060/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1013000.jpg",
@@ -6025,7 +5735,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "85edc078-849f-5e8d-9843-ad29393b72b9",
@@ -6218,7 +5928,7 @@
   },
   {
     "id": "575aa683-e8c7-533d-951c-11793cfc06e5",
-    "title": "Storage Room in Low Light",
+    "title": "Low Tables and Seating in an Indoor Room",
     "stream_url": "http://114.148.168.0:3050/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012987.jpg",
@@ -6241,11 +5951,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "c67b7a8e-b1b5-53a5-847d-9a55c74546d7",
-    "title": "Paved Yard at Night",
+    "title": "Paved Yard",
     "stream_url": "http://202.189.209.218:8080/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012985.jpg",
@@ -6268,11 +5978,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "fb2f01fc-0616-5604-8754-393a587b9655",
-    "title": "Dark Room with a Television",
+    "title": "Room with a Television",
     "stream_url": "http://78.71.28.188:8080/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012983.jpg",
@@ -6295,7 +6005,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "c75f27c3-b903-542d-bc0c-9100f1ceba65",
@@ -6515,7 +6225,7 @@
   },
   {
     "id": "bdbdb2e8-8897-5a83-8e9f-199f81e4d4ad",
-    "title": "Paved Service Yard at Night",
+    "title": "Parked Car in a Paved Yard",
     "stream_url": "http://114.69.31.170:18080/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012971.jpg",
@@ -6538,11 +6248,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "211701e4-2553-54f1-9053-e617ff8a0479",
-    "title": "Covered Storage Area at Night",
+    "title": "Covered Storage Area",
     "stream_url": "http://180.50.68.146:8080/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012970.jpg",
@@ -6565,11 +6275,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "37bb54d5-4b00-5d5b-ae9e-de28fc1374ad",
-    "title": "Paved Service Yard at Night",
+    "title": "Paved Service Yard",
     "stream_url": "http://122.29.187.53:8080/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012969.jpg",
@@ -6592,7 +6302,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "d2312db9-c991-56fd-b098-8201c4e0d281",
@@ -6731,7 +6441,7 @@
   },
   {
     "id": "205127b6-4d54-5771-bd32-7c4e85b6c4fa",
-    "title": "Indoor Shelving in Low Light",
+    "title": "Indoor Shelving",
     "stream_url": "http://188.192.172.98:8080/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012963.jpg",
@@ -6754,7 +6464,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "0bc6f817-b2cf-5925-aacf-2b485b348776",
@@ -6785,7 +6495,7 @@
   },
   {
     "id": "001f5c16-19dd-59f3-94fa-d26c90a2ed0f",
-    "title": "Sunlit Porch and Garden",
+    "title": "Plant Shop Aisle and Potted Flowers",
     "stream_url": "http://193.251.30.83:8080/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012961.jpg",
@@ -6808,7 +6518,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "fcf02e60-ea44-534b-99e3-0e608c97dee9",
@@ -6893,7 +6603,7 @@
   },
   {
     "id": "15d03dae-74d9-55c2-95d0-970ce0bb9cae",
-    "title": "Low-Light Camera View — Ushiku (1012955)",
+    "title": "Utility Equipment in Split Camera Views",
     "stream_url": "http://202.220.244.227:8181/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012955.jpg",
@@ -6916,11 +6626,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "9ef91e99-314f-5672-95cc-689cc152bbec",
-    "title": "Paved Service Yard at Night",
+    "title": "Paved Service Yard",
     "stream_url": "http://122.21.169.50:8080/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012954.jpg",
@@ -6943,7 +6653,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "b2599c52-4a1b-531e-8c41-00acd134b322",
@@ -7217,7 +6927,7 @@
   },
   {
     "id": "fab2e717-6380-5bb9-850c-4cd36bc909cc",
-    "title": "Low-Light Camera View — Saskatoon (1012943)",
+    "title": "Camera View — Saskatoon",
     "stream_url": "http://71.17.144.69:8080/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012943.jpg",
@@ -7240,7 +6950,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "ab57b5cf-5e8b-5310-800e-de88b0383bff",
@@ -7298,7 +7008,7 @@
   },
   {
     "id": "4071c8f4-9f3b-5afb-964d-65ad58431901",
-    "title": "Parking Lot and Traffic Cones at Night",
+    "title": "Parking Lot and Traffic Cones",
     "stream_url": "http://121.101.68.62:8080/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012939.jpg",
@@ -7323,37 +7033,7 @@
       "parking"
     ],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
-  },
-  {
-    "id": "e7d0c90e-b570-52dd-bf10-b812a3e854c2",
-    "title": "Snow-Covered Yard and Wooden Cabin",
-    "stream_url": "http://81.221.219.158:8080/?action=stream",
-    "stream_type": "mjpeg",
-    "preview_url": "http://www.insecam.org/static/thumb/1012937.jpg",
-    "location": {
-      "country": "Switzerland",
-      "country_code": "CH",
-      "region": "Bern",
-      "city": "Bern",
-      "coordinate": {
-        "latitude": 46.94809,
-        "longitude": 7.44744
-      },
-      "timezone": "+01:00"
-    },
-    "resolution": {
-      "width": 960,
-      "height": 720
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "weather",
-      "architecture"
-    ],
-    "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "9f232ef8-9446-5e18-a991-b4c6dce3d4c9",
@@ -7494,7 +7174,7 @@
   },
   {
     "id": "f094fa7c-297d-5db0-a040-b31d0bc6c3b4",
-    "title": "Paved Service Yard at Night",
+    "title": "Paved Service Yard",
     "stream_url": "http://202.189.209.218:18080/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012931.jpg",
@@ -7517,7 +7197,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "409279cd-615d-559a-a26a-392e1c8066fd",
@@ -7548,7 +7228,7 @@
   },
   {
     "id": "f92a86cf-47b8-5686-98bc-1b60d1fcd8e0",
-    "title": "Low-Light Camera View — Kirkland (1012929)",
+    "title": "3D Printer Build Plate",
     "stream_url": "http://50.126.87.66:8082/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012929.jpg",
@@ -7571,7 +7251,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "1089fd92-7524-5f7b-8730-b2d857c936a6",
@@ -7712,7 +7392,7 @@
   },
   {
     "id": "55d199b5-3832-5726-9ff7-d4706159bb8b",
-    "title": "Low-Light Camera View — Vancouver (1012920)",
+    "title": "Camera View — Vancouver",
     "stream_url": "http://154.5.232.69:8080/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012920.jpg",
@@ -7735,7 +7415,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "560920a0-6ebf-5612-a948-c002b40990a6",
@@ -7792,65 +7472,8 @@
     "modified_at": "2026-11-26T13:38:56Z"
   },
   {
-    "id": "b81a4107-11d2-5d51-b157-9dedd75d2aa3",
-    "title": "Outdoor Lights at Night",
-    "stream_url": "http://222.229.45.109:8080/?action=stream",
-    "stream_type": "mjpeg",
-    "preview_url": "http://www.insecam.org/static/thumb/1012916.jpg",
-    "location": {
-      "country": "Japan",
-      "country_code": "JP",
-      "region": "Hyogo",
-      "city": "Kobe",
-      "coordinate": {
-        "latitude": 34.69,
-        "longitude": 135.19556
-      },
-      "timezone": "+09:00"
-    },
-    "resolution": {
-      "width": 1024,
-      "height": 768
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [],
-    "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
-  },
-  {
-    "id": "598e63c5-c38e-5338-acdf-c90e852e848b",
-    "title": "Urban Road and Passing Traffic",
-    "stream_url": "http://200.170.253.170:8086/?action=stream",
-    "stream_type": "mjpeg",
-    "preview_url": "http://www.insecam.org/static/thumb/1012915.jpg",
-    "location": {
-      "country": "Brazil",
-      "country_code": "BR",
-      "region": "Sao Paulo",
-      "city": "Sao Paulo",
-      "coordinate": {
-        "latitude": -23.5475,
-        "longitude": -46.63611
-      },
-      "timezone": "-02:00"
-    },
-    "resolution": {
-      "width": 640,
-      "height": 480
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "streets",
-      "traffic"
-    ],
-    "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
-  },
-  {
     "id": "75887fbf-326c-5ed4-9f31-f8dc921b5bb6",
-    "title": "Low-Light Camera View — Seoul (1012914)",
+    "title": "Utility Rooms and Equipment in Four Views",
     "stream_url": "http://112.167.18.162:8004/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012914.jpg",
@@ -7873,7 +7496,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "2289365c-e2b7-5f33-8bc7-62daf1763479",
@@ -7904,7 +7527,7 @@
   },
   {
     "id": "caebd827-e709-5aae-9840-ef2a1655a325",
-    "title": "Dark Indoor Camera View",
+    "title": "Indoor Camera View",
     "stream_url": "http://150.66.78.128:8080/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012911.jpg",
@@ -7927,41 +7550,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
-  },
-  {
-    "id": "1ee5e6e8-d5c5-53e4-ab69-2c94884ca3dd",
-    "title": "Residential Street and Parked Cars",
-    "stream_url": "http://86.85.200.188:8080/?action=stream",
-    "stream_type": "mjpeg",
-    "preview_url": "http://www.insecam.org/static/thumb/1012910.jpg",
-    "location": {
-      "country": "Netherlands",
-      "country_code": "NL",
-      "region": "Utrecht",
-      "city": "Amersfoort",
-      "coordinate": {
-        "latitude": 52.155,
-        "longitude": 5.3875
-      },
-      "timezone": "+01:00"
-    },
-    "resolution": {
-      "width": 1280,
-      "height": 720
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "streets",
-      "parking"
-    ],
-    "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "829f013b-ee24-57c0-90dd-e74bab5d293d",
-    "title": "Low-Light Camera View — Lethbridge (1012909)",
+    "title": "3D Printer Build Plate and Print Head",
     "stream_url": "http://70.75.219.77:4444/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012909.jpg",
@@ -7984,7 +7577,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "d1193e06-3711-57ff-96cb-ac035602d964",
@@ -8042,7 +7635,7 @@
   },
   {
     "id": "c30e2be6-3bd7-593a-b803-3133e91a5184",
-    "title": "Utility Pole and Rooftops at Night",
+    "title": "Utility Pole and Rooftops",
     "stream_url": "http://106.176.46.20:9091/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012906.jpg",
@@ -8067,11 +7660,11 @@
       "city views"
     ],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "6d42ab79-4903-5b3e-b9e8-8cd48c98ec79",
-    "title": "Close-Up of an Illuminated Panel",
+    "title": "Close-Up of a Panel",
     "stream_url": "http://86.211.57.195:8080/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012902.jpg",
@@ -8094,7 +7687,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "cb47ea27-4ada-5064-bd54-08e1edb35cff",
@@ -8154,7 +7747,7 @@
   },
   {
     "id": "ed0c8552-859b-5bee-868e-b8fa05bf47a0",
-    "title": "Paved Service Yard at Night",
+    "title": "Paved Service Yard",
     "stream_url": "http://183.180.99.121:8080/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012898.jpg",
@@ -8177,7 +7770,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "a22e4bf3-4923-5215-bf12-729c867d7390",
@@ -8235,7 +7828,7 @@
   },
   {
     "id": "dd9d8fb9-97b2-5f17-817e-d05c486a972a",
-    "title": "Railings in Low Light",
+    "title": "Railings",
     "stream_url": "http://115.179.18.13:18080/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012894.jpg",
@@ -8258,11 +7851,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "f0ca34cb-0691-5f86-97f4-3fe9e4813313",
-    "title": "Paved Service Yard at Night",
+    "title": "Paved Service Yard",
     "stream_url": "http://222.229.45.18:8080/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012893.jpg",
@@ -8285,11 +7878,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "8d02afd1-b172-569a-9358-4e2b9344d3ec",
-    "title": "Bright Light through an Indoor Window",
+    "title": "Indoor Window",
     "stream_url": "http://68.50.171.108:8083/?action=stream",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1012891.jpg",
@@ -8312,36 +7905,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
-  },
-  {
-    "id": "ade418f8-164f-553e-b501-374b00195874",
-    "title": "Driveway with Parked Car and Plants",
-    "stream_url": "http://114.32.186.41:8800/?action=stream",
-    "stream_type": "mjpeg",
-    "preview_url": "http://www.insecam.org/static/thumb/1012890.jpg",
-    "location": {
-      "country": "Taiwan, Province Of",
-      "country_code": "TW",
-      "region": "Taipei",
-      "city": "Taipei",
-      "coordinate": {
-        "latitude": 25.04776,
-        "longitude": 121.53185
-      },
-      "timezone": "+08:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "parking"
-    ],
-    "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "921b775b-96fb-5a49-bfcc-6971579ae838",
@@ -8453,7 +8017,7 @@
   },
   {
     "id": "84801cb9-479e-5e39-ba27-ffd470138e09",
-    "title": "Low-Light Camera View — Tokyo (1012885)",
+    "title": "Small Chapel Interior with Altar and Benches",
     "stream_url": "http://114.159.18.119:81/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012885.jpg",
@@ -8476,7 +8040,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "08795f02-f4be-52f5-81b6-21e0024b3686",
@@ -8507,7 +8071,7 @@
   },
   {
     "id": "47a60d61-d063-59d5-81ed-8ce6815fa5a7",
-    "title": "Building Exterior in Four Night Views",
+    "title": "Building Exterior in Four Views",
     "stream_url": "http://202.84.95.175:82/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012883.jpg",
@@ -8530,11 +8094,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "7a4f7b8a-0e0a-53a2-8aec-10c4488cb844",
-    "title": "Covered Outdoor Passage at Night",
+    "title": "Covered Outdoor Passage",
     "stream_url": "http://180.131.124.116:81/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012882.jpg",
@@ -8557,7 +8121,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "ed3a19bd-5a09-561f-b666-b3412098f6a8",
@@ -8588,7 +8152,7 @@
   },
   {
     "id": "1609d709-ddad-5f52-bc67-72e2c2d62952",
-    "title": "Low-Light Camera View — Fukushima (1012880)",
+    "title": "Camera View — Fukushima",
     "stream_url": "http://153.167.76.107:50000/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012880.jpg",
@@ -8611,11 +8175,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "0566dea4-42c1-5d8c-9f33-5d570c7a0d5c",
-    "title": "Blurred Outdoor Lights at Night",
+    "title": "Indistinct Outdoor Camera View",
     "stream_url": "http://124.99.125.79:81/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012879.jpg",
@@ -8638,41 +8202,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
-  },
-  {
-    "id": "f382ce90-010e-5a80-91f4-fb3c526fe0d1",
-    "title": "Wet Street Intersection at Night",
-    "stream_url": "http://115.65.242.195:50102/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
-    "stream_type": "snapshot",
-    "preview_url": "http://www.insecam.org/static/thumb/1012877.jpg",
-    "location": {
-      "country": "Japan",
-      "country_code": "JP",
-      "region": "Fukushima",
-      "city": "Shirakawa",
-      "coordinate": {
-        "latitude": 37.117,
-        "longitude": 140.2
-      },
-      "timezone": "+09:00"
-    },
-    "resolution": {
-      "width": 640,
-      "height": 480
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "streets",
-      "weather"
-    ],
-    "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "f6a9807f-ffec-58f0-9f1a-8774c0125f0c",
-    "title": "Low-Light Camera View — Tokyo (1012875)",
+    "title": "Camera View — Tokyo",
     "stream_url": "http://210.146.242.157:9000/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012875.jpg",
@@ -8695,11 +8229,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "6620ddc0-fdb9-5019-a8df-9293fa88ffd2",
-    "title": "Indoor Corridor in Low Light",
+    "title": "Indoor Corridor",
     "stream_url": "http://114.164.250.100:82/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012874.jpg",
@@ -8722,11 +8256,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "06bf930c-c8dd-5ba5-a7b7-626273d1027e",
-    "title": "Building Exterior and Distant City Lights",
+    "title": "Building Exterior and City View",
     "stream_url": "http://210.156.165.141:8081/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012873.jpg",
@@ -8751,11 +8285,11 @@
       "city views"
     ],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "887040dd-8074-5703-b8dc-c15bac9cea73",
-    "title": "Low-Light Camera View — Tokyo (1012872)",
+    "title": "Camera View — Tokyo",
     "stream_url": "http://115.179.188.169:9019/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012872.jpg",
@@ -8778,7 +8312,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "18375004-db94-5bc9-b5ae-9dc3d66da430",
@@ -8808,35 +8342,8 @@
     "modified_at": "2026-11-26T13:38:56Z"
   },
   {
-    "id": "dec68b74-1be2-5b72-aef1-8e8eda22085b",
-    "title": "Low-Light Camera View — Oita (1012870)",
-    "stream_url": "http://202.124.60.245/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
-    "stream_type": "snapshot",
-    "preview_url": "http://www.insecam.org/static/thumb/1012870.jpg",
-    "location": {
-      "country": "Japan",
-      "country_code": "JP",
-      "region": "Oita",
-      "city": "Oita",
-      "coordinate": {
-        "latitude": 33.23333,
-        "longitude": 131.60667
-      },
-      "timezone": "+09:00"
-    },
-    "resolution": {
-      "width": 640,
-      "height": 480
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [],
-    "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
-  },
-  {
     "id": "75c801f3-0674-5ac3-b2cc-44e82e59ae60",
-    "title": "Dark Room with a Lit Window",
+    "title": "Room and Window",
     "stream_url": "http://58.88.19.98:10081/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012869.jpg",
@@ -8859,11 +8366,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "5189d0fc-11f3-54e7-9226-975af2168055",
-    "title": "Parked Cars beside a Lit Road",
+    "title": "Parked Cars beside a Road",
     "stream_url": "http://211.19.101.221:5006/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012868.jpg",
@@ -8889,11 +8396,11 @@
       "roads"
     ],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "c501f9ef-0fb7-5776-9edc-57bcc0539a80",
-    "title": "Low-Light Camera View — Tokyo (1012867)",
+    "title": "Camera View — Tokyo",
     "stream_url": "http://36.53.210.134:10001/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012867.jpg",
@@ -8916,11 +8423,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "b2fd33dc-7f51-50a9-9a56-839e99729238",
-    "title": "Low-Light Camera View — Miyako (1012866)",
+    "title": "Camera View — Miyako",
     "stream_url": "http://101.128.151.31:82/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012866.jpg",
@@ -8943,7 +8450,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "79ce4b4c-ede9-595b-969b-2fdb259b7c82",
@@ -8976,7 +8483,7 @@
   },
   {
     "id": "f5f7483e-de58-5da1-9e2c-9e069ff42911",
-    "title": "Low-Light Camera View — Hiroshima (1012862)",
+    "title": "Camera View — Hiroshima",
     "stream_url": "http://157.101.144.121:50000/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012862.jpg",
@@ -8999,11 +8506,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "0c61a9c0-ea53-5951-9a89-7c0daeee436e",
-    "title": "Low-Light Camera View — Mino (1012860)",
+    "title": "Camera View — Mino",
     "stream_url": "http://202.73.221.28:50000/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012860.jpg",
@@ -9026,7 +8533,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "5783b22b-7475-58d9-8367-e618ce310762",
@@ -9057,7 +8564,7 @@
   },
   {
     "id": "551957aa-3b0c-562d-94fb-3f0990efc973",
-    "title": "Low-Light Camera View — Tokyo (1012857)",
+    "title": "Camera View — Tokyo",
     "stream_url": "http://121.117.222.25:81/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012857.jpg",
@@ -9080,38 +8587,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
-  },
-  {
-    "id": "9f68b0a6-90b9-5d2d-bbd0-93fde901f542",
-    "title": "Outdoor Ground under Blue Light",
-    "stream_url": "http://111.89.181.59:50000/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
-    "stream_type": "snapshot",
-    "preview_url": "http://www.insecam.org/static/thumb/1012856.jpg",
-    "location": {
-      "country": "Japan",
-      "country_code": "JP",
-      "region": "Fukuoka",
-      "city": "Fukuoka",
-      "coordinate": {
-        "latitude": 33.583,
-        "longitude": 130.4
-      },
-      "timezone": "+09:00"
-    },
-    "resolution": {
-      "width": 640,
-      "height": 480
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [],
-    "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "ab19126b-2330-546c-9e78-d5a30a736601",
-    "title": "Low-Light Camera View — Fukuoka (1012853)",
+    "title": "Tree and Outdoor Grounds",
     "stream_url": "http://153.142.111.92:8023/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012853.jpg",
@@ -9134,11 +8614,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "dae43399-5288-5073-80da-0d550fccf476",
-    "title": "Low-Light Camera View — Yokkaichi (1012850)",
+    "title": "Camera View — Yokkaichi",
     "stream_url": "http://202.232.35.94:8081/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012850.jpg",
@@ -9161,11 +8641,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "1492bd9e-9a4b-596c-a7b1-869e22b9547b",
-    "title": "Indoor Wall in Low Light",
+    "title": "Indoor Wall",
     "stream_url": "http://194.223.201.89:50000/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012849.jpg",
@@ -9188,34 +8668,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
-  },
-  {
-    "id": "d47f759c-d096-55ff-a9bf-9b8f8faf0a8a",
-    "title": "Dim Roof and Building Exterior",
-    "stream_url": "http://153.221.224.165:50000/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
-    "stream_type": "snapshot",
-    "preview_url": "http://www.insecam.org/static/thumb/1012848.jpg",
-    "location": {
-      "country": "Japan",
-      "country_code": "JP",
-      "region": "Saitama",
-      "city": "Saitama",
-      "coordinate": {
-        "latitude": 35.867,
-        "longitude": 139.65
-      },
-      "timezone": "+09:00"
-    },
-    "resolution": {
-      "width": 640,
-      "height": 480
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [],
-    "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "e8c5de19-7663-5602-9722-4a0c079dd405",
@@ -9302,7 +8755,7 @@
   },
   {
     "id": "0acccdcb-7bf1-5962-a582-f5fa0c9381a1",
-    "title": "Narrow Residential Lane at Night",
+    "title": "Narrow Residential Lane",
     "stream_url": "http://58.98.253.62:8081/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012841.jpg",
@@ -9327,38 +8780,7 @@
       "streets"
     ],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
-  },
-  {
-    "id": "dfb6ad35-c279-5e0b-a88f-2e3443b45512",
-    "title": "Illuminated City and Parking Lots",
-    "stream_url": "http://220.254.72.196:5001/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
-    "stream_type": "snapshot",
-    "preview_url": "http://www.insecam.org/static/thumb/1012840.jpg",
-    "location": {
-      "country": "Japan",
-      "country_code": "JP",
-      "region": "Tokyo",
-      "city": "Tokyo",
-      "coordinate": {
-        "latitude": 35.689506,
-        "longitude": 139.6917
-      },
-      "timezone": "+09:00"
-    },
-    "resolution": {
-      "width": 640,
-      "height": 360
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "city views",
-      "parking",
-      "night views"
-    ],
-    "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "fe56ae52-9ace-5487-a12f-d840ebd8c13e",
@@ -9473,7 +8895,7 @@
   },
   {
     "id": "84fd6500-9843-5653-8e8a-08a6cfe03bdc",
-    "title": "Floodlit Building beside a Road",
+    "title": "Building beside a Road",
     "stream_url": "http://61.87.105.83:50000/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012830.jpg",
@@ -9498,11 +8920,11 @@
       "roads"
     ],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "7a7e2e6b-ff4c-5eb9-93bb-dd1d1a10286b",
-    "title": "Indoor Ceiling Light in Low Light",
+    "title": "Indoor Ceiling Light",
     "stream_url": "http://114.176.65.107:8081/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012829.jpg",
@@ -9525,7 +8947,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "ad849a14-8d1e-5d40-8b16-46c1977e4374",
@@ -9556,7 +8978,7 @@
   },
   {
     "id": "7b4e2e66-6f9b-50c8-a8f5-7e5ec0334727",
-    "title": "Low-Light Camera View — Morioka (1012827)",
+    "title": "Camera View — Morioka",
     "stream_url": "http://153.142.223.83:10081/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012827.jpg",
@@ -9579,11 +9001,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "fafdc81c-e651-5749-86d0-a21c6d09a7f5",
-    "title": "Outdoor Utility Box at Night",
+    "title": "Outdoor Utility Box",
     "stream_url": "http://210.156.168.92:8081/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012826.jpg",
@@ -9606,11 +9028,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "68bd8ed6-a0b4-5fe6-85df-ac5b998b2efb",
-    "title": "Low-Light Camera View — Kumamoto (1012824)",
+    "title": "Camera View — Kumamoto",
     "stream_url": "http://118.243.177.229:5006/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012824.jpg",
@@ -9633,11 +9055,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "e3d1328e-1f64-54b2-acc1-7ff55d19d5ac",
-    "title": "Parking Lot with Vans at Night",
+    "title": "Parking Lot with Vans",
     "stream_url": "http://114.172.70.69:82/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012823.jpg",
@@ -9662,11 +9084,11 @@
       "parking"
     ],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "9d674a43-17f5-5972-b17d-3f04052adb7a",
-    "title": "Low-Light Camera View — Tokyo (1012822)",
+    "title": "Camera View — Tokyo",
     "stream_url": "http://121.117.222.25:82/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012822.jpg",
@@ -9689,11 +9111,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "01908bbf-713c-50d4-80e8-831bcf3820f4",
-    "title": "Outdoor Scene with Bright Lights",
+    "title": "Outdoor Camera View",
     "stream_url": "http://153.217.79.211:8000/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012820.jpg",
@@ -9716,7 +9138,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "5803ceb9-7414-5a86-b805-7ae6534f3bab",
@@ -9747,7 +9169,7 @@
   },
   {
     "id": "f79f658e-5c69-5cdb-8b87-98c1696f842f",
-    "title": "Camera View Unavailable — Magdeburg (1012816)",
+    "title": "Camera View Unavailable — Magdeburg",
     "stream_url": "http://79.193.255.101:84/jpg/image.jpg?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012816.jpg",
@@ -9770,11 +9192,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "91e7910d-9857-5d8c-b0b8-6df19fb7b155",
-    "title": "Camera View Unavailable — Padova (1012813)",
+    "title": "Camera View Unavailable — Padova",
     "stream_url": "http://2.37.227.92:1025/jpg/image.jpg?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012813.jpg",
@@ -9797,7 +9219,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "b9fc9d3d-6d0e-5eb4-ac5f-79ad43826240",
@@ -9938,7 +9360,7 @@
   },
   {
     "id": "e05e4d3d-6142-59ae-adaf-c592a375a9a9",
-    "title": "Camera View Unavailable — Munich (1012804)",
+    "title": "Camera View Unavailable — Munich",
     "stream_url": "http://217.91.240.94:9001/jpg/image.jpg?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012804.jpg",
@@ -9961,7 +9383,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "3bd0c1d4-d7d6-5f92-92c6-cb800babff1b",
@@ -9992,7 +9414,7 @@
   },
   {
     "id": "b88bfc50-4659-5a61-9cfe-577ec168085b",
-    "title": "Outdoor Storage Yard at Night",
+    "title": "Outdoor Storage Yard",
     "stream_url": "http://114.30.80.155:2072/jpg/image.jpg?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012802.jpg",
@@ -10015,11 +9437,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "df0447fe-6e67-5234-adb7-b25f2abbd8db",
-    "title": "Camera View Unavailable — Eschwege (1012801)",
+    "title": "Camera View Unavailable — Eschwege",
     "stream_url": "http://37.81.127.246:8001/jpg/image.jpg?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012801.jpg",
@@ -10042,7 +9464,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "514eb0d5-1c72-586f-a265-c63abd5f24aa",
@@ -10073,7 +9495,7 @@
   },
   {
     "id": "0af4fed8-3931-5294-bd22-de5f7e74311e",
-    "title": "Fenced Yard and Steps at Night",
+    "title": "Fenced Yard and Steps",
     "stream_url": "http://114.30.80.155:2068/jpg/image.jpg?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012798.jpg",
@@ -10096,7 +9518,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "af55e8ff-2f17-5536-9295-b8692fb69ffb",
@@ -10212,7 +9634,7 @@
   },
   {
     "id": "d5449558-4b26-5bd4-9d72-684986f725df",
-    "title": "Camera View Unavailable — Horw (1012791)",
+    "title": "Camera View Unavailable — Horw",
     "stream_url": "http://62.202.33.39:8082/jpg/image.jpg?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012791.jpg",
@@ -10235,7 +9657,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-11-26T13:38:56Z",
-    "modified_at": "2026-11-26T13:38:56Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "af719e1e-8cac-5b24-9390-1b78992ffb2c",
@@ -10638,35 +10060,6 @@
     "modified_at": "2026-11-10T16:20:27.964Z"
   },
   {
-    "id": "b4b31df5-9b91-4681-9605-011cecba1d8c",
-    "title": "Slupsk Traffic Camera",
-    "stream_url": "http://193.242.215.2:8001/mjpg/video.mjpg",
-    "stream_type": "mjpeg",
-    "preview_url": "http://insecam.org/static/thumb/242295.jpg",
-    "location": {
-      "country": "Poland",
-      "country_code": "PL",
-      "region": "Pomerania",
-      "city": "Słupsk",
-      "coordinate": {
-        "latitude": 54.46405,
-        "longitude": 17.02872
-      },
-      "timezone": "+02:00"
-    },
-    "resolution": {
-      "width": 640,
-      "height": 480
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "traffic"
-    ],
-    "created_at": "2026-10-13T05:28:43.937Z",
-    "modified_at": "2026-10-31T00:14:26.163Z"
-  },
-  {
     "id": "2af5eea8-7524-45aa-aa56-d4194fc08555",
     "title": "Exterior Wall and Entrance Railing",
     "stream_url": "http://81.83.239.251:8003/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
@@ -10867,7 +10260,7 @@
   },
   {
     "id": "b565306f-bdf0-4361-bf5c-85504f005e6a",
-    "title": "Dark doorway and window panels",
+    "title": "Doorway and window panels",
     "stream_url": "http://125.56.1.142:5004/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012765.jpg",
@@ -10890,7 +10283,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-10-12T22:58:43.937Z",
-    "modified_at": "2026-11-10T16:20:27.964Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "fd258ee1-582c-444c-8728-edaa9fc151ad",
@@ -10923,7 +10316,7 @@
   },
   {
     "id": "1c8278c0-e619-49b6-a444-f9bba738035a",
-    "title": "Shelton City View (Camera 1)",
+    "title": "Shelton City View",
     "stream_url": "http://107.0.231.40:8081/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://insecam.org/static/thumb/511755.jpg",
@@ -10948,7 +10341,7 @@
       "city views"
     ],
     "created_at": "2026-10-12T21:28:43.937Z",
-    "modified_at": "2026-10-12T21:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "4344d743-be9b-47d5-8490-c69bf546975b",
@@ -11037,7 +10430,7 @@
   },
   {
     "id": "8b664be1-345e-41dd-a198-c036fdbfcb98",
-    "title": "Shelton City View (Camera 2)",
+    "title": "Shelton City View",
     "stream_url": "http://107.0.231.40:8082/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://insecam.org/static/thumb/511750.jpg",
@@ -11063,7 +10456,7 @@
       "bridges"
     ],
     "created_at": "2026-10-12T18:28:43.937Z",
-    "modified_at": "2026-10-27T05:39:35.950Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "05fa1e06-5668-49df-807d-667afa6c421b",
@@ -11488,7 +10881,7 @@
   },
   {
     "id": "56f07987-dc52-435d-ac0b-a402df00e95d",
-    "title": "Riverview City View (Camera 1)",
+    "title": "Riverview City View",
     "stream_url": "http://107.144.23.202:80/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://107.144.23.202/axis-cgi/jpg/image.cgi",
@@ -11513,7 +10906,7 @@
       "city views"
     ],
     "created_at": "2026-10-12T05:28:43.937Z",
-    "modified_at": "2026-10-12T05:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "edbc89a5-4bc7-4716-9b07-f2d98e69273b",
@@ -13849,7 +13242,7 @@
   },
   {
     "id": "b503ce1c-6f7f-4f84-a1de-dfd890c395ca",
-    "title": "Mount Buller Ski Resort (View 2)",
+    "title": "Mount Buller Ski Resort",
     "stream_url": "https://www.youtube-nocookie.com/embed/Y85osMjHoEY?autoplay=0&amp;state=1",
     "stream_type": "youtube",
     "preview_url": "https://i.ytimg.com/vi/Y85osMjHoEY/hqdefault.jpg",
@@ -13876,7 +13269,7 @@
       "ski resorts"
     ],
     "created_at": "2026-10-09T13:28:43.937Z",
-    "modified_at": "2026-10-14T17:12:09.210Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "7897f8d0-62a0-47cb-9cba-343533b1d342",
@@ -14560,7 +13953,7 @@
   },
   {
     "id": "37ea94b4-e994-4425-8f0d-c008dcce66df",
-    "title": "Kahana Sunset Keoni Nui Bay",
+    "title": "Keoni Nui Bay, Kahana",
     "stream_url": "https://www.youtube-nocookie.com/embed/r6EzkwMBXs0?autoplay=0&amp;state=1",
     "stream_type": "youtube",
     "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/keoninuibay-kahana-sunset-cam-webcamtaxi/thumbnail/380x254/usa-hawaii-keoninuibay-kahana-sunset.webp",
@@ -14585,7 +13978,7 @@
       "beaches"
     ],
     "created_at": "2026-10-08T18:28:43.937Z",
-    "modified_at": "2026-10-08T18:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "61bd76c5-4b03-4164-988d-d5ce30a9245e",
@@ -14757,37 +14150,6 @@
     "modified_at": "2026-10-08T13:58:43.937Z"
   },
   {
-    "id": "4699bc61-cdf7-452e-856e-cca10b654199",
-    "title": "Ołowianka Footbridge, Gdańsk",
-    "stream_url": "https://static.webcamera.pl/player/umgdansk_cam_11161c-webcamera.html?preroll-wait=true",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/3216-vid-na-pesehodnyj-most-cerez-motlavu-uastreaming/thumbnail/380x254/3216_1692114603_qldaykirhgzujthvyxsgfdfmnovmxxwsgdkicuam.webp",
-    "location": {
-      "country": "Poland",
-      "country_code": "PL",
-      "region": "Pomerania",
-      "city": "Gdańsk",
-      "coordinate": {
-        "latitude": 54.35205,
-        "longitude": 18.64637
-      },
-      "timezone": "+01:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "rivers",
-      "sights",
-      "bridges"
-    ],
-    "created_at": "2026-10-08T13:28:43.937Z",
-    "modified_at": "2026-10-08T13:28:43.937Z"
-  },
-  {
     "id": "b4137b39-e046-4e76-aea8-007fdd392be0",
     "title": "Wet Roadway",
     "stream_url": "http://113.20.230.162:8080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
@@ -14842,37 +14204,6 @@
     "categories": [],
     "created_at": "2026-10-08T11:58:43.937Z",
     "modified_at": "2026-10-08T11:58:43.937Z"
-  },
-  {
-    "id": "dc31b200-ed12-4769-9512-54b26ba7e0c2",
-    "title": "St. Mary's Basilica",
-    "stream_url": "https://static.webcamera.pl/player/wentzl_cam_be5c6c-webcamera.html?preroll-wait=true",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/3159-vid-iz-otela-wentzl-uastreaming/thumbnail/380x254/3159_1692114034_thkzkvywyykyjipqcaoyvhnvhpgvtojddgaxqhrn.webp",
-    "location": {
-      "country": "Poland",
-      "country_code": "PL",
-      "region": "Lesser Poland",
-      "city": "Kraków",
-      "coordinate": {
-        "latitude": 50.06143,
-        "longitude": 19.93658
-      },
-      "timezone": "+01:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "squares",
-      "sights",
-      "churches"
-    ],
-    "created_at": "2026-10-08T11:28:43.937Z",
-    "modified_at": "2026-10-08T11:28:43.937Z"
   },
   {
     "id": "77a45c26-c188-471f-b639-eb7bcc5e24a2",
@@ -15234,7 +14565,7 @@
   },
   {
     "id": "42173fb7-d528-4dab-a340-e097edc9ca3e",
-    "title": "Dodo Pizza (Camera 1)",
+    "title": "Dodo Pizza",
     "stream_url": "https://open.ivideon.com/embed/v2/?server=100-WBE9nmZ6w3tS9WohKejUZv&camera=0&width=&height=&lang=ru",
     "stream_type": "unknown",
     "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/5338-dodo-picca-deputatskaa-uastreaming/thumbnail/380x254/5338_1692113623_ebrkcqwnamxbyfctazraigbqovrxyeonshovntiv.webp",
@@ -15259,7 +14590,7 @@
       "bars & restaurants"
     ],
     "created_at": "2026-10-08T00:28:43.937Z",
-    "modified_at": "2026-10-13T23:12:09.210Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "879bdaf7-ccec-4166-acb8-1de35a3cb0d7",
@@ -19336,7 +18667,7 @@
   },
   {
     "id": "dd6b0ed7-e210-4ace-b118-34f430c841c5",
-    "title": "Turtle Sunset",
+    "title": "Vanderbilt Beach",
     "stream_url": "https://v.angelcam.com/iframe?v=1ny8jxnjr0&autoplay=1",
     "stream_type": "unknown",
     "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/naples-turtle-sunset-cam-webcamtaxi/thumbnail/380x254/usa-florida-vanderbilt-beach.webp",
@@ -19362,7 +18693,7 @@
       "sea views"
     ],
     "created_at": "2026-10-03T06:28:43.937Z",
-    "modified_at": "2026-10-20T08:08:24.362Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "3878aead-0048-4f17-b222-51022d615422",
@@ -23756,7 +23087,7 @@
   },
   {
     "id": "90fee6d6-f598-4ed2-84bd-3b3cafeb03f8",
-    "title": "Sunset Beach Pier",
+    "title": "Fishing Pier — North Carolina",
     "stream_url": "https://www.youtube-nocookie.com/embed/DscmQzgXAYw?autoplay=0&amp;state=1",
     "stream_type": "youtube",
     "preview_url": "https://i.ytimg.com/vi/DscmQzgXAYw/hqdefault.jpg",
@@ -23782,7 +23113,7 @@
       "sea views"
     ],
     "created_at": "2026-09-28T05:28:43.937Z",
-    "modified_at": "2026-09-28T05:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "59ac391c-9c99-4e5b-b652-5998944e9d86",
@@ -23842,7 +23173,7 @@
   },
   {
     "id": "7fd517d1-8d2e-4553-8192-f97aadbe6b22",
-    "title": "Jackson Town Square (View 3)",
+    "title": "Jackson Town Square",
     "stream_url": "https://www.youtube-nocookie.com/embed/DoUOrTJbIu4?autoplay=0&amp;state=1",
     "stream_type": "youtube",
     "preview_url": "https://i.ytimg.com/vi/DoUOrTJbIu4/hqdefault.jpg",
@@ -23868,7 +23199,7 @@
       "squares"
     ],
     "created_at": "2026-09-28T02:28:43.937Z",
-    "modified_at": "2026-09-28T02:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "aa8a6022-32e3-4583-945e-fee0d562e13e",
@@ -24042,7 +23373,7 @@
   },
   {
     "id": "13017ee2-eef1-44e1-922c-7e052a41308f",
-    "title": "Illuminated Road and Parking Area",
+    "title": "Road and Parking Area",
     "stream_url": "http://95.38.48.237:8001/cgi-bin/snapshot.cgi?COUNTER",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012196.jpg",
@@ -24069,7 +23400,7 @@
       "night views"
     ],
     "created_at": "2026-09-27T19:58:43.937Z",
-    "modified_at": "2026-10-13T15:35:13.000Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "c4a47f5d-3ae7-466f-be83-c4643d5a53f1",
@@ -27379,39 +26710,8 @@
     "modified_at": "2026-10-19T21:25:34.483Z"
   },
   {
-    "id": "0a4b3e78-11cb-4d90-b561-970f69717ca6",
-    "title": "Ravda South Beach",
-    "stream_url": "https://ipcamlive.com/player/player.php?alias=558a6d5327f5d&autoplay=1",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8204-uznyj-plaz-uastreaming/thumbnail/380x254/8204_1692117496_vcsmzhsksskrwmeysctntbhpmtygqdezogtmwbip.webp",
-    "location": {
-      "country": "Bulgaria",
-      "country_code": "BG",
-      "region": "Burgas",
-      "city": "Ravda",
-      "coordinate": {
-        "latitude": 42.26667,
-        "longitude": 27.76667
-      },
-      "timezone": "+02:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "boats",
-      "bays",
-      "beaches"
-    ],
-    "created_at": "2026-09-24T02:28:43.937Z",
-    "modified_at": "2026-10-06T23:42:09.210Z"
-  },
-  {
     "id": "8830e31c-bc14-48eb-9f29-28e6b477e92b",
-    "title": "Street Intersection at Night",
+    "title": "Street Intersection",
     "stream_url": "http://187.103.87.46:3000/cgi-bin/snapshot.cgi?COUNTER",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012079.jpg",
@@ -27437,11 +26737,11 @@
       "night views"
     ],
     "created_at": "2026-09-24T01:58:43.937Z",
-    "modified_at": "2026-09-24T01:58:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "4ffbea43-630a-499e-bf36-1d0ee8e90f86",
-    "title": "Open Grassy Field at Night",
+    "title": "Open Grassy Field",
     "stream_url": "http://85.29.195.30:65004/cgi-bin/snapshot.cgi?COUNTER",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/1012076.jpg",
@@ -27467,36 +26767,7 @@
       "landscape"
     ],
     "created_at": "2026-09-24T00:58:43.937Z",
-    "modified_at": "2026-10-19T21:25:34.483Z"
-  },
-  {
-    "id": "49ed27cf-16a2-44a4-8049-a4a06243d4a6",
-    "title": "International Folklore Festival Primorsko",
-    "stream_url": "https://ipcamlive.com/player/player.php?alias=558a6e1d76543&autoplay=0&mute=0",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8206-scena-uastreaming/thumbnail/380x254/8206_1692118231_wgosdbmgvnffoebfnswiqkamvhwhdqcqdflwdpft.webp",
-    "location": {
-      "country": "Bulgaria",
-      "country_code": "BG",
-      "region": "Burgas",
-      "city": "Primorsko",
-      "coordinate": {
-        "latitude": 42.26667,
-        "longitude": 27.76667
-      },
-      "timezone": "+02:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "nature"
-    ],
-    "created_at": "2026-09-24T00:28:43.937Z",
-    "modified_at": "2026-10-16T18:30:23.741Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "32206808-8ecf-48af-b237-6cbfb81cbbb0",
@@ -29164,7 +28435,7 @@
   },
   {
     "id": "72514098-2aa9-48c3-bf6e-289fc53cc3a0",
-    "title": "Vienna Traffic Camera (Camera 1)",
+    "title": "Vienna Traffic Camera",
     "stream_url": "http://80.120.177.18:80/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://insecam.org/static/thumb/241752.jpg",
@@ -29189,7 +28460,7 @@
       "traffic"
     ],
     "created_at": "2026-09-21T20:28:43.937Z",
-    "modified_at": "2026-10-20T02:46:59.422Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "1579813f-9783-4960-b763-3d12e5baf015",
@@ -29520,8 +28791,8 @@
       "region": "Lesser Poland",
       "city": "Kraków",
       "coordinate": {
-        "latitude": 50.06143,
-        "longitude": 19.93658
+        "latitude": 50.044639,
+        "longitude": 19.948778
       },
       "timezone": "+01:00"
     },
@@ -29536,7 +28807,7 @@
       "squares"
     ],
     "created_at": "2026-09-21T09:28:43.937Z",
-    "modified_at": "2026-10-16T18:30:23.741Z"
+    "modified_at": "2026-11-27T11:57:39.576233Z"
   },
   {
     "id": "35891f40-7f87-46be-9044-41d7f19815c1",
@@ -29601,15 +28872,15 @@
     "title": "Hotel BUKOVINA - SPA & Wellness in the mountains",
     "stream_url": "https://static.webcamera.pl/player/bukovina_cam_c632c4-webcamera.html?preroll-wait=true",
     "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/3144-otel-bukovina-uastreaming/thumbnail/380x254/3144_1692114354_peznllyviafroocvxlbefyimjnrkqoratengxyie.webp",
+    "preview_url": "https://imageserver.webcamera.pl/miniaturki/bukovina_cam_c632c4.jpg",
     "location": {
       "country": "Poland",
       "country_code": "PL",
       "region": "Lesser Poland",
       "city": "Bukowina Tatrzańska",
       "coordinate": {
-        "latitude": 31.97266,
-        "longitude": -85.18077
+        "latitude": 49.326111,
+        "longitude": 20.093889
       },
       "timezone": "+01:00"
     },
@@ -29624,7 +28895,7 @@
       "swimming pools"
     ],
     "created_at": "2026-09-21T07:28:43.937Z",
-    "modified_at": "2026-10-19T21:25:34.483Z"
+    "modified_at": "2026-11-27T11:57:39.576233Z"
   },
   {
     "id": "bb33c6fe-5eb3-407d-98a2-b63eff5e87b2",
@@ -30932,7 +30203,7 @@
   },
   {
     "id": "05675ecf-5279-4f6b-82eb-872230f912dc",
-    "title": "Jackson Town Square (View 2)",
+    "title": "Jackson Town Square",
     "stream_url": "https://www.youtube-nocookie.com/embed/FmoclK_hKz8?autoplay=0&amp;state=1",
     "stream_type": "youtube",
     "preview_url": "https://i.ytimg.com/vi/FmoclK_hKz8/hqdefault.jpg",
@@ -30958,7 +30229,7 @@
       "squares"
     ],
     "created_at": "2026-09-19T16:28:43.937Z",
-    "modified_at": "2026-10-16T18:30:23.741Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "2521484a-ef99-43ab-99c5-5243a7f77052",
@@ -32807,7 +32078,7 @@
   },
   {
     "id": "cb33c1d7-549e-4ca2-9c77-17e9fa608a76",
-    "title": "Dark camera view",
+    "title": "Indistinct Camera View",
     "stream_url": "http://24.20.234.253:8000/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1011800.jpg",
@@ -32830,7 +32101,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-09-17T11:58:43.937Z",
-    "modified_at": "2026-09-17T11:58:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "1460072b-7c29-4ae0-bf8f-ee011f1fb8b6",
@@ -37041,7 +36312,7 @@
   },
   {
     "id": "d58f6982-9364-43fe-8e00-8a59daba5356",
-    "title": "Illuminated Flagpoles at Night",
+    "title": "Flagpoles",
     "stream_url": "http://100.42.92.25/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1011115.jpg",
@@ -37066,11 +36337,11 @@
       "night views"
     ],
     "created_at": "2026-09-11T04:58:43.937Z",
-    "modified_at": "2026-09-11T04:58:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "b1865b58-d23a-478e-9ea1-46f3eca2632f",
-    "title": "Night image too dark",
+    "title": "Indistinct Camera View",
     "stream_url": "http://217.63.50.213:8888/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1011109.jpg",
@@ -37093,7 +36364,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-09-11T03:58:43.937Z",
-    "modified_at": "2026-09-11T03:58:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "85682389-a4df-4872-a5bd-a932f4f43cbf",
@@ -37541,7 +36812,7 @@
   },
   {
     "id": "20c2ad98-bd38-4c43-8637-3ae99033ccf1",
-    "title": "Arnavutkoy Ring Road (View 2)",
+    "title": "Arnavutkoy Ring Road",
     "stream_url": "https://play.player.im/player/kamera/playif.php?kamera=arnavutkoycevreyolu2&uid=523&sid=882",
     "stream_type": "unknown",
     "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/7954-arnavutkoy-cevreyolu-uastreaming/thumbnail/380x254/7954_1692115075_pxqgpgglhzibrshdxqcyndsdjeqexqatbynzguil.webp",
@@ -37567,7 +36838,7 @@
       "landscape"
     ],
     "created_at": "2026-09-10T12:28:43.937Z",
-    "modified_at": "2026-10-20T02:46:59.422Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "2f7443cd-f16b-47cd-879c-04bb83949d80",
@@ -38021,7 +37292,7 @@
   },
   {
     "id": "581dd0e8-e05e-46b0-8815-b579f4e13979",
-    "title": "Garden at Night",
+    "title": "Garden",
     "stream_url": "http://24.60.196.129:8080/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/1010976.jpg",
@@ -38046,7 +37317,7 @@
       "nature"
     ],
     "created_at": "2026-09-09T20:58:43.937Z",
-    "modified_at": "2026-09-09T20:58:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "53659ece-d942-490e-bf36-dea080db63a0",
@@ -39992,7 +39263,7 @@
   },
   {
     "id": "c2e7f23e-3c6d-4ee0-bc04-772f44f60b74",
-    "title": "Mevlana Meydanı (View 1)",
+    "title": "Mevlana Meydanı",
     "stream_url": "https://player.tvkur.com/l/cei99afmm25sdv36p59g",
     "stream_type": "unknown",
     "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8055-turbe-onu-uastreaming/thumbnail/380x254/8055_1692114723_foxsqiviboikrmbkdrkedpwyzjbknebsfwcyqsjj.webp",
@@ -40017,7 +39288,7 @@
       "squares"
     ],
     "created_at": "2026-09-07T01:28:43.937Z",
-    "modified_at": "2026-09-25T08:16:58.468Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "43042d54-d750-4b88-82c1-3dfcc701c242",
@@ -42399,7 +41670,7 @@
   },
   {
     "id": "fe4680dc-11f1-40d8-b5ad-398398f882ab",
-    "title": "Road junction and pedestrian crossings at night",
+    "title": "Road junction and pedestrian crossings",
     "stream_url": "http://175.138.229.49:8082/cgi-bin/viewer/video.jpg?r=0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/989996.jpg",
@@ -42427,7 +41698,7 @@
       "night views"
     ],
     "created_at": "2026-09-03T14:58:43.937Z",
-    "modified_at": "2026-11-10T16:20:27.964Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "75448d99-59ca-422a-837b-3a0fc62f6b47",
@@ -42576,7 +41847,7 @@
   },
   {
     "id": "c7c3bd89-05eb-4dec-9fcd-5c213ba2bf25",
-    "title": "Sunset restaurant kalkan",
+    "title": "Restaurant and Bay View — Kalkan",
     "stream_url": "https://play.player.im/player/kamera/playif.php?kamera=korsanmeze&uid=529&sid=892",
     "stream_type": "unknown",
     "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/7914-town-beach-uastreaming/thumbnail/380x254/7914_1692114506_ruoffifscmykvudqlnkjzjlpdfsowodlztcblbfz.webp",
@@ -42602,7 +41873,7 @@
       "bays"
     ],
     "created_at": "2026-09-03T09:28:43.937Z",
-    "modified_at": "2026-09-03T09:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "d96a6ead-67f6-49e6-8ada-5c4e5d315e38",
@@ -42834,7 +42105,7 @@
   },
   {
     "id": "61931f41-441e-4a0b-a8b2-656702789293",
-    "title": "Arnavutköy Çevre Yolu (View 3)",
+    "title": "Arnavutköy Çevre Yolu",
     "stream_url": "https://play.player.im/player/kamera/playif.php?kamera=arnavutkoycevreyolu3&uid=523&sid=882",
     "stream_type": "unknown",
     "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/9942-arnavutkoy-cevre-yolu-uastreaming/thumbnail/380x254/9942_1692115099_qdmfebrxttcnjloqjsbfplswsjesvbzqsrksrpfi.webp",
@@ -42859,11 +42130,11 @@
       "traffic"
     ],
     "created_at": "2026-09-03T01:28:43.937Z",
-    "modified_at": "2026-10-07T09:09:35.950Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "e97b42c8-1323-424b-9901-a4f57cd7ffa4",
-    "title": "Road junction and pedestrian crossings at night",
+    "title": "Road junction and pedestrian crossings",
     "stream_url": "http://175.138.229.48:8082/cgi-bin/viewer/video.jpg?r=0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/984818.jpg",
@@ -42891,7 +42162,7 @@
       "night views"
     ],
     "created_at": "2026-09-03T00:58:43.937Z",
-    "modified_at": "2026-11-10T16:20:27.964Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "de42b101-0d16-40ad-8117-62396d056d0a",
@@ -43124,7 +42395,7 @@
   },
   {
     "id": "e18b848b-886e-4b8e-bcf7-409cac68639e",
-    "title": "Alaaddin Hill Park (View 2)",
+    "title": "Alaaddin Hill Park",
     "stream_url": "https://player.tvkur.com/l/c77i9rj84cnrb6mljic0",
     "stream_type": "unknown",
     "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8059-alaaddin-caddesi-uastreaming/thumbnail/380x254/8059_1692114980_lajqcitjfwuaslgfahlcootzinzegidejqxxbiat.webp",
@@ -43150,7 +42421,7 @@
       "nature"
     ],
     "created_at": "2026-09-02T17:28:43.937Z",
-    "modified_at": "2026-09-02T17:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "f835cef2-11fc-46fb-ad08-50f8330dbef7",
@@ -43291,37 +42562,6 @@
     ],
     "created_at": "2026-09-02T12:28:43.937Z",
     "modified_at": "2026-09-02T12:28:43.937Z"
-  },
-  {
-    "id": "1349d9d0-0259-4dcc-9f7a-7c4ddb6e0487",
-    "title": "Lindisfarne Castle",
-    "stream_url": "https://g0.ipcamlive.com/player/player.php?alias=lindisfarne1&autoplay=1&mute=1&disablevideofit=1",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/7609-lindisfarne-castle-uastreaming/thumbnail/380x254/7609_1692116784_ptkqxavcmetablswqppqmukbadrrzlfojgkdzodj.webp",
-    "location": {
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "region": "England",
-      "city": "Holy Island",
-      "coordinate": {
-        "latitude": 55.66904,
-        "longitude": -1.78485
-      },
-      "timezone": "-00:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "nature",
-      "sights",
-      "monuments"
-    ],
-    "created_at": "2026-09-02T10:28:43.937Z",
-    "modified_at": "2026-09-02T10:28:43.937Z"
   },
   {
     "id": "d126cb72-bec7-4743-afdf-cca6889d2f46",
@@ -43475,7 +42715,7 @@
   },
   {
     "id": "45d4ed0c-6a59-4ce6-b532-096023835bc2",
-    "title": "Road junction and pedestrian crossings at night",
+    "title": "Road junction and pedestrian crossings",
     "stream_url": "http://175.138.229.51:8082/cgi-bin/viewer/video.jpg?r=0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/979959.jpg",
@@ -43503,7 +42743,7 @@
       "night views"
     ],
     "created_at": "2026-09-02T01:58:43.937Z",
-    "modified_at": "2026-11-10T16:20:27.964Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "f5688bca-d439-405d-9948-a75122d0d4f7",
@@ -43847,36 +43087,6 @@
     "categories": [],
     "created_at": "2026-09-01T13:58:43.937Z",
     "modified_at": "2026-09-01T13:58:43.937Z"
-  },
-  {
-    "id": "82e6ff91-7803-4e6a-9daa-5978f140538f",
-    "title": "Marine RD, Morecambe",
-    "stream_url": "https://g0.ipcamlive.com/player/player.php?alias=marineroad",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/marine-rd-morecambe-webcamtaxi/thumbnail/380x254/england-lancashire-Marine-Morecambe.webp",
-    "location": {
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "region": "England",
-      "city": "Morecambe",
-      "coordinate": {
-        "latitude": 54.06835,
-        "longitude": -2.86108
-      },
-      "timezone": "-00:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "traffic",
-      "sea views"
-    ],
-    "created_at": "2026-09-01T13:28:43.937Z",
-    "modified_at": "2026-09-01T13:28:43.937Z"
   },
   {
     "id": "8ac253e4-56ac-4700-a598-74741eac7994",
@@ -44469,7 +43679,7 @@
   },
   {
     "id": "7bd8927c-6e31-4ae1-aaba-e83218473820",
-    "title": "Night image too dark",
+    "title": "Indistinct Camera View",
     "stream_url": "http://205.149.147.150/nph-jpeg.cgi?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/976431.jpg",
@@ -44492,7 +43702,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-08-31T19:58:43.937Z",
-    "modified_at": "2026-08-31T19:58:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "9ffd7eae-d15b-479f-952c-8b6da20fd744",
@@ -44673,7 +43883,7 @@
   },
   {
     "id": "2f9842c9-1a11-434d-811b-7519abaf920e",
-    "title": "Zafer Meydanı Konya (View 2)",
+    "title": "Zafer Meydanı Konya",
     "stream_url": "https://player.tvkur.com/l/c77ibcnbb2nj4i0fr8cg",
     "stream_type": "unknown",
     "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8034-zafer-meydani-gedavet-uastreaming/thumbnail/380x254/8034_1692114884_fopdfpdqiolwypjbmusxhqkhbstlqsyfrhkmkwee.webp",
@@ -44700,7 +43910,7 @@
       "bars & restaurants"
     ],
     "created_at": "2026-08-31T14:28:43.937Z",
-    "modified_at": "2026-08-31T14:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "f7ad103f-c42d-4701-9419-32c4ff6e5cb1",
@@ -45509,7 +44719,7 @@
   },
   {
     "id": "ffc3530b-dffc-4f46-8c81-d377440eae83",
-    "title": "Leafy tree beside an illuminated street",
+    "title": "Leafy tree beside a street",
     "stream_url": "http://78.110.157.166/webcapture.jpg?command=snap&channel=1?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/969941.jpg",
@@ -45536,7 +44746,7 @@
       "night views"
     ],
     "created_at": "2026-08-30T11:58:43.937Z",
-    "modified_at": "2026-11-10T16:20:27.964Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "2bffa3b1-9d2b-410b-942d-f86bafd5ef0b",
@@ -45854,7 +45064,7 @@
   },
   {
     "id": "9b903f05-9171-486a-a1e3-2596704dade8",
-    "title": "Tembe Elephant Park (Camera 1)",
+    "title": "Tembe Elephant Park",
     "stream_url": "https://www.youtube-nocookie.com/embed/uAzUAZEKVJI?autoplay=0&amp;state=1",
     "stream_type": "youtube",
     "preview_url": "https://i.ytimg.com/vi/uAzUAZEKVJI/hqdefault.jpg",
@@ -45881,7 +45091,7 @@
       "wildlife"
     ],
     "created_at": "2026-08-29T23:28:43.937Z",
-    "modified_at": "2026-09-21T07:16:58.468Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "1c448e31-c78a-40ab-bd4f-51ed276cee8a",
@@ -46781,7 +45991,7 @@
   },
   {
     "id": "3b5752b5-029f-474f-89c6-b02a9c775409",
-    "title": "Dark roof beams and cables",
+    "title": "Roof beams and cables",
     "stream_url": "http://82.127.249.27:8000/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/946153.jpg",
@@ -46804,7 +46014,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-08-28T04:58:43.937Z",
-    "modified_at": "2026-11-10T16:20:27.964Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "e0ab0fdc-ed61-4996-bae4-d8be512e6848",
@@ -49067,7 +48277,7 @@
   },
   {
     "id": "40601e17-370a-4ef0-bf9e-87e7acbd6b7a",
-    "title": "Storks nest (Camera 1)",
+    "title": "Storks nest",
     "stream_url": "https://www.youtube-nocookie.com/embed/7zEW-SvzliM?autoplay=0&amp;state=1",
     "stream_type": "youtube",
     "preview_url": "https://i.ytimg.com/vi/7zEW-SvzliM/hqdefault.jpg",
@@ -49092,7 +48302,7 @@
       "birds"
     ],
     "created_at": "2026-08-25T00:28:43.937Z",
-    "modified_at": "2026-08-25T00:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "4600fc95-97db-4d8e-b590-2d1fb905eeca",
@@ -49348,7 +48558,7 @@
   },
   {
     "id": "7f8b43a7-23ef-492a-88de-d3c67f3313cf",
-    "title": "Daytona Beach (Camera 1)",
+    "title": "Daytona Beach",
     "stream_url": "http://155.31.14.41:80/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://insecam.org/static/thumb/328515.jpg",
@@ -49373,7 +48583,7 @@
       "airports"
     ],
     "created_at": "2026-08-24T13:28:43.937Z",
-    "modified_at": "2026-08-24T13:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "ad50ccca-962e-4476-80a1-f22e78867d15",
@@ -49837,7 +49047,7 @@
   },
   {
     "id": "d36ba061-aead-44a0-af80-4b9b04c88792",
-    "title": "Building wall and paved passage at night",
+    "title": "Building wall and paved passage",
     "stream_url": "http://153.141.37.155/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/910693.jpg",
@@ -49863,7 +49073,7 @@
       "pedestrian areas"
     ],
     "created_at": "2026-08-23T18:58:43.937Z",
-    "modified_at": "2026-11-10T16:20:27.964Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "e2ba9278-89b9-4f1f-bf22-e4af4dcefa1b",
@@ -50207,7 +49417,7 @@
   },
   {
     "id": "b98d2465-40ce-40bb-8eeb-3fba039bc803",
-    "title": "Tembe Elephant Park (Camera 2)",
+    "title": "Tembe Elephant Park",
     "stream_url": "https://www.youtube-nocookie.com/embed/VUJbDTIYlM4?autoplay=0&amp;state=1",
     "stream_type": "youtube",
     "preview_url": "https://i.ytimg.com/vi/VUJbDTIYlM4/hqdefault.jpg",
@@ -50233,7 +49443,7 @@
       "animals"
     ],
     "created_at": "2026-08-23T04:28:43.937Z",
-    "modified_at": "2026-08-23T04:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "bc3ac48c-2853-4966-a366-656a581ca006",
@@ -51202,37 +50412,6 @@
     "modified_at": "2026-10-19T21:25:34.483Z"
   },
   {
-    "id": "6b873c07-c23a-4cd3-bade-872c4e443b9a",
-    "title": "Nadmorska embankment",
-    "stream_url": "https://static.webcamera.pl/player/ustka_cam_4b0fca-webcamera.html?preroll-wait=true",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/3146-plaz-uastreaming/thumbnail/380x254/3146_1692114136_whgwpsqgxsuugofldfztpksdmudtdeppeufabnds.webp",
-    "location": {
-      "country": "Poland",
-      "country_code": "PL",
-      "region": "Pomerania",
-      "city": "Ustka",
-      "coordinate": {
-        "latitude": 54.58048,
-        "longitude": 16.86194
-      },
-      "timezone": "+01:00"
-    },
-    "resolution": {
-      "width": 1280,
-      "height": 720
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "beaches",
-      "bays",
-      "boats"
-    ],
-    "created_at": "2026-08-21T21:28:43.937Z",
-    "modified_at": "2026-09-20T09:12:09.210Z"
-  },
-  {
     "id": "1524fe69-d25b-4f85-b45f-9ce6d29f3dde",
     "title": "Unverified camera",
     "stream_url": "http://114.205.139.219:8000/webcapture.jpg?command=snap&channel=1?0",
@@ -51349,36 +50528,6 @@
     "modified_at": "2026-08-21T17:58:43.937Z"
   },
   {
-    "id": "1ca7236e-7740-486f-a7e5-f75ff7d38cdf",
-    "title": "Museum of Bourgeois Art",
-    "stream_url": "https://static.webcamera.pl/player/wroclaw_przed_cam_16c68e-webcamera.html?preroll-wait=true",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/3167-novaa-ratusa-uastreaming/thumbnail/380x254/3167_1692114053_qkkfadtifzpeeumyliqwmoijrgtrowtlargrzaug.webp",
-    "location": {
-      "country": "Poland",
-      "country_code": "PL",
-      "region": "Lower Silesia",
-      "city": "Wrocław",
-      "coordinate": {
-        "latitude": 38.80289,
-        "longitude": -77.04553
-      },
-      "timezone": "+01:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "squares",
-      "sights"
-    ],
-    "created_at": "2026-08-21T15:28:43.937Z",
-    "modified_at": "2026-08-21T15:28:43.937Z"
-  },
-  {
     "id": "296805e8-7764-4924-a46b-b254c93316b7",
     "title": "Unverified camera",
     "stream_url": "http://63.44.105.207:8081/cgi-bin/viewer/video.jpg?r=0",
@@ -51431,36 +50580,6 @@
     "categories": [],
     "created_at": "2026-08-21T13:58:43.937Z",
     "modified_at": "2026-08-21T13:58:43.937Z"
-  },
-  {
-    "id": "3fb5d753-b9c0-420a-b549-77b2e3ea17b3",
-    "title": "East side of Miedzyzdroje beach",
-    "stream_url": "https://static.webcamera.pl/player/miedzyzdroje_cam_52898b-webcamera.html?preroll-wait=true",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/3152-vostocnaa-cast-plaza-uastreaming/thumbnail/380x254/3152_1692114355_cuwfwhdzcqzgztsekahappatnygpltdybvovawnt.webp",
-    "location": {
-      "country": "Poland",
-      "country_code": "PL",
-      "region": "West Pomerania",
-      "city": "Międzyzdroje",
-      "coordinate": {
-        "latitude": 46.91807,
-        "longitude": -104.00437
-      },
-      "timezone": "+01:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "beaches",
-      "city views"
-    ],
-    "created_at": "2026-08-21T13:28:43.937Z",
-    "modified_at": "2026-08-21T13:28:43.937Z"
   },
   {
     "id": "abe39e00-b054-47e8-afe2-2036a2bc22cf",
@@ -51891,7 +51010,7 @@
   },
   {
     "id": "dc2bda63-61a0-4bf9-a128-8f98ce06ecd8",
-    "title": "Hadımköy merkez Cami square (View 2)",
+    "title": "Hadımköy merkez Cami square",
     "stream_url": "https://play.player.im/player/kamera/playif.php?kamera=hadimkoymeydan&uid=523&sid=882",
     "stream_type": "unknown",
     "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/7932-hadimkoy-meydan-uastreaming/thumbnail/380x254/7932_1692115095_frrhuvkcpoywgtosvfnihidhkgslnthqwgkmbsxr.webp",
@@ -51917,7 +51036,7 @@
       "landmarks"
     ],
     "created_at": "2026-08-20T21:28:43.937Z",
-    "modified_at": "2026-08-20T21:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "c76facf0-4e07-43ee-9dda-a9a0f42f5ed9",
@@ -52115,37 +51234,6 @@
     "modified_at": "2026-08-20T13:58:43.937Z"
   },
   {
-    "id": "19195458-81eb-434f-b6ec-63b084d8eebd",
-    "title": "Main Market Square",
-    "stream_url": "https://static.webcamera.pl/player/krakow_cam_9a3b91-webcamera.html?preroll-wait=true",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/3174-glavnaa-rynocnaa-plosad-uastreaming/thumbnail/380x254/3174_1692114126_wuavusyfnkdcnmtybuzvlxcsgphbghbordvhmajp.webp",
-    "location": {
-      "country": "Poland",
-      "country_code": "PL",
-      "region": "Lesser Poland",
-      "city": "Kraków",
-      "coordinate": {
-        "latitude": 38.80289,
-        "longitude": -77.04553
-      },
-      "timezone": "+01:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "squares",
-      "sights",
-      "city views"
-    ],
-    "created_at": "2026-08-20T13:28:43.937Z",
-    "modified_at": "2026-08-20T13:28:43.937Z"
-  },
-  {
     "id": "4ac77e35-9908-44f3-81b9-85175012b726",
     "title": "Advertising display",
     "stream_url": "http://166.141.236.121:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
@@ -52201,7 +51289,7 @@
   },
   {
     "id": "ddc3596a-1f07-4dc3-b0fc-1610788ad1a0",
-    "title": "Market Area (View 1)",
+    "title": "Market Area",
     "stream_url": "https://www.youtube-nocookie.com/embed/Ku62ggXQPHE?autoplay=0&amp;state=1",
     "stream_type": "youtube",
     "preview_url": "https://i.ytimg.com/vi/Ku62ggXQPHE/hqdefault.jpg",
@@ -52226,7 +51314,7 @@
       "city views"
     ],
     "created_at": "2026-08-20T11:28:43.937Z",
-    "modified_at": "2026-09-30T13:39:35.950Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "7f705699-8501-4f38-b8dc-252f5aedf7ba",
@@ -52722,8 +51810,8 @@
       "region": "Lesser Poland",
       "city": "Zakopane",
       "coordinate": {
-        "latitude": 49.29899,
-        "longitude": 19.94885
+        "latitude": 49.3031,
+        "longitude": 19.9196
       },
       "timezone": "+01:00"
     },
@@ -52739,7 +51827,7 @@
       "ski resorts"
     ],
     "created_at": "2026-08-19T19:28:43.937Z",
-    "modified_at": "2026-08-19T19:28:43.937Z"
+    "modified_at": "2026-11-27T11:57:39.576233Z"
   },
   {
     "id": "4be1fd58-4091-48d9-8a67-64cc56cd2bd5",
@@ -52831,36 +51919,6 @@
     ],
     "created_at": "2026-08-19T17:28:43.937Z",
     "modified_at": "2026-08-19T17:28:43.937Z"
-  },
-  {
-    "id": "b95be55a-20af-4ec0-91f5-a31f214e63cc",
-    "title": "Wawel Royal Castle",
-    "stream_url": "https://static.webcamera.pl/player/krakow_cam_4c3e37-webcamera.html?preroll-wait=true",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/3135-arhitekturnyj-kompleks-uastreaming/thumbnail/380x254/3135_1692114492_jzoyeuoynwijbvptthawbjhuzwezqqzexdmhwksw.webp",
-    "location": {
-      "country": "Poland",
-      "country_code": "PL",
-      "region": "Lesser Poland",
-      "city": "Kraków",
-      "coordinate": {
-        "latitude": 50.06143,
-        "longitude": 19.93658
-      },
-      "timezone": "+01:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "rivers",
-      "sights"
-    ],
-    "created_at": "2026-08-19T14:28:43.937Z",
-    "modified_at": "2026-08-19T14:28:43.937Z"
   },
   {
     "id": "dd712eae-ed1c-415e-af27-83ed4bcbe22e",
@@ -54078,35 +53136,6 @@
     "modified_at": "2026-08-17T20:58:43.937Z"
   },
   {
-    "id": "fa84d47b-f1a9-4a37-98f5-088db8d318ac",
-    "title": "Beach view, Sarbinowo",
-    "stream_url": "https://static.webcamera.pl/player/sarbinowo_cam_bd6ec8-webcamera.html?preroll-wait=true",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/3283-vid-na-plaz-uastreaming/thumbnail/380x254/3283_1692114128_qirrdznjmtrbnhnzkrebvogxdiarmfeqljdpmvsx.webp",
-    "location": {
-      "country": "Poland",
-      "country_code": "PL",
-      "region": "West Pomerania",
-      "city": "Sarbinowo",
-      "coordinate": {
-        "latitude": 54.24878,
-        "longitude": 15.95867
-      },
-      "timezone": "+01:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "beaches"
-    ],
-    "created_at": "2026-08-17T18:28:43.937Z",
-    "modified_at": "2026-08-17T18:28:43.937Z"
-  },
-  {
     "id": "39a4349b-4571-496d-ab03-2e415560a433",
     "title": "Unverified camera",
     "stream_url": "http://166.241.194.19:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
@@ -54192,35 +53221,6 @@
     ],
     "created_at": "2026-08-17T15:58:43.937Z",
     "modified_at": "2026-08-17T15:58:43.937Z"
-  },
-  {
-    "id": "2ee49043-dd9d-49eb-805f-316367b1f9e1",
-    "title": "Krupowki street, Zakopane",
-    "stream_url": "https://static.webcamera.pl/player/zakopane_cam_cd5b2d-webcamera.html?preroll-wait=true",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/3131-ulica-krupovki-uastreaming/thumbnail/380x254/3131_1692114555_cduaigzkwrhqlrhbdtguydeysyaachsvyeaxhtby.webp",
-    "location": {
-      "country": "Poland",
-      "country_code": "PL",
-      "region": "Lesser Poland",
-      "city": "Zakopane",
-      "coordinate": {
-        "latitude": 49.29899,
-        "longitude": 19.94885
-      },
-      "timezone": "+01:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "city views"
-    ],
-    "created_at": "2026-08-17T13:28:43.937Z",
-    "modified_at": "2026-08-17T13:28:43.937Z"
   },
   {
     "id": "f5a0e8ed-05d6-420f-ae5e-40a8a883b879",
@@ -56603,10 +55603,10 @@
       "region": "Capital Region",
       "city": "Reykjavík",
       "coordinate": {
-        "latitude": 64.13548,
-        "longitude": -21.89541
+        "latitude": 64.15,
+        "longitude": -21.938667
       },
-      "timezone": "-00:00"
+      "timezone": "+00:00"
     },
     "resolution": {
       "width": 0,
@@ -56619,7 +55619,7 @@
       "harbours"
     ],
     "created_at": "2026-08-13T18:28:43.937Z",
-    "modified_at": "2026-09-16T07:42:09.210Z"
+    "modified_at": "2026-11-27T12:00:42.318358Z"
   },
   {
     "id": "627f6030-7721-4c32-80d2-7a5f324d6fb5",
@@ -57049,7 +56049,7 @@
   },
   {
     "id": "910cd3c1-dac3-42b0-8fe5-e380cd3936bd",
-    "title": "Mount Buller Ski Resort (View 1)",
+    "title": "Mount Buller Ski Resort",
     "stream_url": "https://www.youtube-nocookie.com/embed/WMx2m-O6eug?autoplay=0&amp;state=1",
     "stream_type": "youtube",
     "preview_url": "https://i.ytimg.com/vi/WMx2m-O6eug/hqdefault.jpg",
@@ -57076,7 +56076,7 @@
       "ski resorts"
     ],
     "created_at": "2026-08-12T22:28:43.937Z",
-    "modified_at": "2026-09-15T22:12:09.210Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "cc5740f7-47f8-427b-9942-5c6fd8d978b7",
@@ -57869,7 +56869,7 @@
   },
   {
     "id": "2e9f3693-60b7-4e99-9a3f-72a8ef9bf5d3",
-    "title": "Dodo Pizza (Camera 2)",
+    "title": "Dodo Pizza",
     "stream_url": "https://open.ivideon.com/embed/v2/?server=200-tAGqb3sNEvgfL5s0XBc5F3&camera=0&width=&height=&lang=ru",
     "stream_type": "unknown",
     "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/4402-dodo-picca-sokol-uastreaming/thumbnail/380x254/4402_1692114027_lyqstodvslcdaeeigtbptfybyikjcorlhlrlcufi.webp",
@@ -57894,7 +56894,7 @@
       "bars & restaurants"
     ],
     "created_at": "2026-08-11T17:28:43.937Z",
-    "modified_at": "2026-08-11T17:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "85040cf6-9fa1-43f0-896e-f2061c83209a",
@@ -57955,7 +56955,7 @@
   },
   {
     "id": "fff0b17c-4cc3-4704-b9f5-9bd058b7211d",
-    "title": "Krasnoyarsk Warehouse (View 5)",
+    "title": "Krasnoyarsk Warehouse",
     "stream_url": "https://open.ivideon.com/embed/v2/?server=100-y6JP19GkjRHZ9ZiqBjsEAo&camera=0&width=&height=&lang=ru",
     "stream_type": "unknown",
     "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/4522-ip-camera-uastreaming/thumbnail/380x254/4522_1692113864_tarjnuugulwapisczskfyxndewmirplvolfluxxy.webp",
@@ -57978,11 +56978,11 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-08-11T15:28:43.937Z",
-    "modified_at": "2026-08-11T15:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "69929688-79da-487c-9523-b4527a4a265c",
-    "title": "Dodo Pizza (Camera 3)",
+    "title": "Dodo Pizza",
     "stream_url": "https://open.ivideon.com/embed/v2/?server=100-42215f235a3cecbba8016db6f46581a7&camera=0&width=&height=&lang=ru",
     "stream_type": "unknown",
     "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/4403-dodo-picca-almetevsk-uastreaming/thumbnail/380x254/4403_1692114136_ymssnvadphpdvlmxshlvrmkgbskjaqpuqxyyquzn.webp",
@@ -58007,7 +57007,7 @@
       "bars & restaurants"
     ],
     "created_at": "2026-08-11T12:28:43.937Z",
-    "modified_at": "2026-08-11T12:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "79670050-0cd5-49d2-8506-505bf1238714",
@@ -58379,7 +57379,7 @@
   },
   {
     "id": "8f3c9a1a-354b-4290-978f-ff8194615da7",
-    "title": "Illuminated Building at Night",
+    "title": "Building",
     "stream_url": "http://107.241.236.48:8082/oneshotimage1?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/810936.jpg",
@@ -58404,7 +57404,7 @@
       "night views"
     ],
     "created_at": "2026-08-10T17:58:43.937Z",
-    "modified_at": "2026-08-10T17:58:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "455d423a-e3fb-447d-9db8-7b8f5ab8ad4a",
@@ -58777,7 +57777,7 @@
   },
   {
     "id": "72602cf2-fc89-40a3-a9d2-c7bc373b7d94",
-    "title": "Vehicle parking at night",
+    "title": "Vehicle parking",
     "stream_url": "http://166.169.68.6/oneshotimage1?0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/808476.jpg",
@@ -58802,7 +57802,7 @@
       "parking"
     ],
     "created_at": "2026-08-10T05:58:43.937Z",
-    "modified_at": "2026-08-10T05:58:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "5ae96846-17b9-4b77-8b92-5c03d38c960d",
@@ -59888,7 +58888,7 @@
   },
   {
     "id": "615822fc-686b-465e-9144-8586bb66d043",
-    "title": "Mpala Research Centre (Camera 1)",
+    "title": "Mpala Research Centre",
     "stream_url": "https://www.youtube-nocookie.com/embed/QkWGGhtTA4k?autoplay=0&amp;state=1",
     "stream_type": "youtube",
     "preview_url": "https://i.ytimg.com/vi/QkWGGhtTA4k/hqdefault.jpg",
@@ -59914,7 +58914,7 @@
       "wildlife"
     ],
     "created_at": "2026-08-08T17:28:43.937Z",
-    "modified_at": "2026-09-24T17:09:35.950Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "19464c02-ca44-4768-b569-0b76ba8a7b76",
@@ -60414,7 +59414,7 @@
   },
   {
     "id": "2f5f5d0b-641a-4c60-93b3-4dad5bfed382",
-    "title": "Krasnoyarsk Car Service (View 2)",
+    "title": "Krasnoyarsk Car Service",
     "stream_url": "https://open.ivideon.com/embed/v2/?server=100-L3oeqCipzUzlK2WfmsXkPu&camera=131072&width=&height=&lang=ru",
     "stream_type": "unknown",
     "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/4564-ceh-uastreaming/thumbnail/380x254/4564_1692113881_oxydrfzbwiokrlruaizhrceknjepakpsbnhutjcb.webp",
@@ -60437,7 +59437,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-08-07T22:28:43.937Z",
-    "modified_at": "2026-08-07T22:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "babdcfb8-5d9b-4ea3-87d9-5c24b9f5c7d2",
@@ -60729,7 +59729,7 @@
   },
   {
     "id": "3527fbd7-68ea-41e4-861f-b677dd25e2d0",
-    "title": "Night image too dark",
+    "title": "Indistinct Camera View",
     "stream_url": "http://162.227.163.129:86/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/758659.jpg",
@@ -60752,7 +59752,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-08-07T10:58:43.937Z",
-    "modified_at": "2026-08-07T10:58:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "294fe306-10d6-436c-a911-7fd38fc88a3e",
@@ -60817,7 +59817,7 @@
   },
   {
     "id": "1bcd589b-3644-4645-8af3-dab32b3d49f2",
-    "title": "Mpala Research Centre (Camera 2)",
+    "title": "Mpala Research Centre",
     "stream_url": "https://www.youtube-nocookie.com/embed/KyQAB-TKOVA?autoplay=0&amp;state=1",
     "stream_type": "youtube",
     "preview_url": "https://i.ytimg.com/vi/KyQAB-TKOVA/hqdefault.jpg",
@@ -60843,7 +59843,7 @@
       "wildlife"
     ],
     "created_at": "2026-08-07T07:28:43.937Z",
-    "modified_at": "2026-09-13T07:33:34.149Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "bd0dbd06-c0c5-4eeb-95ea-15f50db879f9",
@@ -61740,7 +60740,7 @@
   },
   {
     "id": "5c8c9120-3f37-41c3-88eb-76f99ac70ec6",
-    "title": "Tokyo Mountain View (Camera 1)",
+    "title": "Tokyo Mountain View",
     "stream_url": "http://121.117.161.147:80/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "unknown",
     "preview_url": "http://insecam.org/static/thumb/632241.jpg",
@@ -61765,7 +60765,7 @@
       "mountains"
     ],
     "created_at": "2026-08-05T19:28:43.937Z",
-    "modified_at": "2026-08-05T19:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "64499be6-ab4e-4149-864c-9a62c316bc62",
@@ -62113,7 +61113,7 @@
   },
   {
     "id": "e63dfb16-2553-4746-9527-67be871028ae",
-    "title": "Storks nest (Camera 2)",
+    "title": "Storks nest",
     "stream_url": "https://www.youtube-nocookie.com/embed/JhajwzEv1Fo?autoplay=0&amp;state=1",
     "stream_type": "youtube",
     "preview_url": "https://i.ytimg.com/vi/JhajwzEv1Fo/hqdefault.jpg",
@@ -62139,7 +61139,7 @@
       "nature"
     ],
     "created_at": "2026-08-05T06:28:43.937Z",
-    "modified_at": "2026-08-05T06:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "5ab9295d-01c7-4e88-8b05-c2e413ca1a17",
@@ -62170,7 +61170,7 @@
   },
   {
     "id": "9dc07a78-30c5-4e7c-948d-bcbf9482143a",
-    "title": "Night image too dark",
+    "title": "Indistinct Camera View",
     "stream_url": "http://198.244.125.230:8080/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/714527.jpg",
@@ -62193,7 +61193,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-08-05T04:58:43.937Z",
-    "modified_at": "2026-08-05T04:58:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "7986d3d7-c2f2-4c55-a40b-d35f81dc35bf",
@@ -62782,37 +61782,6 @@
     "modified_at": "2026-08-04T11:58:43.937Z"
   },
   {
-    "id": "b8923539-330c-4731-839d-d97db337f8e3",
-    "title": "Cologne City View",
-    "stream_url": "https://g0.ipcamlive.com/player/player.php?alias=towercamcologne&autoplay=1&disableframecapture=1",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/10128-cologne-cathedral-uastreaming/thumbnail/380x254/10128_1692119275_biitmtmjzkcotoopyuzbosvntykszriuydsbdtmk.webp",
-    "location": {
-      "country": "Germany",
-      "country_code": "DE",
-      "region": "North Rhine-Westphalia",
-      "city": "Köln",
-      "coordinate": {
-        "latitude": 50.9413035,
-        "longitude": 6.958138
-      },
-      "timezone": "+01:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "city views",
-      "rivers",
-      "churches"
-    ],
-    "created_at": "2026-08-04T09:28:43.937Z",
-    "modified_at": "2026-08-04T09:28:43.937Z"
-  },
-  {
     "id": "2236e519-5893-4e76-96f4-869648d6d725",
     "title": "Coastal car park and palm trees",
     "stream_url": "http://60.248.31.214/GetData.cgi?CH=1",
@@ -63104,37 +62073,6 @@
     ],
     "created_at": "2026-08-04T01:58:43.937Z",
     "modified_at": "2026-08-04T01:58:43.937Z"
-  },
-  {
-    "id": "06db48f5-7d5c-43a0-97dc-ff4d13055472",
-    "title": "Primorsko Beach",
-    "stream_url": "https://ipcamlive.com/player/player.php?alias=557f35298b146&autoplay=1",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8208-pobereze-uastreaming/thumbnail/380x254/8208_1692117382_zptwqmehqmifeqailhxmqkxckiubqbdjmqwvgpld.webp",
-    "location": {
-      "country": "Bulgaria",
-      "country_code": "BG",
-      "region": "Burgas",
-      "city": "Primorsko",
-      "coordinate": {
-        "latitude": 46.91807,
-        "longitude": -104.00437
-      },
-      "timezone": "+02:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "beaches",
-      "sea views",
-      "bays"
-    ],
-    "created_at": "2026-08-04T01:28:43.937Z",
-    "modified_at": "2026-08-04T01:28:43.937Z"
   },
   {
     "id": "718e3ed2-da55-4b9e-b64b-0ac2d52b1172",
@@ -64395,7 +63333,7 @@
   },
   {
     "id": "afd4df1b-3f6c-441f-871f-a88baa01d630",
-    "title": "Kitchen of Pizzeria (View 1)",
+    "title": "Kitchen of Pizzeria",
     "stream_url": "https://open.ivideon.com/embed/v2/?server=100-pMi8pkypD32cXY0fWUYeUE&camera=0&width=&height=&lang=ru",
     "stream_type": "unknown",
     "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/4513-goracij-ceh-uastreaming/thumbnail/380x254/4513_1692113879_wpgodzaajllwjyshzglkzcbtqxyxeinvfujbkjdi.webp",
@@ -64420,7 +63358,7 @@
       "bars & restaurants"
     ],
     "created_at": "2026-08-02T03:28:43.937Z",
-    "modified_at": "2026-09-21T09:39:35.950Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "fb92a58b-339f-4c31-9fad-1db2a529bf68",
@@ -65151,35 +64089,6 @@
     "modified_at": "2026-07-31T21:58:43.937Z"
   },
   {
-    "id": "536a39c7-114b-4a71-b3b0-fbe7afc85ac9",
-    "title": "Main Square",
-    "stream_url": "https://ipcamlive.com/player/player.php?alias=558a6de19e203&autoplay=0&mute=0",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8209-glavnaa-plosad-uastreaming/thumbnail/380x254/8209_1692117427_kaepspuikkfuduefnmzrooilsccnqenuuqctjxat.webp",
-    "location": {
-      "country": "Bulgaria",
-      "country_code": "BG",
-      "region": "Burgas",
-      "city": "Primorsko",
-      "coordinate": {
-        "latitude": 42.26667,
-        "longitude": 27.76667
-      },
-      "timezone": "+02:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "nature"
-    ],
-    "created_at": "2026-07-31T20:28:43.937Z",
-    "modified_at": "2026-10-31T00:14:26.163Z"
-  },
-  {
     "id": "824463d4-5c9e-448e-b1ea-241b2ea8ae5b",
     "title": "Commercial building exterior",
     "stream_url": "http://82.78.92.4/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
@@ -65603,7 +64512,7 @@
   },
   {
     "id": "d7a91e18-8ba3-4818-85a0-4a0899c16376",
-    "title": "Orlando City View (Camera 1)",
+    "title": "Orlando City View",
     "stream_url": "http://71.41.73.146:80/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://insecam.org/static/thumb/238797.jpg",
@@ -65628,7 +64537,7 @@
       "city views"
     ],
     "created_at": "2026-07-30T23:28:43.937Z",
-    "modified_at": "2026-07-30T23:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "2bb3c2ac-8843-4654-b340-06f3a03d2ba3",
@@ -65746,7 +64655,7 @@
   },
   {
     "id": "1d709dac-682e-4a68-b1d8-83b5abad5724",
-    "title": "Water channel at night",
+    "title": "Water channel",
     "stream_url": "http://217.86.134.122:91/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/634496.jpg",
@@ -65769,39 +64678,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-07-30T18:58:43.937Z",
-    "modified_at": "2026-07-30T18:58:43.937Z"
-  },
-  {
-    "id": "d6d0b4d0-39e4-4288-ab1c-c010da15bc83",
-    "title": "Port of Argostoli",
-    "stream_url": "https://ipcamlive.com/player/player.php?alias=5900521560d5e&autoplay=1&mute=0",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8899-limani-uastreaming/thumbnail/380x254/8899_1692115349_gvmpxyqhepfwcmcpbczljahawgdbvizkbedkftsx.webp",
-    "location": {
-      "country": "Greece",
-      "country_code": "GR",
-      "region": "Ionian Islands",
-      "city": "Argostólion",
-      "coordinate": {
-        "latitude": 38.16425,
-        "longitude": 20.45767
-      },
-      "timezone": "+02:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "boats",
-      "harbours",
-      "parking",
-      "ports"
-    ],
-    "created_at": "2026-07-30T18:28:43.937Z",
-    "modified_at": "2026-07-30T18:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "08b3b947-7617-4065-95f5-bb2b48deef4c",
@@ -66657,36 +65534,6 @@
     "modified_at": "2026-07-29T11:58:43.937Z"
   },
   {
-    "id": "047fcfc9-be63-49d8-a055-b191abbd5419",
-    "title": "Kiten South Beach (View 2)",
-    "stream_url": "https://g0.ipcamlive.com/player/player.php?alias=59404534cf240",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8235-uzen-plaz-kiten-uastreaming/thumbnail/380x254/8235_1692117527_qljmkprosfootnksyofcvxydtrefmijunqlytlnw.webp",
-    "location": {
-      "country": "Bulgaria",
-      "country_code": "BG",
-      "region": "Burgas",
-      "city": "Kiten",
-      "coordinate": {
-        "latitude": 42.23424,
-        "longitude": 27.7749
-      },
-      "timezone": "+02:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "beaches",
-      "sea views"
-    ],
-    "created_at": "2026-07-29T11:28:43.937Z",
-    "modified_at": "2026-07-29T11:28:43.937Z"
-  },
-  {
     "id": "31f16918-9cc5-4920-8dbc-d88a30218aaa",
     "title": "Unverified camera",
     "stream_url": "http://128.171.116.46/mjpg/video.mjpg",
@@ -66858,37 +65705,6 @@
     "modified_at": "2026-07-29T06:58:43.937Z"
   },
   {
-    "id": "44795c22-b3ab-4e7f-8549-210c972c89aa",
-    "title": "Dubrovnik Marina View",
-    "stream_url": "https://g0.ipcamlive.com/player/player.php?alias=oldtown001",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/dubrovnik-oldtown-webcamtaxi/thumbnail/380x254/croatia-dubrovnik-neretva-old-town-dubrovnik.webp",
-    "location": {
-      "country": "Croatia",
-      "country_code": "HR",
-      "region": "Dubrovnik-Neretva",
-      "city": "Dubrovnik",
-      "coordinate": {
-        "latitude": 42.6416811,
-        "longitude": 18.1043084
-      },
-      "timezone": "+01:00"
-    },
-    "resolution": {
-      "width": 1280,
-      "height": 960
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "marinas",
-      "boats",
-      "sea views"
-    ],
-    "created_at": "2026-07-29T05:28:43.937Z",
-    "modified_at": "2026-07-29T05:28:43.937Z"
-  },
-  {
     "id": "b336dd73-c704-4680-ab90-df284bdb7fcc",
     "title": "Interior corridor",
     "stream_url": "http://184.74.137.62:86/mjpg/video.mjpg",
@@ -66914,37 +65730,6 @@
     "categories": [],
     "created_at": "2026-07-29T03:58:43.937Z",
     "modified_at": "2026-07-29T03:58:43.937Z"
-  },
-  {
-    "id": "9645742f-329a-4329-8a3e-35fb10438ddb",
-    "title": "Oia Village, Santorini",
-    "stream_url": "https://g0.ipcamlive.com/player/player.php?alias=5575bc8fe7da6",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/oia-village-santorini-webcamtaxi/thumbnail/380x254/greece-south-aegean-oya-village-santorini.webp",
-    "location": {
-      "country": "Greece",
-      "country_code": "GR",
-      "region": "South Aegean",
-      "city": "Oía",
-      "coordinate": {
-        "latitude": 36.39963,
-        "longitude": 25.42081
-      },
-      "timezone": "+02:00"
-    },
-    "resolution": {
-      "width": 1280,
-      "height": 720
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "sea views",
-      "churches",
-      "islands"
-    ],
-    "created_at": "2026-07-29T03:28:43.937Z",
-    "modified_at": "2026-07-29T03:28:43.937Z"
   },
   {
     "id": "114cb3b2-b196-4e81-abe2-5a79fbc4d382",
@@ -67985,7 +66770,7 @@
   },
   {
     "id": "7cf98173-1a69-4a00-a1c9-f565adf4e5a7",
-    "title": "Daytona Beach (Camera 2)",
+    "title": "Daytona Beach",
     "stream_url": "http://155.31.14.42:80/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://insecam.org/static/thumb/373129.jpg",
@@ -68010,7 +66795,7 @@
       "airports"
     ],
     "created_at": "2026-07-27T15:28:43.937Z",
-    "modified_at": "2026-09-07T18:12:09.210Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "19ebed3b-53b5-457c-8035-70d82d0ed2d8",
@@ -68575,35 +67360,6 @@
     "categories": [],
     "created_at": "2026-07-26T11:58:43.937Z",
     "modified_at": "2026-07-26T11:58:43.937Z"
-  },
-  {
-    "id": "6dfb259b-3fe2-4b46-8fc5-a5aa423326c0",
-    "title": "Carmel Beach",
-    "stream_url": "https://g2.ipcamlive.com/player/player.php?alias=5ffd9eb29b665",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/7030-carmel-station-uastreaming/thumbnail/380x254/7030_1692115837_bfvxsiqlvsbeusrwhfroxwvgptvqigtvayouawjf.webp",
-    "location": {
-      "country": "Israel",
-      "country_code": "IL",
-      "region": "Haifa",
-      "city": "Haifa",
-      "coordinate": {
-        "latitude": 32.81841,
-        "longitude": 34.9885
-      },
-      "timezone": "+02:00"
-    },
-    "resolution": {
-      "width": 2560,
-      "height": 1440
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "sea views"
-    ],
-    "created_at": "2026-07-26T10:28:43.937Z",
-    "modified_at": "2026-09-18T01:39:35.950Z"
   },
   {
     "id": "5248c515-43e2-4ad8-9126-22c320cba3d6",
@@ -69326,35 +68082,6 @@
     ],
     "created_at": "2026-07-25T00:58:43.937Z",
     "modified_at": "2026-07-25T00:58:43.937Z"
-  },
-  {
-    "id": "c57da311-b180-4b88-a513-1612e74f3890",
-    "title": "Surf Center - Windsurfing, Eilat",
-    "stream_url": "https://g0.ipcamlive.com/player/player.php?alias=surfcenterkite",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/7031-zaliv-akaba-surf-center-windsurfing-uastreaming/thumbnail/380x254/7031_1692115894_geimsbngultvvrwjggiqrcubqnghdxabdqnesmln.webp",
-    "location": {
-      "country": "Israel",
-      "country_code": "IL",
-      "region": "Southern District",
-      "city": "Eilat",
-      "coordinate": {
-        "latitude": 29.55805,
-        "longitude": 34.94821
-      },
-      "timezone": "+02:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "beaches"
-    ],
-    "created_at": "2026-07-24T22:28:43.937Z",
-    "modified_at": "2026-07-24T22:28:43.937Z"
   },
   {
     "id": "22fc00c6-3186-4a67-9aa1-21289f2d2c1c",
@@ -71290,7 +70017,7 @@
   },
   {
     "id": "20e26016-104b-4ea9-bac0-d366ccbf2317",
-    "title": "HaKshatot Beach, Ashdod (View 1)",
+    "title": "HaKshatot Beach, Ashdod",
     "stream_url": "https://www.youtube-nocookie.com/embed/1sl7o94YvEA?autoplay=0&amp;state=1",
     "stream_type": "youtube",
     "preview_url": "https://i.ytimg.com/vi/1sl7o94YvEA/hqdefault.jpg",
@@ -71316,7 +70043,7 @@
       "sea views"
     ],
     "created_at": "2026-07-21T06:28:43.937Z",
-    "modified_at": "2026-07-21T06:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "769d8a44-a279-46c0-be70-8e5bd4908608",
@@ -71347,7 +70074,7 @@
   },
   {
     "id": "271055f9-dc9f-4f08-9f9c-7276e8c73052",
-    "title": "Shelton City View (Camera 3)",
+    "title": "Shelton City View",
     "stream_url": "http://107.0.231.40:8084/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://insecam.org/static/thumb/511756.jpg",
@@ -71372,7 +70099,7 @@
       "city views"
     ],
     "created_at": "2026-07-21T03:28:43.937Z",
-    "modified_at": "2026-10-31T00:14:26.163Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "2c5c1a98-9565-45b2-ab83-4fa2fa4d280a",
@@ -71655,7 +70382,7 @@
   },
   {
     "id": "53a2a0b5-d26c-40a1-b6e3-4335ea9a9dbc",
-    "title": "Moscow Traffic Camera (Camera 1)",
+    "title": "Moscow Traffic Camera",
     "stream_url": "http://91.233.230.12:80/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://insecam.org/static/thumb/241947.jpg",
@@ -71680,7 +70407,7 @@
       "traffic"
     ],
     "created_at": "2026-07-20T17:28:43.937Z",
-    "modified_at": "2026-07-20T17:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "c05bdd4d-e565-4b0d-8007-f36b76d3cac6",
@@ -71921,7 +70648,7 @@
   },
   {
     "id": "bd343615-e0b3-4392-8b52-3758e6e77ffb",
-    "title": "Harbour Buildings and Waterfront Road at Night",
+    "title": "Harbour Buildings and Waterfront Road",
     "stream_url": "http://91.216.211.235/snap.jpg?JpegSize=M&JpegCam=1&r=0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/360677.jpg",
@@ -71948,7 +70675,7 @@
       "roads"
     ],
     "created_at": "2026-07-20T04:58:43.937Z",
-    "modified_at": "2026-10-19T21:25:34.483Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "9dfe025a-bdc8-45e1-aaa7-da87a52266b4",
@@ -71978,6 +70705,38 @@
     ],
     "created_at": "2026-07-20T02:58:43.937Z",
     "modified_at": "2026-10-20T08:08:24.362Z"
+  },
+  {
+    "id": "e4fdb2e2-401c-4c1a-a279-303af5f456b8",
+    "title": "Linz Mountain View",
+    "stream_url": "http://90.152.140.171:81/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/803542.jpg",
+    "location": {
+      "country": "Austria",
+      "country_code": "AT",
+      "region": "Upper Austria",
+      "city": "Linz",
+      "coordinate": {
+        "latitude": 48.30639,
+        "longitude": 14.28611
+      },
+      "timezone": "+01:00"
+    },
+    "resolution": {
+      "width": 0,
+      "height": 0
+    },
+    "is_enabled": false,
+    "is_popular": false,
+    "categories": [
+      "mountains",
+      "nature",
+      "sights",
+      "wildlife"
+    ],
+    "created_at": "2026-07-20T01:28:43.937Z",
+    "modified_at": "2026-07-20T01:28:43.937Z"
   },
   {
     "id": "82863a31-e2fb-4548-bec3-8a7c9fd900c1",
@@ -72237,7 +70996,7 @@
   },
   {
     "id": "8c181ddf-3aee-4757-bb16-5a5112f0e1f9",
-    "title": "Night image too dark",
+    "title": "Indistinct Camera View",
     "stream_url": "http://202.142.12.38/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
     "stream_type": "snapshot",
     "preview_url": "http://www.insecam.org/static/thumb/328185.jpg",
@@ -72260,7 +71019,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-07-19T13:58:43.937Z",
-    "modified_at": "2026-07-19T13:58:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "4e6cc30a-6777-4d99-928e-1b98cb749230",
@@ -72293,7 +71052,7 @@
   },
   {
     "id": "8795415a-3937-45c4-a9e2-2342ed92a4b5",
-    "title": "Tokyo Mountain View (Camera 2)",
+    "title": "Tokyo Mountain View",
     "stream_url": "http://61.120.99.201:80/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
     "stream_type": "mjpeg",
     "preview_url": "http://insecam.org/static/thumb/689285.jpg",
@@ -72318,7 +71077,7 @@
       "mountains"
     ],
     "created_at": "2026-07-19T12:28:43.937Z",
-    "modified_at": "2026-08-31T14:16:58.468Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "02e34a8b-079b-4f59-b8e2-114f287b975d",
@@ -73279,6 +72038,36 @@
     "modified_at": "2026-07-17T18:58:43.937Z"
   },
   {
+    "id": "72ee7642-a90d-4946-bf4c-3540098173b4",
+    "title": "Santiago Mountain View",
+    "stream_url": "http://200.54.42.126:8090/mjpg/video.mjpg",
+    "stream_type": "mjpeg",
+    "preview_url": "http://insecam.org/static/thumb/628599.jpg",
+    "location": {
+      "country": "Chile",
+      "country_code": "CL",
+      "region": "Santiago Metropolitan",
+      "city": "Santiago",
+      "coordinate": {
+        "latitude": -33.42628,
+        "longitude": -70.56656
+      },
+      "timezone": "-04:00"
+    },
+    "resolution": {
+      "width": 0,
+      "height": 0
+    },
+    "is_enabled": false,
+    "is_popular": false,
+    "categories": [
+      "mountains",
+      "parking"
+    ],
+    "created_at": "2026-07-17T16:28:43.937Z",
+    "modified_at": "2026-09-03T00:33:34.149Z"
+  },
+  {
     "id": "ef2d442a-956b-4b9f-a9bc-9f25e1b9e04c",
     "title": "Paved Farm Access Path and Field",
     "stream_url": "http://109.166.208.204/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;0",
@@ -73422,7 +72211,7 @@
   },
   {
     "id": "cc35a15f-c0d5-480b-82a1-5789d9787362",
-    "title": "Moscow Traffic Camera (Camera 2)",
+    "title": "Moscow Traffic Camera",
     "stream_url": "http://91.233.230.13:80/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://insecam.org/static/thumb/241914.jpg",
@@ -73447,7 +72236,7 @@
       "traffic"
     ],
     "created_at": "2026-07-17T11:28:43.937Z",
-    "modified_at": "2026-07-17T11:28:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "3bb215d9-5113-4fae-8df5-672db7b090ee",
@@ -74334,39 +73123,8 @@
     "modified_at": "2026-10-19T21:25:34.483Z"
   },
   {
-    "id": "e8f44618-05ea-4133-bb85-189343fd6e92",
-    "title": "Kiten South Beach",
-    "stream_url": "https://ipcamlive.com/player/player.php?alias=59404c38c8c0c",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8572-ueb-kamera-ot-pristanise-kiten-uastreaming/thumbnail/380x254/8572_1692117750_uafdgjjniroxxwohjtrktbakyqyiyvwgggosxiet.webp",
-    "location": {
-      "country": "Bulgaria",
-      "country_code": "BG",
-      "region": "Burgas",
-      "city": "Kiten",
-      "coordinate": {
-        "latitude": 25.7745,
-        "longitude": -80.1329
-      },
-      "timezone": "+02:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "boats",
-      "sea views",
-      "beaches"
-    ],
-    "created_at": "2026-07-15T15:28:43.937Z",
-    "modified_at": "2026-09-01T18:12:09.210Z"
-  },
-  {
     "id": "6b26fed4-4bcf-4642-9fb1-26bb433bfc00",
-    "title": "Night image too dark",
+    "title": "Indistinct Camera View",
     "stream_url": "http://213.144.93.161:82/mjpg/video.mjpg",
     "stream_type": "mjpeg",
     "preview_url": "http://www.insecam.org/static/thumb/244186.jpg",
@@ -74389,7 +73147,7 @@
     "is_popular": false,
     "categories": [],
     "created_at": "2026-07-15T14:58:43.937Z",
-    "modified_at": "2026-07-15T14:58:43.937Z"
+    "modified_at": "2026-11-27T09:48:36.914091Z"
   },
   {
     "id": "6bb2edba-7023-40a1-b4ef-3b0d167a8e1b",
@@ -74450,9 +73208,9 @@
   {
     "id": "d247e9d8-5106-432b-afc9-94817a28ac36",
     "title": "North Beach",
-    "stream_url": "https://ipcamlive.com/player/player.php?alias=55959497b5852&autoplay=0&mute=0",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8205-severnyj-plaz-uastreaming/thumbnail/380x254/8205_1692117618_wnwdjsidildxaqvpcgybhockorfmbcxfulgpjpql.webp",
+    "stream_url": "https://s153.ipcamlive.com/streams/99caifjy6btjtpwqm/stream.m3u8",
+    "stream_type": "hls",
+    "preview_url": "https://s153.ipcamlive.com/streams/99caifjy6btjtpwqm/snapshot.jpg",
     "location": {
       "country": "Bulgaria",
       "country_code": "BG",
@@ -74475,7 +73233,7 @@
       "sea views"
     ],
     "created_at": "2026-07-15T10:28:43.937Z",
-    "modified_at": "2026-07-15T10:28:43.937Z"
+    "modified_at": "2026-11-27T11:28:00.408586Z"
   },
   {
     "id": "0b6de0dc-5b95-4345-b612-12c4a5668515",
@@ -74505,66 +73263,6 @@
     ],
     "created_at": "2026-07-15T07:58:43.937Z",
     "modified_at": "2026-11-10T16:20:27.964Z"
-  },
-  {
-    "id": "33e0e196-7591-4f31-85ab-b41fbbcf3d3f",
-    "title": "Kiten South Beach and the Black Sea",
-    "stream_url": "https://ipcamlive.com/player/player.php?alias=59404534cf240",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8571-uzen-plaz-s-panorama-km-cerno-more-uastreaming/thumbnail/380x254/8571_1692117363_scnvbfjsjfnlsoqzovnnbfrgwuebtspiyyvpiglb.webp",
-    "location": {
-      "country": "Bulgaria",
-      "country_code": "BG",
-      "region": "Burgas",
-      "city": "Kiten",
-      "coordinate": {
-        "latitude": 43,
-        "longitude": 35
-      },
-      "timezone": "+02:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "beaches",
-      "sea views"
-    ],
-    "created_at": "2026-07-15T07:28:43.937Z",
-    "modified_at": "2026-10-30T18:53:01.223Z"
-  },
-  {
-    "id": "7e386b2f-8359-4a99-a67c-89527d5864c1",
-    "title": "Kiten port",
-    "stream_url": "https://g0.ipcamlive.com/player/player.php?alias=59404c38c8c0c",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8234-pristanise-kiten-uastreaming/thumbnail/380x254/8234_1692117234_shozlvoihguumvbofauaecmmyiwbduuxhrbykkyc.webp",
-    "location": {
-      "country": "Bulgaria",
-      "country_code": "BG",
-      "region": "Burgas",
-      "city": "Kiten",
-      "coordinate": {
-        "latitude": 14.5833,
-        "longitude": 120.9667
-      },
-      "timezone": "+02:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "boats",
-      "sea views"
-    ],
-    "created_at": "2026-07-15T00:28:43.937Z",
-    "modified_at": "2026-07-15T00:28:43.937Z"
   },
   {
     "id": "e4729f41-95da-4178-8d98-c159e64fcf05",
@@ -75312,37 +74010,6 @@
     ],
     "created_at": "2026-07-13T01:58:43.937Z",
     "modified_at": "2026-07-13T01:58:43.937Z"
-  },
-  {
-    "id": "3775626a-fab5-47b7-96f6-57ebe285d8b0",
-    "title": "Gruž",
-    "stream_url": "https://g0.ipcamlive.com/player/player.php?alias=portofgruz001",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/dubrovnik-portgruz-webcamtaxi/thumbnail/380x254/croatia-dubrovnik-neretva-port-gruz.webp",
-    "location": {
-      "country": "Croatia",
-      "country_code": "HR",
-      "region": "Dubrovnik-Neretva",
-      "city": "Dubrovnik",
-      "coordinate": {
-        "latitude": 42.65972,
-        "longitude": 18.08944
-      },
-      "timezone": "+01:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "marinas",
-      "boats",
-      "harbours"
-    ],
-    "created_at": "2026-07-13T01:28:43.937Z",
-    "modified_at": "2026-07-13T01:28:43.937Z"
   },
   {
     "id": "eadce5bf-4a47-4e25-8899-0290b19d05fb",
@@ -76300,36 +74967,6 @@
     "modified_at": "2026-10-19T21:25:34.483Z"
   },
   {
-    "id": "1e518ad7-933a-4a08-bea5-b8cc4070cbca",
-    "title": "Primorsko Port",
-    "stream_url": "https://ipcamlive.com/player/player.php?alias=55826e2500681&autoplay=0&mute=0",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8207-port-uastreaming/thumbnail/380x254/8207_1692117692_aohqxafdwroibclcixavgtbfhscgoitujgqkjmbh.webp",
-    "location": {
-      "country": "Bulgaria",
-      "country_code": "BG",
-      "region": "Burgas",
-      "city": "Primorsko",
-      "coordinate": {
-        "latitude": 42.26667,
-        "longitude": 27.76667
-      },
-      "timezone": "+02:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "boats",
-      "sea views"
-    ],
-    "created_at": "2026-07-10T19:28:43.937Z",
-    "modified_at": "2026-07-10T19:28:43.937Z"
-  },
-  {
     "id": "8be2b481-a139-4e09-990e-ec2d14b83da4",
     "title": "Tiled entrance porch",
     "stream_url": "http://219.101.88.114:60001/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;0",
@@ -76472,36 +75109,6 @@
     "categories": [],
     "created_at": "2026-07-10T13:58:43.937Z",
     "modified_at": "2026-07-10T13:58:43.937Z"
-  },
-  {
-    "id": "fa6ba46d-e18c-43d2-97dc-872539d61650",
-    "title": "City view Primorsko",
-    "stream_url": "https://ipcamlive.com/player/player.php?alias=559592aba4eb0&autoplay=1&mute=1",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8210-kamera-uastreaming/thumbnail/380x254/8210_1692117702_nuwvhsusavprxpawgcdhdjtpodndpkwwksnpiwqi.webp",
-    "location": {
-      "country": "Bulgaria",
-      "country_code": "BG",
-      "region": "Burgas",
-      "city": "Primorsko",
-      "coordinate": {
-        "latitude": 42.26667,
-        "longitude": 27.76667
-      },
-      "timezone": "+02:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "city views",
-      "parking"
-    ],
-    "created_at": "2026-07-10T13:28:43.937Z",
-    "modified_at": "2026-08-30T05:42:09.210Z"
   },
   {
     "id": "69447388-8442-4097-a6a0-04079b33e2a2",
@@ -76702,36 +75309,6 @@
     "categories": [],
     "created_at": "2026-07-10T03:58:43.937Z",
     "modified_at": "2026-07-10T03:58:43.937Z"
-  },
-  {
-    "id": "033f5edd-854a-4a4b-87ed-d2f7e1d1a492",
-    "title": "Atliman Beach (View 2), Kiten",
-    "stream_url": "https://g0.ipcamlive.com/player/player.php?alias=594049acc6784",
-    "stream_type": "unknown",
-    "preview_url": "https://cdn.webcamera24.com/static/image/camera/detail/8233-plaz-atliman-uastreaming/thumbnail/380x254/8233_1692117658_flqyjmwozfczmbfacbbttoxqsgxlbhijiezoxvhn.webp",
-    "location": {
-      "country": "Bulgaria",
-      "country_code": "BG",
-      "region": "Burgas",
-      "city": "Kiten",
-      "coordinate": {
-        "latitude": 42.23424,
-        "longitude": 27.7749
-      },
-      "timezone": "+02:00"
-    },
-    "resolution": {
-      "width": 1920,
-      "height": 1080
-    },
-    "is_enabled": false,
-    "is_popular": false,
-    "categories": [
-      "beaches",
-      "sea views"
-    ],
-    "created_at": "2026-07-10T03:28:43.937Z",
-    "modified_at": "2026-08-30T00:42:09.210Z"
   },
   {
     "id": "3cb234e7-2450-4a1a-b3db-a7b5521f7415",
