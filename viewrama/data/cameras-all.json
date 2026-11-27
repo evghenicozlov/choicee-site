@@ -11148,7 +11148,7 @@
       "width": 800,
       "height": 600
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "landscape",
@@ -11634,7 +11634,7 @@
       "width": 640,
       "height": 480
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "traffic"
@@ -11859,7 +11859,7 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "city views"
@@ -12376,7 +12376,7 @@
       "width": 1280,
       "height": 720
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "bars & restaurants"
@@ -12434,7 +12434,7 @@
       "width": 640,
       "height": 480
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "sea views",
@@ -12464,7 +12464,7 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "beaches"
@@ -12576,7 +12576,7 @@
       "width": 640,
       "height": 480
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "beaches",
@@ -12665,7 +12665,7 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "sea views"
@@ -13414,7 +13414,7 @@
       "width": 1440,
       "height": 665
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "traffic"
@@ -13616,7 +13616,7 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "boats",
@@ -13895,7 +13895,7 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "beaches",
@@ -14207,7 +14207,7 @@
       "width": 800,
       "height": 600
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "traffic"
@@ -14236,7 +14236,7 @@
       "width": 640,
       "height": 480
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "shops"
@@ -14831,7 +14831,7 @@
       "width": 1920,
       "height": 1080
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "city views"
@@ -14978,7 +14978,7 @@
       "width": 640,
       "height": 480
     },
-    "is_enabled": false,
+    "is_enabled": true,
     "is_popular": false,
     "categories": [
       "streets",
